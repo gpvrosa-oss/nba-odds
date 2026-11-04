@@ -1,0 +1,45 @@
+name: Recolher odds NBA
+
+on:
+  schedule:
+    # Horas em UTC (Lisboa no inverno = UTC; no verao = UTC+1).
+    - cron: "0 11 * * *"    # todos os mercados (3 pedidos)
+    - cron: "0 18 * * *"    # todos os mercados (3 pedidos)
+    - cron: "30 23 * * *"   # so vencedor, perto dos primeiros jogos (1 pedido)
+    - cron: "45 0 * * *"    # so vencedor (1 pedido)
+    - cron: "15 2 * * *"    # so vencedor, antes dos jogos da costa oeste (1 pedido)
+  workflow_dispatch: {}      # permite correr a mao no separador Actions
+
+permissions:
+  contents: write
+
+concurrency:
+  group: recolher
+  cancel-in-progress: false
+
+jobs:
+  recolher:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests
+      - name: Recolher
+        env:
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+        run: |
+          H=$(date -u +%H)
+          if [ "$H" = "11" ] || [ "$H" = "18" ] || [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            python recolher.py h2h,spreads,totals
+          else
+            python recolher.py h2h
+          fi
+      - name: Guardar no repositorio
+        run: |
+          git config user.name "recolha-odds"
+          git config user.email "actions@users.noreply.github.com"
+          git add odds
+          git commit -m "Odds $(date -u +%Y-%m-%dT%H:%MZ)" || exit 0
+          for i in 1 2 3; do git pull --rebase && git push && break; sleep 5; done
