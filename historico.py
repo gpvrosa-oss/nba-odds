@@ -10,9 +10,9 @@ from pathlib import Path
 import requests
 
 B = "https://site.api.espn.com/apis/site/v2/sports/basketball/nba"
-F = Path("dados") / "jogadores.csv"
+F = Path("dados") / "jogadores_v2.csv"   # v2: com lancamentos, lances livres, perdas de bola e posicao
 COL = ["data", "jogo_id", "tipo", "equipa", "adversario", "casa", "jogador_id", "nome", "titular",
-       "min", "pts", "reb", "ast", "fg3"]
+       "min", "pts", "reb", "ast", "fg3", "fgm", "fga", "fg3a", "ftm", "fta", "oreb", "tov", "pos"]
 F.parent.mkdir(exist_ok=True)
 s = requests.Session()
 
@@ -72,10 +72,13 @@ while d <= ontem:
                     mins = 0.0
                 if mins <= 0:
                     continue
+                par = lambda k: ((x.get(k, "0-0") or "0-0").split("-") + ["0"])[:2]
+                fg, f3, ft = par("FG"), par("3PT"), par("FT")
                 linhas.append([d.isoformat(), e["id"], tipo, ab, adv[0] if adv else "", int(lado.get(ab) == "home"),
                                a["athlete"]["id"], a["athlete"]["displayName"], int(bool(a.get("starter"))),
-                               mins, x.get("PTS", 0), x.get("REB", 0), x.get("AST", 0),
-                               (x.get("3PT", "0-0") or "0-0").split("-")[0]])
+                               mins, x.get("PTS", 0), x.get("REB", 0), x.get("AST", 0), f3[0],
+                               fg[0], fg[1], f3[1], ft[0], ft[1], x.get("OREB", 0), x.get("TO", 0),
+                               (a["athlete"].get("position") or {}).get("abbreviation", "")])
         if linhas:
             w.writerows(linhas); feitos.add(e["id"]); n_jogos += 1
     d += timedelta(days=1)

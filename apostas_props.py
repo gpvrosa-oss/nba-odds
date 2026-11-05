@@ -166,7 +166,7 @@ def avaliar(L, H):
     (PASTA / "RESUMO_PROPS.md").write_text("\n".join(linhas), encoding="utf-8")
 
 if __name__ == "__main__":
-    if not Path("dados/jogadores.csv").exists():
+    if not (Path("dados/jogadores_v2.csv").exists() or Path("dados/jogadores.csv").exists()):
         print("Ainda nao ha historico (dados/jogadores.csv)."); raise SystemExit
     L = ler_linhas()
     if L.empty:

@@ -33,7 +33,10 @@ EQUIPAS = {"Atlanta Hawks": "ATL", "Boston Celtics": "BOS", "Brooklyn Nets": "BK
            "Sacramento Kings": "SAC", "San Antonio Spurs": "SA", "Toronto Raptors": "TOR", "Utah Jazz": "UTAH",
            "Washington Wizards": "WSH"}
 
-def carregar(f="dados/jogadores.csv"):
+def carregar(f="dados/jogadores_v2.csv"):
+    import os
+    if not os.path.exists(f) and os.path.exists("dados/jogadores.csv"):
+        f = "dados/jogadores.csv"                       # versao antiga, enquanto a v2 nao existe
     H = pd.read_csv(f, dtype={"jogo_id": str, "jogador_id": str})
     H["data"] = pd.to_datetime(H["data"])
     for c in ["min", "pts", "reb", "ast"]:
