@@ -35,7 +35,9 @@ jobs:
         env:
           ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
         run: |
-          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+          if [ "${{ inputs.modo }}" = "sonda" ]; then
+            python sondar_props.py; exit 0
+          elif [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
             python recolher.py "${{ inputs.modo }}"
           elif [ "${{ github.event.schedule }}" = "7,22,37,52 22,23,0,1,2,3 * * *" ]; then
             python recolher.py fecho
