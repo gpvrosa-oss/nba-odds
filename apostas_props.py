@@ -83,6 +83,7 @@ def novas_apostas(L, H):
                 k = M.nome_chave(row.jogador)
                 m = R[R.chave_nome == k]
                 base = dict(chave=row.chave, recolhido_em=rec, jogo_id=jid, inicio_jogo=row.inicio_jogo, mercado=mercado,
+                            casa=row.casa, fora=row.fora,
                             jogador=row.jogador, linha=row.linha, odd_over=row.Over, odd_under=row.Under, p_justa=round(row.p_justa, 4))
                 if m.empty:
                     aval.append({**base, "nota": "jogador nao encontrado"}); continue
@@ -134,8 +135,12 @@ def avaliar(L, H):
     H = H.assign(k=H.nome.map(M.nome_chave), d=H.data.dt.date)
     for i, a in A[A.resultado.isna()].iterrows():
         dia = (pd.to_datetime(a.inicio_jogo) - pd.Timedelta(hours=6)).date()
-        if pd.Timestamp(dia) >= H.data.max() + pd.Timedelta(days=1):
-            continue                                    # ainda nao ha resultados desse dia
+        # so avaliar depois de o jogo constar do historico (evita anular apostas de jogos ainda a decorrer)
+        equipas_jogo = {M.EQUIPAS.get(a.get("casa")), M.EQUIPAS.get(a.get("fora"))} - {None}
+        jogo_feito = H[(H.d == dia) & H.equipa.isin(equipas_jogo)] if equipas_jogo else H.iloc[:0]
+        if jogo_feito.empty:
+            if equipas_jogo or pd.Timestamp(dia) >= H.data.max():
+                continue
         s = M.STATS[a.mercado]
         h = H[(H.k == M.nome_chave(a.jogador)) & (H.d == dia)]
         f = F[(F.jogo_id == a.jogo_id) & (F.mercado == a.mercado) & (F.jogador == a.jogador)]
