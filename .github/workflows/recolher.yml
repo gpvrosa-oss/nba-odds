@@ -10,7 +10,7 @@ on:
   workflow_dispatch:          # permite correr a mao no separador Actions
     inputs:
       modo:
-        description: "props, completo, fecho ou sonda"
+        description: "props, historico, completo, fecho, sonda ou espn"
         default: props
 
 permissions:
@@ -39,6 +39,11 @@ jobs:
             python sondar_espn.py; exit 0
           elif [ "${{ github.event_name }}" = "schedule" ] || [ "${{ inputs.modo }}" = "props" ]; then
             python props.py
+            python historico.py
+            python apostas_props.py
+          elif [ "${{ inputs.modo }}" = "historico" ]; then
+            python historico.py 2024-10-22
+            python apostas_props.py
           else
             python recolher.py "${{ inputs.modo }}"
           fi
@@ -47,6 +52,6 @@ jobs:
         run: |
           git config user.name "recolha-odds"
           git config user.email "actions@users.noreply.github.com"
-          git add odds props RESUMO.md
+          git add odds RESUMO.md; if [ -d props ]; then git add props; fi; if [ -d dados ]; then git add dados; fi
           git commit -m "Odds $(date -u +%Y-%m-%dT%H:%MZ)" || exit 0
           for i in 1 2 3; do git pull --rebase && git push && break; sleep 5; done

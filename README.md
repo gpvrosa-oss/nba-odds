@@ -16,3 +16,9 @@ A chave da API esta guardada como secret `ODDS_API_KEY` (Settings > Secrets and 
 `props.py` guarda as linhas de pontos dos jogadores da Pinnacle em `props/AAAA-MM-DD.csv`, duas vezes por jogo
 (`cedo` ~3h antes e `fecho` ~30 min antes), e as lesoes da ESPN de cada momento em `props/lesoes/`.
 A recolha do vencedor (h2h) deixou de correr sozinha para poupar pedidos.
+
+### Apostas virtuais em props (tudo na nuvem, sem PC)
+- `historico.py`: estatisticas de cada jogador em cada jogo, da ESPN -> `dados/jogadores.csv`.
+- `modelo_props.py`: preve pontos de cada jogador (minutos, ritmo de pontos, colegas lesionados, adversario).
+- `apostas_props.py`: decide over/under/passar com as linhas "cedo" da Pinnacle e as lesoes desse momento,
+  avalia no dia seguinte (resultado e CLV contra a linha de fecho) e escreve **`props/RESUMO_PROPS.md`**.
