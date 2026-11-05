@@ -3,12 +3,17 @@ name: Recolher odds NBA
 on:
   schedule:
     # Horas em UTC (Lisboa no inverno = UTC; no verao = UTC+1).
-    - cron: "0 11 * * *"    # todos os mercados (3 pedidos)
-    - cron: "0 18 * * *"    # todos os mercados (3 pedidos)
-    - cron: "30 23 * * *"   # so vencedor, perto dos primeiros jogos (1 pedido)
-    - cron: "45 0 * * *"    # so vencedor (1 pedido)
-    - cron: "15 2 * * *"    # so vencedor, antes dos jogos da costa oeste (1 pedido)
-  workflow_dispatch: {}      # permite correr a mao no separador Actions
+    # O GitHub atrasa muito as tarefas marcadas a hora certa, por isso uso minutos "estranhos".
+    - cron: "7 11 * * *"     # completo (3 pedidos)
+    - cron: "7 18 * * *"     # completo (3 pedidos)
+    # Fecho: a cada 15 minutos entre as 22:00 e as 04:00 UTC. So gasta 1 pedido quando ha um
+    # jogo a comecar nos proximos 45 minutos (a verificacao e gratis).
+    - cron: "7,22,37,52 22,23,0,1,2,3 * * *"
+  workflow_dispatch:          # permite correr a mao no separador Actions
+    inputs:
+      modo:
+        description: "completo ou fecho"
+        default: completo
 
 permissions:
   contents: write
@@ -30,11 +35,12 @@ jobs:
         env:
           ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
         run: |
-          H=$(date -u +%H)
-          if [ "$H" = "11" ] || [ "$H" = "18" ] || [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
-            python recolher.py h2h,spreads,totals
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            python recolher.py "${{ inputs.modo }}"
+          elif [ "${{ github.event.schedule }}" = "7,22,37,52 22,23,0,1,2,3 * * *" ]; then
+            python recolher.py fecho
           else
-            python recolher.py h2h
+            python recolher.py completo
           fi
       - name: Guardar no repositorio
         run: |
