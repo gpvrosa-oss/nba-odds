@@ -1,6 +1,8 @@
 # nba-odds
 
 Recolha automatica de odds da NBA (The Odds API) com GitHub Actions.
+
+**Para ver as odds de forma legivel, abre [RESUMO.md](RESUMO.md).** Os ficheiros em `odds/` sao dados em bruto para o modelo.
 As odds ficam em `odds/AAAA-MM-DD.csv` (uma linha por casa de apostas, mercado e resultado).
 
 - 11:07 e 18:07 UTC: vencedor, handicap e totais (3 pedidos cada)
