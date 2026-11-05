@@ -39,7 +39,10 @@ def carregar(f="dados/jogadores_v2.csv"):
         f = "dados/jogadores.csv"                       # versao antiga, enquanto a v2 nao existe
     H = pd.read_csv(f, dtype={"jogo_id": str, "jogador_id": str})
     H["data"] = pd.to_datetime(H["data"])
-    for c in ["min", "pts", "reb", "ast"]:
+    for c in ["fga", "fta", "tov"]:
+        if c not in H:
+            H[c] = 0
+    for c in ["min", "pts", "reb", "ast", "fga", "fta", "tov"]:
         H[c] = pd.to_numeric(H[c], errors="coerce").fillna(0)
     nba = set(EQUIPAS.values())                      # tira o jogo das estrelas e outros jogos de exibicao
     H = H[H.equipa.isin(nba) & H.adversario.isin(nba)]
@@ -71,6 +74,9 @@ def caracteristicas(H, s, shift=True):
     D["adv"] = fator_adversario(H, s).reindex(list(zip(H.jogo_id, H.adversario))).values
     D["adv"] = D.adv.fillna(1.0)
     D["casa"] = H.casa.values
+    # "usage": quanto do ataque passa pelo jogador (lancamentos + lances livres + perdas de bola por minuto)
+    u = sum(g[c].transform(lambda x: _ew(x, shift)) * k for c, k in (("fga", 1), ("fta", 0.44), ("tov", 1)))
+    D["usg"] = (u / D.m0.clip(lower=1)).fillna(0)
     return D
 
 def fator_adversario(H, s, final=False):
@@ -81,8 +87,11 @@ def fator_adversario(H, s, final=False):
     ta["f"] = ta.groupby("adversario")[s].transform(lambda x: x.shift().ewm(halflife=15).mean()) / media
     return ta.set_index(["jogo_id", "adversario"])["f"]
 
-def _X(D):
-    return np.c_[np.ones(len(D)), D.falta, np.log(D.adv.clip(0.5, 2)), D.casa]
+def _X(D, usg_media):
+    # testado em 2025-26: so "colegas em falta x usage" melhorou; ritmo, perfil de lancamento vs defesa,
+    # defesa por posicao, cansaco (back-to-back, 3 em 4) e risco de goleada nao ajudaram (ficaram de fora)
+    ur = (D.usg / usg_media) if usg_media > 0 else 1.0
+    return np.c_[np.ones(len(D)), D.falta, np.log(D.adv.clip(0.5, 2)), D.casa, D.falta * ur]
 
 def _nb_cdf(mu, r, K=90):
     k = np.arange(K)
@@ -102,11 +111,12 @@ def treinar(H, s):
     """Ajusta os coeficientes com o historico (cada jogo usando so o que se sabia antes)."""
     D = caracteristicas(H, s)
     ok = (D.n >= 5).values
-    y = H[s].values[ok]; X = _X(D)[ok]; off = np.log((D.m_proj * D.taxa).clip(0.05)).values[ok]
+    usg_media = float(D.usg[ok].mean())
+    y = H[s].values[ok]; X = _X(D, usg_media)[ok]; off = np.log((D.m_proj * D.taxa).clip(0.05)).values[ok]
     w = np.zeros(X.shape[1])
     for _ in range(30):
         mu = np.exp(off + X @ w)
-        w += np.linalg.solve((X * mu[:, None]).T @ X + 1e-6 * np.eye(4), X.T @ (y - mu))
+        w += np.linalg.solve((X * mu[:, None]).T @ X + 1e-6 * np.eye(X.shape[1]), X.T @ (y - mu))
     mu = np.exp(off + X @ w)
     ll = lambda r: np.sum(np.vectorize(math.lgamma)(y[-20000:] + r) - math.lgamma(r) + r * np.log(r / (r + mu[-20000:])) + y[-20000:] * np.log(mu[-20000:] / (r + mu[-20000:])))
     r = max([1, 1.5, 2, 3, 4, 5, 6, 8, 10, 12, 15, 20, 30, 50], key=ll)
@@ -119,7 +129,7 @@ def treinar(H, s):
     for _ in range(25):
         q = 1 / (1 + np.exp(-(a * L + b))); Xc = np.c_[L, np.ones(len(L))]; W = q * (1 - q)
         a, b = np.array([a, b]) + np.linalg.solve((Xc * W[:, None]).T @ Xc, Xc.T @ (h - q))
-    return {"coef": w.tolist(), "r": r, "a": float(a), "b": float(b)}
+    return {"coef": w.tolist(), "r": r, "a": float(a), "b": float(b), "usg_media": usg_media}
 
 def estado_atual(H, s):
     """Estado de cada jogador depois do ultimo jogo (para prever o proximo)."""
@@ -128,7 +138,10 @@ def estado_atual(H, s):
     E = pd.DataFrame({"m_ew": g["min"].apply(lambda x: x.ewm(halflife=HL).mean().iloc[-1]),
                       "s_ew": g[s].apply(lambda x: x.ewm(halflife=HL).mean().iloc[-1]),
                       "n": g.size(), "equipa": g["equipa"].last(), "nome": g["nome"].last(),
-                      "ultima": g["data"].max()})
+                      "ultima": g["data"].max(),
+                      "u_ew": sum(g[c].apply(lambda x: x.ewm(halflife=HL).mean().iloc[-1]) * k
+                                  for c, k in (("fga", 1), ("fta", 0.44), ("tov", 1)))})
+    E["usg"] = (E.u_ew / E.m_ew.clip(lower=1)).fillna(0)
     w = np.minimum(E.n, 2 * HL) * E.m_ew
     E["taxa"] = ((E.s_ew / E.m_ew).fillna(0) * w + lg * K_PRIOR) / (w + K_PRIOR)
     # participacao: fracao dos ultimos 10 jogos da equipa em que jogou
@@ -155,7 +168,10 @@ def prever(E, norma, adv, par, equipa, adversario, casa, prob_faltar):
     falta = float(np.clip(1 - (R.taxa * R.m_ew * R.part * R.disp).sum() / norma.get(equipa, np.nan), -0.3, 0.6)) \
         if equipa in norma else 0.0
     c = par["coef"]
-    f = math.exp(c[0] + c[1] * falta + c[2] * math.log(min(max(adv.get(adversario, 1.0), 0.5), 2)) + c[3] * casa)
+    um = par.get("usg_media", 0)
+    ur = (R.usg / um) if um > 0 else 1.0
+    f = np.exp(c[0] + c[1] * falta + c[2] * math.log(min(max(adv.get(adversario, 1.0), 0.5), 2)) + c[3] * casa
+               + (c[4] * falta * ur if len(c) > 4 else 0))
     R["mu"] = R.m_proj * R.taxa * f
     R["falta_equipa"] = falta
     return R
