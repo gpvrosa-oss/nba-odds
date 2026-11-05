@@ -2,18 +2,16 @@ name: Recolher odds NBA
 
 on:
   schedule:
-    # Horas em UTC (Lisboa no inverno = UTC; no verao = UTC+1).
-    # O GitHub atrasa muito as tarefas marcadas a hora certa, por isso uso minutos "estranhos".
-    - cron: "7 11 * * *"     # completo (3 pedidos)
-    - cron: "7 18 * * *"     # completo (3 pedidos)
-    # Fecho: a cada 15 minutos entre as 22:00 e as 04:00 UTC. So gasta 1 pedido quando ha um
-    # jogo a comecar nos proximos 45 minutos (a verificacao e gratis).
-    - cron: "7,22,37,52 22,23,0,1,2,3 * * *"
+    # Horas em UTC. O GitHub atrasa as tarefas marcadas a hora certa, por isso uso minutos "estranhos".
+    # Props (linhas de jogadores): a cada 15 minutos entre as 13:00 e as 04:59 UTC.
+    # So gasta pedidos quando um jogo esta ~3h ou ~30min antes do inicio (a verificacao e gratis).
+    # A recolha do vencedor (h2h) foi desligada a 2026-11-05 para poupar pedidos; corre-se a mao se for preciso.
+    - cron: "2,17,32,47 13,14,15,16,17,18,19,20,21,22,23,0,1,2,3,4 * * *"
   workflow_dispatch:          # permite correr a mao no separador Actions
     inputs:
       modo:
-        description: "completo ou fecho"
-        default: completo
+        description: "props, completo, fecho ou sonda"
+        default: props
 
 permissions:
   contents: write
@@ -37,18 +35,16 @@ jobs:
         run: |
           if [ "${{ inputs.modo }}" = "sonda" ]; then
             python sondar_props.py; exit 0
-          elif [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
-            python recolher.py "${{ inputs.modo }}"
-          elif [ "${{ github.event.schedule }}" = "7,22,37,52 22,23,0,1,2,3 * * *" ]; then
-            python recolher.py fecho
+          elif [ "${{ github.event_name }}" = "schedule" ] || [ "${{ inputs.modo }}" = "props" ]; then
+            python props.py
           else
-            python recolher.py completo
+            python recolher.py "${{ inputs.modo }}"
           fi
           python resumo.py
       - name: Guardar no repositorio
         run: |
           git config user.name "recolha-odds"
           git config user.email "actions@users.noreply.github.com"
-          git add odds RESUMO.md
+          git add odds props RESUMO.md
           git commit -m "Odds $(date -u +%Y-%m-%dT%H:%MZ)" || exit 0
           for i in 1 2 3; do git pull --rebase && git push && break; sleep 5; done

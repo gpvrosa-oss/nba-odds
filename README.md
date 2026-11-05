@@ -11,3 +11,8 @@ As odds ficam em `odds/AAAA-MM-DD.csv` (uma linha por casa de apostas, mercado e
 
 Total: cerca de 300 a 350 pedidos por mes, dentro dos 500 do plano gratis.
 A chave da API esta guardada como secret `ODDS_API_KEY` (Settings > Secrets and variables > Actions).
+
+## Props (linhas de jogadores) — desde 2026-11-05
+`props.py` guarda as linhas de pontos dos jogadores da Pinnacle em `props/AAAA-MM-DD.csv`, duas vezes por jogo
+(`cedo` ~3h antes e `fecho` ~30 min antes), e as lesoes da ESPN de cada momento em `props/lesoes/`.
+A recolha do vencedor (h2h) deixou de correr sozinha para poupar pedidos.
