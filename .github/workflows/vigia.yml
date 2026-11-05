@@ -1,0 +1,51 @@
+name: Vigia props
+
+# O agendador do GitHub falha muitas vezes. Por isso esta tarefa fica ligada ~5h45, verifica a cada
+# 10 minutos e, no fim, relanca-se a si propria. O "schedule" e so uma rede de seguranca.
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 */4 * * *"
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: vigia
+  cancel-in-progress: false
+
+jobs:
+  vigia:
+    runs-on: ubuntu-latest
+    timeout-minutes: 355
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests pandas
+      - name: Ciclo de 10 em 10 minutos
+        env:
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+        run: |
+          git config user.name "recolha-odds"
+          git config user.email "actions@users.noreply.github.com"
+          fim=$((SECONDS + 20400))
+          while [ $SECONDS -lt $fim ]; do
+            git pull -q --rebase || true
+            python props.py || true
+            python historico.py || true
+            python apostas_props.py || true
+            git add props dados 2>/dev/null || true
+            if ! git diff --cached --quiet; then
+              git commit -q -m "Props $(date -u +%Y-%m-%dT%H:%MZ)"
+              for i in 1 2 3; do git pull -q --rebase && git push -q && break; sleep 5; done
+            fi
+            sleep 600
+          done
+      - name: Relancar
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run vigia.yml --ref main
