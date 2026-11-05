@@ -38,6 +38,8 @@ def carregar(f="dados/jogadores.csv"):
     H["data"] = pd.to_datetime(H["data"])
     for c in ["min", "pts", "reb", "ast"]:
         H[c] = pd.to_numeric(H[c], errors="coerce").fillna(0)
+    nba = set(EQUIPAS.values())                      # tira o jogo das estrelas e outros jogos de exibicao
+    H = H[H.equipa.isin(nba) & H.adversario.isin(nba)]
     H = H[H["min"] > 0].sort_values(["data", "jogo_id"]).reset_index(drop=True)
     return H
 
