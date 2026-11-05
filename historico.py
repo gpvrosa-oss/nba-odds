@@ -39,7 +39,7 @@ elif F.exists() and feitos:
         d = max(date.fromisoformat(r["data"]) for r in csv.DictReader(f)) - timedelta(days=2)
 else:
     d = date(2024, 10, 22)
-ontem = (datetime.now(timezone.utc) - timedelta(hours=12)).date() - timedelta(days=1)
+ontem = (datetime.now(timezone.utc) - timedelta(hours=5)).date()   # dia de hoje nos EUA (so guarda jogos acabados)
 
 novo = not F.exists()
 out = F.open("a", newline="", encoding="utf-8"); w = csv.writer(out)

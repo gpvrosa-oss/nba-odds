@@ -35,6 +35,9 @@ jobs:
         run: |
           if [ "${{ inputs.modo }}" = "sonda" ]; then
             python sondar_props.py; exit 0
+          elif [ "${{ inputs.modo }}" = "lesoes" ]; then
+            mkdir -p props/lesoes; python -c "import requests,datetime;open('props/lesoes/'+datetime.datetime.utcnow().strftime('%Y-%m-%dT%H%MZ')+'.json','w').write(requests.get('https://site.api.espn.com/apis/site/v2/sports/basketball/nba/injuries',timeout=30).text)"
+            python historico.py
           elif [ "${{ inputs.modo }}" = "espn" ]; then
             python sondar_espn.py; exit 0
           elif [ "${{ github.event_name }}" = "schedule" ] || [ "${{ inputs.modo }}" = "props" ]; then
