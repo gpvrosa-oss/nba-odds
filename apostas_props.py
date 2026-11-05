@@ -109,13 +109,13 @@ def novas_apostas(L, H):
             df.to_csv(f, mode="a", header=not f.exists(), index=False)
     print(f"Linhas avaliadas: {len(aval)}, apostas novas: {len(apostas)}")
 
-R_TIPICO = {"pts": 3, "reb": 8, "ast": 12}
+R_TIPICO = {"pts": 2.9, "reb": 1.45, "ast": 1.25}   # variancia / media de cada estatistica
 
 def prob_na_linha(p_over_fecho, linha_fecho, linha, s):
     """Probabilidade justa de 'over' na NOSSA linha, deduzida da linha de fecho (se a linha mudou)."""
     if linha == linha_fecho:
         return p_over_fecho
-    r, lo, hi = R_TIPICO[s], 0.1, 80.0
+    r, lo, hi = R_TIPICO[s], 0.3, 80.0
     for _ in range(60):                       # media que da P(over linha_fecho) = p_over_fecho
         mu = (lo + hi) / 2
         if M.p_over([mu], [linha_fecho], r)[0] < p_over_fecho: lo = mu
@@ -170,6 +170,38 @@ def avaliar(L, H):
         linhas += [f"Ainda sem apostas decididas. Por decidir: {A.resultado.isna().sum()}."]
     (PASTA / "RESUMO_PROPS.md").write_text("\n".join(linhas), encoding="utf-8")
 
+def escrever_hoje():
+    """props/HOJE.md: para os jogos das proximas 24h, a odd JUSTA (sem margem) segundo a Pinnacle para cada
+    escada "X+ pontos" (como na Betano), e a do nosso modelo. Se a Betano pagar mais do que a odd justa, ha valor."""
+    fa = PASTA / "avaliadas.csv"
+    if not fa.exists():
+        return
+    A = pd.read_csv(fa, dtype={"jogo_id": str})
+    agora = pd.Timestamp.now(tz="UTC")
+    A["inicio"] = pd.to_datetime(A.inicio_jogo, utc=True)
+    A = A[(A.inicio > agora - pd.Timedelta(hours=1)) & (A.inicio < agora + pd.Timedelta(hours=24))]
+    linhas = ["# Odds justas de hoje (pontos dos jogadores)", "",
+              f"Atualizado: {agora:%Y-%m-%d %H:%M} UTC. Odd justa = Pinnacle sem margem. Modelo = a nossa previsao.",
+              "Como usar: na Betano/Betclic, se a odd de \"X+ pontos\" for MAIOR do que a odd justa, essa aposta tem valor.", ""]
+    if A.empty:
+        linhas.append("Ainda nao ha linhas para as proximas 24 horas.")
+    for (ini, jid), G in A.sort_values("inicio").groupby(["inicio", "jogo_id"], sort=False):
+        c, f = G.casa.iloc[0] if "casa" in G else "", G.fora.iloc[0] if "fora" in G else ""
+        linhas += [f"## {f} @ {c} ({ini:%d/%m %H:%M} UTC)", "", "```"]
+        for r in G.itertuples():
+            if pd.isna(getattr(r, "previsto", np.nan)):
+                continue
+            s = M.STATS[r.mercado]
+            base = int(np.floor(r.linha))
+            esc = []
+            for k in range(base - 2, base + 5):
+                pj = prob_na_linha(r.p_justa, r.linha, k - 0.5, s)
+                esc.append(f"{k}+ {1 / max(pj, 1e-3):.2f}")
+            linhas.append(f"{r.jogador:24s} linha {r.linha:>5} | modelo {r.previsto:>5.1f} | {r.nota}")
+            linhas.append("    justa: " + "  ".join(esc))
+        linhas += ["```", ""]
+    (PASTA / "HOJE.md").write_text("\n".join(linhas), encoding="utf-8")
+
 if __name__ == "__main__":
     if not (Path("dados/jogadores_v2.csv").exists() or Path("dados/jogadores.csv").exists()):
         print("Ainda nao ha historico (dados/jogadores.csv)."); raise SystemExit
@@ -179,3 +211,4 @@ if __name__ == "__main__":
     H = M.carregar()
     novas_apostas(L, H)
     avaliar(L, H)
+    escrever_hoje()

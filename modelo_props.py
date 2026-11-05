@@ -94,13 +94,18 @@ def _X(D, usg_media):
     return np.c_[np.ones(len(D)), D.falta, np.log(D.adv.clip(0.5, 2)), D.casa, D.falta * ur]
 
 def _nb_cdf(mu, r, K=90):
-    k = np.arange(K)
-    lp = (np.vectorize(math.lgamma)(k + r) - math.lgamma(r) - np.vectorize(math.lgamma)(k + 1))[None, :] \
-        + r * np.log(r / (r + mu[:, None])) + k[None, :] * np.log(mu[:, None] / (r + mu[:, None]))
+    """Binomial negativa; r pode ser um valor por linha."""
+    mu = np.asarray(mu, float); r = np.broadcast_to(np.asarray(r, float), mu.shape)
+    k = np.arange(K)[None, :]
+    lg = np.vectorize(math.lgamma)
+    lp = lg(k + r[:, None]) - lg(r)[:, None] - lg(k + 1) \
+        + r[:, None] * np.log(r[:, None] / (r[:, None] + mu[:, None])) + k * np.log(mu[:, None] / (r[:, None] + mu[:, None]))
     return np.cumsum(np.exp(lp), axis=1)
 
-def p_over(mu, linha, r, a=1.0, b=0.0):
+def p_over(mu, linha, phi, a=1.0, b=0.0):
+    """P(estatistica > linha). phi = variancia / media (os pontos variam ~3x a media; ressaltos ~1.5x)."""
     mu = np.asarray(mu, float).clip(0.05); linha = np.asarray(linha, float)
+    r = mu / max(phi - 1, 0.05)
     k = np.floor(linha).astype(int).clip(0, 89)
     p = 1 - _nb_cdf(mu, r)[np.arange(len(mu)), k]
     p = p.clip(1e-4, 1 - 1e-4)
@@ -118,17 +123,18 @@ def treinar(H, s):
         mu = np.exp(off + X @ w)
         w += np.linalg.solve((X * mu[:, None]).T @ X + 1e-6 * np.eye(X.shape[1]), X.T @ (y - mu))
     mu = np.exp(off + X @ w)
-    ll = lambda r: np.sum(np.vectorize(math.lgamma)(y[-20000:] + r) - math.lgamma(r) + r * np.log(r / (r + mu[-20000:])) + y[-20000:] * np.log(mu[-20000:] / (r + mu[-20000:])))
-    r = max([1, 1.5, 2, 3, 4, 5, 6, 8, 10, 12, 15, 20, 30, 50], key=ll)
-    # recalibrar com linhas "tipo casa de apostas": media dos ultimos 10 jogos arredondada a .5
-    l10 = H.groupby("jogador_id")[s].transform(lambda x: x.shift().rolling(10, min_periods=5).mean()).values[ok]
-    m = ~np.isnan(l10)
-    linha = np.floor(l10[m]) + 0.5; h = (y[m] > linha).astype(float)
-    p = p_over(mu[m], linha, r); L = np.log(p / (1 - p))
-    a, b = 1.0, 0.0
-    for _ in range(25):
-        q = 1 / (1 + np.exp(-(a * L + b))); Xc = np.c_[L, np.ones(len(L))]; W = q * (1 - q)
-        a, b = np.array([a, b]) + np.linalg.solve((Xc * W[:, None]).T @ Xc, Xc.T @ (h - q))
+    # dispersao (phi) e pequeno ajuste (b) escolhidos com linhas perto da previsao, nos jogadores com papel
+    # relevante (os que tem linhas nas casas de apostas)
+    lim = {"pts": 12, "reb": 4, "ast": 3}.get(s, 3)
+    m = mu > lim
+    mm, yy = mu[m][-30000:], y[m][-30000:]
+    linhas = np.concatenate([np.floor(mm) + o for o in (-2.5, -0.5, 0.5, 2.5)])
+    mu4, h = np.tile(mm, 4), (np.tile(yy, 4) > linhas).astype(float)
+    def perda(phi, b=0.0):
+        p = p_over(mu4, linhas, phi, 1.0, b)
+        return -np.mean(h * np.log(p) + (1 - h) * np.log(1 - p))
+    r = min([1.1, 1.2, 1.3, 1.45, 1.6, 1.8, 2.0, 2.3, 2.6, 2.9, 3.2, 3.6, 4.0], key=perda)
+    a, b = 1.0, min(np.arange(-0.3, 0.31, 0.02), key=lambda bb: perda(r, bb))
     return {"coef": w.tolist(), "r": r, "a": float(a), "b": float(b), "usg_media": usg_media}
 
 def estado_atual(H, s):
