@@ -27,3 +27,31 @@ recolhido_em,momento,jogo_id,inicio_jogo,casa,fora,casa_apostas,atualizado_em,me
 2026-11-06T01:34:35Z,fecho,2a76b31e02d1416de069a995589515fc,2026-11-06T02:10:00Z,Phoenix Suns,Orlando Magic,pinnacle,2026-11-06T01:33:19Z,player_points,Khaman Maluach,Under,5.5,1.97
 2026-11-06T01:34:35Z,fecho,2a76b31e02d1416de069a995589515fc,2026-11-06T02:10:00Z,Phoenix Suns,Orlando Magic,pinnacle,2026-11-06T01:33:19Z,player_points,Oso Ighodaro,Over,6.5,1.93
 2026-11-06T01:34:35Z,fecho,2a76b31e02d1416de069a995589515fc,2026-11-06T02:10:00Z,Phoenix Suns,Orlando Magic,pinnacle,2026-11-06T01:33:19Z,player_points,Oso Ighodaro,Under,6.5,1.81
+2026-11-06T02:25:36Z,fecho,ac38449dd3dfbe1c9b48164b6a41aa83,2026-11-06T03:10:00Z,Golden State Warriors,Miami Heat,pinnacle,2026-11-06T02:24:57Z,player_points,Brandin Podziemski,Over,16.5,1.91
+2026-11-06T02:25:36Z,fecho,ac38449dd3dfbe1c9b48164b6a41aa83,2026-11-06T03:10:00Z,Golden State Warriors,Miami Heat,pinnacle,2026-11-06T02:24:57Z,player_points,Brandin Podziemski,Under,16.5,1.83
+2026-11-06T02:25:36Z,fecho,ac38449dd3dfbe1c9b48164b6a41aa83,2026-11-06T03:10:00Z,Golden State Warriors,Miami Heat,pinnacle,2026-11-06T02:24:57Z,player_points,Stephen Curry,Over,27.5,1.76
+2026-11-06T02:25:36Z,fecho,ac38449dd3dfbe1c9b48164b6a41aa83,2026-11-06T03:10:00Z,Golden State Warriors,Miami Heat,pinnacle,2026-11-06T02:24:57Z,player_points,Stephen Curry,Under,27.5,2.0
+2026-11-06T02:25:36Z,fecho,ac38449dd3dfbe1c9b48164b6a41aa83,2026-11-06T03:10:00Z,Golden State Warriors,Miami Heat,pinnacle,2026-11-06T02:24:57Z,player_points,Yaxel Lendeborg,Over,18.5,1.77
+2026-11-06T02:25:36Z,fecho,ac38449dd3dfbe1c9b48164b6a41aa83,2026-11-06T03:10:00Z,Golden State Warriors,Miami Heat,pinnacle,2026-11-06T02:24:57Z,player_points,Yaxel Lendeborg,Under,18.5,1.98
+2026-11-06T02:25:36Z,fecho,ac38449dd3dfbe1c9b48164b6a41aa83,2026-11-06T03:10:00Z,Golden State Warriors,Miami Heat,pinnacle,2026-11-06T02:24:57Z,player_points,Andrew Wiggins,Over,10.5,1.8
+2026-11-06T02:25:36Z,fecho,ac38449dd3dfbe1c9b48164b6a41aa83,2026-11-06T03:10:00Z,Golden State Warriors,Miami Heat,pinnacle,2026-11-06T02:24:57Z,player_points,Andrew Wiggins,Under,10.5,1.94
+2026-11-06T02:25:36Z,fecho,ac38449dd3dfbe1c9b48164b6a41aa83,2026-11-06T03:10:00Z,Golden State Warriors,Miami Heat,pinnacle,2026-11-06T02:24:57Z,player_points,Bam Adebayo,Over,18.5,1.9
+2026-11-06T02:25:36Z,fecho,ac38449dd3dfbe1c9b48164b6a41aa83,2026-11-06T03:10:00Z,Golden State Warriors,Miami Heat,pinnacle,2026-11-06T02:24:57Z,player_points,Bam Adebayo,Under,18.5,1.84
+2026-11-06T02:25:36Z,fecho,ac38449dd3dfbe1c9b48164b6a41aa83,2026-11-06T03:10:00Z,Golden State Warriors,Miami Heat,pinnacle,2026-11-06T02:24:57Z,player_points,Davion Mitchell,Over,11.5,1.88
+2026-11-06T02:25:36Z,fecho,ac38449dd3dfbe1c9b48164b6a41aa83,2026-11-06T03:10:00Z,Golden State Warriors,Miami Heat,pinnacle,2026-11-06T02:24:57Z,player_points,Davion Mitchell,Under,11.5,1.86
+2026-11-06T02:25:36Z,fecho,ac38449dd3dfbe1c9b48164b6a41aa83,2026-11-06T03:10:00Z,Golden State Warriors,Miami Heat,pinnacle,2026-11-06T02:24:57Z,player_points,De'Anthony Melton,Over,10.5,1.96
+2026-11-06T02:25:36Z,fecho,ac38449dd3dfbe1c9b48164b6a41aa83,2026-11-06T03:10:00Z,Golden State Warriors,Miami Heat,pinnacle,2026-11-06T02:24:57Z,player_points,De'Anthony Melton,Under,10.5,1.78
+2026-11-06T02:25:36Z,fecho,ac38449dd3dfbe1c9b48164b6a41aa83,2026-11-06T03:10:00Z,Golden State Warriors,Miami Heat,pinnacle,2026-11-06T02:24:57Z,player_points,Draymond Green,Over,5.5,1.88
+2026-11-06T02:25:36Z,fecho,ac38449dd3dfbe1c9b48164b6a41aa83,2026-11-06T03:10:00Z,Golden State Warriors,Miami Heat,pinnacle,2026-11-06T02:24:57Z,player_points,Draymond Green,Under,5.5,1.85
+2026-11-06T02:25:36Z,fecho,ac38449dd3dfbe1c9b48164b6a41aa83,2026-11-06T03:10:00Z,Golden State Warriors,Miami Heat,pinnacle,2026-11-06T02:24:57Z,player_points,Georges Niang,Over,7.5,1.93
+2026-11-06T02:25:36Z,fecho,ac38449dd3dfbe1c9b48164b6a41aa83,2026-11-06T03:10:00Z,Golden State Warriors,Miami Heat,pinnacle,2026-11-06T02:24:57Z,player_points,Georges Niang,Under,7.5,1.82
+2026-11-06T02:25:36Z,fecho,ac38449dd3dfbe1c9b48164b6a41aa83,2026-11-06T03:10:00Z,Golden State Warriors,Miami Heat,pinnacle,2026-11-06T02:24:57Z,player_points,Giannis Antetokounmpo,Over,28.5,2.03
+2026-11-06T02:25:36Z,fecho,ac38449dd3dfbe1c9b48164b6a41aa83,2026-11-06T03:10:00Z,Golden State Warriors,Miami Heat,pinnacle,2026-11-06T02:24:57Z,player_points,Giannis Antetokounmpo,Under,28.5,1.74
+2026-11-06T02:25:36Z,fecho,ac38449dd3dfbe1c9b48164b6a41aa83,2026-11-06T03:10:00Z,Golden State Warriors,Miami Heat,pinnacle,2026-11-06T02:24:57Z,player_points,Klay Thompson,Over,11.5,1.85
+2026-11-06T02:25:36Z,fecho,ac38449dd3dfbe1c9b48164b6a41aa83,2026-11-06T03:10:00Z,Golden State Warriors,Miami Heat,pinnacle,2026-11-06T02:24:57Z,player_points,Klay Thompson,Under,11.5,1.89
+2026-11-06T02:25:36Z,fecho,ac38449dd3dfbe1c9b48164b6a41aa83,2026-11-06T03:10:00Z,Golden State Warriors,Miami Heat,pinnacle,2026-11-06T02:24:57Z,player_points,Pelle Larsson,Over,10.5,1.85
+2026-11-06T02:25:36Z,fecho,ac38449dd3dfbe1c9b48164b6a41aa83,2026-11-06T03:10:00Z,Golden State Warriors,Miami Heat,pinnacle,2026-11-06T02:24:57Z,player_points,Pelle Larsson,Under,10.5,1.89
+2026-11-06T02:25:36Z,fecho,ac38449dd3dfbe1c9b48164b6a41aa83,2026-11-06T03:10:00Z,Golden State Warriors,Miami Heat,pinnacle,2026-11-06T02:24:57Z,player_points,Bobby Portis,Over,8.5,1.93
+2026-11-06T02:25:36Z,fecho,ac38449dd3dfbe1c9b48164b6a41aa83,2026-11-06T03:10:00Z,Golden State Warriors,Miami Heat,pinnacle,2026-11-06T02:24:57Z,player_points,Bobby Portis,Under,8.5,1.82
+2026-11-06T02:25:36Z,fecho,ac38449dd3dfbe1c9b48164b6a41aa83,2026-11-06T03:10:00Z,Golden State Warriors,Miami Heat,pinnacle,2026-11-06T02:24:57Z,player_points,Will Richard,Over,5.5,1.82
+2026-11-06T02:25:36Z,fecho,ac38449dd3dfbe1c9b48164b6a41aa83,2026-11-06T03:10:00Z,Golden State Warriors,Miami Heat,pinnacle,2026-11-06T02:24:57Z,player_points,Will Richard,Under,5.5,1.93
