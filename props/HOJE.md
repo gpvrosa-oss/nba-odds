@@ -1,6 +1,6 @@
 # Odds justas de hoje (pontos dos jogadores)
 
-Atualizado: 2026-11-06 03:16 UTC. Odd justa = Pinnacle sem margem. Modelo = a nossa previsao.
+Atualizado: 2026-11-06 03:26 UTC. Odd justa = Pinnacle sem margem. Modelo = a nossa previsao.
 Como usar: na Betano/Betclic, se a odd de "X+ pontos" for MAIOR do que a odd justa, essa aposta tem valor.
 
 ## Miami Heat @ Golden State Warriors (06/11 03:10 UTC)
