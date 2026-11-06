@@ -55,3 +55,47 @@ recolhido_em,momento,jogo_id,inicio_jogo,casa,fora,casa_apostas,atualizado_em,me
 2026-11-06T02:25:36Z,fecho,ac38449dd3dfbe1c9b48164b6a41aa83,2026-11-06T03:10:00Z,Golden State Warriors,Miami Heat,pinnacle,2026-11-06T02:24:57Z,player_points,Bobby Portis,Under,8.5,1.82
 2026-11-06T02:25:36Z,fecho,ac38449dd3dfbe1c9b48164b6a41aa83,2026-11-06T03:10:00Z,Golden State Warriors,Miami Heat,pinnacle,2026-11-06T02:24:57Z,player_points,Will Richard,Over,5.5,1.82
 2026-11-06T02:25:36Z,fecho,ac38449dd3dfbe1c9b48164b6a41aa83,2026-11-06T03:10:00Z,Golden State Warriors,Miami Heat,pinnacle,2026-11-06T02:24:57Z,player_points,Will Richard,Under,5.5,1.93
+2026-11-06T20:44:35Z,cedo,9246c91f746732472c13e94bd8e7be85,2026-11-07T00:10:00Z,Atlanta Hawks,Washington Wizards,pinnacle,2026-11-06T20:43:12Z,player_points,AJ Dybantsa,Over,19.5,2.04
+2026-11-06T20:44:35Z,cedo,9246c91f746732472c13e94bd8e7be85,2026-11-07T00:10:00Z,Atlanta Hawks,Washington Wizards,pinnacle,2026-11-06T20:43:12Z,player_points,AJ Dybantsa,Under,19.5,1.73
+2026-11-06T20:44:35Z,cedo,9246c91f746732472c13e94bd8e7be85,2026-11-07T00:10:00Z,Atlanta Hawks,Washington Wizards,pinnacle,2026-11-06T20:43:12Z,player_points,Alex Sarr,Over,12.5,1.96
+2026-11-06T20:44:35Z,cedo,9246c91f746732472c13e94bd8e7be85,2026-11-07T00:10:00Z,Atlanta Hawks,Washington Wizards,pinnacle,2026-11-06T20:43:12Z,player_points,Alex Sarr,Under,12.5,1.78
+2026-11-06T20:44:35Z,cedo,9246c91f746732472c13e94bd8e7be85,2026-11-07T00:10:00Z,Atlanta Hawks,Washington Wizards,pinnacle,2026-11-06T20:43:12Z,player_points,Anthony Davis,Over,22.5,2.09
+2026-11-06T20:44:35Z,cedo,9246c91f746732472c13e94bd8e7be85,2026-11-07T00:10:00Z,Atlanta Hawks,Washington Wizards,pinnacle,2026-11-06T20:43:12Z,player_points,Anthony Davis,Under,22.5,1.69
+2026-11-06T20:44:35Z,cedo,9246c91f746732472c13e94bd8e7be85,2026-11-07T00:10:00Z,Atlanta Hawks,Washington Wizards,pinnacle,2026-11-06T20:43:12Z,player_points,Bilal Coulibaly,Over,7.5,1.75
+2026-11-06T20:44:35Z,cedo,9246c91f746732472c13e94bd8e7be85,2026-11-07T00:10:00Z,Atlanta Hawks,Washington Wizards,pinnacle,2026-11-06T20:43:12Z,player_points,Bilal Coulibaly,Under,7.5,2.01
+2026-11-06T20:44:35Z,cedo,9246c91f746732472c13e94bd8e7be85,2026-11-07T00:10:00Z,Atlanta Hawks,Washington Wizards,pinnacle,2026-11-06T20:43:12Z,player_points,C.J. McCollum,Over,16.5,1.93
+2026-11-06T20:44:35Z,cedo,9246c91f746732472c13e94bd8e7be85,2026-11-07T00:10:00Z,Atlanta Hawks,Washington Wizards,pinnacle,2026-11-06T20:43:12Z,player_points,C.J. McCollum,Under,16.5,1.81
+2026-11-06T20:44:35Z,cedo,9246c91f746732472c13e94bd8e7be85,2026-11-07T00:10:00Z,Atlanta Hawks,Washington Wizards,pinnacle,2026-11-06T20:43:12Z,player_points,Dyson Daniels,Over,12.5,2.02
+2026-11-06T20:44:35Z,cedo,9246c91f746732472c13e94bd8e7be85,2026-11-07T00:10:00Z,Atlanta Hawks,Washington Wizards,pinnacle,2026-11-06T20:43:12Z,player_points,Dyson Daniels,Under,12.5,1.74
+2026-11-06T20:44:35Z,cedo,9246c91f746732472c13e94bd8e7be85,2026-11-07T00:10:00Z,Atlanta Hawks,Washington Wizards,pinnacle,2026-11-06T20:43:12Z,player_points,Jalen Johnson,Over,20.5,1.97
+2026-11-06T20:44:35Z,cedo,9246c91f746732472c13e94bd8e7be85,2026-11-07T00:10:00Z,Atlanta Hawks,Washington Wizards,pinnacle,2026-11-06T20:43:12Z,player_points,Jalen Johnson,Under,20.5,1.78
+2026-11-06T20:44:35Z,cedo,9246c91f746732472c13e94bd8e7be85,2026-11-07T00:10:00Z,Atlanta Hawks,Washington Wizards,pinnacle,2026-11-06T20:43:12Z,player_points,Kingston Flemings,Over,9.5,1.94
+2026-11-06T20:44:35Z,cedo,9246c91f746732472c13e94bd8e7be85,2026-11-07T00:10:00Z,Atlanta Hawks,Washington Wizards,pinnacle,2026-11-06T20:43:12Z,player_points,Kingston Flemings,Under,9.5,1.8
+2026-11-06T20:44:35Z,cedo,9246c91f746732472c13e94bd8e7be85,2026-11-07T00:10:00Z,Atlanta Hawks,Washington Wizards,pinnacle,2026-11-06T20:43:12Z,player_points,Kyshawn George,Over,15.5,2.0
+2026-11-06T20:44:35Z,cedo,9246c91f746732472c13e94bd8e7be85,2026-11-07T00:10:00Z,Atlanta Hawks,Washington Wizards,pinnacle,2026-11-06T20:43:12Z,player_points,Kyshawn George,Under,15.5,1.76
+2026-11-06T20:44:35Z,cedo,9246c91f746732472c13e94bd8e7be85,2026-11-07T00:10:00Z,Atlanta Hawks,Washington Wizards,pinnacle,2026-11-06T20:43:12Z,player_points,Luguentz Dort,Over,9.5,1.98
+2026-11-06T20:44:35Z,cedo,9246c91f746732472c13e94bd8e7be85,2026-11-07T00:10:00Z,Atlanta Hawks,Washington Wizards,pinnacle,2026-11-06T20:43:12Z,player_points,Luguentz Dort,Under,9.5,1.77
+2026-11-06T20:44:35Z,cedo,9246c91f746732472c13e94bd8e7be85,2026-11-07T00:10:00Z,Atlanta Hawks,Washington Wizards,pinnacle,2026-11-06T20:43:12Z,player_points,Nickeil Alexander-Walker,Over,20.5,1.87
+2026-11-06T20:44:35Z,cedo,9246c91f746732472c13e94bd8e7be85,2026-11-07T00:10:00Z,Atlanta Hawks,Washington Wizards,pinnacle,2026-11-06T20:43:12Z,player_points,Nickeil Alexander-Walker,Under,20.5,1.87
+2026-11-06T20:44:35Z,cedo,9246c91f746732472c13e94bd8e7be85,2026-11-07T00:10:00Z,Atlanta Hawks,Washington Wizards,pinnacle,2026-11-06T20:43:12Z,player_points,Onyeka Okongwu,Over,15.5,2.04
+2026-11-06T20:44:35Z,cedo,9246c91f746732472c13e94bd8e7be85,2026-11-07T00:10:00Z,Atlanta Hawks,Washington Wizards,pinnacle,2026-11-06T20:43:12Z,player_points,Onyeka Okongwu,Under,15.5,1.72
+2026-11-06T20:44:35Z,cedo,9246c91f746732472c13e94bd8e7be85,2026-11-07T00:10:00Z,Atlanta Hawks,Washington Wizards,pinnacle,2026-11-06T20:43:12Z,player_points,Trae Young,Over,20.5,1.89
+2026-11-06T20:44:35Z,cedo,9246c91f746732472c13e94bd8e7be85,2026-11-07T00:10:00Z,Atlanta Hawks,Washington Wizards,pinnacle,2026-11-06T20:43:12Z,player_points,Trae Young,Under,20.5,1.85
+2026-11-06T20:44:35Z,cedo,49daf3d42e20ce4bc70f8a68cf70ce4c,2026-11-07T00:10:00Z,Charlotte Hornets,Boston Celtics,pinnacle,2026-11-06T20:43:12Z,player_points,Brandon Miller,Over,21.5,1.78
+2026-11-06T20:44:35Z,cedo,49daf3d42e20ce4bc70f8a68cf70ce4c,2026-11-07T00:10:00Z,Charlotte Hornets,Boston Celtics,pinnacle,2026-11-06T20:43:12Z,player_points,Brandon Miller,Under,21.5,1.97
+2026-11-06T20:44:35Z,cedo,49daf3d42e20ce4bc70f8a68cf70ce4c,2026-11-07T00:10:00Z,Charlotte Hornets,Boston Celtics,pinnacle,2026-11-06T20:43:12Z,player_points,Coby White,Over,13.5,2.05
+2026-11-06T20:44:35Z,cedo,49daf3d42e20ce4bc70f8a68cf70ce4c,2026-11-07T00:10:00Z,Charlotte Hornets,Boston Celtics,pinnacle,2026-11-06T20:43:12Z,player_points,Coby White,Under,13.5,1.71
+2026-11-06T20:44:35Z,cedo,49daf3d42e20ce4bc70f8a68cf70ce4c,2026-11-07T00:10:00Z,Charlotte Hornets,Boston Celtics,pinnacle,2026-11-06T20:43:12Z,player_points,Derrick White,Over,13.5,1.98
+2026-11-06T20:44:35Z,cedo,49daf3d42e20ce4bc70f8a68cf70ce4c,2026-11-07T00:10:00Z,Charlotte Hornets,Boston Celtics,pinnacle,2026-11-06T20:43:12Z,player_points,Derrick White,Under,13.5,1.77
+2026-11-06T20:44:35Z,cedo,49daf3d42e20ce4bc70f8a68cf70ce4c,2026-11-07T00:10:00Z,Charlotte Hornets,Boston Celtics,pinnacle,2026-11-06T20:43:12Z,player_points,Jayson Tatum,Over,27.5,2.05
+2026-11-06T20:44:35Z,cedo,49daf3d42e20ce4bc70f8a68cf70ce4c,2026-11-07T00:10:00Z,Charlotte Hornets,Boston Celtics,pinnacle,2026-11-06T20:43:12Z,player_points,Jayson Tatum,Under,27.5,1.72
+2026-11-06T20:44:35Z,cedo,49daf3d42e20ce4bc70f8a68cf70ce4c,2026-11-07T00:10:00Z,Charlotte Hornets,Boston Celtics,pinnacle,2026-11-06T20:43:12Z,player_points,Naz Reid,Over,15.5,1.71
+2026-11-06T20:44:35Z,cedo,49daf3d42e20ce4bc70f8a68cf70ce4c,2026-11-07T00:10:00Z,Charlotte Hornets,Boston Celtics,pinnacle,2026-11-06T20:43:12Z,player_points,Naz Reid,Under,15.5,2.06
+2026-11-06T20:44:35Z,cedo,49daf3d42e20ce4bc70f8a68cf70ce4c,2026-11-07T00:10:00Z,Charlotte Hornets,Boston Celtics,pinnacle,2026-11-06T20:43:12Z,player_points,Neemias Queta,Over,9.5,1.91
+2026-11-06T20:44:35Z,cedo,49daf3d42e20ce4bc70f8a68cf70ce4c,2026-11-07T00:10:00Z,Charlotte Hornets,Boston Celtics,pinnacle,2026-11-06T20:43:12Z,player_points,Neemias Queta,Under,9.5,1.83
+2026-11-06T20:44:35Z,cedo,49daf3d42e20ce4bc70f8a68cf70ce4c,2026-11-07T00:10:00Z,Charlotte Hornets,Boston Celtics,pinnacle,2026-11-06T20:43:12Z,player_points,Paul George,Over,17.5,1.93
+2026-11-06T20:44:35Z,cedo,49daf3d42e20ce4bc70f8a68cf70ce4c,2026-11-07T00:10:00Z,Charlotte Hornets,Boston Celtics,pinnacle,2026-11-06T20:43:12Z,player_points,Paul George,Under,17.5,1.82
+2026-11-06T20:44:35Z,cedo,49daf3d42e20ce4bc70f8a68cf70ce4c,2026-11-07T00:10:00Z,Charlotte Hornets,Boston Celtics,pinnacle,2026-11-06T20:43:12Z,player_points,Payton Pritchard,Over,13.5,1.98
+2026-11-06T20:44:35Z,cedo,49daf3d42e20ce4bc70f8a68cf70ce4c,2026-11-07T00:10:00Z,Charlotte Hornets,Boston Celtics,pinnacle,2026-11-06T20:43:12Z,player_points,Payton Pritchard,Under,13.5,1.77
+2026-11-06T20:44:35Z,cedo,49daf3d42e20ce4bc70f8a68cf70ce4c,2026-11-07T00:10:00Z,Charlotte Hornets,Boston Celtics,pinnacle,2026-11-06T20:43:12Z,player_points,Ryan Kalkbrenner,Over,8.5,2.24
+2026-11-06T20:44:35Z,cedo,49daf3d42e20ce4bc70f8a68cf70ce4c,2026-11-07T00:10:00Z,Charlotte Hornets,Boston Celtics,pinnacle,2026-11-06T20:43:12Z,player_points,Ryan Kalkbrenner,Under,8.5,1.61
