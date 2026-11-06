@@ -4,15 +4,18 @@ from datetime import datetime, timezone
 from pathlib import Path
 eq = sys.argv[1] if len(sys.argv) > 1 else "GS"
 B = "https://site.api.espn.com/apis/site/v2/sports/basketball/nba"
-times = requests.get(f"{B}/teams", timeout=30).json()["sports"][0]["leagues"][0]["teams"]
-tid = next(t["team"]["id"] for t in times if t["team"]["abbreviation"] == eq)
-sch = requests.get(f"{B}/teams/{tid}/schedule", timeout=30).json()
+from datetime import timedelta
 agora = datetime.now(timezone.utc)
-for e in sch.get("events", []):
-    d = datetime.fromisoformat(e["date"].replace("Z", "+00:00"))
-    if d > agora:
+achou = False
+for i in range(0, 10):
+    dia = (agora + timedelta(days=i)).strftime("%Y%m%d")
+    for e in requests.get(f"{B}/scoreboard", params={"dates": dia}, timeout=30).json().get("events", []):
         c = e["competitions"][0]["competitors"]
-        print("PROXIMO:", e["date"], " | ".join(f'{x["team"]["abbreviation"]}({x["homeAway"]})' for x in c))
+        abs_ = [x["team"]["abbreviation"] for x in c]
+        if eq in abs_ and not e["status"]["type"]["completed"]:
+            print("PROXIMO:", e["date"], " | ".join(f'{x["team"]["abbreviation"]}({x["homeAway"]})' for x in c))
+            achou = True; break
+    if achou:
         break
 Path("props/lesoes").mkdir(parents=True, exist_ok=True)
 Path(f"props/lesoes/{agora:%Y-%m-%dT%H%MZ}.json").write_text(requests.get(f"{B}/injuries", timeout=30).text)

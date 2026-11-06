@@ -77,6 +77,11 @@ def caracteristicas(H, s, shift=True):
     # "usage": quanto do ataque passa pelo jogador (lancamentos + lances livres + perdas de bola por minuto)
     u = sum(g[c].transform(lambda x: _ew(x, shift)) * k for c, k in (("fga", 1), ("fta", 0.44), ("tov", 1)))
     D["usg"] = (u / D.m0.clip(lower=1)).fillna(0)
+    # tendencia de minutos: media dos ultimos 3 jogos vs media habitual (apanha jogadores a perder/ganhar
+    # espaco na rotacao; no teste 2025-26 reduziu o erro ~1.5% e tirou o vies nos que estao a perder minutos)
+    l3 = g["min"].transform(lambda x: (x.shift() if shift else x).rolling(3, min_periods=2).mean())
+    D["tend"] = np.log((l3 / D.m0).clip(0.4, 2.5)).fillna(0)
+    D["m_live"] = D.m0.clip(upper=42)
     return D
 
 def fator_adversario(H, s, final=False):
@@ -91,7 +96,7 @@ def _X(D, usg_media):
     # testado em 2025-26: so "colegas em falta x usage" melhorou; ritmo, perfil de lancamento vs defesa,
     # defesa por posicao, cansaco (back-to-back, 3 em 4) e risco de goleada nao ajudaram (ficaram de fora)
     ur = (D.usg / usg_media) if usg_media > 0 else 1.0
-    return np.c_[np.ones(len(D)), D.falta, np.log(D.adv.clip(0.5, 2)), D.casa, D.falta * ur]
+    return np.c_[np.ones(len(D)), D.falta, np.log(D.adv.clip(0.5, 2)), D.casa, D.falta * ur, D.tend]
 
 def _nb_cdf(mu, r, K=90):
     """Binomial negativa; r pode ser um valor por linha."""
@@ -117,7 +122,7 @@ def treinar(H, s):
     D = caracteristicas(H, s)
     ok = (D.n >= 5).values
     usg_media = float(D.usg[ok].mean())
-    y = H[s].values[ok]; X = _X(D, usg_media)[ok]; off = np.log((D.m_proj * D.taxa).clip(0.05)).values[ok]
+    y = H[s].values[ok]; X = _X(D, usg_media)[ok]; off = np.log((D.m_live * D.taxa).clip(0.05)).values[ok]   # minutos como ao vivo
     w = np.zeros(X.shape[1])
     for _ in range(30):
         mu = np.exp(off + X @ w)
@@ -148,6 +153,8 @@ def estado_atual(H, s):
                       "u_ew": sum(g[c].apply(lambda x: x.ewm(halflife=HL).mean().iloc[-1]) * k
                                   for c, k in (("fga", 1), ("fta", 0.44), ("tov", 1)))})
     E["usg"] = (E.u_ew / E.m_ew.clip(lower=1)).fillna(0)
+    E["min3"] = g["min"].apply(lambda x: x.tail(3).mean())
+    E["tend"] = np.log((E.min3 / E.m_ew).clip(0.4, 2.5)).fillna(0)
     w = np.minimum(E.n, 2 * HL) * E.m_ew
     E["taxa"] = ((E.s_ew / E.m_ew).fillna(0) * w + lg * K_PRIOR) / (w + K_PRIOR)
     # participacao: fracao dos ultimos 10 jogos da equipa em que jogou
@@ -180,7 +187,7 @@ def prever(E, norma, adv, par, equipa, adversario, casa, prob_faltar):
     um = par.get("usg_media", 0)
     ur = (R.usg / um) if um > 0 else 1.0
     f = np.exp(c[0] + c[1] * falta + c[2] * math.log(min(max(adv.get(adversario, 1.0), 0.5), 2)) + c[3] * casa
-               + (c[4] * falta * ur if len(c) > 4 else 0))
+               + (c[4] * falta * ur if len(c) > 4 else 0) + (c[5] * R.tend if len(c) > 5 else 0))
     R["mu"] = R.m_proj * R.taxa * f
     R["falta_equipa"] = falta
     return R
