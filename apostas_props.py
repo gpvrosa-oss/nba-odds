@@ -188,8 +188,14 @@ def escrever_hoje():
     linhas = ["# Odds justas de hoje (pontos dos jogadores)", "",
               f"Atualizado: {agora:%Y-%m-%d %H:%M} UTC. Odd justa = Pinnacle sem margem. Modelo = a nossa previsao.",
               "Como usar: na Betano/Betclic, se a odd de \"X+ pontos\" for MAIOR do que a odd justa, essa aposta tem valor.", ""]
+    extra = {}
     if A.empty:
         linhas.append("Ainda nao ha linhas para as proximas 24 horas.")
+    else:
+        try:
+            extra = ressaltos_assistencias(A)
+        except Exception as e:
+            print("ressaltos/assistencias falhou:", e)
     for (ini, jid), G in A.sort_values("inicio").groupby(["inicio", "jogo_id"], sort=False):
         c, f = G.casa.iloc[0] if "casa" in G else "", G.fora.iloc[0] if "fora" in G else ""
         linhas += [f"## {f} @ {c} ({ini:%d/%m %H:%M} UTC)", "", "```"]
@@ -205,7 +211,42 @@ def escrever_hoje():
             linhas.append(f"{r.jogador:24s} linha {r.linha:>5} | modelo {r.previsto:>5.1f} | {r.nota}")
             linhas.append("    justa: " + "  ".join(esc))
         linhas += ["```", ""]
+        linhas += extra.get(str(jid), [])
     (PASTA / "HOJE.md").write_text("\n".join(linhas), encoding="utf-8")
+
+def ressaltos_assistencias(A):
+    """Sem gastar creditos: odds justas SO do modelo para ressaltos e assistencias (escadas "X+" como na Betano),
+    para os jogadores com linha de pontos. Menos fiavel do que os pontos (nao ha linha da Pinnacle para comparar).
+    Recalcula no maximo de hora a hora (o treino demora)."""
+    fc = PASTA / "hoje_reb_ast.json"
+    jogos = sorted(A.jogo_id.astype(str).unique())
+    if fc.exists():
+        c = json.loads(fc.read_text())
+        if c.get("jogos") == jogos and pd.Timestamp.now(tz="UTC") - pd.Timestamp(c["em"]) < pd.Timedelta(hours=1):
+            return c["linhas"]
+    H = M.carregar()
+    lf = sorted((PASTA / "lesoes").glob("*.json"))
+    les = lesoes_em(datetime.strptime(lf[-1].stem, "%Y-%m-%dT%H%MZ").strftime("%Y-%m-%dT%H:%M:%SZ")) if lf else {}
+    out = {}
+    for s, nome in (("reb", "ressaltos"), ("ast", "assistencias")):
+        par = M.treinar(H, s)
+        E, norma, adv = M.estado_atual(H, s)
+        E["chave_nome"] = E.nome.map(M.nome_chave)
+        pf = {pid: les.get(k, 0.0) for pid, k in E.chave_nome.items()}
+        for jid, G in A.groupby(A.jogo_id.astype(str)):
+            casa, fora = M.EQUIPAS.get(G.casa.iloc[0]), M.EQUIPAS.get(G.fora.iloc[0])
+            R = pd.concat([M.prever(E, norma, adv, par, casa, fora, 1, pf), M.prever(E, norma, adv, par, fora, casa, 0, pf)])
+            R["chave_nome"] = R.nome.map(M.nome_chave)
+            R = R[R.chave_nome.isin(set(G.jogador.map(M.nome_chave))) & (R.disp > 0.75) & (R.index.map(E.n) >= 10)]
+            bl = [f"{nome.capitalize()} (so modelo, sem Pinnacle):", "```"]
+            for r in R.sort_values("mu", ascending=False).itertuples():
+                b = max(int(np.floor(r.mu)) - 1, 1)
+                ks = list(range(b, b + 5))
+                ps = M.p_over([r.mu] * len(ks), [k - 0.5 for k in ks], par["r"], par["a"], par["b"])
+                bl.append(f"{r.nome:24s} modelo {r.mu:>4.1f} | " + "  ".join(f"{k}+ {1 / max(p, 1e-3):.2f}" for k, p in zip(ks, ps)))
+            out.setdefault(jid, []).extend(bl + ["```", ""])
+    fc.write_text(json.dumps({"em": str(pd.Timestamp.now(tz="UTC")), "jogos": jogos, "linhas": out}))
+    return out
 
 if __name__ == "__main__":
     if not (Path("dados/jogadores_v2.csv").exists() or Path("dados/jogadores.csv").exists()):
