@@ -71,6 +71,15 @@ try:
     les.write_text(json.dumps(inj))
 except Exception as x:
     print("Lesoes ESPN falharam:", x)
+# noticias da ESPN (mudancas de rotacao, titulares, etc.) para contexto no resumo da noite
+try:
+    nw = requests.get("https://site.api.espn.com/apis/site/v2/sports/basketball/nba/news", params={"limit": 50}, timeout=30).json()
+    nf = PASTA / "noticias" / f"{agora:%Y-%m-%dT%H%MZ}.json"
+    nf.parent.mkdir(exist_ok=True)
+    nf.write_text(json.dumps([{"titulo": a.get("headline"), "resumo": a.get("description"), "data": a.get("published")}
+                              for a in nw.get("articles", [])], ensure_ascii=False))
+except Exception as x:
+    print("Noticias ESPN falharam:", x)
 
 # esquecer jogos com mais de 2 dias
 estado = {k: v for k, v in estado.items() if k in {e["id"] for e in ev.json()} or len(v) < 2}
