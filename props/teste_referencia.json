@@ -1,0 +1,9 @@
+{
+ "jogos": 29757,
+ "erro_medio": 4.534444094510805,
+ "erro_medio_titulares": 5.646992358086436,
+ "vies": 0.1770221711820737,
+ "vies_estrelas": 0.2304496917842616,
+ "erro_calibracao": 0.007623346482730896,
+ "log_loss_linha": 0.6908834054069278
+}
