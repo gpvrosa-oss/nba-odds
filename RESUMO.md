@@ -1,6 +1,6 @@
 # Odds NBA (vencedor do jogo)
 
-Atualizado: 06/11 06:27 (hora de Lisboa). Odd tipica = mediana das casas de apostas; melhor = a mais alta (sem bolsas de apostas).
+Atualizado: 06/11 06:30 (hora de Lisboa). Odd tipica = mediana das casas de apostas; melhor = a mais alta (sem bolsas de apostas).
 
 | Inicio (Lisboa) | Jogo | Fora: tipica / melhor | Casa: tipica / melhor | Casas |
 |---|---|---|---|---|
