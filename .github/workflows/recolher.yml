@@ -33,6 +33,8 @@ jobs:
           elif [ "${{ inputs.modo }}" = "lesoes" ]; then
             mkdir -p props/lesoes; python -c "import requests,datetime;open('props/lesoes/'+datetime.datetime.utcnow().strftime('%Y-%m-%dT%H%MZ')+'.json','w').write(requests.get('https://site.api.espn.com/apis/site/v2/sports/basketball/nba/injuries',timeout=30).text)"
             python historico.py
+          elif [ "${{ inputs.modo }}" = "proximo" ]; then
+            python proximo_jogo.py GS
           elif [ "${{ inputs.modo }}" = "pbp" ]; then
             python pbp_equipas.py
           elif [ "${{ inputs.modo }}" = "fontes" ]; then
