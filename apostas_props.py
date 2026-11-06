@@ -133,6 +133,8 @@ def avaliar(L, H):
     A["resultado"] = A["resultado"].astype(object)
     F = L[L.momento == "fecho"]
     H = H.assign(k=H.nome.map(M.nome_chave), d=H.data.dt.date)
+    refazer_clv = A.clv.notna() & (A.clv < -0.04)          # versao antiga do CLV (incluia a margem)
+    A.loc[refazer_clv, "resultado"] = np.nan
     for i, a in A[A.resultado.isna()].iterrows():
         dia = (pd.to_datetime(a.inicio_jogo) - pd.Timedelta(hours=6)).date()
         # so avaliar depois de o jogo constar do historico (evita anular apostas de jogos ainda a decorrer)
@@ -146,9 +148,12 @@ def avaliar(L, H):
         f = F[(F.jogo_id == a.jogo_id) & (F.mercado == a.mercado) & (F.jogador == a.jogador)]
         if not f.empty:
             f = f.iloc[-1]; A.at[i, "linha_fecho"] = f.linha
+            # CLV = quanto a probabilidade JUSTA do nosso lado subiu entre o momento da aposta e o fecho
+            # (sem contar a margem da casa, que ja e paga em qualquer caso)
             po = prob_na_linha(f.p_justa, f.linha, a.linha, s)
             pj = po if a.lado == "Over" else 1 - po
-            A.at[i, "clv"] = round(a.odd * pj - 1, 4)
+            p0 = a.p_justa if a.lado == "Over" else 1 - a.p_justa
+            A.at[i, "clv"] = round(pj / p0 - 1, 4)
         if h.empty:
             A.at[i, "resultado"] = "anulada"; A.at[i, "lucro"] = 0.0; continue
         real = float(h[s].iloc[0]); A.at[i, "real"] = real
