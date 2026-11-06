@@ -170,7 +170,10 @@ def prever(E, norma, adv, par, equipa, adversario, casa, prob_faltar):
     R["disp"] = 1 - R.index.map(lambda p: prob_faltar.get(p, 0.0))
     R["m_esp"] = R.m_ew * R.part * R.disp
     tot = R.m_esp.sum() or 1
-    R["m_proj"] = (R.m_ew * 240 / tot).clip(upper=42)          # minutos SE jogar
+    # minutos SE jogar = a media recente. Testei aumentar os minutos dos outros quando alguem falta, mas num
+    # teste "ao vivo" em 2025-26 isso previa +4.6 minutos e +2.8 pontos a mais; o efeito das ausencias ja
+    # entra pelo coeficiente "falta" (e a media recente ja reflete ausencias longas).
+    R["m_proj"] = R.m_ew.clip(upper=42)
     falta = float(np.clip(1 - (R.taxa * R.m_ew * R.part * R.disp).sum() / norma.get(equipa, np.nan), -0.3, 0.6)) \
         if equipa in norma else 0.0
     c = par["coef"]
