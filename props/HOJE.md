@@ -1,6 +1,6 @@
 # Odds justas de hoje (pontos dos jogadores)
 
-Atualizado: 2026-11-06 22:34 UTC. Odd justa = Pinnacle sem margem. Modelo = a nossa previsao.
+Atualizado: 2026-11-06 22:44 UTC. Odd justa = Pinnacle sem margem. Modelo = a nossa previsao.
 Como usar: na Betano/Betclic, se a odd de "X+ pontos" for MAIOR do que a odd justa, essa aposta tem valor.
 
 ## Boston Celtics @ Charlotte Hornets (07/11 00:10 UTC)
@@ -83,25 +83,25 @@ Alex Sarr                linha  12.5 | modelo  13.6 | sem valor
 
 Ressaltos (so modelo, sem Pinnacle):
 ```
-Onyeka Okongwu           modelo 10.3 | 9+ 1.50  10+ 1.78  11+ 2.19  12+ 2.78  13+ 3.65
-Dyson Daniels            modelo  8.8 | 7+ 1.37  8+ 1.62  9+ 1.99  10+ 2.53  11+ 3.36
+Onyeka Okongwu           modelo 11.6 | 10+ 1.47  11+ 1.72  12+ 2.08  13+ 2.58  14+ 3.30
+Dyson Daniels            modelo  9.9 | 8+ 1.38  9+ 1.60  10+ 1.93  11+ 2.42  12+ 3.14
 Alex Sarr                modelo  7.7 | 6+ 1.36  7+ 1.62  8+ 2.02  9+ 2.63  10+ 3.58
 Kyshawn George           modelo  5.4 | 4+ 1.37  5+ 1.71  6+ 2.28  7+ 3.22  8+ 4.79
 Bilal Coulibaly          modelo  4.7 | 3+ 1.25  4+ 1.53  5+ 2.03  6+ 2.86  7+ 4.29
-Luguentz Dort            modelo  4.2 | 3+ 1.36  4+ 1.77  5+ 2.48  6+ 3.72  7+ 5.93
+Luguentz Dort            modelo  4.7 | 3+ 1.25  4+ 1.54  5+ 2.03  6+ 2.88  7+ 4.32
+Nickeil Alexander-Walker modelo  4.2 | 3+ 1.35  4+ 1.74  5+ 2.42  6+ 3.61  7+ 5.72
 Trae Young               modelo  4.1 | 3+ 1.37  4+ 1.78  5+ 2.51  6+ 3.79  7+ 6.07
-Nickeil Alexander-Walker modelo  4.0 | 2+ 1.16  3+ 1.41  4+ 1.88  5+ 2.70  6+ 4.16
 ```
 
 Assistencias (so modelo, sem Pinnacle):
 ```
 Trae Young               modelo  9.4 | 8+ 1.40  9+ 1.67  10+ 2.08  11+ 2.72  12+ 3.73
-Dyson Daniels            modelo  6.0 | 5+ 1.42  6+ 1.80  7+ 2.45  8+ 3.57  9+ 5.56
+Dyson Daniels            modelo  7.0 | 5+ 1.24  6+ 1.46  7+ 1.82  8+ 2.42  9+ 3.42
 Kyshawn George           modelo  5.0 | 3+ 1.17  4+ 1.40  5+ 1.81  6+ 2.56  7+ 3.91
-Onyeka Okongwu           modelo  3.5 | 2+ 1.19  3+ 1.52  4+ 2.18  5+ 3.50  6+ 6.20
-Nickeil Alexander-Walker modelo  3.4 | 2+ 1.20  3+ 1.56  4+ 2.27  5+ 3.70  6+ 6.66
+Onyeka Okongwu           modelo  4.0 | 2+ 1.12  3+ 1.34  4+ 1.79  5+ 2.62  6+ 4.24
+Nickeil Alexander-Walker modelo  3.7 | 2+ 1.16  3+ 1.44  4+ 2.00  5+ 3.08  6+ 5.25
+Luguentz Dort            modelo  2.5 | 1+ 1.11  2+ 1.43  3+ 2.16  4+ 3.77  5+ 7.41
 Alex Sarr                modelo  2.4 | 1+ 1.12  2+ 1.47  3+ 2.28  4+ 4.08  5+ 8.25
-Luguentz Dort            modelo  2.2 | 1+ 1.15  2+ 1.61  3+ 2.67  4+ 5.14  5+ 11.17
 Bilal Coulibaly          modelo  1.8 | 1+ 1.23  2+ 1.90  3+ 3.54  4+ 7.68  5+ 18.79
 ```
 

@@ -1,5 +1,25 @@
 # Alertas de ultima hora
 
+## 06/11 22:46 UTC: Washington Wizards @ Atlanta Hawks
+
+- **Anthony Davis** (WSH, 33.1 min de media): Out (antes: 30% de faltar, agora 100%)
+
+Colegas (pontos previstos antes -> agora | linha Pinnacle agora | veredito):
+```
+Trae Young                22.1 ->  24.2 (+2.1) |                    | 
+Kyshawn George            19.2 ->  21.2 (+2.0) |                    | 
+AJ Dybantsa               18.2 ->  20.1 (+1.9) |                    | 
+Bilal Coulibaly           11.9 ->  13.5 (+1.7) |                    | 
+Alex Sarr                 13.6 ->  15.2 (+1.6) |                    | 
+Anthony Gill               9.4 ->  10.9 (+1.5) |                    | 
+Sharife Cooper            11.4 ->  12.7 (+1.3) |                    | 
+Bub Carrington             9.2 ->  10.4 (+1.3) |                    | 
+Deandre Ayton              7.8 ->   9.0 (+1.2) |                    | 
+Tre Johnson                9.9 ->  11.0 (+1.0) |                    | 
+```
+
+Na Betano/Betclic: confirma se a linha desses jogadores ainda nao subiu.
+
 ## 06/11 22:23 UTC: Washington Wizards @ Atlanta Hawks
 
 - **Jalen Johnson** (ATL, 32.7 min de media): Out (antes: 30% de faltar, agora 100%)
