@@ -82,7 +82,37 @@ def caracteristicas(H, s, shift=True):
     l3 = g["min"].transform(lambda x: (x.shift() if shift else x).rolling(3, min_periods=2).mean())
     D["tend"] = np.log((l3 / D.m0).clip(0.4, 2.5)).fillna(0)
     D["m_live"] = D.m0.clip(upper=42)
+    D["estrela"] = _estrela(H, D.taxa, D.n, s)
+    sup = fator_estrelas(H, s, D.taxa * H["min"].clip(lower=0), D.estrela, D.n)
+    D["sup"] = sup.reindex(list(zip(H.jogo_id, H.adversario))).fillna(0).values
     return D
+
+def _estrela(H, taxa, n, s):
+    """Base de pontos (G) com >= 0.72 pontos por minuto: os jogadores que as defesas tentam tirar do jogo."""
+    if s != "pts":
+        return pd.Series(0, index=H.index)
+    return ((taxa >= 0.72) & (n >= 10) & (H.pos.fillna("").str[-1] == "G")).astype(int)
+
+def fator_estrelas(H, s, esperado, estrela, n, final=False, K=120):
+    """Quanto cada defesa trava as estrelas (bases) face ao que concede aos outros, em log.
+    Aproxima defesas que fazem blitz/dobras (ex.: Kings, Hornets) vs as que defendem 1x1 (ex.: Wolves).
+    Teste 2025-26: erro -0.5% nas estrelas (coef ~0.3); a historia jogador-vs-equipa nao ajudou."""
+    ok = (n >= 10).values
+    A = pd.DataFrame({"jogo_id": H.jogo_id, "data": H.data, "adversario": H.adversario, "st": estrela.values,
+                      "p": H[s].values, "e": np.asarray(esperado)})[ok]
+    A = A.groupby(["jogo_id", "data", "adversario", "st"])[["p", "e"]].sum().unstack("st", fill_value=0)
+    A.columns = [f"{a}{b}" for a, b in A.columns]
+    for c in ["p0", "e0", "p1", "e1"]:
+        if c not in A:
+            A[c] = 0.0
+    A = A.reset_index().sort_values("data")
+    g = A.groupby("adversario")
+    if final:
+        c = g[["p0", "e0", "p1", "e1"]].sum()
+        return np.log(((c.p1 + K) / (c.e1 + K)) / ((c.p0 + 4 * K) / (c.e0 + 4 * K)))
+    c = {k: g[k].transform(lambda x: x.shift().fillna(0).cumsum()) for k in ["p0", "e0", "p1", "e1"]}
+    A["sup"] = np.log(((c["p1"] + K) / (c["e1"] + K)) / ((c["p0"] + 4 * K) / (c["e0"] + 4 * K)))
+    return A.set_index(["jogo_id", "adversario"])["sup"]
 
 def fator_adversario(H, s, final=False):
     ta = H.groupby(["jogo_id", "adversario", "data"])[s].sum().reset_index().sort_values("data")
@@ -96,7 +126,7 @@ def _X(D, usg_media):
     # testado em 2025-26: so "colegas em falta x usage" melhorou; ritmo, perfil de lancamento vs defesa,
     # defesa por posicao, cansaco (back-to-back, 3 em 4) e risco de goleada nao ajudaram (ficaram de fora)
     ur = (D.usg / usg_media) if usg_media > 0 else 1.0
-    return np.c_[np.ones(len(D)), D.falta, np.log(D.adv.clip(0.5, 2)), D.casa, D.falta * ur, D.tend]
+    return np.c_[np.ones(len(D)), D.falta, np.log(D.adv.clip(0.5, 2)), D.casa, D.falta * ur, D.tend, D.estrela * D.sup]
 
 def _nb_cdf(mu, r, K=90):
     """Binomial negativa; r pode ser um valor por linha."""
@@ -169,7 +199,12 @@ def estado_atual(H, s):
     dia = pd.DataFrame({"jogo_id": H.jogo_id, "equipa": H.equipa, "data": H.data, "p": D.taxa * D.m0})
     dia = dia.groupby(["jogo_id", "equipa", "data"])["p"].sum().reset_index().sort_values("data")
     norma = dia.groupby("equipa")["p"].apply(lambda x: x.ewm(halflife=10).mean().iloc[-1])
-    return E, norma, fator_adversario(H, s, final=True)
+    E["estrela"] = ((E.taxa >= 0.72) & (E.n >= 10) & (g["pos"].last().fillna("").str[-1] == "G")).astype(int) \
+        if s == "pts" else 0
+    adv = fator_adversario(H, s, final=True)
+    Dt = caracteristicas(H, s)   # estado ANTES de cada jogo, como no treino
+    adv.attrs["sup"] = fator_estrelas(H, s, Dt.taxa * H["min"].clip(lower=0), Dt.estrela, Dt.n, final=True).to_dict()
+    return E, norma, adv
 
 def prever(E, norma, adv, par, equipa, adversario, casa, prob_faltar):
     """Pontos previstos para cada jogador de 'equipa'. prob_faltar: {jogador_id: 0..1}."""
@@ -187,7 +222,8 @@ def prever(E, norma, adv, par, equipa, adversario, casa, prob_faltar):
     um = par.get("usg_media", 0)
     ur = (R.usg / um) if um > 0 else 1.0
     f = np.exp(c[0] + c[1] * falta + c[2] * math.log(min(max(adv.get(adversario, 1.0), 0.5), 2)) + c[3] * casa
-               + (c[4] * falta * ur if len(c) > 4 else 0) + (c[5] * R.tend if len(c) > 5 else 0))
+               + (c[4] * falta * ur if len(c) > 4 else 0) + (c[5] * R.tend if len(c) > 5 else 0)
+               + (c[6] * R.estrela * adv.attrs.get("sup", {}).get(adversario, 0.0) if len(c) > 6 else 0))
     R["mu"] = R.m_proj * R.taxa * f
     R["falta_equipa"] = falta
     return R
