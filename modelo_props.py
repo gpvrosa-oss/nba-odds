@@ -49,6 +49,37 @@ def carregar(f="dados/jogadores_v2.csv"):
     H = H[H["min"] > 0].sort_values(["data", "jogo_id"]).reset_index(drop=True)
     return H
 
+PESO_EPOCA = 0.4    # jogos de epocas anteriores contam 40%
+PESO_EQUIPA = 0.3   # jogos por outra equipa contam 30% (trocas). Teste 2025-26: erro -0.6% em geral,
+                    # -1.3% nas primeiras semanas da epoca e -3.6% em jogadores que mudaram de equipa
+
+def _epoca(datas):
+    return np.where(datas.dt.month >= 8, datas.dt.year, datas.dt.year - 1)
+
+def _ew_contexto(H, cols, shift=True):
+    """Media exponencial (meia-vida HL jogos) em que cada jogo antigo pesa menos se for de outra epoca ou
+    de outra equipa, relativamente ao jogo atual. shift=True: estado ANTES de cada jogo."""
+    Hr = H.reset_index(drop=True)
+    o = Hr.sort_values(["jogador_id", "data"], kind="stable").index.values
+    G = pd.DataFrame({"p": Hr.jogador_id.values[o], "e": _epoca(Hr.data)[o], "t": Hr.equipa.values[o]})
+    j = G.groupby("p").cumcount().values.astype(float)
+    sc = (0.5 ** (1 / HL)) ** (-j)
+    a, b = PESO_EQUIPA, PESO_EPOCA
+    def soma(x):
+        G["x"] = x * sc
+        S = {}
+        for nm, keys in (("all", ["p"]), ("e", ["p", "e"]), ("t", ["p", "t"]), ("et", ["p", "e", "t"])):
+            cs = G.groupby(keys)["x"].cumsum().values
+            S[nm] = cs - G["x"].values if shift else cs
+        return S["et"] + a * (S["t"] - S["et"]) + b * (S["e"] - S["et"]) + a * b * (S["all"] - S["e"] - S["t"] + S["et"])
+    den = soma(np.ones(len(o)))
+    den = np.where(den > 0, den, np.nan)
+    out = {}
+    for c in cols:
+        v = np.empty(len(o)); v[o] = soma(Hr[c].astype(float).values[o]) / den
+        out[c] = pd.Series(v, index=H.index)
+    return out
+
 def _ew(x, shift):
     x = x.shift() if shift else x
     return x.ewm(halflife=HL).mean()
@@ -58,9 +89,10 @@ def caracteristicas(H, s, shift=True):
     g = H.groupby("jogador_id")
     D = pd.DataFrame(index=H.index)
     D["n"] = g.cumcount()
-    D["m_ew"] = g["min"].transform(lambda x: _ew(x, shift))
+    W = _ew_contexto(H, ["min", s, "fga", "fta", "tov"], shift)
+    D["m_ew"] = W["min"]
     lg = H[s].sum() / H["min"].sum()
-    taxa = g[s].transform(lambda x: _ew(x, shift)) / D.m_ew
+    taxa = W[s] / D.m_ew
     w = np.minimum(D.n, 2 * HL) * D.m_ew.fillna(0)
     D["taxa"] = (taxa.fillna(0) * w + lg * K_PRIOR) / (w + K_PRIOR)
     D["m0"] = D.m_ew.fillna(12.0)
@@ -75,7 +107,7 @@ def caracteristicas(H, s, shift=True):
     D["adv"] = D.adv.fillna(1.0)
     D["casa"] = H.casa.values
     # "usage": quanto do ataque passa pelo jogador (lancamentos + lances livres + perdas de bola por minuto)
-    u = sum(g[c].transform(lambda x: _ew(x, shift)) * k for c, k in (("fga", 1), ("fta", 0.44), ("tov", 1)))
+    u = sum(W[c] * k for c, k in (("fga", 1), ("fta", 0.44), ("tov", 1)))
     D["usg"] = (u / D.m0.clip(lower=1)).fillna(0)
     # tendencia de minutos: media dos ultimos 3 jogos vs media habitual (apanha jogadores a perder/ganhar
     # espaco na rotacao; no teste 2025-26 reduziu o erro ~1.5% e tirou o vies nos que estao a perder minutos)
@@ -176,12 +208,13 @@ def estado_atual(H, s):
     """Estado de cada jogador depois do ultimo jogo (para prever o proximo)."""
     g = H.groupby("jogador_id")
     lg = H[s].sum() / H["min"].sum()
-    E = pd.DataFrame({"m_ew": g["min"].apply(lambda x: x.ewm(halflife=HL).mean().iloc[-1]),
-                      "s_ew": g[s].apply(lambda x: x.ewm(halflife=HL).mean().iloc[-1]),
+    W = _ew_contexto(H, ["min", s, "fga", "fta", "tov"], shift=False)
+    ult = H.assign(_i=np.arange(len(H))).sort_values("data", kind="stable").groupby("jogador_id")["_i"].last()
+    pega = lambda c: pd.Series(W[c].values[ult.values], index=ult.index)
+    E = pd.DataFrame({"m_ew": pega("min"), "s_ew": pega(s),
                       "n": g.size(), "equipa": g["equipa"].last(), "nome": g["nome"].last(),
                       "ultima": g["data"].max(),
-                      "u_ew": sum(g[c].apply(lambda x: x.ewm(halflife=HL).mean().iloc[-1]) * k
-                                  for c, k in (("fga", 1), ("fta", 0.44), ("tov", 1)))})
+                      "u_ew": pega("fga") + 0.44 * pega("fta") + pega("tov")})
     E["usg"] = (E.u_ew / E.m_ew.clip(lower=1)).fillna(0)
     E["min3"] = g["min"].apply(lambda x: x.tail(3).mean())
     E["tend"] = np.log((E.min3 / E.m_ew).clip(0.4, 2.5)).fillna(0)
