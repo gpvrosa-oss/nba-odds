@@ -215,3 +215,27 @@ recolhido_em,momento,jogo_id,inicio_jogo,casa,fora,casa_apostas,atualizado_em,me
 2026-11-06T21:40:15Z,cedo,5e4708fadda49a3c06fd7ac50414020e,2026-11-07T01:10:00Z,New Orleans Pelicans,Minnesota Timberwolves,pinnacle,2026-11-06T21:39:07Z,player_points,Trey Murphy III,Under,15.5,1.76
 2026-11-06T21:40:15Z,cedo,5e4708fadda49a3c06fd7ac50414020e,2026-11-07T01:10:00Z,New Orleans Pelicans,Minnesota Timberwolves,pinnacle,2026-11-06T21:39:07Z,player_points,Zion Williamson,Over,19.5,1.97
 2026-11-06T21:40:15Z,cedo,5e4708fadda49a3c06fd7ac50414020e,2026-11-07T01:10:00Z,New Orleans Pelicans,Minnesota Timberwolves,pinnacle,2026-11-06T21:39:07Z,player_points,Zion Williamson,Under,19.5,1.78
+2026-11-06T22:23:21Z,alerta,9246c91f746732472c13e94bd8e7be85,2026-11-07T00:10:00Z,Atlanta Hawks,Washington Wizards,pinnacle,2026-11-06T22:23:32Z,player_points,AJ Dybantsa,Over,19.5,2.04
+2026-11-06T22:23:21Z,alerta,9246c91f746732472c13e94bd8e7be85,2026-11-07T00:10:00Z,Atlanta Hawks,Washington Wizards,pinnacle,2026-11-06T22:23:32Z,player_points,AJ Dybantsa,Under,19.5,1.73
+2026-11-06T22:23:21Z,alerta,9246c91f746732472c13e94bd8e7be85,2026-11-07T00:10:00Z,Atlanta Hawks,Washington Wizards,pinnacle,2026-11-06T22:23:32Z,player_points,Alex Sarr,Over,12.5,2.08
+2026-11-06T22:23:21Z,alerta,9246c91f746732472c13e94bd8e7be85,2026-11-07T00:10:00Z,Atlanta Hawks,Washington Wizards,pinnacle,2026-11-06T22:23:32Z,player_points,Alex Sarr,Under,12.5,1.7
+2026-11-06T22:23:21Z,alerta,9246c91f746732472c13e94bd8e7be85,2026-11-07T00:10:00Z,Atlanta Hawks,Washington Wizards,pinnacle,2026-11-06T22:23:32Z,player_points,Anthony Davis,Over,22.5,2.09
+2026-11-06T22:23:21Z,alerta,9246c91f746732472c13e94bd8e7be85,2026-11-07T00:10:00Z,Atlanta Hawks,Washington Wizards,pinnacle,2026-11-06T22:23:32Z,player_points,Anthony Davis,Under,22.5,1.69
+2026-11-06T22:23:21Z,alerta,9246c91f746732472c13e94bd8e7be85,2026-11-07T00:10:00Z,Atlanta Hawks,Washington Wizards,pinnacle,2026-11-06T22:23:32Z,player_points,Bilal Coulibaly,Over,7.5,1.75
+2026-11-06T22:23:21Z,alerta,9246c91f746732472c13e94bd8e7be85,2026-11-07T00:10:00Z,Atlanta Hawks,Washington Wizards,pinnacle,2026-11-06T22:23:32Z,player_points,Bilal Coulibaly,Under,7.5,2.01
+2026-11-06T22:23:21Z,alerta,9246c91f746732472c13e94bd8e7be85,2026-11-07T00:10:00Z,Atlanta Hawks,Washington Wizards,pinnacle,2026-11-06T22:23:32Z,player_points,C.J. McCollum,Over,17.5,1.81
+2026-11-06T22:23:21Z,alerta,9246c91f746732472c13e94bd8e7be85,2026-11-07T00:10:00Z,Atlanta Hawks,Washington Wizards,pinnacle,2026-11-06T22:23:32Z,player_points,C.J. McCollum,Under,17.5,1.93
+2026-11-06T22:23:21Z,alerta,9246c91f746732472c13e94bd8e7be85,2026-11-07T00:10:00Z,Atlanta Hawks,Washington Wizards,pinnacle,2026-11-06T22:23:32Z,player_points,Dyson Daniels,Over,13.5,2.01
+2026-11-06T22:23:21Z,alerta,9246c91f746732472c13e94bd8e7be85,2026-11-07T00:10:00Z,Atlanta Hawks,Washington Wizards,pinnacle,2026-11-06T22:23:32Z,player_points,Dyson Daniels,Under,13.5,1.75
+2026-11-06T22:23:21Z,alerta,9246c91f746732472c13e94bd8e7be85,2026-11-07T00:10:00Z,Atlanta Hawks,Washington Wizards,pinnacle,2026-11-06T22:23:32Z,player_points,Kingston Flemings,Over,9.5,1.87
+2026-11-06T22:23:21Z,alerta,9246c91f746732472c13e94bd8e7be85,2026-11-07T00:10:00Z,Atlanta Hawks,Washington Wizards,pinnacle,2026-11-06T22:23:32Z,player_points,Kingston Flemings,Under,9.5,1.87
+2026-11-06T22:23:21Z,alerta,9246c91f746732472c13e94bd8e7be85,2026-11-07T00:10:00Z,Atlanta Hawks,Washington Wizards,pinnacle,2026-11-06T22:23:32Z,player_points,Kyshawn George,Over,15.5,2.0
+2026-11-06T22:23:21Z,alerta,9246c91f746732472c13e94bd8e7be85,2026-11-07T00:10:00Z,Atlanta Hawks,Washington Wizards,pinnacle,2026-11-06T22:23:32Z,player_points,Kyshawn George,Under,15.5,1.76
+2026-11-06T22:23:21Z,alerta,9246c91f746732472c13e94bd8e7be85,2026-11-07T00:10:00Z,Atlanta Hawks,Washington Wizards,pinnacle,2026-11-06T22:23:32Z,player_points,Luguentz Dort,Over,9.5,1.92
+2026-11-06T22:23:21Z,alerta,9246c91f746732472c13e94bd8e7be85,2026-11-07T00:10:00Z,Atlanta Hawks,Washington Wizards,pinnacle,2026-11-06T22:23:32Z,player_points,Luguentz Dort,Under,9.5,1.83
+2026-11-06T22:23:21Z,alerta,9246c91f746732472c13e94bd8e7be85,2026-11-07T00:10:00Z,Atlanta Hawks,Washington Wizards,pinnacle,2026-11-06T22:23:32Z,player_points,Nickeil Alexander-Walker,Over,22.5,1.88
+2026-11-06T22:23:21Z,alerta,9246c91f746732472c13e94bd8e7be85,2026-11-07T00:10:00Z,Atlanta Hawks,Washington Wizards,pinnacle,2026-11-06T22:23:32Z,player_points,Nickeil Alexander-Walker,Under,22.5,1.85
+2026-11-06T22:23:21Z,alerta,9246c91f746732472c13e94bd8e7be85,2026-11-07T00:10:00Z,Atlanta Hawks,Washington Wizards,pinnacle,2026-11-06T22:23:32Z,player_points,Onyeka Okongwu,Over,16.5,1.87
+2026-11-06T22:23:21Z,alerta,9246c91f746732472c13e94bd8e7be85,2026-11-07T00:10:00Z,Atlanta Hawks,Washington Wizards,pinnacle,2026-11-06T22:23:32Z,player_points,Onyeka Okongwu,Under,16.5,1.87
+2026-11-06T22:23:21Z,alerta,9246c91f746732472c13e94bd8e7be85,2026-11-07T00:10:00Z,Atlanta Hawks,Washington Wizards,pinnacle,2026-11-06T22:23:32Z,player_points,Trae Young,Over,20.5,1.89
+2026-11-06T22:23:21Z,alerta,9246c91f746732472c13e94bd8e7be85,2026-11-07T00:10:00Z,Atlanta Hawks,Washington Wizards,pinnacle,2026-11-06T22:23:32Z,player_points,Trae Young,Under,20.5,1.85
