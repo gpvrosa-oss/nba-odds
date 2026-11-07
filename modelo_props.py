@@ -10,6 +10,8 @@ final e recalibrada com os dados da epoca anterior.
 Testado na epoca 2025-26 (dados nba_api): erro medio 4,6 pontos vs 4,7 da media dos ultimos 10 jogos.
 """
 import math, unicodedata, re
+from datetime import datetime
+from zoneinfo import ZoneInfo
 import numpy as np
 import pandas as pd
 
@@ -240,8 +242,9 @@ def estado_atual(H, s):
     return E, norma, adv
 
 FALTA_BASE = 0.12
+CORR_FALTA, CORR_VOLTA20, CORR_VOLTA8, CORR_ALTO, LIMIAR_ALTO = 0.7, 0.75, 0.85, 0.2, 20.0
 
-def prever(E, norma, adv, par, equipa, adversario, casa, prob_faltar):
+def prever(E, norma, adv, par, equipa, adversario, casa, prob_faltar, data=None):
     """Pontos previstos para cada jogador de 'equipa'. prob_faltar: {jogador_id: 0..1}."""
     R = E[(E.equipa == equipa) & (E.part > 0)].copy()
     R["disp"] = 1 - R.index.map(lambda p: prob_faltar.get(p, 0.0))
@@ -262,6 +265,14 @@ def prever(E, norma, adv, par, equipa, adversario, casa, prob_faltar):
     f = np.exp(c[0] + c[1] * falta + c[2] * math.log(min(max(adv.get(adversario, 1.0), 0.5), 2)) + c[3] * casa
                + (c[4] * falta * ur if len(c) > 4 else 0) + (c[5] * R.tend if len(c) > 5 else 0)
                + (c[6] * R.estrela * adv.attrs.get("sup", {}).get(adversario, 0.0) if len(c) > 6 else 0))
-    R["mu"] = R.m_proj * R.taxa * f
+    # correcoes do teste "noite a noite" (ajustadas em 2025-26, confirmadas em 2026-27: erro 4.92 -> 4.60):
+    # 1) o bonus por colegas em falta era grande demais; 2) quem volta de ausencia longa joga menos;
+    # 3) projecoes muito altas (estrelas) exageravam.
+    f = f * math.exp(-CORR_FALTA * max(falta, 0.0))
+    hoje = pd.Timestamp(datetime.now(ZoneInfo("America/New_York")).date()) if data is None else pd.Timestamp(data)
+    dias = (hoje - pd.to_datetime(R.ultima)).dt.days
+    f = f * np.where(dias > 20, CORR_VOLTA20, np.where(dias > 7, CORR_VOLTA8, 1.0))
+    mu = R.m_proj * R.taxa * f
+    R["mu"] = mu - CORR_ALTO * (mu - LIMIAR_ALTO).clip(lower=0)
     R["falta_equipa"] = falta
     return R
