@@ -1,10 +1,10 @@
 # Apostas virtuais em props (sem dinheiro real)
 
-Atualizado: 2026-11-07 05:37 UTC. Casa de referencia: Pinnacle (linha ~3h antes do jogo).
+Atualizado: 2026-11-07 05:47 UTC. Casa de referencia: Pinnacle (linha ~3h antes do jogo).
 
-- Apostas decididas: **32** (ganhas 34%), anuladas: 1, por decidir: 11
-- Apostado: 31.6 unidades. Lucro: **-10.7 unidades** (ROI -34.0%)
-- CLV medio (bater a linha de fecho; o melhor sinal de qualidade): **+0.5%** em 30 apostas
+- Apostas decididas: **37** (ganhas 35%), anuladas: 1, por decidir: 6
+- Apostado: 36.4 unidades. Lucro: **-11.5 unidades** (ROI -31.7%)
+- CLV medio (bater a linha de fecho; o melhor sinal de qualidade): **+0.2%** em 35 apostas
 
 Regra de bolso: so pensar em dinheiro real com 200+ apostas e CLV medio acima de +2%.
 
@@ -19,12 +19,12 @@ Regra de bolso: so pensar em dinheiro real com 200+ apostas e CLV medio acima de
 2026-11-07T03:10:00Z           Quentin Grimes  Over    6.5 1.77      8.89   1.00       NaN   NaN    NaN     NaN
 2026-11-07T03:10:00Z          Robert Williams  Over    5.5 1.71      8.40   1.00       NaN   NaN    NaN     NaN
 2026-11-07T03:10:00Z             Sidy Cissoko  Over    5.5 2.03      7.06   1.00       NaN   NaN    NaN     NaN
-2026-11-07T03:10:00Z         Domantas Sabonis  Over   13.5 1.91     16.26   1.00       NaN   NaN    NaN     NaN
-2026-11-07T03:10:00Z             Dylan Harper  Over   17.5 2.11     19.02   1.00       NaN   NaN    NaN     NaN
-2026-11-07T03:10:00Z        Julian Champagnie  Over    9.5 2.00     10.72   0.82       NaN   NaN    NaN     NaN
-2026-11-07T03:10:00Z               Malik Monk Under   11.5 2.06     10.90   1.00       NaN   NaN    NaN     NaN
+2026-11-07T03:10:00Z         Domantas Sabonis  Over   13.5 1.91     16.26   1.00    ganhou  17.0   0.91  0.0109
+2026-11-07T03:10:00Z             Dylan Harper  Over   17.5 2.11     19.02   1.00    ganhou  19.0   1.11 -0.0001
+2026-11-07T03:10:00Z        Julian Champagnie  Over    9.5 2.00     10.72   0.82    perdeu   8.0  -0.82 -0.0027
+2026-11-07T03:10:00Z               Malik Monk Under   11.5 2.06     10.90   1.00    perdeu  12.0  -1.00 -0.0651
 2026-11-07T00:40:00Z              Evan Mobley  Over   18.5 1.93     21.42   1.00    ganhou  22.0   0.93  0.0662
 2026-11-07T00:40:00Z             James Harden  Over   18.5 1.97     20.20   1.00    perdeu  17.0  -1.00 -0.0001
 2026-11-07T00:40:00Z            Peyton Watson  Over   10.5 1.82     13.66   1.00    ganhou  13.0   0.82 -0.0078
-2026-11-07T03:10:00Z               Malik Monk Under   11.5 2.13     11.29   1.00       NaN   NaN    NaN     NaN
+2026-11-07T03:10:00Z               Malik Monk Under   11.5 2.13     11.29   1.00    perdeu  12.0  -1.00 -0.0318
 ```
