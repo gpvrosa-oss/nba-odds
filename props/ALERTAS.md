@@ -1,5 +1,19 @@
 # Alertas de ultima hora
 
+## 07/11 00:10 UTC: Philadelphia 76ers @ Cleveland Cavaliers
+
+- **Jarrett Allen** (CLE, 25.1 min de media): Out (antes: 30% de faltar, agora 100%)
+
+Colegas (pontos previstos antes -> agora | linha Pinnacle agora | veredito):
+```
+Evan Mobley               20.0 ->  21.4 (+1.5) | 18.5 (1.93/1.81)   | APOSTA Over @ 1.93 (EV +9.3%)
+Donovan Mitchell          24.6 ->  25.8 (+1.2) | 24.5 (1.79/1.96)   | sem valor (a Pinnacle ja ajustou?)
+James Harden              19.0 ->  20.2 (+1.2) | 18.5 (1.97/1.78)   | APOSTA Over @ 1.97 (EV +3.9%)
+Peyton Watson             12.8 ->  13.7 (+0.9) | 10.5 (1.82/1.93)   | APOSTA Over @ 1.82 (EV +10.7%)
+```
+
+Na Betano/Betclic: confirma se a linha desses jogadores ainda nao subiu.
+
 ## 06/11 22:46 UTC: Washington Wizards @ Atlanta Hawks
 
 - **Anthony Davis** (WSH, 33.1 min de media): Out (antes: 30% de faltar, agora 100%)

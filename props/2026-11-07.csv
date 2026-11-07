@@ -7,3 +7,11 @@ recolhido_em,momento,jogo_id,inicio_jogo,casa,fora,casa_apostas,atualizado_em,me
 2026-11-07T00:00:27Z,fecho,85869b2fdc16ef10d3e2582bf05ead95,2026-11-07T00:40:00Z,Cleveland Cavaliers,Philadelphia 76ers,pinnacle,2026-11-06T23:59:06Z,player_points,James Harden,Under,18.5,1.78
 2026-11-07T00:00:27Z,fecho,85869b2fdc16ef10d3e2582bf05ead95,2026-11-07T00:40:00Z,Cleveland Cavaliers,Philadelphia 76ers,pinnacle,2026-11-06T23:59:06Z,player_points,Peyton Watson,Over,10.5,1.83
 2026-11-07T00:00:27Z,fecho,85869b2fdc16ef10d3e2582bf05ead95,2026-11-07T00:40:00Z,Cleveland Cavaliers,Philadelphia 76ers,pinnacle,2026-11-06T23:59:06Z,player_points,Peyton Watson,Under,10.5,1.91
+2026-11-07T00:10:41Z,alerta,85869b2fdc16ef10d3e2582bf05ead95,2026-11-07T00:40:00Z,Cleveland Cavaliers,Philadelphia 76ers,pinnacle,2026-11-07T00:11:16Z,player_points,Donovan Mitchell,Over,24.5,1.79
+2026-11-07T00:10:41Z,alerta,85869b2fdc16ef10d3e2582bf05ead95,2026-11-07T00:40:00Z,Cleveland Cavaliers,Philadelphia 76ers,pinnacle,2026-11-07T00:11:16Z,player_points,Donovan Mitchell,Under,24.5,1.96
+2026-11-07T00:10:41Z,alerta,85869b2fdc16ef10d3e2582bf05ead95,2026-11-07T00:40:00Z,Cleveland Cavaliers,Philadelphia 76ers,pinnacle,2026-11-07T00:11:16Z,player_points,Evan Mobley,Over,18.5,1.93
+2026-11-07T00:10:41Z,alerta,85869b2fdc16ef10d3e2582bf05ead95,2026-11-07T00:40:00Z,Cleveland Cavaliers,Philadelphia 76ers,pinnacle,2026-11-07T00:11:16Z,player_points,Evan Mobley,Under,18.5,1.81
+2026-11-07T00:10:41Z,alerta,85869b2fdc16ef10d3e2582bf05ead95,2026-11-07T00:40:00Z,Cleveland Cavaliers,Philadelphia 76ers,pinnacle,2026-11-07T00:11:16Z,player_points,James Harden,Over,18.5,1.97
+2026-11-07T00:10:41Z,alerta,85869b2fdc16ef10d3e2582bf05ead95,2026-11-07T00:40:00Z,Cleveland Cavaliers,Philadelphia 76ers,pinnacle,2026-11-07T00:11:16Z,player_points,James Harden,Under,18.5,1.78
+2026-11-07T00:10:41Z,alerta,85869b2fdc16ef10d3e2582bf05ead95,2026-11-07T00:40:00Z,Cleveland Cavaliers,Philadelphia 76ers,pinnacle,2026-11-07T00:11:16Z,player_points,Peyton Watson,Over,10.5,1.82
+2026-11-07T00:10:41Z,alerta,85869b2fdc16ef10d3e2582bf05ead95,2026-11-07T00:40:00Z,Cleveland Cavaliers,Philadelphia 76ers,pinnacle,2026-11-07T00:11:16Z,player_points,Peyton Watson,Under,10.5,1.93
