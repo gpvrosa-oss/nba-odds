@@ -239,6 +239,8 @@ def estado_atual(H, s):
     adv.attrs["sup"] = fator_estrelas(H, s, Dt.taxa * H["min"].clip(lower=0), Dt.estrela, Dt.n, final=True).to_dict()
     return E, norma, adv
 
+FALTA_BASE = 0.12
+
 def prever(E, norma, adv, par, equipa, adversario, casa, prob_faltar):
     """Pontos previstos para cada jogador de 'equipa'. prob_faltar: {jogador_id: 0..1}."""
     R = E[(E.equipa == equipa) & (E.part > 0)].copy()
@@ -249,8 +251,11 @@ def prever(E, norma, adv, par, equipa, adversario, casa, prob_faltar):
     # teste "ao vivo" em 2025-26 isso previa +4.6 minutos e +2.8 pontos a mais; o efeito das ausencias ja
     # entra pelo coeficiente "falta" (e a media recente ja reflete ausencias longas).
     R["m_proj"] = R.m_ew.clip(upper=42)
-    falta = float(np.clip(1 - (R.taxa * R.m_ew * R.part * R.disp).sum() / norma.get(equipa, np.nan), -0.3, 0.6)) \
-        if equipa in norma else 0.0
+    # "falta" = parte da producao habitual (ultimos 10 jogos) que esta noite nao vai jogar, menos o que falta
+    # num jogo normal (FALTA_BASE). Antes comparava com 'norma' e dava falta ~0.15 em quase todos os jogos:
+    # num teste "ao vivo" (3.474 jogos, 2025-26 e 2026-27) isso punha os pontos +2 a +3.5 acima da realidade.
+    S1 = (R.taxa * R.m_ew * R.part).sum()
+    falta = float(np.clip(1 - (R.taxa * R.m_ew * R.part * R.disp).sum() / S1 - FALTA_BASE, -0.3, 0.6)) if S1 > 0 else 0.0
     c = par["coef"]
     um = par.get("usg_media", 0)
     ur = (R.usg / um) if um > 0 else 1.0
