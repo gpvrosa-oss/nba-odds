@@ -313,3 +313,33 @@ recolhido_em,momento,jogo_id,inicio_jogo,casa,fora,casa_apostas,atualizado_em,me
 2026-11-07T22:10:19Z,cedo,39099dc03208d0771daaab5f7993478a,2026-11-08T01:40:00Z,Golden State Warriors,Orlando Magic,pinnacle,2026-11-07T22:10:17Z,player_points,Wendell Carter Jr,Under,12.5,1.81
 2026-11-07T22:10:19Z,cedo,39099dc03208d0771daaab5f7993478a,2026-11-08T01:40:00Z,Golden State Warriors,Orlando Magic,pinnacle,2026-11-07T22:10:17Z,player_points,Yaxel Lendeborg,Over,17.5,1.85
 2026-11-07T22:10:19Z,cedo,39099dc03208d0771daaab5f7993478a,2026-11-08T01:40:00Z,Golden State Warriors,Orlando Magic,pinnacle,2026-11-07T22:10:17Z,player_points,Yaxel Lendeborg,Under,17.5,1.88
+2026-11-07T22:43:48Z,cedo,af8d920f175d73f12933c64ae296573f,2026-11-08T02:10:00Z,Phoenix Suns,Houston Rockets,pinnacle,2026-11-07T22:43:27Z,player_points,Alperen Sengun,Over,20.5,2.09
+2026-11-07T22:43:48Z,cedo,af8d920f175d73f12933c64ae296573f,2026-11-08T02:10:00Z,Phoenix Suns,Houston Rockets,pinnacle,2026-11-07T22:43:27Z,player_points,Alperen Sengun,Under,20.5,1.69
+2026-11-07T22:43:48Z,cedo,af8d920f175d73f12933c64ae296573f,2026-11-08T02:10:00Z,Phoenix Suns,Houston Rockets,pinnacle,2026-11-07T22:43:27Z,player_points,Amen Thompson,Over,14.5,1.8
+2026-11-07T22:43:48Z,cedo,af8d920f175d73f12933c64ae296573f,2026-11-08T02:10:00Z,Phoenix Suns,Houston Rockets,pinnacle,2026-11-07T22:43:27Z,player_points,Amen Thompson,Under,14.5,1.94
+2026-11-07T22:43:48Z,cedo,af8d920f175d73f12933c64ae296573f,2026-11-08T02:10:00Z,Phoenix Suns,Houston Rockets,pinnacle,2026-11-07T22:43:27Z,player_points,Collin Gillespie,Over,8.5,1.79
+2026-11-07T22:43:48Z,cedo,af8d920f175d73f12933c64ae296573f,2026-11-08T02:10:00Z,Phoenix Suns,Houston Rockets,pinnacle,2026-11-07T22:43:27Z,player_points,Collin Gillespie,Under,8.5,1.95
+2026-11-07T22:43:48Z,cedo,af8d920f175d73f12933c64ae296573f,2026-11-08T02:10:00Z,Phoenix Suns,Houston Rockets,pinnacle,2026-11-07T22:43:27Z,player_points,Devin Booker,Over,23.5,1.82
+2026-11-07T22:43:48Z,cedo,af8d920f175d73f12933c64ae296573f,2026-11-08T02:10:00Z,Phoenix Suns,Houston Rockets,pinnacle,2026-11-07T22:43:27Z,player_points,Devin Booker,Under,23.5,1.93
+2026-11-07T22:43:48Z,cedo,af8d920f175d73f12933c64ae296573f,2026-11-08T02:10:00Z,Phoenix Suns,Houston Rockets,pinnacle,2026-11-07T22:43:27Z,player_points,Dillon Brooks,Over,15.5,1.88
+2026-11-07T22:43:48Z,cedo,af8d920f175d73f12933c64ae296573f,2026-11-08T02:10:00Z,Phoenix Suns,Houston Rockets,pinnacle,2026-11-07T22:43:27Z,player_points,Dillon Brooks,Under,15.5,1.88
+2026-11-07T22:43:48Z,cedo,af8d920f175d73f12933c64ae296573f,2026-11-08T02:10:00Z,Phoenix Suns,Houston Rockets,pinnacle,2026-11-07T22:43:27Z,player_points,Fred VanVleet,Over,12.5,2.04
+2026-11-07T22:43:48Z,cedo,af8d920f175d73f12933c64ae296573f,2026-11-08T02:10:00Z,Phoenix Suns,Houston Rockets,pinnacle,2026-11-07T22:43:27Z,player_points,Fred VanVleet,Under,12.5,1.72
+2026-11-07T22:43:48Z,cedo,af8d920f175d73f12933c64ae296573f,2026-11-08T02:10:00Z,Phoenix Suns,Houston Rockets,pinnacle,2026-11-07T22:43:27Z,player_points,Jabari Smith Jr,Over,14.5,1.93
+2026-11-07T22:43:48Z,cedo,af8d920f175d73f12933c64ae296573f,2026-11-08T02:10:00Z,Phoenix Suns,Houston Rockets,pinnacle,2026-11-07T22:43:27Z,player_points,Jabari Smith Jr,Under,14.5,1.81
+2026-11-07T22:43:48Z,cedo,af8d920f175d73f12933c64ae296573f,2026-11-08T02:10:00Z,Phoenix Suns,Houston Rockets,pinnacle,2026-11-07T22:43:27Z,player_points,Jalen Green,Over,14.5,1.76
+2026-11-07T22:43:48Z,cedo,af8d920f175d73f12933c64ae296573f,2026-11-08T02:10:00Z,Phoenix Suns,Houston Rockets,pinnacle,2026-11-07T22:43:27Z,player_points,Jalen Green,Under,14.5,1.99
+2026-11-07T22:43:48Z,cedo,af8d920f175d73f12933c64ae296573f,2026-11-08T02:10:00Z,Phoenix Suns,Houston Rockets,pinnacle,2026-11-07T22:43:27Z,player_points,Kevin Durant,Over,22.5,1.99
+2026-11-07T22:43:48Z,cedo,af8d920f175d73f12933c64ae296573f,2026-11-08T02:10:00Z,Phoenix Suns,Houston Rockets,pinnacle,2026-11-07T22:43:27Z,player_points,Kevin Durant,Under,22.5,1.76
+2026-11-07T22:43:48Z,cedo,af8d920f175d73f12933c64ae296573f,2026-11-08T02:10:00Z,Phoenix Suns,Houston Rockets,pinnacle,2026-11-07T22:43:27Z,player_points,Marcus Smart,Over,6.5,1.83
+2026-11-07T22:43:48Z,cedo,af8d920f175d73f12933c64ae296573f,2026-11-08T02:10:00Z,Phoenix Suns,Houston Rockets,pinnacle,2026-11-07T22:43:27Z,player_points,Marcus Smart,Under,6.5,1.91
+2026-11-07T22:43:48Z,cedo,af8d920f175d73f12933c64ae296573f,2026-11-08T02:10:00Z,Phoenix Suns,Houston Rockets,pinnacle,2026-11-07T22:43:27Z,player_points,Miles Bridges,Over,16.5,2.11
+2026-11-07T22:43:48Z,cedo,af8d920f175d73f12933c64ae296573f,2026-11-08T02:10:00Z,Phoenix Suns,Houston Rockets,pinnacle,2026-11-07T22:43:27Z,player_points,Miles Bridges,Under,16.5,1.68
+2026-11-07T22:43:48Z,cedo,af8d920f175d73f12933c64ae296573f,2026-11-08T02:10:00Z,Phoenix Suns,Houston Rockets,pinnacle,2026-11-07T22:43:27Z,player_points,Reed Sheppard,Over,8.5,2.0
+2026-11-07T22:43:48Z,cedo,af8d920f175d73f12933c64ae296573f,2026-11-08T02:10:00Z,Phoenix Suns,Houston Rockets,pinnacle,2026-11-07T22:43:27Z,player_points,Reed Sheppard,Under,8.5,1.76
+2026-11-07T22:43:48Z,cedo,af8d920f175d73f12933c64ae296573f,2026-11-08T02:10:00Z,Phoenix Suns,Houston Rockets,pinnacle,2026-11-07T22:43:27Z,player_points,Tari Eason,Over,9.5,1.93
+2026-11-07T22:43:48Z,cedo,af8d920f175d73f12933c64ae296573f,2026-11-08T02:10:00Z,Phoenix Suns,Houston Rockets,pinnacle,2026-11-07T22:43:27Z,player_points,Tari Eason,Under,9.5,1.82
+2026-11-07T22:43:48Z,cedo,af8d920f175d73f12933c64ae296573f,2026-11-08T02:10:00Z,Phoenix Suns,Houston Rockets,pinnacle,2026-11-07T22:43:27Z,player_points,Khaman Maluach,Over,5.5,1.88
+2026-11-07T22:43:48Z,cedo,af8d920f175d73f12933c64ae296573f,2026-11-08T02:10:00Z,Phoenix Suns,Houston Rockets,pinnacle,2026-11-07T22:43:27Z,player_points,Khaman Maluach,Under,5.5,1.88
+2026-11-07T22:43:48Z,cedo,af8d920f175d73f12933c64ae296573f,2026-11-08T02:10:00Z,Phoenix Suns,Houston Rockets,pinnacle,2026-11-07T22:43:27Z,player_points,Oso Ighodaro,Over,6.5,1.81
+2026-11-07T22:43:48Z,cedo,af8d920f175d73f12933c64ae296573f,2026-11-08T02:10:00Z,Phoenix Suns,Houston Rockets,pinnacle,2026-11-07T22:43:27Z,player_points,Oso Ighodaro,Under,6.5,1.93
