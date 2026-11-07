@@ -1,10 +1,10 @@
 # Apostas virtuais em props (sem dinheiro real)
 
-Atualizado: 2026-11-07 03:36 UTC. Casa de referencia: Pinnacle (linha ~3h antes do jogo).
+Atualizado: 2026-11-07 03:46 UTC. Casa de referencia: Pinnacle (linha ~3h antes do jogo).
 
-- Apostas decididas: **23** (ganhas 30%), anuladas: 1, por decidir: 20
-- Apostado: 22.6 unidades. Lucro: **-9.4 unidades** (ROI -41.7%)
-- CLV medio (bater a linha de fecho; o melhor sinal de qualidade): **+0.5%** em 22 apostas
+- Apostas decididas: **32** (ganhas 34%), anuladas: 1, por decidir: 11
+- Apostado: 31.6 unidades. Lucro: **-10.7 unidades** (ROI -34.0%)
+- CLV medio (bater a linha de fecho; o melhor sinal de qualidade): **+0.5%** em 30 apostas
 
 Regra de bolso: so pensar em dinheiro real com 200+ apostas e CLV medio acima de +2%.
 
