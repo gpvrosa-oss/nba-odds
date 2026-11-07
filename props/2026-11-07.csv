@@ -15,3 +15,91 @@ recolhido_em,momento,jogo_id,inicio_jogo,casa,fora,casa_apostas,atualizado_em,me
 2026-11-07T00:10:41Z,alerta,85869b2fdc16ef10d3e2582bf05ead95,2026-11-07T00:40:00Z,Cleveland Cavaliers,Philadelphia 76ers,pinnacle,2026-11-07T00:11:16Z,player_points,James Harden,Under,18.5,1.78
 2026-11-07T00:10:41Z,alerta,85869b2fdc16ef10d3e2582bf05ead95,2026-11-07T00:40:00Z,Cleveland Cavaliers,Philadelphia 76ers,pinnacle,2026-11-07T00:11:16Z,player_points,Peyton Watson,Over,10.5,1.82
 2026-11-07T00:10:41Z,alerta,85869b2fdc16ef10d3e2582bf05ead95,2026-11-07T00:40:00Z,Cleveland Cavaliers,Philadelphia 76ers,pinnacle,2026-11-07T00:11:16Z,player_points,Peyton Watson,Under,10.5,1.93
+2026-11-07T00:31:39Z,fecho,62a92e31b546d31ba57caf792815bf65,2026-11-07T01:10:00Z,Dallas Mavericks,Utah Jazz,pinnacle,2026-11-07T00:30:23Z,player_points,Ace Bailey,Over,12.5,1.75
+2026-11-07T00:31:39Z,fecho,62a92e31b546d31ba57caf792815bf65,2026-11-07T01:10:00Z,Dallas Mavericks,Utah Jazz,pinnacle,2026-11-07T00:30:23Z,player_points,Ace Bailey,Under,12.5,2.01
+2026-11-07T00:31:39Z,fecho,62a92e31b546d31ba57caf792815bf65,2026-11-07T01:10:00Z,Dallas Mavericks,Utah Jazz,pinnacle,2026-11-07T00:30:23Z,player_points,Cooper Flagg,Over,25.5,1.73
+2026-11-07T00:31:39Z,fecho,62a92e31b546d31ba57caf792815bf65,2026-11-07T01:10:00Z,Dallas Mavericks,Utah Jazz,pinnacle,2026-11-07T00:30:23Z,player_points,Cooper Flagg,Under,25.5,2.03
+2026-11-07T00:31:39Z,fecho,62a92e31b546d31ba57caf792815bf65,2026-11-07T01:10:00Z,Dallas Mavericks,Utah Jazz,pinnacle,2026-11-07T00:30:23Z,player_points,Daniel Gafford,Over,9.5,1.99
+2026-11-07T00:31:39Z,fecho,62a92e31b546d31ba57caf792815bf65,2026-11-07T01:10:00Z,Dallas Mavericks,Utah Jazz,pinnacle,2026-11-07T00:30:23Z,player_points,Daniel Gafford,Under,9.5,1.76
+2026-11-07T00:31:39Z,fecho,62a92e31b546d31ba57caf792815bf65,2026-11-07T01:10:00Z,Dallas Mavericks,Utah Jazz,pinnacle,2026-11-07T00:30:23Z,player_points,Darryn Peterson,Over,13.5,1.94
+2026-11-07T00:31:39Z,fecho,62a92e31b546d31ba57caf792815bf65,2026-11-07T01:10:00Z,Dallas Mavericks,Utah Jazz,pinnacle,2026-11-07T00:30:23Z,player_points,Darryn Peterson,Under,13.5,1.8
+2026-11-07T00:31:39Z,fecho,62a92e31b546d31ba57caf792815bf65,2026-11-07T01:10:00Z,Dallas Mavericks,Utah Jazz,pinnacle,2026-11-07T00:30:23Z,player_points,Jaxson Hayes,Over,8.5,1.99
+2026-11-07T00:31:39Z,fecho,62a92e31b546d31ba57caf792815bf65,2026-11-07T01:10:00Z,Dallas Mavericks,Utah Jazz,pinnacle,2026-11-07T00:30:23Z,player_points,Jaxson Hayes,Under,8.5,1.76
+2026-11-07T00:31:39Z,fecho,62a92e31b546d31ba57caf792815bf65,2026-11-07T01:10:00Z,Dallas Mavericks,Utah Jazz,pinnacle,2026-11-07T00:30:23Z,player_points,Keyonte George,Over,21.5,1.93
+2026-11-07T00:31:39Z,fecho,62a92e31b546d31ba57caf792815bf65,2026-11-07T01:10:00Z,Dallas Mavericks,Utah Jazz,pinnacle,2026-11-07T00:30:23Z,player_points,Keyonte George,Under,21.5,1.82
+2026-11-07T00:31:39Z,fecho,62a92e31b546d31ba57caf792815bf65,2026-11-07T01:10:00Z,Dallas Mavericks,Utah Jazz,pinnacle,2026-11-07T00:30:23Z,player_points,Kyrie Irving,Over,22.5,1.98
+2026-11-07T00:31:39Z,fecho,62a92e31b546d31ba57caf792815bf65,2026-11-07T01:10:00Z,Dallas Mavericks,Utah Jazz,pinnacle,2026-11-07T00:30:23Z,player_points,Kyrie Irving,Under,22.5,1.77
+2026-11-07T00:31:39Z,fecho,62a92e31b546d31ba57caf792815bf65,2026-11-07T01:10:00Z,Dallas Mavericks,Utah Jazz,pinnacle,2026-11-07T00:30:23Z,player_points,Lauri Markkanen,Over,21.5,2.05
+2026-11-07T00:31:39Z,fecho,62a92e31b546d31ba57caf792815bf65,2026-11-07T01:10:00Z,Dallas Mavericks,Utah Jazz,pinnacle,2026-11-07T00:30:23Z,player_points,Lauri Markkanen,Under,21.5,1.72
+2026-11-07T00:31:39Z,fecho,62a92e31b546d31ba57caf792815bf65,2026-11-07T01:10:00Z,Dallas Mavericks,Utah Jazz,pinnacle,2026-11-07T00:30:23Z,player_points,Max Christie,Over,8.5,2.29
+2026-11-07T00:31:39Z,fecho,62a92e31b546d31ba57caf792815bf65,2026-11-07T01:10:00Z,Dallas Mavericks,Utah Jazz,pinnacle,2026-11-07T00:30:23Z,player_points,Max Christie,Under,8.5,1.58
+2026-11-07T00:31:39Z,fecho,62a92e31b546d31ba57caf792815bf65,2026-11-07T01:10:00Z,Dallas Mavericks,Utah Jazz,pinnacle,2026-11-07T00:30:23Z,player_points,Naji Marshall,Over,11.5,1.76
+2026-11-07T00:31:39Z,fecho,62a92e31b546d31ba57caf792815bf65,2026-11-07T01:10:00Z,Dallas Mavericks,Utah Jazz,pinnacle,2026-11-07T00:30:23Z,player_points,Naji Marshall,Under,11.5,1.99
+2026-11-07T00:31:39Z,fecho,62a92e31b546d31ba57caf792815bf65,2026-11-07T01:10:00Z,Dallas Mavericks,Utah Jazz,pinnacle,2026-11-07T00:30:23Z,player_points,P.J. Washington,Over,12.5,1.69
+2026-11-07T00:31:39Z,fecho,62a92e31b546d31ba57caf792815bf65,2026-11-07T01:10:00Z,Dallas Mavericks,Utah Jazz,pinnacle,2026-11-07T00:30:23Z,player_points,P.J. Washington,Under,12.5,2.09
+2026-11-07T00:31:39Z,fecho,62a92e31b546d31ba57caf792815bf65,2026-11-07T01:10:00Z,Dallas Mavericks,Utah Jazz,pinnacle,2026-11-07T00:30:23Z,player_points,Zaccharie Risacher,Over,7.5,2.16
+2026-11-07T00:31:39Z,fecho,62a92e31b546d31ba57caf792815bf65,2026-11-07T01:10:00Z,Dallas Mavericks,Utah Jazz,pinnacle,2026-11-07T00:30:23Z,player_points,Zaccharie Risacher,Under,7.5,1.65
+2026-11-07T00:31:39Z,fecho,62a92e31b546d31ba57caf792815bf65,2026-11-07T01:10:00Z,Dallas Mavericks,Utah Jazz,pinnacle,2026-11-07T00:30:23Z,player_points,Mo Bamba,Over,7.5,2.53
+2026-11-07T00:31:39Z,fecho,62a92e31b546d31ba57caf792815bf65,2026-11-07T01:10:00Z,Dallas Mavericks,Utah Jazz,pinnacle,2026-11-07T00:30:23Z,player_points,Mo Bamba,Under,7.5,1.48
+2026-11-07T00:31:39Z,fecho,86684f64a8ec8385537a36c3b3768935,2026-11-07T01:10:00Z,Memphis Grizzlies,Oklahoma City Thunder,pinnacle,2026-11-07T00:31:09Z,player_points,Aday Mara,Over,7.5,1.77
+2026-11-07T00:31:39Z,fecho,86684f64a8ec8385537a36c3b3768935,2026-11-07T01:10:00Z,Memphis Grizzlies,Oklahoma City Thunder,pinnacle,2026-11-07T00:31:09Z,player_points,Aday Mara,Under,7.5,1.98
+2026-11-07T00:31:39Z,fecho,86684f64a8ec8385537a36c3b3768935,2026-11-07T01:10:00Z,Memphis Grizzlies,Oklahoma City Thunder,pinnacle,2026-11-07T00:31:09Z,player_points,Ajay Mitchell,Over,18.5,1.59
+2026-11-07T00:31:39Z,fecho,86684f64a8ec8385537a36c3b3768935,2026-11-07T01:10:00Z,Memphis Grizzlies,Oklahoma City Thunder,pinnacle,2026-11-07T00:31:09Z,player_points,Ajay Mitchell,Under,18.5,2.27
+2026-11-07T00:31:39Z,fecho,86684f64a8ec8385537a36c3b3768935,2026-11-07T01:10:00Z,Memphis Grizzlies,Oklahoma City Thunder,pinnacle,2026-11-07T00:31:09Z,player_points,Alex Caruso,Over,8.5,1.93
+2026-11-07T00:31:39Z,fecho,86684f64a8ec8385537a36c3b3768935,2026-11-07T01:10:00Z,Memphis Grizzlies,Oklahoma City Thunder,pinnacle,2026-11-07T00:31:09Z,player_points,Alex Caruso,Under,8.5,1.82
+2026-11-07T00:31:39Z,fecho,86684f64a8ec8385537a36c3b3768935,2026-11-07T01:10:00Z,Memphis Grizzlies,Oklahoma City Thunder,pinnacle,2026-11-07T00:31:09Z,player_points,Cameron Boozer,Over,16.5,1.85
+2026-11-07T00:31:39Z,fecho,86684f64a8ec8385537a36c3b3768935,2026-11-07T01:10:00Z,Memphis Grizzlies,Oklahoma City Thunder,pinnacle,2026-11-07T00:31:09Z,player_points,Cameron Boozer,Under,16.5,1.89
+2026-11-07T00:31:39Z,fecho,86684f64a8ec8385537a36c3b3768935,2026-11-07T01:10:00Z,Memphis Grizzlies,Oklahoma City Thunder,pinnacle,2026-11-07T00:31:09Z,player_points,Cedric Coward,Over,12.5,1.77
+2026-11-07T00:31:39Z,fecho,86684f64a8ec8385537a36c3b3768935,2026-11-07T01:10:00Z,Memphis Grizzlies,Oklahoma City Thunder,pinnacle,2026-11-07T00:31:09Z,player_points,Cedric Coward,Under,12.5,1.98
+2026-11-07T00:31:39Z,fecho,86684f64a8ec8385537a36c3b3768935,2026-11-07T01:10:00Z,Memphis Grizzlies,Oklahoma City Thunder,pinnacle,2026-11-07T00:31:09Z,player_points,Isaiah Hartenstein,Over,8.5,1.77
+2026-11-07T00:31:39Z,fecho,86684f64a8ec8385537a36c3b3768935,2026-11-07T01:10:00Z,Memphis Grizzlies,Oklahoma City Thunder,pinnacle,2026-11-07T00:31:09Z,player_points,Isaiah Hartenstein,Under,8.5,1.98
+2026-11-07T00:31:39Z,fecho,86684f64a8ec8385537a36c3b3768935,2026-11-07T01:10:00Z,Memphis Grizzlies,Oklahoma City Thunder,pinnacle,2026-11-07T00:31:09Z,player_points,Jared McCain,Over,12.5,1.95
+2026-11-07T00:31:39Z,fecho,86684f64a8ec8385537a36c3b3768935,2026-11-07T01:10:00Z,Memphis Grizzlies,Oklahoma City Thunder,pinnacle,2026-11-07T00:31:09Z,player_points,Jared McCain,Under,12.5,1.79
+2026-11-07T00:31:39Z,fecho,86684f64a8ec8385537a36c3b3768935,2026-11-07T01:10:00Z,Memphis Grizzlies,Oklahoma City Thunder,pinnacle,2026-11-07T00:31:09Z,player_points,Jaylen Wells,Over,10.5,1.81
+2026-11-07T00:31:39Z,fecho,86684f64a8ec8385537a36c3b3768935,2026-11-07T01:10:00Z,Memphis Grizzlies,Oklahoma City Thunder,pinnacle,2026-11-07T00:31:09Z,player_points,Jaylen Wells,Under,10.5,1.93
+2026-11-07T00:31:39Z,fecho,86684f64a8ec8385537a36c3b3768935,2026-11-07T01:10:00Z,Memphis Grizzlies,Oklahoma City Thunder,pinnacle,2026-11-07T00:31:09Z,player_points,Kenrich Williams,Over,10.5,2.27
+2026-11-07T00:31:39Z,fecho,86684f64a8ec8385537a36c3b3768935,2026-11-07T01:10:00Z,Memphis Grizzlies,Oklahoma City Thunder,pinnacle,2026-11-07T00:31:09Z,player_points,Kenrich Williams,Under,10.5,1.59
+2026-11-07T00:31:39Z,fecho,86684f64a8ec8385537a36c3b3768935,2026-11-07T01:10:00Z,Memphis Grizzlies,Oklahoma City Thunder,pinnacle,2026-11-07T00:31:09Z,player_points,Shai Gilgeous-Alexander,Over,32.5,1.84
+2026-11-07T00:31:39Z,fecho,86684f64a8ec8385537a36c3b3768935,2026-11-07T01:10:00Z,Memphis Grizzlies,Oklahoma City Thunder,pinnacle,2026-11-07T00:31:09Z,player_points,Shai Gilgeous-Alexander,Under,32.5,1.9
+2026-11-07T00:31:39Z,fecho,86684f64a8ec8385537a36c3b3768935,2026-11-07T01:10:00Z,Memphis Grizzlies,Oklahoma City Thunder,pinnacle,2026-11-07T00:31:09Z,player_points,Ty Jerome,Over,21.5,2.16
+2026-11-07T00:31:39Z,fecho,86684f64a8ec8385537a36c3b3768935,2026-11-07T01:10:00Z,Memphis Grizzlies,Oklahoma City Thunder,pinnacle,2026-11-07T00:31:09Z,player_points,Ty Jerome,Under,21.5,1.65
+2026-11-07T00:31:39Z,fecho,86684f64a8ec8385537a36c3b3768935,2026-11-07T01:10:00Z,Memphis Grizzlies,Oklahoma City Thunder,pinnacle,2026-11-07T00:31:09Z,player_points,Zach Edey,Over,7.5,1.69
+2026-11-07T00:31:39Z,fecho,86684f64a8ec8385537a36c3b3768935,2026-11-07T01:10:00Z,Memphis Grizzlies,Oklahoma City Thunder,pinnacle,2026-11-07T00:31:09Z,player_points,Zach Edey,Under,7.5,2.08
+2026-11-07T00:31:39Z,fecho,86684f64a8ec8385537a36c3b3768935,2026-11-07T01:10:00Z,Memphis Grizzlies,Oklahoma City Thunder,pinnacle,2026-11-07T00:31:09Z,player_points,Cam Spencer,Over,7.5,1.8
+2026-11-07T00:31:39Z,fecho,86684f64a8ec8385537a36c3b3768935,2026-11-07T01:10:00Z,Memphis Grizzlies,Oklahoma City Thunder,pinnacle,2026-11-07T00:31:09Z,player_points,Cam Spencer,Under,7.5,1.94
+2026-11-07T00:31:39Z,fecho,86684f64a8ec8385537a36c3b3768935,2026-11-07T01:10:00Z,Memphis Grizzlies,Oklahoma City Thunder,pinnacle,2026-11-07T00:31:09Z,player_points,Jerami Grant,Over,11.5,2.36
+2026-11-07T00:31:39Z,fecho,86684f64a8ec8385537a36c3b3768935,2026-11-07T01:10:00Z,Memphis Grizzlies,Oklahoma City Thunder,pinnacle,2026-11-07T00:31:09Z,player_points,Jerami Grant,Under,11.5,1.55
+2026-11-07T00:31:39Z,fecho,1c60a090180de530cfe273a5d6a381e6,2026-11-07T01:10:00Z,Milwaukee Bucks,Toronto Raptors,pinnacle,2026-11-07T00:30:21Z,player_points,Collin Murray-Boyles,Over,14.5,1.79
+2026-11-07T00:31:39Z,fecho,1c60a090180de530cfe273a5d6a381e6,2026-11-07T01:10:00Z,Milwaukee Bucks,Toronto Raptors,pinnacle,2026-11-07T00:30:21Z,player_points,Collin Murray-Boyles,Under,14.5,1.95
+2026-11-07T00:31:39Z,fecho,1c60a090180de530cfe273a5d6a381e6,2026-11-07T01:10:00Z,Milwaukee Bucks,Toronto Raptors,pinnacle,2026-11-07T00:30:21Z,player_points,Ja'Kobe Walter,Over,14.5,1.85
+2026-11-07T00:31:39Z,fecho,1c60a090180de530cfe273a5d6a381e6,2026-11-07T01:10:00Z,Milwaukee Bucks,Toronto Raptors,pinnacle,2026-11-07T00:30:21Z,player_points,Ja'Kobe Walter,Under,14.5,1.89
+2026-11-07T00:31:39Z,fecho,1c60a090180de530cfe273a5d6a381e6,2026-11-07T01:10:00Z,Milwaukee Bucks,Toronto Raptors,pinnacle,2026-11-07T00:30:21Z,player_points,R.J. Barrett,Over,26.5,1.8
+2026-11-07T00:31:39Z,fecho,1c60a090180de530cfe273a5d6a381e6,2026-11-07T01:10:00Z,Milwaukee Bucks,Toronto Raptors,pinnacle,2026-11-07T00:30:21Z,player_points,R.J. Barrett,Under,26.5,1.94
+2026-11-07T00:31:39Z,fecho,1c60a090180de530cfe273a5d6a381e6,2026-11-07T01:10:00Z,Milwaukee Bucks,Toronto Raptors,pinnacle,2026-11-07T00:30:21Z,player_points,Jamal Shead,Over,11.5,1.94
+2026-11-07T00:31:39Z,fecho,1c60a090180de530cfe273a5d6a381e6,2026-11-07T01:10:00Z,Milwaukee Bucks,Toronto Raptors,pinnacle,2026-11-07T00:30:21Z,player_points,Jamal Shead,Under,11.5,1.8
+2026-11-07T00:31:39Z,fecho,1c60a090180de530cfe273a5d6a381e6,2026-11-07T01:10:00Z,Milwaukee Bucks,Toronto Raptors,pinnacle,2026-11-07T00:30:21Z,player_points,Jakob Poeltl,Over,9.5,1.87
+2026-11-07T00:31:39Z,fecho,1c60a090180de530cfe273a5d6a381e6,2026-11-07T01:10:00Z,Milwaukee Bucks,Toronto Raptors,pinnacle,2026-11-07T00:30:21Z,player_points,Jakob Poeltl,Under,9.5,1.87
+2026-11-07T00:31:39Z,fecho,5e4708fadda49a3c06fd7ac50414020e,2026-11-07T01:10:00Z,New Orleans Pelicans,Minnesota Timberwolves,pinnacle,2026-11-07T00:30:23Z,player_points,Ayo Dosunmu,Over,17.5,1.76
+2026-11-07T00:31:39Z,fecho,5e4708fadda49a3c06fd7ac50414020e,2026-11-07T01:10:00Z,New Orleans Pelicans,Minnesota Timberwolves,pinnacle,2026-11-07T00:30:23Z,player_points,Ayo Dosunmu,Under,17.5,1.99
+2026-11-07T00:31:39Z,fecho,5e4708fadda49a3c06fd7ac50414020e,2026-11-07T01:10:00Z,New Orleans Pelicans,Minnesota Timberwolves,pinnacle,2026-11-07T00:30:23Z,player_points,Dejounte Murray,Over,16.5,1.88
+2026-11-07T00:31:39Z,fecho,5e4708fadda49a3c06fd7ac50414020e,2026-11-07T01:10:00Z,New Orleans Pelicans,Minnesota Timberwolves,pinnacle,2026-11-07T00:30:23Z,player_points,Dejounte Murray,Under,16.5,1.88
+2026-11-07T00:31:39Z,fecho,5e4708fadda49a3c06fd7ac50414020e,2026-11-07T01:10:00Z,New Orleans Pelicans,Minnesota Timberwolves,pinnacle,2026-11-07T00:30:23Z,player_points,Derik Queen,Over,10.5,2.05
+2026-11-07T00:31:39Z,fecho,5e4708fadda49a3c06fd7ac50414020e,2026-11-07T01:10:00Z,New Orleans Pelicans,Minnesota Timberwolves,pinnacle,2026-11-07T00:30:23Z,player_points,Derik Queen,Under,10.5,1.72
+2026-11-07T00:31:39Z,fecho,5e4708fadda49a3c06fd7ac50414020e,2026-11-07T01:10:00Z,New Orleans Pelicans,Minnesota Timberwolves,pinnacle,2026-11-07T00:30:23Z,player_points,Jaden McDaniels,Over,17.5,1.88
+2026-11-07T00:31:39Z,fecho,5e4708fadda49a3c06fd7ac50414020e,2026-11-07T01:10:00Z,New Orleans Pelicans,Minnesota Timberwolves,pinnacle,2026-11-07T00:30:23Z,player_points,Jaden McDaniels,Under,17.5,1.86
+2026-11-07T00:31:39Z,fecho,5e4708fadda49a3c06fd7ac50414020e,2026-11-07T01:10:00Z,New Orleans Pelicans,Minnesota Timberwolves,pinnacle,2026-11-07T00:30:23Z,player_points,Jeremiah Fears,Over,14.5,2.09
+2026-11-07T00:31:39Z,fecho,5e4708fadda49a3c06fd7ac50414020e,2026-11-07T01:10:00Z,New Orleans Pelicans,Minnesota Timberwolves,pinnacle,2026-11-07T00:30:23Z,player_points,Jeremiah Fears,Under,14.5,1.69
+2026-11-07T00:31:39Z,fecho,5e4708fadda49a3c06fd7ac50414020e,2026-11-07T01:10:00Z,New Orleans Pelicans,Minnesota Timberwolves,pinnacle,2026-11-07T00:30:23Z,player_points,Jonathan Kuminga,Over,14.5,1.81
+2026-11-07T00:31:39Z,fecho,5e4708fadda49a3c06fd7ac50414020e,2026-11-07T01:10:00Z,New Orleans Pelicans,Minnesota Timberwolves,pinnacle,2026-11-07T00:30:23Z,player_points,Jonathan Kuminga,Under,14.5,1.93
+2026-11-07T00:31:39Z,fecho,5e4708fadda49a3c06fd7ac50414020e,2026-11-07T01:10:00Z,New Orleans Pelicans,Minnesota Timberwolves,pinnacle,2026-11-07T00:30:23Z,player_points,Karlo Matkovic,Over,6.5,1.85
+2026-11-07T00:31:39Z,fecho,5e4708fadda49a3c06fd7ac50414020e,2026-11-07T01:10:00Z,New Orleans Pelicans,Minnesota Timberwolves,pinnacle,2026-11-07T00:30:23Z,player_points,Karlo Matkovic,Under,6.5,1.88
+2026-11-07T00:31:39Z,fecho,5e4708fadda49a3c06fd7ac50414020e,2026-11-07T01:10:00Z,New Orleans Pelicans,Minnesota Timberwolves,pinnacle,2026-11-07T00:30:23Z,player_points,LaMelo Ball,Over,21.5,1.89
+2026-11-07T00:31:39Z,fecho,5e4708fadda49a3c06fd7ac50414020e,2026-11-07T01:10:00Z,New Orleans Pelicans,Minnesota Timberwolves,pinnacle,2026-11-07T00:30:23Z,player_points,LaMelo Ball,Under,21.5,1.85
+2026-11-07T00:31:39Z,fecho,5e4708fadda49a3c06fd7ac50414020e,2026-11-07T01:10:00Z,New Orleans Pelicans,Minnesota Timberwolves,pinnacle,2026-11-07T00:30:23Z,player_points,Rudy Gobert,Over,9.5,1.74
+2026-11-07T00:31:39Z,fecho,5e4708fadda49a3c06fd7ac50414020e,2026-11-07T01:10:00Z,New Orleans Pelicans,Minnesota Timberwolves,pinnacle,2026-11-07T00:30:23Z,player_points,Rudy Gobert,Under,9.5,2.03
+2026-11-07T00:31:39Z,fecho,5e4708fadda49a3c06fd7ac50414020e,2026-11-07T01:10:00Z,New Orleans Pelicans,Minnesota Timberwolves,pinnacle,2026-11-07T00:30:23Z,player_points,Saddiq Bey,Over,12.5,1.95
+2026-11-07T00:31:39Z,fecho,5e4708fadda49a3c06fd7ac50414020e,2026-11-07T01:10:00Z,New Orleans Pelicans,Minnesota Timberwolves,pinnacle,2026-11-07T00:30:23Z,player_points,Saddiq Bey,Under,12.5,1.79
+2026-11-07T00:31:39Z,fecho,5e4708fadda49a3c06fd7ac50414020e,2026-11-07T01:10:00Z,New Orleans Pelicans,Minnesota Timberwolves,pinnacle,2026-11-07T00:30:23Z,player_points,Trey Murphy III,Over,15.5,2.0
+2026-11-07T00:31:39Z,fecho,5e4708fadda49a3c06fd7ac50414020e,2026-11-07T01:10:00Z,New Orleans Pelicans,Minnesota Timberwolves,pinnacle,2026-11-07T00:30:23Z,player_points,Trey Murphy III,Under,15.5,1.76
+2026-11-07T00:31:39Z,fecho,5e4708fadda49a3c06fd7ac50414020e,2026-11-07T01:10:00Z,New Orleans Pelicans,Minnesota Timberwolves,pinnacle,2026-11-07T00:30:23Z,player_points,Zion Williamson,Over,19.5,1.85
+2026-11-07T00:31:39Z,fecho,5e4708fadda49a3c06fd7ac50414020e,2026-11-07T01:10:00Z,New Orleans Pelicans,Minnesota Timberwolves,pinnacle,2026-11-07T00:30:23Z,player_points,Zion Williamson,Under,19.5,1.88
