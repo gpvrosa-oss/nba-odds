@@ -227,3 +227,27 @@ recolhido_em,momento,jogo_id,inicio_jogo,casa,fora,casa_apostas,atualizado_em,me
 2026-11-07T21:13:25Z,cedo,ee45341df802cfb42dd48f1ad60c8b81,2026-11-08T00:40:00Z,Atlanta Hawks,Brooklyn Nets,pinnacle,2026-11-07T21:12:16Z,player_points,Nolan Traore,Under,10.5,2.04
 2026-11-07T21:13:25Z,cedo,ee45341df802cfb42dd48f1ad60c8b81,2026-11-08T00:40:00Z,Atlanta Hawks,Brooklyn Nets,pinnacle,2026-11-07T21:12:16Z,player_points,Onyeka Okongwu,Over,12.5,1.77
 2026-11-07T21:13:25Z,cedo,ee45341df802cfb42dd48f1ad60c8b81,2026-11-08T00:40:00Z,Atlanta Hawks,Brooklyn Nets,pinnacle,2026-11-07T21:12:16Z,player_points,Onyeka Okongwu,Under,12.5,1.98
+2026-11-07T21:26:44Z,fecho,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Indiana Pacers,Denver Nuggets,pinnacle,2026-11-07T21:26:17Z,player_points,Aaron Gordon,Over,13.5,1.96
+2026-11-07T21:26:44Z,fecho,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Indiana Pacers,Denver Nuggets,pinnacle,2026-11-07T21:26:17Z,player_points,Aaron Gordon,Under,13.5,1.78
+2026-11-07T21:26:44Z,fecho,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Indiana Pacers,Denver Nuggets,pinnacle,2026-11-07T21:26:17Z,player_points,Aaron Nesmith,Over,12.5,1.75
+2026-11-07T21:26:44Z,fecho,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Indiana Pacers,Denver Nuggets,pinnacle,2026-11-07T21:26:17Z,player_points,Aaron Nesmith,Under,12.5,2.01
+2026-11-07T21:26:44Z,fecho,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Indiana Pacers,Denver Nuggets,pinnacle,2026-11-07T21:26:17Z,player_points,Andrew Nembhard,Over,16.5,1.92
+2026-11-07T21:26:44Z,fecho,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Indiana Pacers,Denver Nuggets,pinnacle,2026-11-07T21:26:17Z,player_points,Andrew Nembhard,Under,16.5,1.82
+2026-11-07T21:26:44Z,fecho,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Indiana Pacers,Denver Nuggets,pinnacle,2026-11-07T21:26:17Z,player_points,Cameron Johnson,Over,12.5,2.1
+2026-11-07T21:26:44Z,fecho,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Indiana Pacers,Denver Nuggets,pinnacle,2026-11-07T21:26:17Z,player_points,Cameron Johnson,Under,12.5,1.68
+2026-11-07T21:26:44Z,fecho,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Indiana Pacers,Denver Nuggets,pinnacle,2026-11-07T21:26:17Z,player_points,Christian Braun,Over,12.5,1.89
+2026-11-07T21:26:44Z,fecho,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Indiana Pacers,Denver Nuggets,pinnacle,2026-11-07T21:26:17Z,player_points,Christian Braun,Under,12.5,1.85
+2026-11-07T21:26:44Z,fecho,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Indiana Pacers,Denver Nuggets,pinnacle,2026-11-07T21:26:17Z,player_points,DeMar DeRozan,Over,12.5,2.06
+2026-11-07T21:26:44Z,fecho,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Indiana Pacers,Denver Nuggets,pinnacle,2026-11-07T21:26:17Z,player_points,DeMar DeRozan,Under,12.5,1.71
+2026-11-07T21:26:44Z,fecho,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Indiana Pacers,Denver Nuggets,pinnacle,2026-11-07T21:26:17Z,player_points,Ivica Zubac,Over,10.5,1.98
+2026-11-07T21:26:44Z,fecho,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Indiana Pacers,Denver Nuggets,pinnacle,2026-11-07T21:26:17Z,player_points,Ivica Zubac,Under,10.5,1.77
+2026-11-07T21:26:44Z,fecho,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Indiana Pacers,Denver Nuggets,pinnacle,2026-11-07T21:26:17Z,player_points,Jamal Murray,Over,22.5,1.68
+2026-11-07T21:26:44Z,fecho,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Indiana Pacers,Denver Nuggets,pinnacle,2026-11-07T21:26:17Z,player_points,Jamal Murray,Under,22.5,2.11
+2026-11-07T21:26:44Z,fecho,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Indiana Pacers,Denver Nuggets,pinnacle,2026-11-07T21:26:17Z,player_points,Kelly Oubre Jr.,Over,9.5,2.04
+2026-11-07T21:26:44Z,fecho,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Indiana Pacers,Denver Nuggets,pinnacle,2026-11-07T21:26:17Z,player_points,Kelly Oubre Jr.,Under,9.5,1.72
+2026-11-07T21:26:44Z,fecho,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Indiana Pacers,Denver Nuggets,pinnacle,2026-11-07T21:26:17Z,player_points,Nikola Jokic,Over,26.5,2.1
+2026-11-07T21:26:44Z,fecho,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Indiana Pacers,Denver Nuggets,pinnacle,2026-11-07T21:26:17Z,player_points,Nikola Jokic,Under,26.5,1.69
+2026-11-07T21:26:44Z,fecho,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Indiana Pacers,Denver Nuggets,pinnacle,2026-11-07T21:26:17Z,player_points,Obi Toppin,Over,11.5,2.03
+2026-11-07T21:26:44Z,fecho,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Indiana Pacers,Denver Nuggets,pinnacle,2026-11-07T21:26:17Z,player_points,Obi Toppin,Under,11.5,1.73
+2026-11-07T21:26:44Z,fecho,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Indiana Pacers,Denver Nuggets,pinnacle,2026-11-07T21:26:17Z,player_points,Pascal Siakam,Over,20.5,1.88
+2026-11-07T21:26:44Z,fecho,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Indiana Pacers,Denver Nuggets,pinnacle,2026-11-07T21:26:17Z,player_points,Pascal Siakam,Under,20.5,1.86
