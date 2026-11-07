@@ -1,5 +1,20 @@
 # Alertas de ultima hora
 
+## 07/11 00:53 UTC: San Antonio Spurs @ Sacramento Kings
+
+- **De'Andre Hunter** (SAC, 31.2 min de media): Out (antes: 30% de faltar, agora 100%)
+
+Colegas (pontos previstos antes -> agora | linha Pinnacle agora | veredito):
+```
+Domantas Sabonis          15.9 ->  17.1 (+1.2) | 13.5 (1.91/1.83)   | passar
+Zach LaVine               20.2 ->  21.2 (+1.1) | 19.5 (1.88/1.85)   | sem valor (a Pinnacle ja ajustou?)
+Precious Achiuwa          11.4 ->  12.3 (+0.9) | 8.5 (2.09/1.69)    | passar
+Darius Acuff Jr.          24.7 ->  25.6 (+0.8) | 23.5 (2.0/1.76)    | passar
+Malik Monk                10.7 ->  11.3 (+0.6) | 11.5 (1.66/2.13)   | APOSTA Under @ 2.13 (EV +5.0%)
+```
+
+Na Betano/Betclic: confirma se a linha desses jogadores ainda nao subiu.
+
 ## 07/11 00:10 UTC: Philadelphia 76ers @ Cleveland Cavaliers
 
 - **Jarrett Allen** (CLE, 25.1 min de media): Out (antes: 30% de faltar, agora 100%)

@@ -103,3 +103,27 @@ recolhido_em,momento,jogo_id,inicio_jogo,casa,fora,casa_apostas,atualizado_em,me
 2026-11-07T00:31:39Z,fecho,5e4708fadda49a3c06fd7ac50414020e,2026-11-07T01:10:00Z,New Orleans Pelicans,Minnesota Timberwolves,pinnacle,2026-11-07T00:30:23Z,player_points,Trey Murphy III,Under,15.5,1.76
 2026-11-07T00:31:39Z,fecho,5e4708fadda49a3c06fd7ac50414020e,2026-11-07T01:10:00Z,New Orleans Pelicans,Minnesota Timberwolves,pinnacle,2026-11-07T00:30:23Z,player_points,Zion Williamson,Over,19.5,1.85
 2026-11-07T00:31:39Z,fecho,5e4708fadda49a3c06fd7ac50414020e,2026-11-07T01:10:00Z,New Orleans Pelicans,Minnesota Timberwolves,pinnacle,2026-11-07T00:30:23Z,player_points,Zion Williamson,Under,19.5,1.88
+2026-11-07T00:53:44Z,alerta,d24eb5492983d6e28be3b96df396fa12,2026-11-07T03:10:00Z,Sacramento Kings,San Antonio Spurs,pinnacle,2026-11-07T00:53:23Z,player_points,Darius Acuff Jr.,Over,23.5,2.0
+2026-11-07T00:53:44Z,alerta,d24eb5492983d6e28be3b96df396fa12,2026-11-07T03:10:00Z,Sacramento Kings,San Antonio Spurs,pinnacle,2026-11-07T00:53:23Z,player_points,Darius Acuff Jr.,Under,23.5,1.76
+2026-11-07T00:53:44Z,alerta,d24eb5492983d6e28be3b96df396fa12,2026-11-07T03:10:00Z,Sacramento Kings,San Antonio Spurs,pinnacle,2026-11-07T00:53:23Z,player_points,De'Aaron Fox,Over,15.5,1.88
+2026-11-07T00:53:44Z,alerta,d24eb5492983d6e28be3b96df396fa12,2026-11-07T03:10:00Z,Sacramento Kings,San Antonio Spurs,pinnacle,2026-11-07T00:53:23Z,player_points,De'Aaron Fox,Under,15.5,1.88
+2026-11-07T00:53:44Z,alerta,d24eb5492983d6e28be3b96df396fa12,2026-11-07T03:10:00Z,Sacramento Kings,San Antonio Spurs,pinnacle,2026-11-07T00:53:23Z,player_points,Devin Vassell,Over,11.5,1.85
+2026-11-07T00:53:44Z,alerta,d24eb5492983d6e28be3b96df396fa12,2026-11-07T03:10:00Z,Sacramento Kings,San Antonio Spurs,pinnacle,2026-11-07T00:53:23Z,player_points,Devin Vassell,Under,11.5,1.88
+2026-11-07T00:53:44Z,alerta,d24eb5492983d6e28be3b96df396fa12,2026-11-07T03:10:00Z,Sacramento Kings,San Antonio Spurs,pinnacle,2026-11-07T00:53:23Z,player_points,Domantas Sabonis,Over,13.5,1.91
+2026-11-07T00:53:44Z,alerta,d24eb5492983d6e28be3b96df396fa12,2026-11-07T03:10:00Z,Sacramento Kings,San Antonio Spurs,pinnacle,2026-11-07T00:53:23Z,player_points,Domantas Sabonis,Under,13.5,1.83
+2026-11-07T00:53:44Z,alerta,d24eb5492983d6e28be3b96df396fa12,2026-11-07T03:10:00Z,Sacramento Kings,San Antonio Spurs,pinnacle,2026-11-07T00:53:23Z,player_points,Dylan Harper,Over,17.5,2.11
+2026-11-07T00:53:44Z,alerta,d24eb5492983d6e28be3b96df396fa12,2026-11-07T03:10:00Z,Sacramento Kings,San Antonio Spurs,pinnacle,2026-11-07T00:53:23Z,player_points,Dylan Harper,Under,17.5,1.68
+2026-11-07T00:53:44Z,alerta,d24eb5492983d6e28be3b96df396fa12,2026-11-07T03:10:00Z,Sacramento Kings,San Antonio Spurs,pinnacle,2026-11-07T00:53:23Z,player_points,Julian Champagnie,Over,9.5,2.01
+2026-11-07T00:53:44Z,alerta,d24eb5492983d6e28be3b96df396fa12,2026-11-07T03:10:00Z,Sacramento Kings,San Antonio Spurs,pinnacle,2026-11-07T00:53:23Z,player_points,Julian Champagnie,Under,9.5,1.75
+2026-11-07T00:53:44Z,alerta,d24eb5492983d6e28be3b96df396fa12,2026-11-07T03:10:00Z,Sacramento Kings,San Antonio Spurs,pinnacle,2026-11-07T00:53:23Z,player_points,Keldon Johnson,Over,9.5,1.7
+2026-11-07T00:53:44Z,alerta,d24eb5492983d6e28be3b96df396fa12,2026-11-07T03:10:00Z,Sacramento Kings,San Antonio Spurs,pinnacle,2026-11-07T00:53:23Z,player_points,Keldon Johnson,Under,9.5,2.07
+2026-11-07T00:53:44Z,alerta,d24eb5492983d6e28be3b96df396fa12,2026-11-07T03:10:00Z,Sacramento Kings,San Antonio Spurs,pinnacle,2026-11-07T00:53:23Z,player_points,Malik Monk,Over,11.5,1.66
+2026-11-07T00:53:44Z,alerta,d24eb5492983d6e28be3b96df396fa12,2026-11-07T03:10:00Z,Sacramento Kings,San Antonio Spurs,pinnacle,2026-11-07T00:53:23Z,player_points,Malik Monk,Under,11.5,2.13
+2026-11-07T00:53:44Z,alerta,d24eb5492983d6e28be3b96df396fa12,2026-11-07T03:10:00Z,Sacramento Kings,San Antonio Spurs,pinnacle,2026-11-07T00:53:23Z,player_points,Precious Achiuwa,Over,8.5,2.09
+2026-11-07T00:53:44Z,alerta,d24eb5492983d6e28be3b96df396fa12,2026-11-07T03:10:00Z,Sacramento Kings,San Antonio Spurs,pinnacle,2026-11-07T00:53:23Z,player_points,Precious Achiuwa,Under,8.5,1.69
+2026-11-07T00:53:44Z,alerta,d24eb5492983d6e28be3b96df396fa12,2026-11-07T03:10:00Z,Sacramento Kings,San Antonio Spurs,pinnacle,2026-11-07T00:53:23Z,player_points,Stephon Castle,Over,16.5,1.88
+2026-11-07T00:53:44Z,alerta,d24eb5492983d6e28be3b96df396fa12,2026-11-07T03:10:00Z,Sacramento Kings,San Antonio Spurs,pinnacle,2026-11-07T00:53:23Z,player_points,Stephon Castle,Under,16.5,1.88
+2026-11-07T00:53:44Z,alerta,d24eb5492983d6e28be3b96df396fa12,2026-11-07T03:10:00Z,Sacramento Kings,San Antonio Spurs,pinnacle,2026-11-07T00:53:23Z,player_points,Victor Wembanyama,Over,28.5,1.97
+2026-11-07T00:53:44Z,alerta,d24eb5492983d6e28be3b96df396fa12,2026-11-07T03:10:00Z,Sacramento Kings,San Antonio Spurs,pinnacle,2026-11-07T00:53:23Z,player_points,Victor Wembanyama,Under,28.5,1.78
+2026-11-07T00:53:44Z,alerta,d24eb5492983d6e28be3b96df396fa12,2026-11-07T03:10:00Z,Sacramento Kings,San Antonio Spurs,pinnacle,2026-11-07T00:53:23Z,player_points,Zach LaVine,Over,19.5,1.88
+2026-11-07T00:53:44Z,alerta,d24eb5492983d6e28be3b96df396fa12,2026-11-07T03:10:00Z,Sacramento Kings,San Antonio Spurs,pinnacle,2026-11-07T00:53:23Z,player_points,Zach LaVine,Under,19.5,1.85

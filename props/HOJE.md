@@ -1,6 +1,6 @@
 # Odds justas de hoje (pontos dos jogadores)
 
-Atualizado: 2026-11-07 00:41 UTC. Odd justa = Pinnacle sem margem. Modelo = a nossa previsao.
+Atualizado: 2026-11-07 00:51 UTC. Odd justa = Pinnacle sem margem. Modelo = a nossa previsao.
 Como usar: na Betano/Betclic, se a odd de "X+ pontos" for MAIOR do que a odd justa, essa aposta tem valor.
 
 ## Boston Celtics @ Charlotte Hornets (07/11 00:10 UTC)
@@ -136,13 +136,14 @@ Jaylen Brown             linha  19.5 | modelo  24.2 | discorda demais do mercado
 
 Ressaltos (so modelo, sem Pinnacle):
 ```
-Evan Mobley              modelo  9.6 | 8+ 1.44  9+ 1.71  10+ 2.10  11+ 2.68  12+ 3.54
+Evan Mobley              modelo 10.3 | 9+ 1.51  10+ 1.78  11+ 2.19  12+ 2.78  13+ 3.65
 Joel Embiid              modelo  9.5 | 8+ 1.46  9+ 1.73  10+ 2.14  11+ 2.73  12+ 3.62
 LeBron James             modelo  8.1 | 7+ 1.52  8+ 1.85  9+ 2.36  10+ 3.13  11+ 4.32
 VJ Edgecombe             modelo  7.9 | 6+ 1.34  7+ 1.58  8+ 1.96  9+ 2.53  10+ 3.41
 Jaylen Brown             modelo  7.6 | 6+ 1.39  7+ 1.68  8+ 2.12  9+ 2.79  10+ 3.84
-James Harden             modelo  5.9 | 4+ 1.26  5+ 1.51  6+ 1.92  7+ 2.58  8+ 3.65
-Donovan Mitchell         modelo  5.4 | 4+ 1.36  5+ 1.70  6+ 2.26  7+ 3.19  8+ 4.74
+James Harden             modelo  6.3 | 5+ 1.41  6+ 1.73  7+ 2.26  8+ 3.09  9+ 4.43
+Donovan Mitchell         modelo  5.6 | 4+ 1.31  5+ 1.61  6+ 2.09  7+ 2.88  8+ 4.18
+Peyton Watson            modelo  5.1 | 4+ 1.42  5+ 1.80  6+ 2.45  7+ 3.52  8+ 5.35
 Tyrese Maxey             modelo  4.3 | 3+ 1.34  4+ 1.73  5+ 2.40  6+ 3.57  7+ 5.64
 Kentavious Caldwell-Pope modelo  2.8 | 1+ 1.11  2+ 1.40  3+ 1.99  4+ 3.13  5+ 5.33
 Anfernee Simons          modelo  2.4 | 1+ 1.16  2+ 1.56  3+ 2.41  4+ 4.10  5+ 7.55
@@ -151,13 +152,14 @@ Anfernee Simons          modelo  2.4 | 1+ 1.16  2+ 1.56  3+ 2.41  4+ 4.10  5+ 7.
 Assistencias (so modelo, sem Pinnacle):
 ```
 LeBron James             modelo  7.6 | 6+ 1.33  7+ 1.60  8+ 2.04  9+ 2.74  10+ 3.91
-James Harden             modelo  6.5 | 5+ 1.31  6+ 1.59  7+ 2.06  8+ 2.86  9+ 4.22
+James Harden             modelo  6.6 | 5+ 1.29  6+ 1.56  7+ 2.01  8+ 2.77  9+ 4.06
 Tyrese Maxey             modelo  5.7 | 4+ 1.24  5+ 1.49  6+ 1.94  7+ 2.71  8+ 4.06
-Donovan Mitchell         modelo  5.3 | 4+ 1.32  5+ 1.66  6+ 2.26  7+ 3.33  8+ 5.28
+Donovan Mitchell         modelo  5.3 | 4+ 1.31  5+ 1.64  6+ 2.23  7+ 3.26  8+ 5.13
 Joel Embiid              modelo  4.4 | 3+ 1.26  4+ 1.59  5+ 2.20  6+ 3.34  7+ 5.53
 Jaylen Brown             modelo  4.1 | 3+ 1.32  4+ 1.74  5+ 2.52  6+ 4.03  7+ 7.00
-Evan Mobley              modelo  3.9 | 2+ 1.13  3+ 1.37  4+ 1.83  5+ 2.72  6+ 4.46
+Evan Mobley              modelo  4.0 | 2+ 1.12  3+ 1.35  4+ 1.80  5+ 2.65  6+ 4.29
 VJ Edgecombe             modelo  3.6 | 2+ 1.16  3+ 1.45  4+ 2.02  5+ 3.13  6+ 5.36
+Peyton Watson            modelo  3.2 | 2+ 1.24  3+ 1.65  4+ 2.49  5+ 4.21  6+ 7.88
 Kentavious Caldwell-Pope modelo  1.5 | 1+ 1.32  2+ 2.28  3+ 4.78  4+ 11.66  5+ 31.85
 Anfernee Simons          modelo  1.4 | 1+ 1.35  2+ 2.38  3+ 5.12  4+ 12.79  5+ 35.77
 ```
