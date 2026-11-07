@@ -1,6 +1,6 @@
 # Odds justas de hoje (pontos dos jogadores)
 
-Atualizado: 2026-11-07 20:41 UTC. Odd justa = Pinnacle sem margem. Modelo = a nossa previsao.
+Atualizado: 2026-11-07 20:51 UTC. Odd justa = Pinnacle sem margem. Modelo = a nossa previsao.
 Como usar: na Betano/Betclic, se a odd de "X+ pontos" for MAIOR do que a odd justa, essa aposta tem valor.
 
 ## Denver Nuggets @ Indiana Pacers (07/11 22:10 UTC)
@@ -35,27 +35,29 @@ Pascal Siakam            linha  20.5 | modelo  21.5 | sem valor
 Ressaltos (so modelo, sem Pinnacle):
 ```
 Nikola Jokic             modelo 10.8 | 9+ 1.41  10+ 1.64  11+ 1.97  12+ 2.45  13+ 3.14
-Ivica Zubac              modelo  6.8 | 5+ 1.33  6+ 1.59  7+ 2.01  8+ 2.68  9+ 3.73
-Pascal Siakam            modelo  6.6 | 5+ 1.36  6+ 1.66  7+ 2.12  8+ 2.86  9+ 4.04
+Ivica Zubac              modelo  6.6 | 5+ 1.35  6+ 1.63  7+ 2.08  8+ 2.78  9+ 3.91
+Pascal Siakam            modelo  6.5 | 5+ 1.37  6+ 1.67  7+ 2.15  8+ 2.91  9+ 4.13
 Aaron Gordon             modelo  5.1 | 4+ 1.43  5+ 1.83  6+ 2.50  7+ 3.62  8+ 5.53
 Jamal Murray             modelo  5.1 | 4+ 1.43  5+ 1.84  6+ 2.51  7+ 3.64  8+ 5.56
-Obi Toppin               modelo  4.7 | 3+ 1.25  4+ 1.55  5+ 2.05  6+ 2.91  7+ 4.38
+Obi Toppin               modelo  4.6 | 3+ 1.26  4+ 1.57  5+ 2.09  6+ 2.99  7+ 4.53
 Christian Braun          modelo  4.0 | 3+ 1.41  4+ 1.87  5+ 2.67  6+ 4.11  7+ 6.70
 Cameron Johnson          modelo  4.0 | 2+ 1.16  3+ 1.41  4+ 1.88  5+ 2.70  6+ 4.17
-Aaron Nesmith            modelo  2.9 | 1+ 1.10  2+ 1.38  3+ 1.95  4+ 3.05  5+ 5.16
-Andrew Nembhard          modelo  2.7 | 1+ 1.12  2+ 1.45  3+ 2.12  4+ 3.43  5+ 6.01
+Kelly Oubre Jr.          modelo  3.1 | 2+ 1.32  3+ 1.79  4+ 2.70  5+ 4.40  6+ 7.67
+Aaron Nesmith            modelo  2.8 | 1+ 1.11  2+ 1.40  3+ 1.99  4+ 3.12  5+ 5.32
+Andrew Nembhard          modelo  2.6 | 1+ 1.13  2+ 1.46  3+ 2.15  4+ 3.51  5+ 6.19
 ```
 
 Assistencias (so modelo, sem Pinnacle):
 ```
 Nikola Jokic             modelo  9.0 | 8+ 1.49  9+ 1.81  10+ 2.31  11+ 3.11  12+ 4.38
-Andrew Nembhard          modelo  7.9 | 6+ 1.27  7+ 1.49  8+ 1.85  9+ 2.43  10+ 3.36
+Andrew Nembhard          modelo  7.9 | 6+ 1.27  7+ 1.50  8+ 1.86  9+ 2.44  10+ 3.38
 Jamal Murray             modelo  5.7 | 4+ 1.24  5+ 1.49  6+ 1.94  7+ 2.71  8+ 4.06
-Pascal Siakam            modelo  4.0 | 2+ 1.12  3+ 1.35  4+ 1.80  5+ 2.66  6+ 4.32
+Pascal Siakam            modelo  4.0 | 2+ 1.12  3+ 1.35  4+ 1.80  5+ 2.65  6+ 4.29
 Aaron Gordon             modelo  2.4 | 1+ 1.12  2+ 1.46  3+ 2.26  4+ 4.03  5+ 8.10
 Cameron Johnson          modelo  2.3 | 1+ 1.13  2+ 1.53  3+ 2.43  4+ 4.49  5+ 9.35
 Christian Braun          modelo  2.3 | 1+ 1.14  2+ 1.55  3+ 2.49  4+ 4.64  5+ 9.78
-Aaron Nesmith            modelo  2.1 | 1+ 1.16  2+ 1.64  3+ 2.77  4+ 5.43  5+ 12.02
-Obi Toppin               modelo  1.8 | 1+ 1.23  2+ 1.89  3+ 3.50  4+ 7.58  5+ 18.47
-Ivica Zubac              modelo  1.7 | 1+ 1.25  2+ 1.98  3+ 3.79  4+ 8.46  5+ 21.25
+Aaron Nesmith            modelo  2.1 | 1+ 1.16  2+ 1.65  3+ 2.79  4+ 5.46  5+ 12.10
+Obi Toppin               modelo  1.8 | 1+ 1.23  2+ 1.89  3+ 3.51  4+ 7.61  5+ 18.55
+Ivica Zubac              modelo  1.7 | 1+ 1.25  2+ 1.99  3+ 3.82  4+ 8.56  5+ 21.56
+Kelly Oubre Jr.          modelo  1.7 | 1+ 1.26  2+ 2.01  3+ 3.89  4+ 8.77  5+ 22.22
 ```
