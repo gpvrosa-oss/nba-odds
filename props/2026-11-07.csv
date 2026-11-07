@@ -127,3 +127,59 @@ recolhido_em,momento,jogo_id,inicio_jogo,casa,fora,casa_apostas,atualizado_em,me
 2026-11-07T00:53:44Z,alerta,d24eb5492983d6e28be3b96df396fa12,2026-11-07T03:10:00Z,Sacramento Kings,San Antonio Spurs,pinnacle,2026-11-07T00:53:23Z,player_points,Victor Wembanyama,Under,28.5,1.78
 2026-11-07T00:53:44Z,alerta,d24eb5492983d6e28be3b96df396fa12,2026-11-07T03:10:00Z,Sacramento Kings,San Antonio Spurs,pinnacle,2026-11-07T00:53:23Z,player_points,Zach LaVine,Over,19.5,1.88
 2026-11-07T00:53:44Z,alerta,d24eb5492983d6e28be3b96df396fa12,2026-11-07T03:10:00Z,Sacramento Kings,San Antonio Spurs,pinnacle,2026-11-07T00:53:23Z,player_points,Zach LaVine,Under,19.5,1.85
+2026-11-07T02:33:09Z,fecho,83d77fe350d56a036fd7a3404e78249a,2026-11-07T03:10:00Z,Los Angeles Lakers,Portland Trail Blazers,pinnacle,2026-11-07T02:33:06Z,player_points,Austin Reaves,Over,21.5,1.75
+2026-11-07T02:33:09Z,fecho,83d77fe350d56a036fd7a3404e78249a,2026-11-07T03:10:00Z,Los Angeles Lakers,Portland Trail Blazers,pinnacle,2026-11-07T02:33:06Z,player_points,Austin Reaves,Under,21.5,2.01
+2026-11-07T02:33:09Z,fecho,83d77fe350d56a036fd7a3404e78249a,2026-11-07T03:10:00Z,Los Angeles Lakers,Portland Trail Blazers,pinnacle,2026-11-07T02:33:06Z,player_points,Damian Lillard,Over,21.5,2.03
+2026-11-07T02:33:09Z,fecho,83d77fe350d56a036fd7a3404e78249a,2026-11-07T03:10:00Z,Los Angeles Lakers,Portland Trail Blazers,pinnacle,2026-11-07T02:33:06Z,player_points,Damian Lillard,Under,21.5,1.74
+2026-11-07T02:33:09Z,fecho,83d77fe350d56a036fd7a3404e78249a,2026-11-07T03:10:00Z,Los Angeles Lakers,Portland Trail Blazers,pinnacle,2026-11-07T02:33:06Z,player_points,Deni Avdija,Over,23.5,1.75
+2026-11-07T02:33:09Z,fecho,83d77fe350d56a036fd7a3404e78249a,2026-11-07T03:10:00Z,Los Angeles Lakers,Portland Trail Blazers,pinnacle,2026-11-07T02:33:06Z,player_points,Deni Avdija,Under,23.5,2.0
+2026-11-07T02:33:09Z,fecho,83d77fe350d56a036fd7a3404e78249a,2026-11-07T03:10:00Z,Los Angeles Lakers,Portland Trail Blazers,pinnacle,2026-11-07T02:33:06Z,player_points,Donovan Clingan,Over,11.5,2.26
+2026-11-07T02:33:09Z,fecho,83d77fe350d56a036fd7a3404e78249a,2026-11-07T03:10:00Z,Los Angeles Lakers,Portland Trail Blazers,pinnacle,2026-11-07T02:33:06Z,player_points,Donovan Clingan,Under,11.5,1.6
+2026-11-07T02:33:09Z,fecho,83d77fe350d56a036fd7a3404e78249a,2026-11-07T03:10:00Z,Los Angeles Lakers,Portland Trail Blazers,pinnacle,2026-11-07T02:33:06Z,player_points,Jake LaRavia,Over,5.5,1.93
+2026-11-07T02:33:09Z,fecho,83d77fe350d56a036fd7a3404e78249a,2026-11-07T03:10:00Z,Los Angeles Lakers,Portland Trail Blazers,pinnacle,2026-11-07T02:33:06Z,player_points,Jake LaRavia,Under,5.5,1.82
+2026-11-07T02:33:09Z,fecho,83d77fe350d56a036fd7a3404e78249a,2026-11-07T03:10:00Z,Los Angeles Lakers,Portland Trail Blazers,pinnacle,2026-11-07T02:33:06Z,player_points,Jrue Holiday,Over,13.5,1.79
+2026-11-07T02:33:09Z,fecho,83d77fe350d56a036fd7a3404e78249a,2026-11-07T03:10:00Z,Los Angeles Lakers,Portland Trail Blazers,pinnacle,2026-11-07T02:33:06Z,player_points,Jrue Holiday,Under,13.5,1.95
+2026-11-07T02:33:09Z,fecho,83d77fe350d56a036fd7a3404e78249a,2026-11-07T03:10:00Z,Los Angeles Lakers,Portland Trail Blazers,pinnacle,2026-11-07T02:33:06Z,player_points,Luka Doncic,Over,35.5,1.87
+2026-11-07T02:33:09Z,fecho,83d77fe350d56a036fd7a3404e78249a,2026-11-07T03:10:00Z,Los Angeles Lakers,Portland Trail Blazers,pinnacle,2026-11-07T02:33:06Z,player_points,Luka Doncic,Under,35.5,1.87
+2026-11-07T02:33:09Z,fecho,83d77fe350d56a036fd7a3404e78249a,2026-11-07T03:10:00Z,Los Angeles Lakers,Portland Trail Blazers,pinnacle,2026-11-07T02:33:06Z,player_points,Matisse Thybulle,Over,6.5,2.07
+2026-11-07T02:33:09Z,fecho,83d77fe350d56a036fd7a3404e78249a,2026-11-07T03:10:00Z,Los Angeles Lakers,Portland Trail Blazers,pinnacle,2026-11-07T02:33:06Z,player_points,Matisse Thybulle,Under,6.5,1.7
+2026-11-07T02:33:09Z,fecho,83d77fe350d56a036fd7a3404e78249a,2026-11-07T03:10:00Z,Los Angeles Lakers,Portland Trail Blazers,pinnacle,2026-11-07T02:33:06Z,player_points,Quentin Grimes,Over,6.5,1.77
+2026-11-07T02:33:09Z,fecho,83d77fe350d56a036fd7a3404e78249a,2026-11-07T03:10:00Z,Los Angeles Lakers,Portland Trail Blazers,pinnacle,2026-11-07T02:33:06Z,player_points,Quentin Grimes,Under,6.5,1.98
+2026-11-07T02:33:09Z,fecho,83d77fe350d56a036fd7a3404e78249a,2026-11-07T03:10:00Z,Los Angeles Lakers,Portland Trail Blazers,pinnacle,2026-11-07T02:33:06Z,player_points,Robert Williams,Over,5.5,1.71
+2026-11-07T02:33:09Z,fecho,83d77fe350d56a036fd7a3404e78249a,2026-11-07T03:10:00Z,Los Angeles Lakers,Portland Trail Blazers,pinnacle,2026-11-07T02:33:06Z,player_points,Robert Williams,Under,5.5,2.06
+2026-11-07T02:33:09Z,fecho,83d77fe350d56a036fd7a3404e78249a,2026-11-07T03:10:00Z,Los Angeles Lakers,Portland Trail Blazers,pinnacle,2026-11-07T02:33:06Z,player_points,Sandro Mamukelashvili,Over,8.5,1.98
+2026-11-07T02:33:09Z,fecho,83d77fe350d56a036fd7a3404e78249a,2026-11-07T03:10:00Z,Los Angeles Lakers,Portland Trail Blazers,pinnacle,2026-11-07T02:33:06Z,player_points,Sandro Mamukelashvili,Under,8.5,1.77
+2026-11-07T02:33:09Z,fecho,83d77fe350d56a036fd7a3404e78249a,2026-11-07T03:10:00Z,Los Angeles Lakers,Portland Trail Blazers,pinnacle,2026-11-07T02:33:06Z,player_points,Scoot Henderson,Over,11.5,1.89
+2026-11-07T02:33:09Z,fecho,83d77fe350d56a036fd7a3404e78249a,2026-11-07T03:10:00Z,Los Angeles Lakers,Portland Trail Blazers,pinnacle,2026-11-07T02:33:06Z,player_points,Scoot Henderson,Under,11.5,1.85
+2026-11-07T02:33:09Z,fecho,83d77fe350d56a036fd7a3404e78249a,2026-11-07T03:10:00Z,Los Angeles Lakers,Portland Trail Blazers,pinnacle,2026-11-07T02:33:06Z,player_points,Toumani Camara,Over,11.5,1.82
+2026-11-07T02:33:09Z,fecho,83d77fe350d56a036fd7a3404e78249a,2026-11-07T03:10:00Z,Los Angeles Lakers,Portland Trail Blazers,pinnacle,2026-11-07T02:33:06Z,player_points,Toumani Camara,Under,11.5,1.93
+2026-11-07T02:33:09Z,fecho,83d77fe350d56a036fd7a3404e78249a,2026-11-07T03:10:00Z,Los Angeles Lakers,Portland Trail Blazers,pinnacle,2026-11-07T02:33:06Z,player_points,Walker Kessler,Over,12.5,1.81
+2026-11-07T02:33:09Z,fecho,83d77fe350d56a036fd7a3404e78249a,2026-11-07T03:10:00Z,Los Angeles Lakers,Portland Trail Blazers,pinnacle,2026-11-07T02:33:06Z,player_points,Walker Kessler,Under,12.5,1.93
+2026-11-07T02:33:09Z,fecho,83d77fe350d56a036fd7a3404e78249a,2026-11-07T03:10:00Z,Los Angeles Lakers,Portland Trail Blazers,pinnacle,2026-11-07T02:33:06Z,player_points,Sidy Cissoko,Over,5.5,2.03
+2026-11-07T02:33:09Z,fecho,83d77fe350d56a036fd7a3404e78249a,2026-11-07T03:10:00Z,Los Angeles Lakers,Portland Trail Blazers,pinnacle,2026-11-07T02:33:06Z,player_points,Sidy Cissoko,Under,5.5,1.74
+2026-11-07T02:33:09Z,fecho,83d77fe350d56a036fd7a3404e78249a,2026-11-07T03:10:00Z,Los Angeles Lakers,Portland Trail Blazers,pinnacle,2026-11-07T02:33:06Z,player_points,Ziaire Williams,Over,7.5,1.88
+2026-11-07T02:33:09Z,fecho,83d77fe350d56a036fd7a3404e78249a,2026-11-07T03:10:00Z,Los Angeles Lakers,Portland Trail Blazers,pinnacle,2026-11-07T02:33:06Z,player_points,Ziaire Williams,Under,7.5,1.86
+2026-11-07T02:33:09Z,fecho,d24eb5492983d6e28be3b96df396fa12,2026-11-07T03:10:00Z,Sacramento Kings,San Antonio Spurs,pinnacle,2026-11-07T02:31:40Z,player_points,Darius Acuff Jr.,Over,23.5,1.88
+2026-11-07T02:33:09Z,fecho,d24eb5492983d6e28be3b96df396fa12,2026-11-07T03:10:00Z,Sacramento Kings,San Antonio Spurs,pinnacle,2026-11-07T02:31:40Z,player_points,Darius Acuff Jr.,Under,23.5,1.85
+2026-11-07T02:33:09Z,fecho,d24eb5492983d6e28be3b96df396fa12,2026-11-07T03:10:00Z,Sacramento Kings,San Antonio Spurs,pinnacle,2026-11-07T02:31:40Z,player_points,De'Aaron Fox,Over,15.5,1.88
+2026-11-07T02:33:09Z,fecho,d24eb5492983d6e28be3b96df396fa12,2026-11-07T03:10:00Z,Sacramento Kings,San Antonio Spurs,pinnacle,2026-11-07T02:31:40Z,player_points,De'Aaron Fox,Under,15.5,1.88
+2026-11-07T02:33:09Z,fecho,d24eb5492983d6e28be3b96df396fa12,2026-11-07T03:10:00Z,Sacramento Kings,San Antonio Spurs,pinnacle,2026-11-07T02:31:40Z,player_points,Devin Vassell,Over,11.5,1.85
+2026-11-07T02:33:09Z,fecho,d24eb5492983d6e28be3b96df396fa12,2026-11-07T03:10:00Z,Sacramento Kings,San Antonio Spurs,pinnacle,2026-11-07T02:31:40Z,player_points,Devin Vassell,Under,11.5,1.88
+2026-11-07T02:33:09Z,fecho,d24eb5492983d6e28be3b96df396fa12,2026-11-07T03:10:00Z,Sacramento Kings,San Antonio Spurs,pinnacle,2026-11-07T02:31:40Z,player_points,Domantas Sabonis,Over,13.5,1.89
+2026-11-07T02:33:09Z,fecho,d24eb5492983d6e28be3b96df396fa12,2026-11-07T03:10:00Z,Sacramento Kings,San Antonio Spurs,pinnacle,2026-11-07T02:31:40Z,player_points,Domantas Sabonis,Under,13.5,1.85
+2026-11-07T02:33:09Z,fecho,d24eb5492983d6e28be3b96df396fa12,2026-11-07T03:10:00Z,Sacramento Kings,San Antonio Spurs,pinnacle,2026-11-07T02:31:40Z,player_points,Dylan Harper,Over,17.5,2.11
+2026-11-07T02:33:09Z,fecho,d24eb5492983d6e28be3b96df396fa12,2026-11-07T03:10:00Z,Sacramento Kings,San Antonio Spurs,pinnacle,2026-11-07T02:31:40Z,player_points,Dylan Harper,Under,17.5,1.68
+2026-11-07T02:33:09Z,fecho,d24eb5492983d6e28be3b96df396fa12,2026-11-07T03:10:00Z,Sacramento Kings,San Antonio Spurs,pinnacle,2026-11-07T02:31:40Z,player_points,Julian Champagnie,Over,9.5,2.01
+2026-11-07T02:33:09Z,fecho,d24eb5492983d6e28be3b96df396fa12,2026-11-07T03:10:00Z,Sacramento Kings,San Antonio Spurs,pinnacle,2026-11-07T02:31:40Z,player_points,Julian Champagnie,Under,9.5,1.75
+2026-11-07T02:33:09Z,fecho,d24eb5492983d6e28be3b96df396fa12,2026-11-07T03:10:00Z,Sacramento Kings,San Antonio Spurs,pinnacle,2026-11-07T02:31:40Z,player_points,Keldon Johnson,Over,9.5,1.7
+2026-11-07T02:33:09Z,fecho,d24eb5492983d6e28be3b96df396fa12,2026-11-07T03:10:00Z,Sacramento Kings,San Antonio Spurs,pinnacle,2026-11-07T02:31:40Z,player_points,Keldon Johnson,Under,9.5,2.07
+2026-11-07T02:33:09Z,fecho,d24eb5492983d6e28be3b96df396fa12,2026-11-07T03:10:00Z,Sacramento Kings,San Antonio Spurs,pinnacle,2026-11-07T02:31:40Z,player_points,Malik Monk,Over,11.5,1.62
+2026-11-07T02:33:09Z,fecho,d24eb5492983d6e28be3b96df396fa12,2026-11-07T03:10:00Z,Sacramento Kings,San Antonio Spurs,pinnacle,2026-11-07T02:31:40Z,player_points,Malik Monk,Under,11.5,2.2
+2026-11-07T02:33:09Z,fecho,d24eb5492983d6e28be3b96df396fa12,2026-11-07T03:10:00Z,Sacramento Kings,San Antonio Spurs,pinnacle,2026-11-07T02:31:40Z,player_points,Precious Achiuwa,Over,8.5,1.96
+2026-11-07T02:33:09Z,fecho,d24eb5492983d6e28be3b96df396fa12,2026-11-07T03:10:00Z,Sacramento Kings,San Antonio Spurs,pinnacle,2026-11-07T02:31:40Z,player_points,Precious Achiuwa,Under,8.5,1.79
+2026-11-07T02:33:09Z,fecho,d24eb5492983d6e28be3b96df396fa12,2026-11-07T03:10:00Z,Sacramento Kings,San Antonio Spurs,pinnacle,2026-11-07T02:31:40Z,player_points,Stephon Castle,Over,16.5,1.88
+2026-11-07T02:33:09Z,fecho,d24eb5492983d6e28be3b96df396fa12,2026-11-07T03:10:00Z,Sacramento Kings,San Antonio Spurs,pinnacle,2026-11-07T02:31:40Z,player_points,Stephon Castle,Under,16.5,1.88
+2026-11-07T02:33:09Z,fecho,d24eb5492983d6e28be3b96df396fa12,2026-11-07T03:10:00Z,Sacramento Kings,San Antonio Spurs,pinnacle,2026-11-07T02:31:40Z,player_points,Victor Wembanyama,Over,28.5,1.85
+2026-11-07T02:33:09Z,fecho,d24eb5492983d6e28be3b96df396fa12,2026-11-07T03:10:00Z,Sacramento Kings,San Antonio Spurs,pinnacle,2026-11-07T02:31:40Z,player_points,Victor Wembanyama,Under,28.5,1.89
+2026-11-07T02:33:09Z,fecho,d24eb5492983d6e28be3b96df396fa12,2026-11-07T03:10:00Z,Sacramento Kings,San Antonio Spurs,pinnacle,2026-11-07T02:31:40Z,player_points,Zach LaVine,Over,19.5,1.88
+2026-11-07T02:33:09Z,fecho,d24eb5492983d6e28be3b96df396fa12,2026-11-07T03:10:00Z,Sacramento Kings,San Antonio Spurs,pinnacle,2026-11-07T02:31:40Z,player_points,Zach LaVine,Under,19.5,1.85
