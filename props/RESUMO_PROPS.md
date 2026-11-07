@@ -1,8 +1,8 @@
 # Apostas virtuais em props (sem dinheiro real)
 
-Atualizado: 2026-11-07 00:51 UTC. Casa de referencia: Pinnacle (linha ~3h antes do jogo).
+Atualizado: 2026-11-07 01:04 UTC. Casa de referencia: Pinnacle (linha ~3h antes do jogo).
 
-- Apostas decididas: **7** (ganhas 29%), anuladas: 0, por decidir: 36
+- Apostas decididas: **7** (ganhas 29%), anuladas: 0, por decidir: 37
 - Apostado: 7.0 unidades. Lucro: **-3.3 unidades** (ROI -46.7%)
 - CLV medio (bater a linha de fecho; o melhor sinal de qualidade): **-0.0%** em 7 apostas
 
@@ -12,7 +12,6 @@ Regra de bolso: so pensar em dinheiro real com 200+ apostas e CLV medio acima de
 
 ```
          inicio_jogo                  jogador  lado  linha  odd  previsto  stake resultado  real  lucro  clv
-2026-11-07T01:10:00Z         Kenrich Williams  Over   10.5 2.27     10.87   0.61       NaN   NaN    NaN  NaN
 2026-11-07T00:10:00Z Nickeil Alexander-Walker  Over   22.5 1.88     26.23   1.00       NaN   NaN    NaN  NaN
 2026-11-07T03:10:00Z             Jake LaRavia  Over    5.5 1.93      7.01   1.00       NaN   NaN    NaN  NaN
 2026-11-07T03:10:00Z             Jrue Holiday  Over   13.5 1.75     16.74   1.00       NaN   NaN    NaN  NaN
@@ -27,4 +26,5 @@ Regra de bolso: so pensar em dinheiro real com 200+ apostas e CLV medio acima de
 2026-11-07T00:40:00Z              Evan Mobley  Over   18.5 1.93     21.42   1.00       NaN   NaN    NaN  NaN
 2026-11-07T00:40:00Z             James Harden  Over   18.5 1.97     20.20   1.00       NaN   NaN    NaN  NaN
 2026-11-07T00:40:00Z            Peyton Watson  Over   10.5 1.82     13.66   1.00       NaN   NaN    NaN  NaN
+2026-11-07T03:10:00Z               Malik Monk Under   11.5 2.13     11.29   1.00       NaN   NaN    NaN  NaN
 ```
