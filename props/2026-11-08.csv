@@ -251,3 +251,25 @@ recolhido_em,momento,jogo_id,inicio_jogo,casa,fora,casa_apostas,atualizado_em,me
 2026-11-08T20:49:54Z,cedo,758ca94b2abd151c0593b182254dab32,2026-11-09T00:10:00Z,Minnesota Timberwolves,Utah Jazz,pinnacle,2026-11-08T20:49:01Z,player_points,Rudy Gobert,Under,9.5,1.77
 2026-11-08T20:49:54Z,cedo,758ca94b2abd151c0593b182254dab32,2026-11-09T00:10:00Z,Minnesota Timberwolves,Utah Jazz,pinnacle,2026-11-08T20:49:01Z,player_points,Terrence Shannon Jr.,Over,12.5,2.02
 2026-11-08T20:49:54Z,cedo,758ca94b2abd151c0593b182254dab32,2026-11-09T00:10:00Z,Minnesota Timberwolves,Utah Jazz,pinnacle,2026-11-08T20:49:01Z,player_points,Terrence Shannon Jr.,Under,12.5,1.74
+2026-11-08T21:13:23Z,cedo,c5b6599e8e4949749798dcdadceb68d4,2026-11-09T00:40:00Z,Dallas Mavericks,Brooklyn Nets,pinnacle,2026-11-08T21:12:18Z,player_points,Cooper Flagg,Over,24.5,1.92
+2026-11-08T21:13:23Z,cedo,c5b6599e8e4949749798dcdadceb68d4,2026-11-09T00:40:00Z,Dallas Mavericks,Brooklyn Nets,pinnacle,2026-11-08T21:12:18Z,player_points,Cooper Flagg,Under,24.5,1.82
+2026-11-08T21:13:23Z,cedo,c5b6599e8e4949749798dcdadceb68d4,2026-11-09T00:40:00Z,Dallas Mavericks,Brooklyn Nets,pinnacle,2026-11-08T21:12:18Z,player_points,Daniel Gafford,Over,7.5,1.85
+2026-11-08T21:13:23Z,cedo,c5b6599e8e4949749798dcdadceb68d4,2026-11-09T00:40:00Z,Dallas Mavericks,Brooklyn Nets,pinnacle,2026-11-08T21:12:18Z,player_points,Daniel Gafford,Under,7.5,1.89
+2026-11-08T21:13:23Z,cedo,c5b6599e8e4949749798dcdadceb68d4,2026-11-09T00:40:00Z,Dallas Mavericks,Brooklyn Nets,pinnacle,2026-11-08T21:12:18Z,player_points,Day'Ron Sharpe,Over,8.5,1.78
+2026-11-08T21:13:23Z,cedo,c5b6599e8e4949749798dcdadceb68d4,2026-11-09T00:40:00Z,Dallas Mavericks,Brooklyn Nets,pinnacle,2026-11-08T21:12:18Z,player_points,Day'Ron Sharpe,Under,8.5,1.97
+2026-11-08T21:13:23Z,cedo,c5b6599e8e4949749798dcdadceb68d4,2026-11-09T00:40:00Z,Dallas Mavericks,Brooklyn Nets,pinnacle,2026-11-08T21:12:18Z,player_points,Julius Randle,Over,20.5,1.91
+2026-11-08T21:13:23Z,cedo,c5b6599e8e4949749798dcdadceb68d4,2026-11-09T00:40:00Z,Dallas Mavericks,Brooklyn Nets,pinnacle,2026-11-08T21:12:18Z,player_points,Julius Randle,Under,20.5,1.83
+2026-11-08T21:13:23Z,cedo,c5b6599e8e4949749798dcdadceb68d4,2026-11-09T00:40:00Z,Dallas Mavericks,Brooklyn Nets,pinnacle,2026-11-08T21:12:18Z,player_points,Kyrie Irving,Over,20.5,1.78
+2026-11-08T21:13:23Z,cedo,c5b6599e8e4949749798dcdadceb68d4,2026-11-09T00:40:00Z,Dallas Mavericks,Brooklyn Nets,pinnacle,2026-11-08T21:12:18Z,player_points,Kyrie Irving,Under,20.5,1.97
+2026-11-08T21:13:23Z,cedo,c5b6599e8e4949749798dcdadceb68d4,2026-11-09T00:40:00Z,Dallas Mavericks,Brooklyn Nets,pinnacle,2026-11-08T21:12:18Z,player_points,Michael Porter Jr,Over,21.5,1.87
+2026-11-08T21:13:23Z,cedo,c5b6599e8e4949749798dcdadceb68d4,2026-11-09T00:40:00Z,Dallas Mavericks,Brooklyn Nets,pinnacle,2026-11-08T21:12:18Z,player_points,Michael Porter Jr,Under,21.5,1.87
+2026-11-08T21:13:23Z,cedo,c5b6599e8e4949749798dcdadceb68d4,2026-11-09T00:40:00Z,Dallas Mavericks,Brooklyn Nets,pinnacle,2026-11-08T21:12:18Z,player_points,Naji Marshall,Over,11.5,1.89
+2026-11-08T21:13:23Z,cedo,c5b6599e8e4949749798dcdadceb68d4,2026-11-09T00:40:00Z,Dallas Mavericks,Brooklyn Nets,pinnacle,2026-11-08T21:12:18Z,player_points,Naji Marshall,Under,11.5,1.84
+2026-11-08T21:13:23Z,cedo,c5b6599e8e4949749798dcdadceb68d4,2026-11-09T00:40:00Z,Dallas Mavericks,Brooklyn Nets,pinnacle,2026-11-08T21:12:18Z,player_points,Nolan Traore,Over,12.5,1.74
+2026-11-08T21:13:23Z,cedo,c5b6599e8e4949749798dcdadceb68d4,2026-11-09T00:40:00Z,Dallas Mavericks,Brooklyn Nets,pinnacle,2026-11-08T21:12:18Z,player_points,Nolan Traore,Under,12.5,2.02
+2026-11-08T21:13:23Z,cedo,c5b6599e8e4949749798dcdadceb68d4,2026-11-09T00:40:00Z,Dallas Mavericks,Brooklyn Nets,pinnacle,2026-11-08T21:12:18Z,player_points,P.J. Washington,Over,13.5,1.79
+2026-11-08T21:13:23Z,cedo,c5b6599e8e4949749798dcdadceb68d4,2026-11-09T00:40:00Z,Dallas Mavericks,Brooklyn Nets,pinnacle,2026-11-08T21:12:18Z,player_points,P.J. Washington,Under,13.5,1.95
+2026-11-08T21:13:23Z,cedo,c5b6599e8e4949749798dcdadceb68d4,2026-11-09T00:40:00Z,Dallas Mavericks,Brooklyn Nets,pinnacle,2026-11-08T21:12:18Z,player_points,Zaccharie Risacher,Over,6.5,2.03
+2026-11-08T21:13:23Z,cedo,c5b6599e8e4949749798dcdadceb68d4,2026-11-09T00:40:00Z,Dallas Mavericks,Brooklyn Nets,pinnacle,2026-11-08T21:12:18Z,player_points,Zaccharie Risacher,Under,6.5,1.74
+2026-11-08T21:13:23Z,cedo,c5b6599e8e4949749798dcdadceb68d4,2026-11-09T00:40:00Z,Dallas Mavericks,Brooklyn Nets,pinnacle,2026-11-08T21:12:18Z,player_points,Danny Wolf,Over,9.5,1.98
+2026-11-08T21:13:23Z,cedo,c5b6599e8e4949749798dcdadceb68d4,2026-11-09T00:40:00Z,Dallas Mavericks,Brooklyn Nets,pinnacle,2026-11-08T21:12:18Z,player_points,Danny Wolf,Under,9.5,1.77

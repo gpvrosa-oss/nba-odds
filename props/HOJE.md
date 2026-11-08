@@ -1,6 +1,6 @@
 # Odds justas de hoje (pontos dos jogadores)
 
-Atualizado: 2026-11-08 21:03 UTC. Odd justa = Pinnacle sem margem. Modelo = a nossa previsao.
+Atualizado: 2026-11-08 21:14 UTC. Odd justa = Pinnacle sem margem. Modelo = a nossa previsao.
 Como usar: na Betano/Betclic, se a odd de "X+ pontos" for MAIOR do que a odd justa, essa aposta tem valor.
 
 ## Philadelphia 76ers @ Chicago Bulls (08/11 20:40 UTC)
@@ -69,16 +69,14 @@ Anfernee Simons          modelo  1.4 | 1+ 1.38  2+ 2.48  3+ 5.49  4+ 14.10  5+ 4
 ```
 Kevin Huerter            linha   7.5 | modelo   7.3 | sem valor
     justa: 5+ 1.30  6+ 1.47  7+ 1.70  8+ 2.00  9+ 2.39  10+ 2.90  11+ 3.57
-Walker Kessler           linha  13.5 | modelo  14.4 | sem valor
-    justa: 11+ 1.45  12+ 1.60  13+ 1.79  14+ 2.02  15+ 2.31  16+ 2.67  17+ 3.12
 Paul Reed Jr             linha  13.5 | modelo  12.1 | APOSTA
     justa: 11+ 1.47  12+ 1.63  13+ 1.82  14+ 2.07  15+ 2.37  16+ 2.74  17+ 3.21
 Matisse Thybulle         linha   7.5 | modelo   7.3 | sem valor
     justa: 5+ 1.34  6+ 1.53  7+ 1.78  8+ 2.11  9+ 2.54  10+ 3.11  11+ 3.85
 John Collins             linha  11.5 | modelo   9.7 | APOSTA
     justa: 9+ 1.44  10+ 1.60  11+ 1.81  12+ 2.08  13+ 2.41  14+ 2.83  15+ 3.36
-Duncan Robinson          linha  15.5 | modelo  16.7 | sem valor
-    justa: 13+ 1.49  14+ 1.64  15+ 1.82  16+ 2.05  17+ 2.33  18+ 2.66  19+ 3.08
+Walker Kessler           linha  13.5 | modelo  14.4 | sem valor
+    justa: 11+ 1.45  12+ 1.60  13+ 1.79  14+ 2.02  15+ 2.31  16+ 2.67  17+ 3.12
 Daniss Jenkins           linha   9.5 | modelo   9.2 | sem valor
     justa: 7+ 1.36  8+ 1.52  9+ 1.72  10+ 1.99  11+ 2.33  12+ 2.76  13+ 3.32
 Cade Cunningham          linha  25.5 | modelo  22.8 | APOSTA
@@ -87,6 +85,8 @@ Austin Reaves            linha  26.5 | modelo  21.2 | discorda demais do mercado
     justa: 24+ 1.64  25+ 1.78  26+ 1.94  27+ 2.13  28+ 2.35  29+ 2.62  30+ 2.93
 Ausar Thompson           linha  10.5 | modelo   9.7 | sem valor
     justa: 8+ 1.39  9+ 1.55  10+ 1.75  11+ 2.01  12+ 2.34  13+ 2.76  14+ 3.29
+Duncan Robinson          linha  15.5 | modelo  16.7 | sem valor
+    justa: 13+ 1.49  14+ 1.64  15+ 1.82  16+ 2.05  17+ 2.33  18+ 2.66  19+ 3.08
 ```
 
 Ressaltos (so modelo, sem Pinnacle):
@@ -120,30 +120,30 @@ John Collins             modelo  0.7 | 1+ 2.01  2+ 5.57  3+ 18.50  4+ 68.73  5+ 
 ## Utah Jazz @ Minnesota Timberwolves (09/11 00:10 UTC)
 
 ```
-Ace Bailey               linha  15.5 | modelo  13.7 | APOSTA
-    justa: 13+ 1.53  14+ 1.69  15+ 1.89  16+ 2.14  17+ 2.44  18+ 2.80  19+ 3.26
-Ayo Dosunmu              linha  18.5 | modelo  19.3 | sem valor
-    justa: 16+ 1.51  17+ 1.65  18+ 1.82  19+ 2.02  20+ 2.27  21+ 2.56  22+ 2.92
-Darryn Peterson          linha  15.5 | modelo  14.0 | poucos jogos
-    justa: 13+ 1.57  14+ 1.74  15+ 1.95  16+ 2.20  17+ 2.52  18+ 2.91  19+ 3.40
-Jaden McDaniels          linha  17.5 | modelo  17.9 | sem valor
-    justa: 15+ 1.54  16+ 1.70  17+ 1.88  18+ 2.11  19+ 2.38  20+ 2.71  21+ 3.12
-Jaxson Hayes             linha   8.5 | modelo   7.8 | APOSTA
-    justa: 6+ 1.32  7+ 1.48  8+ 1.68  9+ 1.95  10+ 2.30  11+ 2.75  12+ 3.33
-Jaylen Clark             linha   6.5 | modelo   6.3 | sem valor
-    justa: 4+ 1.38  5+ 1.62  6+ 1.95  7+ 2.38  8+ 2.97  9+ 3.76  10+ 4.82
-Jonathan Kuminga         linha  14.5 | modelo  14.6 | sem valor
-    justa: 12+ 1.40  13+ 1.52  14+ 1.68  15+ 1.88  16+ 2.12  17+ 2.42  18+ 2.78
-Keyonte George           linha  21.5 | modelo  21.2 | duvida se joga
-    justa: 19+ 1.51  20+ 1.63  21+ 1.78  22+ 1.96  23+ 2.17  24+ 2.42  25+ 2.72
-LaMelo Ball              linha  21.5 | modelo  20.7 | sem valor
-    justa: 19+ 1.50  20+ 1.63  21+ 1.78  22+ 1.95  23+ 2.16  24+ 2.41  25+ 2.71
-Lauri Markkanen          linha  21.5 | modelo  20.6 | duvida se joga
-    justa: 19+ 1.62  20+ 1.78  21+ 1.96  22+ 2.17  23+ 2.43  24+ 2.74  25+ 3.12
-Rudy Gobert              linha   9.5 | modelo   8.8 | sem valor
-    justa: 7+ 1.41  8+ 1.59  9+ 1.82  10+ 2.12  11+ 2.50  12+ 3.00  13+ 3.63
 Terrence Shannon Jr.     linha  12.5 | modelo   9.8 | APOSTA
     justa: 10+ 1.49  11+ 1.67  12+ 1.89  13+ 2.16  14+ 2.50  15+ 2.94  16+ 3.48
+Rudy Gobert              linha   9.5 | modelo   8.8 | sem valor
+    justa: 7+ 1.41  8+ 1.59  9+ 1.82  10+ 2.12  11+ 2.50  12+ 3.00  13+ 3.63
+Lauri Markkanen          linha  21.5 | modelo  20.6 | duvida se joga
+    justa: 19+ 1.62  20+ 1.78  21+ 1.96  22+ 2.17  23+ 2.43  24+ 2.74  25+ 3.12
+Keyonte George           linha  21.5 | modelo  21.2 | duvida se joga
+    justa: 19+ 1.51  20+ 1.63  21+ 1.78  22+ 1.96  23+ 2.17  24+ 2.42  25+ 2.72
+Jonathan Kuminga         linha  14.5 | modelo  14.6 | sem valor
+    justa: 12+ 1.40  13+ 1.52  14+ 1.68  15+ 1.88  16+ 2.12  17+ 2.42  18+ 2.78
+LaMelo Ball              linha  21.5 | modelo  20.7 | sem valor
+    justa: 19+ 1.50  20+ 1.63  21+ 1.78  22+ 1.95  23+ 2.16  24+ 2.41  25+ 2.71
+Jaxson Hayes             linha   8.5 | modelo   7.8 | APOSTA
+    justa: 6+ 1.32  7+ 1.48  8+ 1.68  9+ 1.95  10+ 2.30  11+ 2.75  12+ 3.33
+Jaden McDaniels          linha  17.5 | modelo  17.9 | sem valor
+    justa: 15+ 1.54  16+ 1.70  17+ 1.88  18+ 2.11  19+ 2.38  20+ 2.71  21+ 3.12
+Darryn Peterson          linha  15.5 | modelo  14.0 | poucos jogos
+    justa: 13+ 1.57  14+ 1.74  15+ 1.95  16+ 2.20  17+ 2.52  18+ 2.91  19+ 3.40
+Ayo Dosunmu              linha  18.5 | modelo  19.3 | sem valor
+    justa: 16+ 1.51  17+ 1.65  18+ 1.82  19+ 2.02  20+ 2.27  21+ 2.56  22+ 2.92
+Ace Bailey               linha  15.5 | modelo  13.7 | APOSTA
+    justa: 13+ 1.53  14+ 1.69  15+ 1.89  16+ 2.14  17+ 2.44  18+ 2.80  19+ 3.26
+Jaylen Clark             linha   6.5 | modelo   6.3 | sem valor
+    justa: 4+ 1.38  5+ 1.62  6+ 1.95  7+ 2.38  8+ 2.97  9+ 3.76  10+ 4.82
 ```
 
 Ressaltos (so modelo, sem Pinnacle):
@@ -170,4 +170,61 @@ Ace Bailey               modelo  1.8 | 1+ 1.23  2+ 1.89  3+ 3.54  4+ 7.67  5+ 18
 Jaxson Hayes             modelo  1.8 | 1+ 1.23  2+ 1.90  3+ 3.57  4+ 7.77  5+ 19.05
 Rudy Gobert              modelo  1.6 | 1+ 1.29  2+ 2.14  3+ 4.34  4+ 10.20  5+ 26.90
 Jaylen Clark             modelo  1.0 | 1+ 1.61  2+ 3.51  3+ 9.37  4+ 28.67  5+ 96.62
+```
+
+## Brooklyn Nets @ Dallas Mavericks (09/11 00:40 UTC)
+
+```
+Nolan Traore             linha  12.5 | modelo  13.2 | sem valor
+    justa: 10+ 1.36  11+ 1.49  12+ 1.66  13+ 1.86  14+ 2.12  15+ 2.43  16+ 2.83
+Naji Marshall            linha  11.5 | modelo  12.7 | sem valor
+    justa: 9+ 1.41  10+ 1.57  11+ 1.77  12+ 2.03  13+ 2.35  14+ 2.75  15+ 3.25
+Michael Porter Jr        linha  21.5 | modelo  23.2 | sem valor
+    justa: 19+ 1.53  20+ 1.66  21+ 1.81  22+ 2.00  23+ 2.22  24+ 2.48  25+ 2.80
+Kyrie Irving             linha  20.5 | modelo  21.8 | sem valor
+    justa: 18+ 1.47  19+ 1.59  20+ 1.73  21+ 1.90  22+ 2.11  23+ 2.35  24+ 2.65
+Danny Wolf               linha   9.5 | modelo  10.0 | sem valor
+    justa: 7+ 1.41  8+ 1.59  9+ 1.82  10+ 2.12  11+ 2.50  12+ 3.00  13+ 3.63
+Day'Ron Sharpe           linha   8.5 | modelo   9.5 | sem valor
+    justa: 6+ 1.30  7+ 1.45  8+ 1.65  9+ 1.90  10+ 2.23  11+ 2.66  12+ 3.21
+Daniel Gafford           linha   7.5 | modelo   8.8 | sem valor
+    justa: 5+ 1.30  6+ 1.46  7+ 1.69  8+ 1.98  9+ 2.36  10+ 2.86  11+ 3.51
+Cooper Flagg             linha  24.5 | modelo  23.1 | sem valor
+    justa: 22+ 1.58  23+ 1.72  24+ 1.87  25+ 2.06  26+ 2.27  27+ 2.53  28+ 2.83
+P.J. Washington          linha  13.5 | modelo  14.9 | sem valor
+    justa: 11+ 1.40  12+ 1.54  13+ 1.71  14+ 1.92  15+ 2.18  16+ 2.50  17+ 2.90
+Julius Randle            linha  20.5 | modelo  20.6 | sem valor
+    justa: 18+ 1.54  19+ 1.68  20+ 1.85  21+ 2.04  22+ 2.28  23+ 2.56  24+ 2.90
+Zaccharie Risacher       linha   6.5 | modelo   6.2 | sem valor
+    justa: 4+ 1.32  5+ 1.52  6+ 1.80  7+ 2.17  8+ 2.66  9+ 3.32  10+ 4.20
+```
+
+Ressaltos (so modelo, sem Pinnacle):
+```
+Michael Porter Jr.       modelo  7.8 | 6+ 1.35  7+ 1.61  8+ 2.00  9+ 2.60  10+ 3.52
+Day'Ron Sharpe           modelo  7.5 | 6+ 1.41  7+ 1.70  8+ 2.16  9+ 2.86  10+ 3.95
+Julius Randle            modelo  7.2 | 6+ 1.47  7+ 1.81  8+ 2.33  9+ 3.15  10+ 4.43
+P.J. Washington          modelo  7.1 | 6+ 1.51  7+ 1.86  8+ 2.42  9+ 3.30  10+ 4.70
+Cooper Flagg             modelo  6.9 | 5+ 1.30  6+ 1.54  7+ 1.93  8+ 2.54  9+ 3.49
+Daniel Gafford           modelo  5.4 | 4+ 1.35  5+ 1.69  6+ 2.24  7+ 3.14  8+ 4.65
+Danny Wolf               modelo  5.4 | 4+ 1.36  5+ 1.69  6+ 2.24  7+ 3.15  8+ 4.67
+Kyrie Irving             modelo  4.2 | 3+ 1.35  4+ 1.75  5+ 2.44  6+ 3.66  7+ 5.81
+Zaccharie Risacher       modelo  4.0 | 3+ 1.40  4+ 1.85  5+ 2.65  6+ 4.06  7+ 6.60
+Naji Marshall            modelo  3.4 | 2+ 1.25  3+ 1.64  4+ 2.35  5+ 3.67  6+ 6.13
+Nolan Traore             modelo  2.4 | 1+ 1.15  2+ 1.55  3+ 2.36  4+ 4.00  5+ 7.31
+```
+
+Assistencias (so modelo, sem Pinnacle):
+```
+Cooper Flagg             modelo  6.0 | 5+ 1.41  6+ 1.78  7+ 2.41  8+ 3.50  9+ 5.43
+Julius Randle            modelo  5.1 | 4+ 1.37  5+ 1.75  6+ 2.44  7+ 3.67  8+ 5.96
+Kyrie Irving             modelo  4.4 | 3+ 1.26  4+ 1.59  5+ 2.20  6+ 3.35  7+ 5.54
+Naji Marshall            modelo  4.3 | 3+ 1.28  4+ 1.64  5+ 2.31  6+ 3.58  7+ 6.04
+Day'Ron Sharpe           modelo  4.1 | 3+ 1.32  4+ 1.73  5+ 2.50  6+ 3.97  7+ 6.87
+Nolan Traore             modelo  3.4 | 2+ 1.20  3+ 1.54  4+ 2.23  5+ 3.61  6+ 6.46
+Danny Wolf               modelo  2.3 | 1+ 1.14  2+ 1.54  3+ 2.49  4+ 4.64  5+ 9.76
+Michael Porter Jr.       modelo  2.0 | 1+ 1.18  2+ 1.71  3+ 2.98  4+ 6.02  5+ 13.72
+Daniel Gafford           modelo  1.6 | 1+ 1.30  2+ 2.19  3+ 4.47  4+ 10.64  5+ 28.40
+P.J. Washington          modelo  1.5 | 1+ 1.30  2+ 2.20  3+ 4.51  4+ 10.75  5+ 28.77
+Zaccharie Risacher       modelo  1.3 | 1+ 1.39  2+ 2.55  3+ 5.73  4+ 14.93  5+ 43.36
 ```
