@@ -106,6 +106,9 @@ def novas_apostas(L, H):
     for f, rows in ((fa, aval), (fb, apostas)):
         if rows:
             df = pd.DataFrame(rows)
+            if f.exists():   # mesma ordem de colunas do ficheiro (senao as colunas ficam trocadas)
+                cols = list(pd.read_csv(f, nrows=0).columns)
+                df = df.reindex(columns=cols + [c for c in df.columns if c not in cols])
             df.to_csv(f, mode="a", header=not f.exists(), index=False)
     print(f"Linhas avaliadas: {len(aval)}, apostas novas: {len(apostas)}")
 
