@@ -1,74 +1,29 @@
 # Odds justas de hoje (pontos dos jogadores)
 
-Atualizado: 2026-11-08 02:32 UTC. Odd justa = Pinnacle sem margem. Modelo = a nossa previsao.
+Atualizado: 2026-11-08 02:42 UTC. Odd justa = Pinnacle sem margem. Modelo = a nossa previsao.
 Como usar: na Betano/Betclic, se a odd de "X+ pontos" for MAIOR do que a odd justa, essa aposta tem valor.
-
-## Orlando Magic @ Golden State Warriors (08/11 01:40 UTC)
-
-```
-Anthony Black            linha  15.5 | modelo  14.9 | APOSTA
-    justa: 13+ 1.28  14+ 1.37  15+ 1.48  16+ 1.61  17+ 1.77  18+ 1.97  19+ 2.21
-Brandin Podziemski       linha  15.5 | modelo  15.5 | sem valor
-    justa: 13+ 1.51  14+ 1.66  15+ 1.86  16+ 2.09  17+ 2.38  18+ 2.73  19+ 3.16
-Draymond Green           linha   4.5 | modelo   4.9 | duvida se joga
-    justa: 2+ 1.15  3+ 1.32  4+ 1.56  5+ 1.90  6+ 2.37  7+ 3.01  8+ 3.88
-Franz Wagner             linha  24.5 | modelo  20.1 | discorda demais do mercado
-    justa: 22+ 1.55  23+ 1.68  24+ 1.83  25+ 2.00  26+ 2.21  27+ 2.45  28+ 2.74
-Jase Richardson          linha  10.5 | modelo   7.6 | discorda demais do mercado
-    justa: 8+ 1.45  9+ 1.63  10+ 1.87  11+ 2.17  12+ 2.55  13+ 3.03  14+ 3.65
-Stephen Curry            linha  26.5 | modelo  26.5 | sem valor
-    justa: 24+ 1.60  25+ 1.73  26+ 1.88  27+ 2.06  28+ 2.27  29+ 2.52  30+ 2.81
-Tristan da Silva         linha  12.5 | modelo  14.4 | sem valor
-    justa: 10+ 1.28  11+ 1.39  12+ 1.52  13+ 1.68  14+ 1.89  15+ 2.14  16+ 2.45
-Wendell Carter Jr        linha  12.5 | modelo  15.2 | APOSTA
-    justa: 10+ 1.45  11+ 1.61  12+ 1.81  13+ 2.07  14+ 2.38  15+ 2.78  16+ 3.27
-Yaxel Lendeborg          linha  17.5 | modelo  19.1 | poucos jogos
-    justa: 15+ 1.48  16+ 1.62  17+ 1.78  18+ 1.98  19+ 2.23  20+ 2.52  21+ 2.88
-```
-
-Ressaltos (so modelo, sem Pinnacle):
-```
-Wendell Carter Jr.       modelo  8.9 | 7+ 1.35  8+ 1.59  9+ 1.93  10+ 2.45  11+ 3.23
-Franz Wagner             modelo  5.9 | 4+ 1.27  5+ 1.53  6+ 1.96  7+ 2.64  8+ 3.76
-Brandin Podziemski       modelo  5.0 | 3+ 1.22  4+ 1.47  5+ 1.90  6+ 2.63  7+ 3.85
-Anthony Black            modelo  4.7 | 3+ 1.26  4+ 1.55  5+ 2.06  6+ 2.93  7+ 4.42
-Draymond Green           modelo  4.3 | 3+ 1.33  4+ 1.71  5+ 2.38  6+ 3.53  7+ 5.56
-Tristan da Silva         modelo  3.7 | 2+ 1.19  3+ 1.49  4+ 2.05  5+ 3.04  6+ 4.83
-Stephen Curry            modelo  3.7 | 2+ 1.20  3+ 1.50  4+ 2.07  5+ 3.08  6+ 4.92
-Jase Richardson          modelo  2.1 | 1+ 1.21  2+ 1.74  3+ 2.87  4+ 5.23  5+ 10.25
-```
-
-Assistencias (so modelo, sem Pinnacle):
-```
-Franz Wagner             modelo  7.2 | 6+ 1.39  7+ 1.71  8+ 2.23  9+ 3.08  10+ 4.52
-Draymond Green           modelo  5.4 | 4+ 1.30  5+ 1.62  6+ 2.19  7+ 3.19  8+ 4.99
-Stephen Curry            modelo  4.4 | 3+ 1.25  4+ 1.58  5+ 2.19  6+ 3.32  7+ 5.48
-Anthony Black            modelo  4.3 | 3+ 1.27  4+ 1.62  5+ 2.27  6+ 3.49  7+ 5.85
-Brandin Podziemski       modelo  3.8 | 2+ 1.14  3+ 1.39  4+ 1.89  5+ 2.86  6+ 4.75
-Jase Richardson          modelo  2.7 | 1+ 1.09  2+ 1.38  3+ 2.02  4+ 3.41  5+ 6.47
-Tristan da Silva         modelo  1.9 | 1+ 1.19  2+ 1.76  3+ 3.13  4+ 6.45  5+ 15.02
-Wendell Carter Jr.       modelo  1.8 | 1+ 1.21  2+ 1.84  3+ 3.36  4+ 7.14  5+ 17.10
-```
 
 ## Houston Rockets @ Phoenix Suns (08/11 02:10 UTC)
 
 ```
+Alperen Sengun           linha  20.5 | modelo  20.0 | sem valor
+    justa: 18+ 1.65  19+ 1.81  20+ 2.00  21+ 2.24  22+ 2.52  23+ 2.86  24+ 3.26
 Tari Eason               linha   9.5 | modelo   9.4 | sem valor
     justa: 7+ 1.38  8+ 1.55  9+ 1.78  10+ 2.06  11+ 2.43  12+ 2.89  13+ 3.49
 Reed Sheppard            linha   8.5 | modelo  10.3 | APOSTA
     justa: 6+ 1.38  7+ 1.57  8+ 1.82  9+ 2.14  10+ 2.55  11+ 3.09  12+ 3.79
-Oso Ighodaro             linha   6.5 | modelo   6.5 | sem valor
-    justa: 4+ 1.25  5+ 1.41  6+ 1.64  7+ 1.94  8+ 2.33  9+ 2.86  10+ 3.55
 Miles Bridges            linha  16.5 | modelo  15.2 | sem valor
     justa: 14+ 1.61  15+ 1.78  16+ 1.99  17+ 2.26  18+ 2.58  19+ 2.97  20+ 3.45
 Marcus Smart             linha   6.5 | modelo   9.2 | APOSTA
     justa: 4+ 1.26  5+ 1.42  6+ 1.65  7+ 1.96  8+ 2.36  9+ 2.90  10+ 3.61
 Khaman Maluach           linha   5.5 | modelo   5.4 | sem valor
     justa: 3+ 1.22  4+ 1.40  5+ 1.66  6+ 2.00  7+ 2.46  8+ 3.09  9+ 3.92
-Jalen Green              linha  14.5 | modelo  13.6 | APOSTA
-    justa: 12+ 1.40  13+ 1.53  14+ 1.69  15+ 1.88  16+ 2.13  17+ 2.42  18+ 2.79
 Kevin Durant             linha  22.5 | modelo  19.7 | APOSTA
     justa: 20+ 1.61  21+ 1.75  22+ 1.93  23+ 2.13  24+ 2.37  25+ 2.67  26+ 3.01
+Oso Ighodaro             linha   6.5 | modelo   6.5 | sem valor
+    justa: 4+ 1.25  5+ 1.41  6+ 1.64  7+ 1.94  8+ 2.33  9+ 2.86  10+ 3.55
+Jabari Smith Jr          linha  14.5 | modelo  15.6 | sem valor
+    justa: 12+ 1.48  13+ 1.64  14+ 1.83  15+ 2.07  16+ 2.36  17+ 2.72  18+ 3.16
 Fred VanVleet            linha  12.5 | modelo  12.5 | sem valor
     justa: 10+ 1.50  11+ 1.68  12+ 1.91  13+ 2.19  14+ 2.54  15+ 2.98  16+ 3.53
 Dillon Brooks            linha  15.5 | modelo  16.8 | sem valor
@@ -79,10 +34,8 @@ Collin Gillespie         linha   8.5 | modelo   6.9 | discorda demais do mercado
     justa: 6+ 1.30  7+ 1.46  8+ 1.66  9+ 1.92  10+ 2.25  11+ 2.69  12+ 3.24
 Amen Thompson            linha  14.5 | modelo  14.1 | sem valor
     justa: 12+ 1.42  13+ 1.55  14+ 1.72  15+ 1.93  16+ 2.18  17+ 2.49  18+ 2.88
-Alperen Sengun           linha  20.5 | modelo  20.0 | sem valor
-    justa: 18+ 1.65  19+ 1.81  20+ 2.00  21+ 2.24  22+ 2.52  23+ 2.86  24+ 3.26
-Jabari Smith Jr          linha  14.5 | modelo  15.6 | sem valor
-    justa: 12+ 1.48  13+ 1.64  14+ 1.83  15+ 2.07  16+ 2.36  17+ 2.72  18+ 3.16
+Jalen Green              linha  14.5 | modelo  13.6 | APOSTA
+    justa: 12+ 1.40  13+ 1.53  14+ 1.69  15+ 1.88  16+ 2.13  17+ 2.42  18+ 2.79
 ```
 
 Ressaltos (so modelo, sem Pinnacle):
@@ -126,8 +79,6 @@ Khaman Maluach           modelo  0.9 | 1+ 1.79  2+ 4.39  3+ 13.11  4+ 44.31  5+ 
 ## San Antonio Spurs @ Portland Trail Blazers (08/11 03:00 UTC)
 
 ```
-Toumani Camara           linha  11.5 | modelo  13.6 | APOSTA
-    justa: 9+ 1.44  10+ 1.61  11+ 1.83  12+ 2.10  13+ 2.43  14+ 2.86  15+ 3.40
 Stephon Castle           linha  16.5 | modelo  14.1 | APOSTA
     justa: 14+ 1.54  15+ 1.69  16+ 1.89  17+ 2.12  18+ 2.40  19+ 2.75  20+ 3.18
 Scoot Henderson          linha  12.5 | modelo   9.8 | APOSTA
@@ -144,6 +95,8 @@ Deni Avdija              linha  23.5 | modelo  22.3 | sem valor
     justa: 21+ 1.61  22+ 1.75  23+ 1.92  24+ 2.11  25+ 2.35  26+ 2.63  27+ 2.96
 Damian Lillard           linha  20.5 | modelo  20.0 | sem valor
     justa: 18+ 1.62  19+ 1.78  20+ 1.96  21+ 2.19  22+ 2.46  23+ 2.78  24+ 3.17
+Toumani Camara           linha  11.5 | modelo  13.6 | APOSTA
+    justa: 9+ 1.44  10+ 1.61  11+ 1.83  12+ 2.10  13+ 2.43  14+ 2.86  15+ 3.40
 Donovan Clingan          linha  11.5 | modelo  12.8 | APOSTA
     justa: 9+ 1.46  10+ 1.63  11+ 1.85  12+ 2.13  13+ 2.48  14+ 2.92  15+ 3.48
 Victor Wembanyama        linha  27.5 | modelo  23.9 | APOSTA
