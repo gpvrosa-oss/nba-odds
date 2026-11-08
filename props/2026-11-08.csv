@@ -227,3 +227,27 @@ recolhido_em,momento,jogo_id,inicio_jogo,casa,fora,casa_apostas,atualizado_em,me
 2026-11-08T19:59:25Z,fecho,a5d2d9c68b7446860de658aa4bc33c5b,2026-11-08T20:40:00Z,Chicago Bulls,Philadelphia 76ers,pinnacle,2026-11-08T19:59:07Z,player_points,VJ Edgecombe,Under,12.5,2.03
 2026-11-08T19:59:25Z,fecho,a5d2d9c68b7446860de658aa4bc33c5b,2026-11-08T20:40:00Z,Chicago Bulls,Philadelphia 76ers,pinnacle,2026-11-08T19:59:07Z,player_points,Dean Wade,Over,4.5,1.99
 2026-11-08T19:59:25Z,fecho,a5d2d9c68b7446860de658aa4bc33c5b,2026-11-08T20:40:00Z,Chicago Bulls,Philadelphia 76ers,pinnacle,2026-11-08T19:59:07Z,player_points,Dean Wade,Under,4.5,1.76
+2026-11-08T20:49:54Z,cedo,758ca94b2abd151c0593b182254dab32,2026-11-09T00:10:00Z,Minnesota Timberwolves,Utah Jazz,pinnacle,2026-11-08T20:49:01Z,player_points,Ace Bailey,Over,15.5,2.0
+2026-11-08T20:49:54Z,cedo,758ca94b2abd151c0593b182254dab32,2026-11-09T00:10:00Z,Minnesota Timberwolves,Utah Jazz,pinnacle,2026-11-08T20:49:01Z,player_points,Ace Bailey,Under,15.5,1.76
+2026-11-08T20:49:54Z,cedo,758ca94b2abd151c0593b182254dab32,2026-11-09T00:10:00Z,Minnesota Timberwolves,Utah Jazz,pinnacle,2026-11-08T20:49:01Z,player_points,Ayo Dosunmu,Over,18.5,1.89
+2026-11-08T20:49:54Z,cedo,758ca94b2abd151c0593b182254dab32,2026-11-09T00:10:00Z,Minnesota Timberwolves,Utah Jazz,pinnacle,2026-11-08T20:49:01Z,player_points,Ayo Dosunmu,Under,18.5,1.85
+2026-11-08T20:49:54Z,cedo,758ca94b2abd151c0593b182254dab32,2026-11-09T00:10:00Z,Minnesota Timberwolves,Utah Jazz,pinnacle,2026-11-08T20:49:01Z,player_points,Darryn Peterson,Over,15.5,2.06
+2026-11-08T20:49:54Z,cedo,758ca94b2abd151c0593b182254dab32,2026-11-09T00:10:00Z,Minnesota Timberwolves,Utah Jazz,pinnacle,2026-11-08T20:49:01Z,player_points,Darryn Peterson,Under,15.5,1.71
+2026-11-08T20:49:54Z,cedo,758ca94b2abd151c0593b182254dab32,2026-11-09T00:10:00Z,Minnesota Timberwolves,Utah Jazz,pinnacle,2026-11-08T20:49:01Z,player_points,Jaden McDaniels,Over,17.5,1.97
+2026-11-08T20:49:54Z,cedo,758ca94b2abd151c0593b182254dab32,2026-11-09T00:10:00Z,Minnesota Timberwolves,Utah Jazz,pinnacle,2026-11-08T20:49:01Z,player_points,Jaden McDaniels,Under,17.5,1.78
+2026-11-08T20:49:54Z,cedo,758ca94b2abd151c0593b182254dab32,2026-11-09T00:10:00Z,Minnesota Timberwolves,Utah Jazz,pinnacle,2026-11-08T20:49:01Z,player_points,Jaxson Hayes,Over,8.5,1.83
+2026-11-08T20:49:54Z,cedo,758ca94b2abd151c0593b182254dab32,2026-11-09T00:10:00Z,Minnesota Timberwolves,Utah Jazz,pinnacle,2026-11-08T20:49:01Z,player_points,Jaxson Hayes,Under,8.5,1.92
+2026-11-08T20:49:54Z,cedo,758ca94b2abd151c0593b182254dab32,2026-11-09T00:10:00Z,Minnesota Timberwolves,Utah Jazz,pinnacle,2026-11-08T20:49:01Z,player_points,Jaylen Clark,Over,6.5,2.23
+2026-11-08T20:49:54Z,cedo,758ca94b2abd151c0593b182254dab32,2026-11-09T00:10:00Z,Minnesota Timberwolves,Utah Jazz,pinnacle,2026-11-08T20:49:01Z,player_points,Jaylen Clark,Under,6.5,1.61
+2026-11-08T20:49:54Z,cedo,758ca94b2abd151c0593b182254dab32,2026-11-09T00:10:00Z,Minnesota Timberwolves,Utah Jazz,pinnacle,2026-11-08T20:49:01Z,player_points,Jonathan Kuminga,Over,14.5,1.76
+2026-11-08T20:49:54Z,cedo,758ca94b2abd151c0593b182254dab32,2026-11-09T00:10:00Z,Minnesota Timberwolves,Utah Jazz,pinnacle,2026-11-08T20:49:01Z,player_points,Jonathan Kuminga,Under,14.5,2.0
+2026-11-08T20:49:54Z,cedo,758ca94b2abd151c0593b182254dab32,2026-11-09T00:10:00Z,Minnesota Timberwolves,Utah Jazz,pinnacle,2026-11-08T20:49:01Z,player_points,Keyonte George,Over,21.5,1.83
+2026-11-08T20:49:54Z,cedo,758ca94b2abd151c0593b182254dab32,2026-11-09T00:10:00Z,Minnesota Timberwolves,Utah Jazz,pinnacle,2026-11-08T20:49:01Z,player_points,Keyonte George,Under,21.5,1.91
+2026-11-08T20:49:54Z,cedo,758ca94b2abd151c0593b182254dab32,2026-11-09T00:10:00Z,Minnesota Timberwolves,Utah Jazz,pinnacle,2026-11-08T20:49:01Z,player_points,LaMelo Ball,Over,21.5,1.83
+2026-11-08T20:49:54Z,cedo,758ca94b2abd151c0593b182254dab32,2026-11-09T00:10:00Z,Minnesota Timberwolves,Utah Jazz,pinnacle,2026-11-08T20:49:01Z,player_points,LaMelo Ball,Under,21.5,1.92
+2026-11-08T20:49:54Z,cedo,758ca94b2abd151c0593b182254dab32,2026-11-09T00:10:00Z,Minnesota Timberwolves,Utah Jazz,pinnacle,2026-11-08T20:49:01Z,player_points,Lauri Markkanen,Over,21.5,2.03
+2026-11-08T20:49:54Z,cedo,758ca94b2abd151c0593b182254dab32,2026-11-09T00:10:00Z,Minnesota Timberwolves,Utah Jazz,pinnacle,2026-11-08T20:49:01Z,player_points,Lauri Markkanen,Under,21.5,1.73
+2026-11-08T20:49:54Z,cedo,758ca94b2abd151c0593b182254dab32,2026-11-09T00:10:00Z,Minnesota Timberwolves,Utah Jazz,pinnacle,2026-11-08T20:49:01Z,player_points,Rudy Gobert,Over,9.5,1.98
+2026-11-08T20:49:54Z,cedo,758ca94b2abd151c0593b182254dab32,2026-11-09T00:10:00Z,Minnesota Timberwolves,Utah Jazz,pinnacle,2026-11-08T20:49:01Z,player_points,Rudy Gobert,Under,9.5,1.77
+2026-11-08T20:49:54Z,cedo,758ca94b2abd151c0593b182254dab32,2026-11-09T00:10:00Z,Minnesota Timberwolves,Utah Jazz,pinnacle,2026-11-08T20:49:01Z,player_points,Terrence Shannon Jr.,Over,12.5,2.02
+2026-11-08T20:49:54Z,cedo,758ca94b2abd151c0593b182254dab32,2026-11-09T00:10:00Z,Minnesota Timberwolves,Utah Jazz,pinnacle,2026-11-08T20:49:01Z,player_points,Terrence Shannon Jr.,Under,12.5,1.74
