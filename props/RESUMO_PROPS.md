@@ -1,10 +1,10 @@
 # Apostas virtuais em props (sem dinheiro real)
 
-Atualizado: 2026-11-08 22:41 UTC. Casa de referencia: Pinnacle (linha ~3h antes do jogo).
+Atualizado: 2026-11-08 22:54 UTC. Casa de referencia: Pinnacle (linha ~3h antes do jogo).
 
-- Apostas decididas: **68** (ganhas 37%), anuladas: 1, por decidir: 15
-- Apostado: 67.2 unidades. Lucro: **-20.7 unidades** (ROI -30.8%)
-- CLV medio (bater a linha de fecho; o melhor sinal de qualidade): **+0.4%** em 66 apostas
+- Apostas decididas: **69** (ganhas 38%), anuladas: 1, por decidir: 14
+- Apostado: 68.2 unidades. Lucro: **-19.8 unidades** (ROI -29.0%)
+- CLV medio (bater a linha de fecho; o melhor sinal de qualidade): **+0.4%** em 67 apostas
 
 Regra de bolso: so pensar em dinheiro real com 200+ apostas e CLV medio acima de +2%.
 
@@ -12,7 +12,7 @@ Regra de bolso: so pensar em dinheiro real com 200+ apostas e CLV medio acima de
 
 ```
          inicio_jogo               jogador  lado  linha  odd  previsto  stake resultado  real  lucro  clv
-2026-11-08T20:40:00Z          Jaylen Brown  Over   21.5 2.00     23.09   0.95       NaN   NaN    NaN  NaN
+2026-11-08T20:40:00Z          Jaylen Brown  Over   21.5 2.00     23.09   0.95    ganhou  29.0   0.95 -0.0
 2026-11-08T23:10:00Z       Cade Cunningham Under   25.5 1.75     22.84   1.00       NaN   NaN    NaN  NaN
 2026-11-08T23:10:00Z          John Collins Under   11.5 1.80      9.72   1.00       NaN   NaN    NaN  NaN
 2026-11-08T23:10:00Z          Paul Reed Jr Under   13.5 1.81     12.12   1.00       NaN   NaN    NaN  NaN
