@@ -273,3 +273,25 @@ recolhido_em,momento,jogo_id,inicio_jogo,casa,fora,casa_apostas,atualizado_em,me
 2026-11-08T21:13:23Z,cedo,c5b6599e8e4949749798dcdadceb68d4,2026-11-09T00:40:00Z,Dallas Mavericks,Brooklyn Nets,pinnacle,2026-11-08T21:12:18Z,player_points,Zaccharie Risacher,Under,6.5,1.74
 2026-11-08T21:13:23Z,cedo,c5b6599e8e4949749798dcdadceb68d4,2026-11-09T00:40:00Z,Dallas Mavericks,Brooklyn Nets,pinnacle,2026-11-08T21:12:18Z,player_points,Danny Wolf,Over,9.5,1.98
 2026-11-08T21:13:23Z,cedo,c5b6599e8e4949749798dcdadceb68d4,2026-11-09T00:40:00Z,Dallas Mavericks,Brooklyn Nets,pinnacle,2026-11-08T21:12:18Z,player_points,Danny Wolf,Under,9.5,1.77
+2026-11-08T21:47:00Z,cedo,98eae523edadc7d4d42ab37222eb2c88,2026-11-09T01:10:00Z,Milwaukee Bucks,Boston Celtics,pinnacle,2026-11-08T21:46:12Z,player_points,Brayden Burries,Over,10.5,1.76
+2026-11-08T21:47:00Z,cedo,98eae523edadc7d4d42ab37222eb2c88,2026-11-09T01:10:00Z,Milwaukee Bucks,Boston Celtics,pinnacle,2026-11-08T21:46:12Z,player_points,Brayden Burries,Under,10.5,2.0
+2026-11-08T21:47:00Z,cedo,98eae523edadc7d4d42ab37222eb2c88,2026-11-09T01:10:00Z,Milwaukee Bucks,Boston Celtics,pinnacle,2026-11-08T21:46:12Z,player_points,Derrick White,Over,13.5,1.87
+2026-11-08T21:47:00Z,cedo,98eae523edadc7d4d42ab37222eb2c88,2026-11-09T01:10:00Z,Milwaukee Bucks,Boston Celtics,pinnacle,2026-11-08T21:46:12Z,player_points,Derrick White,Under,13.5,1.87
+2026-11-08T21:47:00Z,cedo,98eae523edadc7d4d42ab37222eb2c88,2026-11-09T01:10:00Z,Milwaukee Bucks,Boston Celtics,pinnacle,2026-11-08T21:46:12Z,player_points,Jayson Tatum,Over,26.5,1.91
+2026-11-08T21:47:00Z,cedo,98eae523edadc7d4d42ab37222eb2c88,2026-11-09T01:10:00Z,Milwaukee Bucks,Boston Celtics,pinnacle,2026-11-08T21:46:12Z,player_points,Jayson Tatum,Under,26.5,1.83
+2026-11-08T21:47:00Z,cedo,98eae523edadc7d4d42ab37222eb2c88,2026-11-09T01:10:00Z,Milwaukee Bucks,Boston Celtics,pinnacle,2026-11-08T21:46:12Z,player_points,Kyle Kuzma,Over,9.5,1.88
+2026-11-08T21:47:00Z,cedo,98eae523edadc7d4d42ab37222eb2c88,2026-11-09T01:10:00Z,Milwaukee Bucks,Boston Celtics,pinnacle,2026-11-08T21:46:12Z,player_points,Kyle Kuzma,Under,9.5,1.86
+2026-11-08T21:47:00Z,cedo,98eae523edadc7d4d42ab37222eb2c88,2026-11-09T01:10:00Z,Milwaukee Bucks,Boston Celtics,pinnacle,2026-11-08T21:46:12Z,player_points,Myles Turner,Over,9.5,1.88
+2026-11-08T21:47:00Z,cedo,98eae523edadc7d4d42ab37222eb2c88,2026-11-09T01:10:00Z,Milwaukee Bucks,Boston Celtics,pinnacle,2026-11-08T21:46:12Z,player_points,Myles Turner,Under,9.5,1.88
+2026-11-08T21:47:00Z,cedo,98eae523edadc7d4d42ab37222eb2c88,2026-11-09T01:10:00Z,Milwaukee Bucks,Boston Celtics,pinnacle,2026-11-08T21:46:12Z,player_points,Neemias Queta,Over,9.5,1.76
+2026-11-08T21:47:00Z,cedo,98eae523edadc7d4d42ab37222eb2c88,2026-11-09T01:10:00Z,Milwaukee Bucks,Boston Celtics,pinnacle,2026-11-08T21:46:12Z,player_points,Neemias Queta,Under,9.5,1.99
+2026-11-08T21:47:00Z,cedo,98eae523edadc7d4d42ab37222eb2c88,2026-11-09T01:10:00Z,Milwaukee Bucks,Boston Celtics,pinnacle,2026-11-08T21:46:12Z,player_points,Paul George,Over,17.5,1.83
+2026-11-08T21:47:00Z,cedo,98eae523edadc7d4d42ab37222eb2c88,2026-11-09T01:10:00Z,Milwaukee Bucks,Boston Celtics,pinnacle,2026-11-08T21:46:12Z,player_points,Paul George,Under,17.5,1.91
+2026-11-08T21:47:00Z,cedo,98eae523edadc7d4d42ab37222eb2c88,2026-11-09T01:10:00Z,Milwaukee Bucks,Boston Celtics,pinnacle,2026-11-08T21:46:12Z,player_points,Payton Pritchard,Over,13.5,1.96
+2026-11-08T21:47:00Z,cedo,98eae523edadc7d4d42ab37222eb2c88,2026-11-09T01:10:00Z,Milwaukee Bucks,Boston Celtics,pinnacle,2026-11-08T21:46:12Z,player_points,Payton Pritchard,Under,13.5,1.79
+2026-11-08T21:47:00Z,cedo,98eae523edadc7d4d42ab37222eb2c88,2026-11-09T01:10:00Z,Milwaukee Bucks,Boston Celtics,pinnacle,2026-11-08T21:46:12Z,player_points,Tyler Herro,Over,20.5,1.98
+2026-11-08T21:47:00Z,cedo,98eae523edadc7d4d42ab37222eb2c88,2026-11-09T01:10:00Z,Milwaukee Bucks,Boston Celtics,pinnacle,2026-11-08T21:46:12Z,player_points,Tyler Herro,Under,20.5,1.77
+2026-11-08T21:47:00Z,cedo,98eae523edadc7d4d42ab37222eb2c88,2026-11-09T01:10:00Z,Milwaukee Bucks,Boston Celtics,pinnacle,2026-11-08T21:46:12Z,player_points,Jaime Jaquez Jr,Over,14.5,2.08
+2026-11-08T21:47:00Z,cedo,98eae523edadc7d4d42ab37222eb2c88,2026-11-09T01:10:00Z,Milwaukee Bucks,Boston Celtics,pinnacle,2026-11-08T21:46:12Z,player_points,Jaime Jaquez Jr,Under,14.5,1.7
+2026-11-08T21:47:00Z,cedo,98eae523edadc7d4d42ab37222eb2c88,2026-11-09T01:10:00Z,Milwaukee Bucks,Boston Celtics,pinnacle,2026-11-08T21:46:12Z,player_points,Ryan Rollins,Over,9.5,1.95
+2026-11-08T21:47:00Z,cedo,98eae523edadc7d4d42ab37222eb2c88,2026-11-09T01:10:00Z,Milwaukee Bucks,Boston Celtics,pinnacle,2026-11-08T21:46:12Z,player_points,Ryan Rollins,Under,9.5,1.79
