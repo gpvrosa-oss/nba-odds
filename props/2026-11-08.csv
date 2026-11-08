@@ -183,3 +183,23 @@ recolhido_em,momento,jogo_id,inicio_jogo,casa,fora,casa_apostas,atualizado_em,me
 2026-11-08T19:02:25Z,alerta,a5d2d9c68b7446860de658aa4bc33c5b,2026-11-08T20:40:00Z,Chicago Bulls,Philadelphia 76ers,pinnacle,2026-11-08T19:03:00Z,player_points,VJ Edgecombe,Under,12.5,2.03
 2026-11-08T19:02:25Z,alerta,a5d2d9c68b7446860de658aa4bc33c5b,2026-11-08T20:40:00Z,Chicago Bulls,Philadelphia 76ers,pinnacle,2026-11-08T19:03:00Z,player_points,Dean Wade,Over,4.5,1.99
 2026-11-08T19:02:25Z,alerta,a5d2d9c68b7446860de658aa4bc33c5b,2026-11-08T20:40:00Z,Chicago Bulls,Philadelphia 76ers,pinnacle,2026-11-08T19:03:00Z,player_points,Dean Wade,Under,4.5,1.76
+2026-11-08T19:46:02Z,cedo,182e2b5349fa0ff4ad3c0e8359c1a9a0,2026-11-08T23:10:00Z,Detroit Pistons,Los Angeles Lakers,pinnacle,2026-11-08T19:45:25Z,player_points,Ausar Thompson,Over,10.5,1.88
+2026-11-08T19:46:02Z,cedo,182e2b5349fa0ff4ad3c0e8359c1a9a0,2026-11-08T23:10:00Z,Detroit Pistons,Los Angeles Lakers,pinnacle,2026-11-08T19:45:25Z,player_points,Ausar Thompson,Under,10.5,1.86
+2026-11-08T19:46:02Z,cedo,182e2b5349fa0ff4ad3c0e8359c1a9a0,2026-11-08T23:10:00Z,Detroit Pistons,Los Angeles Lakers,pinnacle,2026-11-08T19:45:25Z,player_points,Austin Reaves,Over,26.5,1.99
+2026-11-08T19:46:02Z,cedo,182e2b5349fa0ff4ad3c0e8359c1a9a0,2026-11-08T23:10:00Z,Detroit Pistons,Los Angeles Lakers,pinnacle,2026-11-08T19:45:25Z,player_points,Austin Reaves,Under,26.5,1.76
+2026-11-08T19:46:02Z,cedo,182e2b5349fa0ff4ad3c0e8359c1a9a0,2026-11-08T23:10:00Z,Detroit Pistons,Los Angeles Lakers,pinnacle,2026-11-08T19:45:25Z,player_points,Cade Cunningham,Over,25.5,2.0
+2026-11-08T19:46:02Z,cedo,182e2b5349fa0ff4ad3c0e8359c1a9a0,2026-11-08T23:10:00Z,Detroit Pistons,Los Angeles Lakers,pinnacle,2026-11-08T19:45:25Z,player_points,Cade Cunningham,Under,25.5,1.75
+2026-11-08T19:46:02Z,cedo,182e2b5349fa0ff4ad3c0e8359c1a9a0,2026-11-08T23:10:00Z,Detroit Pistons,Los Angeles Lakers,pinnacle,2026-11-08T19:45:25Z,player_points,Daniss Jenkins,Over,9.5,1.86
+2026-11-08T19:46:02Z,cedo,182e2b5349fa0ff4ad3c0e8359c1a9a0,2026-11-08T23:10:00Z,Detroit Pistons,Los Angeles Lakers,pinnacle,2026-11-08T19:45:25Z,player_points,Daniss Jenkins,Under,9.5,1.88
+2026-11-08T19:46:02Z,cedo,182e2b5349fa0ff4ad3c0e8359c1a9a0,2026-11-08T23:10:00Z,Detroit Pistons,Los Angeles Lakers,pinnacle,2026-11-08T19:45:25Z,player_points,Duncan Robinson,Over,15.5,1.92
+2026-11-08T19:46:02Z,cedo,182e2b5349fa0ff4ad3c0e8359c1a9a0,2026-11-08T23:10:00Z,Detroit Pistons,Los Angeles Lakers,pinnacle,2026-11-08T19:45:25Z,player_points,Duncan Robinson,Under,15.5,1.83
+2026-11-08T19:46:02Z,cedo,182e2b5349fa0ff4ad3c0e8359c1a9a0,2026-11-08T23:10:00Z,Detroit Pistons,Los Angeles Lakers,pinnacle,2026-11-08T19:45:25Z,player_points,John Collins,Over,11.5,1.94
+2026-11-08T19:46:02Z,cedo,182e2b5349fa0ff4ad3c0e8359c1a9a0,2026-11-08T23:10:00Z,Detroit Pistons,Los Angeles Lakers,pinnacle,2026-11-08T19:45:25Z,player_points,John Collins,Under,11.5,1.8
+2026-11-08T19:46:02Z,cedo,182e2b5349fa0ff4ad3c0e8359c1a9a0,2026-11-08T23:10:00Z,Detroit Pistons,Los Angeles Lakers,pinnacle,2026-11-08T19:45:25Z,player_points,Matisse Thybulle,Over,7.5,1.97
+2026-11-08T19:46:02Z,cedo,182e2b5349fa0ff4ad3c0e8359c1a9a0,2026-11-08T23:10:00Z,Detroit Pistons,Los Angeles Lakers,pinnacle,2026-11-08T19:45:25Z,player_points,Matisse Thybulle,Under,7.5,1.78
+2026-11-08T19:46:02Z,cedo,182e2b5349fa0ff4ad3c0e8359c1a9a0,2026-11-08T23:10:00Z,Detroit Pistons,Los Angeles Lakers,pinnacle,2026-11-08T19:45:25Z,player_points,Paul Reed Jr,Over,13.5,1.93
+2026-11-08T19:46:02Z,cedo,182e2b5349fa0ff4ad3c0e8359c1a9a0,2026-11-08T23:10:00Z,Detroit Pistons,Los Angeles Lakers,pinnacle,2026-11-08T19:45:25Z,player_points,Paul Reed Jr,Under,13.5,1.81
+2026-11-08T19:46:02Z,cedo,182e2b5349fa0ff4ad3c0e8359c1a9a0,2026-11-08T23:10:00Z,Detroit Pistons,Los Angeles Lakers,pinnacle,2026-11-08T19:45:25Z,player_points,Walker Kessler,Over,13.5,1.89
+2026-11-08T19:46:02Z,cedo,182e2b5349fa0ff4ad3c0e8359c1a9a0,2026-11-08T23:10:00Z,Detroit Pistons,Los Angeles Lakers,pinnacle,2026-11-08T19:45:25Z,player_points,Walker Kessler,Under,13.5,1.85
+2026-11-08T19:46:02Z,cedo,182e2b5349fa0ff4ad3c0e8359c1a9a0,2026-11-08T23:10:00Z,Detroit Pistons,Los Angeles Lakers,pinnacle,2026-11-08T19:45:25Z,player_points,Kevin Huerter,Over,7.5,1.88
+2026-11-08T19:46:02Z,cedo,182e2b5349fa0ff4ad3c0e8359c1a9a0,2026-11-08T23:10:00Z,Detroit Pistons,Los Angeles Lakers,pinnacle,2026-11-08T19:45:25Z,player_points,Kevin Huerter,Under,7.5,1.88
