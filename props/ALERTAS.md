@@ -1,5 +1,19 @@
 # Alertas de ultima hora
 
+## 08/11 19:02 UTC: Philadelphia 76ers @ Chicago Bulls
+
+- **Norman Powell** (CHI, 28.9 min de media): Out (antes: 30% de faltar, agora 100%)
+
+Colegas (pontos previstos antes -> agora | linha Pinnacle agora | veredito):
+```
+Josh Giddey               11.2 ->  11.7 (+0.5) | 12.5 (1.87/1.87)   | sem valor (a Pinnacle ja ajustou?)
+Tre Jones                 11.8 ->  12.2 (+0.5) | 11.5 (1.98/1.77)   | sem valor (a Pinnacle ja ajustou?)
+Matas Buzelis             13.2 ->  13.7 (+0.4) | 14.5 (1.88/1.86)   | sem valor (a Pinnacle ja ajustou?)
+Caleb Wilson              17.5 ->  17.8 (+0.3) | 21.5 (1.98/1.77)   | passar
+```
+
+Na Betano/Betclic: confirma se a linha desses jogadores ainda nao subiu.
+
 ## 07/11 00:53 UTC: San Antonio Spurs @ Sacramento Kings
 
 - **De'Andre Hunter** (SAC, 31.2 min de media): Out (antes: 30% de faltar, agora 100%)
