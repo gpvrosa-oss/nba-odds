@@ -242,7 +242,7 @@ def estado_atual(H, s):
     return E, norma, adv
 
 FALTA_BASE = 0.12
-CORR_FALTA, CORR_VOLTA20, CORR_VOLTA8, CORR_ALTO, LIMIAR_ALTO = 0.7, 0.75, 0.85, 0.2, 20.0
+CORR_FALTA, CORR_VOLTA20, CORR_VOLTA8, CORR_ALTO, LIMIAR_ALTO = 0.7, 0.75, 0.85, 0.0, 20.0   # CORR_ALTO: com as outras correcoes ja nao ajuda (estrelas ficavam ~1 ponto abaixo)
 
 def prever(E, norma, adv, par, equipa, adversario, casa, prob_faltar, data=None):
     """Pontos previstos para cada jogador de 'equipa'. prob_faltar: {jogador_id: 0..1}."""
