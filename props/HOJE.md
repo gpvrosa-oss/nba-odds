@@ -1,6 +1,6 @@
 # Odds justas de hoje (pontos dos jogadores)
 
-Atualizado: 2026-11-08 19:13 UTC. Odd justa = Pinnacle sem margem. Modelo = a nossa previsao.
+Atualizado: 2026-11-08 19:23 UTC. Odd justa = Pinnacle sem margem. Modelo = a nossa previsao.
 Como usar: na Betano/Betclic, se a odd de "X+ pontos" for MAIOR do que a odd justa, essa aposta tem valor.
 
 ## Philadelphia 76ers @ Chicago Bulls (08/11 20:40 UTC)
@@ -39,23 +39,23 @@ Ressaltos (so modelo, sem Pinnacle):
 LeBron James             modelo  7.7 | 6+ 1.37  7+ 1.64  8+ 2.06  9+ 2.69  10+ 3.67
 Jaylen Brown             modelo  7.1 | 6+ 1.50  7+ 1.86  8+ 2.41  9+ 3.28  10+ 4.66
 VJ Edgecombe             modelo  6.8 | 5+ 1.33  6+ 1.59  7+ 2.01  8+ 2.68  9+ 3.72
-Josh Giddey              modelo  5.9 | 4+ 1.27  5+ 1.54  6+ 1.96  7+ 2.66  8+ 3.79
-Matas Buzelis            modelo  5.1 | 4+ 1.42  5+ 1.82  6+ 2.47  7+ 3.57  8+ 5.44
+Josh Giddey              modelo  5.9 | 4+ 1.26  5+ 1.51  6+ 1.92  7+ 2.58  8+ 3.66
+Matas Buzelis            modelo  5.2 | 4+ 1.42  5+ 1.80  6+ 2.44  7+ 3.51  8+ 5.33
 Tyrese Maxey             modelo  4.1 | 3+ 1.38  4+ 1.82  5+ 2.58  6+ 3.91  7+ 6.31
 Dean Wade                modelo  3.8 | 2+ 1.18  3+ 1.47  4+ 1.99  5+ 2.93  6+ 4.62
-Tre Jones                modelo  3.2 | 2+ 1.28  3+ 1.71  4+ 2.50  5+ 3.98  6+ 6.78
+Tre Jones                modelo  3.3 | 2+ 1.27  3+ 1.69  4+ 2.46  5+ 3.90  6+ 6.62
 Anfernee Simons          modelo  2.2 | 1+ 1.20  2+ 1.71  3+ 2.77  4+ 4.98  5+ 9.65
 ```
 
 Assistencias (so modelo, sem Pinnacle):
 ```
-Josh Giddey              modelo  7.4 | 6+ 1.35  7+ 1.64  8+ 2.11  9+ 2.87  10+ 4.13
+Josh Giddey              modelo  7.7 | 6+ 1.31  7+ 1.56  8+ 1.96  9+ 2.61  10+ 3.67
 LeBron James             modelo  7.0 | 6+ 1.45  7+ 1.81  8+ 2.40  9+ 3.39  10+ 5.07
 Tyrese Maxey             modelo  5.7 | 4+ 1.25  5+ 1.52  6+ 1.99  7+ 2.81  8+ 4.25
 Jaylen Brown             modelo  4.2 | 3+ 1.29  4+ 1.66  5+ 2.35  6+ 3.65  7+ 6.18
-Tre Jones                modelo  3.4 | 2+ 1.20  3+ 1.55  4+ 2.24  5+ 3.64  6+ 6.54
+Tre Jones                modelo  3.5 | 2+ 1.18  3+ 1.50  4+ 2.14  5+ 3.40  6+ 5.98
 VJ Edgecombe             modelo  3.4 | 2+ 1.20  3+ 1.55  4+ 2.25  5+ 3.65  6+ 6.56
-Matas Buzelis            modelo  2.0 | 1+ 1.19  2+ 1.74  3+ 3.06  4+ 6.25  5+ 14.42
+Matas Buzelis            modelo  2.0 | 1+ 1.18  2+ 1.70  3+ 2.93  4+ 5.87  5+ 13.30
 Dean Wade                modelo  1.9 | 1+ 1.20  2+ 1.78  3+ 3.18  4+ 6.61  5+ 15.48
 Anfernee Simons          modelo  1.4 | 1+ 1.35  2+ 2.39  3+ 5.15  4+ 12.92  5+ 36.23
 ```
