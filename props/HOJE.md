@@ -1,6 +1,6 @@
 # Odds justas de hoje (pontos dos jogadores)
 
-Atualizado: 2026-11-08 23:45 UTC. Odd justa = Pinnacle sem margem. Modelo = a nossa previsao.
+Atualizado: 2026-11-08 23:58 UTC. Odd justa = Pinnacle sem margem. Modelo = a nossa previsao.
 Como usar: na Betano/Betclic, se a odd de "X+ pontos" for MAIOR do que a odd justa, essa aposta tem valor.
 
 ## Los Angeles Lakers @ Detroit Pistons (08/11 23:10 UTC)
