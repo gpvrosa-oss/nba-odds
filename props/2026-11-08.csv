@@ -387,3 +387,21 @@ recolhido_em,momento,jogo_id,inicio_jogo,casa,fora,casa_apostas,atualizado_em,me
 2026-11-08T23:35:00Z,fecho,758ca94b2abd151c0593b182254dab32,2026-11-09T00:10:00Z,Minnesota Timberwolves,Utah Jazz,pinnacle,2026-11-08T23:33:54Z,player_points,Rudy Gobert,Under,9.5,1.77
 2026-11-08T23:35:00Z,fecho,758ca94b2abd151c0593b182254dab32,2026-11-09T00:10:00Z,Minnesota Timberwolves,Utah Jazz,pinnacle,2026-11-08T23:33:54Z,player_points,Terrence Shannon Jr.,Over,12.5,2.24
 2026-11-08T23:35:00Z,fecho,758ca94b2abd151c0593b182254dab32,2026-11-09T00:10:00Z,Minnesota Timberwolves,Utah Jazz,pinnacle,2026-11-08T23:33:54Z,player_points,Terrence Shannon Jr.,Under,12.5,1.61
+2026-11-08T23:47:24Z,alerta,758ca94b2abd151c0593b182254dab32,2026-11-09T00:10:00Z,Minnesota Timberwolves,Utah Jazz,pinnacle,2026-11-08T23:48:18Z,player_points,Ace Bailey,Over,15.5,1.82
+2026-11-08T23:47:24Z,alerta,758ca94b2abd151c0593b182254dab32,2026-11-09T00:10:00Z,Minnesota Timberwolves,Utah Jazz,pinnacle,2026-11-08T23:48:18Z,player_points,Ace Bailey,Under,15.5,1.93
+2026-11-08T23:47:24Z,alerta,758ca94b2abd151c0593b182254dab32,2026-11-09T00:10:00Z,Minnesota Timberwolves,Utah Jazz,pinnacle,2026-11-08T23:48:18Z,player_points,Ayo Dosunmu,Over,18.5,1.89
+2026-11-08T23:47:24Z,alerta,758ca94b2abd151c0593b182254dab32,2026-11-09T00:10:00Z,Minnesota Timberwolves,Utah Jazz,pinnacle,2026-11-08T23:48:18Z,player_points,Ayo Dosunmu,Under,18.5,1.85
+2026-11-08T23:47:24Z,alerta,758ca94b2abd151c0593b182254dab32,2026-11-09T00:10:00Z,Minnesota Timberwolves,Utah Jazz,pinnacle,2026-11-08T23:48:18Z,player_points,Darryn Peterson,Over,15.5,1.69
+2026-11-08T23:47:24Z,alerta,758ca94b2abd151c0593b182254dab32,2026-11-09T00:10:00Z,Minnesota Timberwolves,Utah Jazz,pinnacle,2026-11-08T23:48:18Z,player_points,Darryn Peterson,Under,15.5,2.09
+2026-11-08T23:47:24Z,alerta,758ca94b2abd151c0593b182254dab32,2026-11-09T00:10:00Z,Minnesota Timberwolves,Utah Jazz,pinnacle,2026-11-08T23:48:18Z,player_points,Jaden McDaniels,Over,17.5,1.97
+2026-11-08T23:47:24Z,alerta,758ca94b2abd151c0593b182254dab32,2026-11-09T00:10:00Z,Minnesota Timberwolves,Utah Jazz,pinnacle,2026-11-08T23:48:18Z,player_points,Jaden McDaniels,Under,17.5,1.78
+2026-11-08T23:47:24Z,alerta,758ca94b2abd151c0593b182254dab32,2026-11-09T00:10:00Z,Minnesota Timberwolves,Utah Jazz,pinnacle,2026-11-08T23:48:18Z,player_points,Jaxson Hayes,Over,8.5,1.79
+2026-11-08T23:47:24Z,alerta,758ca94b2abd151c0593b182254dab32,2026-11-09T00:10:00Z,Minnesota Timberwolves,Utah Jazz,pinnacle,2026-11-08T23:48:18Z,player_points,Jaxson Hayes,Under,8.5,1.95
+2026-11-08T23:47:24Z,alerta,758ca94b2abd151c0593b182254dab32,2026-11-09T00:10:00Z,Minnesota Timberwolves,Utah Jazz,pinnacle,2026-11-08T23:48:18Z,player_points,Jonathan Kuminga,Over,14.5,1.87
+2026-11-08T23:47:24Z,alerta,758ca94b2abd151c0593b182254dab32,2026-11-09T00:10:00Z,Minnesota Timberwolves,Utah Jazz,pinnacle,2026-11-08T23:48:18Z,player_points,Jonathan Kuminga,Under,14.5,1.87
+2026-11-08T23:47:24Z,alerta,758ca94b2abd151c0593b182254dab32,2026-11-09T00:10:00Z,Minnesota Timberwolves,Utah Jazz,pinnacle,2026-11-08T23:48:18Z,player_points,Keyonte George,Over,22.5,1.77
+2026-11-08T23:47:24Z,alerta,758ca94b2abd151c0593b182254dab32,2026-11-09T00:10:00Z,Minnesota Timberwolves,Utah Jazz,pinnacle,2026-11-08T23:48:18Z,player_points,Keyonte George,Under,22.5,1.98
+2026-11-08T23:47:24Z,alerta,758ca94b2abd151c0593b182254dab32,2026-11-09T00:10:00Z,Minnesota Timberwolves,Utah Jazz,pinnacle,2026-11-08T23:48:18Z,player_points,Rudy Gobert,Over,9.5,1.98
+2026-11-08T23:47:24Z,alerta,758ca94b2abd151c0593b182254dab32,2026-11-09T00:10:00Z,Minnesota Timberwolves,Utah Jazz,pinnacle,2026-11-08T23:48:18Z,player_points,Rudy Gobert,Under,9.5,1.77
+2026-11-08T23:47:24Z,alerta,758ca94b2abd151c0593b182254dab32,2026-11-09T00:10:00Z,Minnesota Timberwolves,Utah Jazz,pinnacle,2026-11-08T23:48:18Z,player_points,Terrence Shannon Jr.,Over,12.5,2.24
+2026-11-08T23:47:24Z,alerta,758ca94b2abd151c0593b182254dab32,2026-11-09T00:10:00Z,Minnesota Timberwolves,Utah Jazz,pinnacle,2026-11-08T23:48:18Z,player_points,Terrence Shannon Jr.,Under,12.5,1.61

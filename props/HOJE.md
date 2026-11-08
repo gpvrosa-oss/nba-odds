@@ -1,6 +1,6 @@
 # Odds justas de hoje (pontos dos jogadores)
 
-Atualizado: 2026-11-08 23:35 UTC. Odd justa = Pinnacle sem margem. Modelo = a nossa previsao.
+Atualizado: 2026-11-08 23:45 UTC. Odd justa = Pinnacle sem margem. Modelo = a nossa previsao.
 Como usar: na Betano/Betclic, se a odd de "X+ pontos" for MAIOR do que a odd justa, essa aposta tem valor.
 
 ## Los Angeles Lakers @ Detroit Pistons (08/11 23:10 UTC)
@@ -34,9 +34,9 @@ Walker Kessler           modelo 10.5 | 9+ 1.47  10+ 1.73  11+ 2.11  12+ 2.66  13
 Ausar Thompson           modelo  7.5 | 6+ 1.40  7+ 1.69  8+ 2.13  9+ 2.81  10+ 3.87
 Paul Reed                modelo  5.9 | 4+ 1.26  5+ 1.51  6+ 1.91  7+ 2.57  8+ 3.63
 John Collins             modelo  5.3 | 4+ 1.39  5+ 1.75  6+ 2.35  7+ 3.34  8+ 5.01
-Cade Cunningham          modelo  5.2 | 4+ 1.40  5+ 1.78  6+ 2.40  7+ 3.45  8+ 5.21
+Cade Cunningham          modelo  5.2 | 4+ 1.40  5+ 1.78  6+ 2.41  7+ 3.45  8+ 5.21
 Austin Reaves            modelo  3.6 | 2+ 1.21  3+ 1.54  4+ 2.15  5+ 3.24  6+ 5.25
-Daniss Jenkins           modelo  2.9 | 1+ 1.10  2+ 1.37  3+ 1.93  4+ 2.99  5+ 5.04
+Daniss Jenkins           modelo  2.9 | 1+ 1.10  2+ 1.37  3+ 1.93  4+ 2.99  5+ 5.05
 Kevin Huerter            modelo  2.5 | 1+ 1.15  2+ 1.53  3+ 2.33  4+ 3.91  5+ 7.11
 Duncan Robinson          modelo  2.3 | 1+ 1.18  2+ 1.63  3+ 2.57  4+ 4.49  5+ 8.48
 Matisse Thybulle         modelo  1.9 | 1+ 1.25  2+ 1.88  3+ 3.24  4+ 6.15  5+ 12.54
@@ -44,16 +44,16 @@ Matisse Thybulle         modelo  1.9 | 1+ 1.25  2+ 1.88  3+ 3.24  4+ 6.15  5+ 12
 
 Assistencias (so modelo, sem Pinnacle):
 ```
-Cade Cunningham          modelo  7.4 | 6+ 1.35  7+ 1.64  8+ 2.11  9+ 2.86  10+ 4.13
+Cade Cunningham          modelo  7.4 | 6+ 1.35  7+ 1.64  8+ 2.10  9+ 2.86  10+ 4.12
 Austin Reaves            modelo  4.1 | 3+ 1.30  4+ 1.69  5+ 2.43  6+ 3.82  7+ 6.56
-Ausar Thompson           modelo  4.0 | 2+ 1.12  3+ 1.35  4+ 1.79  5+ 2.63  6+ 4.24
+Ausar Thompson           modelo  4.0 | 2+ 1.12  3+ 1.35  4+ 1.79  5+ 2.62  6+ 4.24
 Daniss Jenkins           modelo  3.9 | 2+ 1.13  3+ 1.36  4+ 1.81  5+ 2.67  6+ 4.35
 Duncan Robinson          modelo  2.3 | 1+ 1.13  2+ 1.53  3+ 2.45  4+ 4.53  5+ 9.45
 Paul Reed                modelo  2.2 | 1+ 1.15  2+ 1.61  3+ 2.67  4+ 5.14  5+ 11.17
 Kevin Huerter            modelo  2.0 | 1+ 1.17  2+ 1.68  3+ 2.89  4+ 5.76  5+ 12.97
-Walker Kessler           modelo  1.4 | 1+ 1.35  2+ 2.40  3+ 5.19  4+ 13.05  5+ 36.66
-Matisse Thybulle         modelo  1.2 | 1+ 1.45  2+ 2.80  3+ 6.61  4+ 18.09  5+ 55.00
-John Collins             modelo  0.7 | 1+ 2.01  2+ 5.57  3+ 18.50  4+ 68.73  5+ 275.39
+Walker Kessler           modelo  1.4 | 1+ 1.35  2+ 2.40  3+ 5.19  4+ 13.04  5+ 36.66
+Matisse Thybulle         modelo  1.2 | 1+ 1.45  2+ 2.80  3+ 6.61  4+ 18.09  5+ 54.99
+John Collins             modelo  0.7 | 1+ 2.01  2+ 5.57  3+ 18.50  4+ 68.72  5+ 275.34
 ```
 
 ## Utah Jazz @ Minnesota Timberwolves (09/11 00:10 UTC)
@@ -88,27 +88,31 @@ Jaylen Clark             linha   6.5 | modelo   6.3 | sem valor
 Ressaltos (so modelo, sem Pinnacle):
 ```
 Rudy Gobert              modelo 10.5 | 9+ 1.46  10+ 1.72  11+ 2.09  12+ 2.64  13+ 3.43
-Ace Bailey               modelo  6.3 | 5+ 1.41  6+ 1.74  7+ 2.27  8+ 3.12  9+ 4.49
+Lauri Markkanen          modelo  6.9 | 5+ 1.31  6+ 1.56  7+ 1.96  8+ 2.59  9+ 3.58
 Jonathan Kuminga         modelo  6.0 | 5+ 1.48  6+ 1.87  7+ 2.50  8+ 3.50  9+ 5.16
-Jaxson Hayes             modelo  5.9 | 4+ 1.26  5+ 1.52  6+ 1.93  7+ 2.59  8+ 3.67
+Ace Bailey               modelo  6.0 | 5+ 1.49  6+ 1.88  7+ 2.51  8+ 3.53  9+ 5.21
 Jaden McDaniels          modelo  5.8 | 4+ 1.28  5+ 1.54  6+ 1.97  7+ 2.66  8+ 3.80
+Jaxson Hayes             modelo  5.5 | 4+ 1.34  5+ 1.65  6+ 2.18  7+ 3.03  8+ 4.46
 Ayo Dosunmu              modelo  5.1 | 4+ 1.43  5+ 1.82  6+ 2.48  7+ 3.58  8+ 5.45
-LaMelo Ball              modelo  4.0 | 3+ 1.41  4+ 1.86  5+ 2.67  6+ 4.09  7+ 6.67
+Keyonte George           modelo  4.1 | 3+ 1.38  4+ 1.81  5+ 2.57  6+ 3.89  7+ 6.28
+LaMelo Ball              modelo  4.0 | 3+ 1.41  4+ 1.86  5+ 2.67  6+ 4.09  7+ 6.66
 Terrence Shannon Jr.     modelo  2.6 | 1+ 1.13  2+ 1.48  3+ 2.20  4+ 3.62  5+ 6.44
-Jaylen Clark             modelo  2.2 | 1+ 1.19  2+ 1.67  3+ 2.68  4+ 4.74  5+ 9.07
+Jaylen Clark             modelo  2.2 | 1+ 1.19  2+ 1.67  3+ 2.67  4+ 4.74  5+ 9.07
 ```
 
 Assistencias (so modelo, sem Pinnacle):
 ```
 LaMelo Ball              modelo  6.7 | 5+ 1.28  6+ 1.55  7+ 1.98  8+ 2.71  9+ 3.94
+Keyonte George           modelo  5.3 | 4+ 1.31  5+ 1.64  6+ 2.22  7+ 3.24  8+ 5.10
 Ayo Dosunmu              modelo  4.6 | 3+ 1.22  4+ 1.52  5+ 2.05  6+ 3.04  7+ 4.90
 Jaden McDaniels          modelo  3.6 | 2+ 1.16  3+ 1.45  4+ 2.03  5+ 3.16  6+ 5.43
 Jonathan Kuminga         modelo  3.1 | 2+ 1.26  3+ 1.69  4+ 2.60  5+ 4.47  6+ 8.51
+Lauri Markkanen          modelo  2.0 | 1+ 1.18  2+ 1.71  3+ 2.98  4+ 6.03  5+ 13.76
 Terrence Shannon Jr.     modelo  1.9 | 1+ 1.19  2+ 1.76  3+ 3.12  4+ 6.43  5+ 14.94
-Ace Bailey               modelo  1.8 | 1+ 1.23  2+ 1.89  3+ 3.54  4+ 7.67  5+ 18.76
-Jaxson Hayes             modelo  1.8 | 1+ 1.23  2+ 1.90  3+ 3.57  4+ 7.77  5+ 19.05
-Rudy Gobert              modelo  1.6 | 1+ 1.29  2+ 2.14  3+ 4.34  4+ 10.20  5+ 26.90
-Jaylen Clark             modelo  1.0 | 1+ 1.61  2+ 3.51  3+ 9.37  4+ 28.67  5+ 96.62
+Ace Bailey               modelo  1.7 | 1+ 1.26  2+ 2.03  3+ 3.97  4+ 9.01  5+ 23.01
+Jaxson Hayes             modelo  1.6 | 1+ 1.28  2+ 2.10  3+ 4.20  4+ 9.76  5+ 25.48
+Rudy Gobert              modelo  1.6 | 1+ 1.29  2+ 2.14  3+ 4.34  4+ 10.19  5+ 26.90
+Jaylen Clark             modelo  1.0 | 1+ 1.61  2+ 3.51  3+ 9.37  4+ 28.68  5+ 96.63
 ```
 
 ## Brooklyn Nets @ Dallas Mavericks (09/11 00:40 UTC)
@@ -145,12 +149,12 @@ Day'Ron Sharpe           modelo  7.5 | 6+ 1.41  7+ 1.70  8+ 2.16  9+ 2.86  10+ 3
 Julius Randle            modelo  7.2 | 6+ 1.47  7+ 1.81  8+ 2.33  9+ 3.15  10+ 4.43
 P.J. Washington          modelo  7.1 | 6+ 1.51  7+ 1.86  8+ 2.42  9+ 3.30  10+ 4.70
 Cooper Flagg             modelo  6.9 | 5+ 1.30  6+ 1.54  7+ 1.93  8+ 2.54  9+ 3.49
-Daniel Gafford           modelo  5.4 | 4+ 1.35  5+ 1.69  6+ 2.24  7+ 3.14  8+ 4.65
+Daniel Gafford           modelo  5.4 | 4+ 1.36  5+ 1.69  6+ 2.24  7+ 3.14  8+ 4.65
 Danny Wolf               modelo  5.4 | 4+ 1.36  5+ 1.69  6+ 2.24  7+ 3.15  8+ 4.67
 Kyrie Irving             modelo  4.2 | 3+ 1.35  4+ 1.75  5+ 2.44  6+ 3.66  7+ 5.81
 Zaccharie Risacher       modelo  4.0 | 3+ 1.40  4+ 1.85  5+ 2.65  6+ 4.06  7+ 6.60
 Naji Marshall            modelo  3.4 | 2+ 1.25  3+ 1.64  4+ 2.35  5+ 3.67  6+ 6.13
-Nolan Traore             modelo  2.4 | 1+ 1.15  2+ 1.55  3+ 2.36  4+ 4.00  5+ 7.31
+Nolan Traore             modelo  2.4 | 1+ 1.15  2+ 1.55  3+ 2.36  4+ 3.99  5+ 7.31
 ```
 
 Assistencias (so modelo, sem Pinnacle):
@@ -158,14 +162,14 @@ Assistencias (so modelo, sem Pinnacle):
 Cooper Flagg             modelo  6.0 | 5+ 1.41  6+ 1.78  7+ 2.41  8+ 3.50  9+ 5.43
 Julius Randle            modelo  5.1 | 4+ 1.37  5+ 1.75  6+ 2.44  7+ 3.67  8+ 5.96
 Kyrie Irving             modelo  4.4 | 3+ 1.26  4+ 1.59  5+ 2.20  6+ 3.35  7+ 5.54
-Naji Marshall            modelo  4.3 | 3+ 1.28  4+ 1.64  5+ 2.31  6+ 3.58  7+ 6.04
+Naji Marshall            modelo  4.3 | 3+ 1.28  4+ 1.64  5+ 2.31  6+ 3.58  7+ 6.03
 Day'Ron Sharpe           modelo  4.1 | 3+ 1.32  4+ 1.73  5+ 2.50  6+ 3.97  7+ 6.87
 Nolan Traore             modelo  3.4 | 2+ 1.20  3+ 1.54  4+ 2.23  5+ 3.61  6+ 6.46
 Danny Wolf               modelo  2.3 | 1+ 1.14  2+ 1.54  3+ 2.49  4+ 4.64  5+ 9.76
 Michael Porter Jr.       modelo  2.0 | 1+ 1.18  2+ 1.71  3+ 2.98  4+ 6.02  5+ 13.72
-Daniel Gafford           modelo  1.6 | 1+ 1.30  2+ 2.19  3+ 4.47  4+ 10.64  5+ 28.40
-P.J. Washington          modelo  1.5 | 1+ 1.30  2+ 2.20  3+ 4.51  4+ 10.75  5+ 28.77
-Zaccharie Risacher       modelo  1.3 | 1+ 1.39  2+ 2.55  3+ 5.73  4+ 14.93  5+ 43.36
+Daniel Gafford           modelo  1.6 | 1+ 1.30  2+ 2.19  3+ 4.47  4+ 10.64  5+ 28.39
+P.J. Washington          modelo  1.5 | 1+ 1.30  2+ 2.20  3+ 4.51  4+ 10.75  5+ 28.76
+Zaccharie Risacher       modelo  1.3 | 1+ 1.39  2+ 2.55  3+ 5.73  4+ 14.93  5+ 43.35
 ```
 
 ## Boston Celtics @ Milwaukee Bucks (09/11 01:10 UTC)
@@ -204,7 +208,7 @@ Jaime Jaquez Jr.         modelo  5.2 | 4+ 1.41  5+ 1.80  6+ 2.44  7+ 3.51  8+ 5.
 Myles Turner             modelo  5.0 | 4+ 1.45  5+ 1.87  6+ 2.57  7+ 3.75  8+ 5.76
 Tyler Herro              modelo  4.7 | 3+ 1.25  4+ 1.54  5+ 2.04  6+ 2.89  7+ 4.34
 Kyle Kuzma               modelo  4.5 | 3+ 1.28  4+ 1.60  5+ 2.16  6+ 3.12  7+ 4.77
-Ryan Rollins             modelo  3.5 | 2+ 1.22  3+ 1.57  4+ 2.21  5+ 3.37  6+ 5.51
+Ryan Rollins             modelo  3.5 | 2+ 1.22  3+ 1.57  4+ 2.21  5+ 3.37  6+ 5.52
 Derrick White            modelo  3.5 | 2+ 1.23  3+ 1.59  4+ 2.25  5+ 3.45  6+ 5.67
 Payton Pritchard         modelo  3.2 | 2+ 1.30  3+ 1.75  4+ 2.60  5+ 4.19  6+ 7.23
 ```
@@ -216,7 +220,7 @@ Derrick White            modelo  4.4 | 3+ 1.25  4+ 1.57  5+ 2.17  6+ 3.27  7+ 5.
 Paul George              modelo  4.2 | 3+ 1.29  4+ 1.66  5+ 2.36  6+ 3.68  7+ 6.26
 Tyler Herro              modelo  4.1 | 3+ 1.31  4+ 1.72  5+ 2.48  6+ 3.93  7+ 6.78
 Payton Pritchard         modelo  3.7 | 2+ 1.15  3+ 1.42  4+ 1.95  5+ 2.99  6+ 5.05
-Ryan Rollins             modelo  3.4 | 2+ 1.19  3+ 1.54  4+ 2.22  5+ 3.59  6+ 6.41
+Ryan Rollins             modelo  3.4 | 2+ 1.19  3+ 1.53  4+ 2.22  5+ 3.59  6+ 6.40
 Jaime Jaquez Jr.         modelo  2.7 | 1+ 1.09  2+ 1.36  3+ 1.96  4+ 3.26  5+ 6.10
 Kyle Kuzma               modelo  2.6 | 1+ 1.10  2+ 1.40  3+ 2.09  4+ 3.57  5+ 6.90
 Myles Turner             modelo  1.8 | 1+ 1.22  2+ 1.85  3+ 3.39  4+ 7.23  5+ 17.38
@@ -258,36 +262,34 @@ Pelle Larsson            linha  11.5 | modelo  11.3 | sem valor
 
 Ressaltos (so modelo, sem Pinnacle):
 ```
-Domantas Sabonis         modelo 12.2 | 11+ 1.57  12+ 1.85  13+ 2.25  14+ 2.81  15+ 3.61
-Giannis Antetokounmpo    modelo 11.9 | 10+ 1.41  11+ 1.63  12+ 1.94  13+ 2.37  14+ 2.99
+Giannis Antetokounmpo    modelo 11.9 | 10+ 1.41  11+ 1.63  12+ 1.93  13+ 2.37  14+ 2.99
 Bam Adebayo              modelo  8.2 | 7+ 1.49  8+ 1.81  9+ 2.29  10+ 3.02  11+ 4.15
-Precious Achiuwa         modelo  5.7 | 4+ 1.30  5+ 1.59  6+ 2.05  7+ 2.82  8+ 4.07
+Precious Achiuwa         modelo  6.2 | 5+ 1.45  6+ 1.81  7+ 2.39  8+ 3.32  9+ 4.84
 Bobby Portis             modelo  5.3 | 4+ 1.38  5+ 1.74  6+ 2.33  7+ 3.31  8+ 4.96
-De'Andre Hunter          modelo  4.5 | 3+ 1.29  4+ 1.62  5+ 2.19  6+ 3.16  7+ 4.86
-Keegan Murray            modelo  3.4 | 2+ 1.25  3+ 1.63  4+ 2.35  5+ 3.66  6+ 6.10
-Zach LaVine              modelo  3.2 | 2+ 1.30  3+ 1.74  4+ 2.58  5+ 4.15  6+ 7.15
+De'Andre Hunter          modelo  4.9 | 3+ 1.23  4+ 1.49  5+ 1.95  6+ 2.71  7+ 4.01
+Keegan Murray            modelo  3.7 | 2+ 1.20  3+ 1.51  4+ 2.09  5+ 3.12  6+ 5.00
+Zach LaVine              modelo  3.3 | 2+ 1.26  3+ 1.65  4+ 2.39  5+ 3.74  6+ 6.27
 Andrew Wiggins           modelo  3.1 | 2+ 1.32  3+ 1.81  4+ 2.73  5+ 4.47  6+ 7.83
 Pelle Larsson            modelo  3.0 | 2+ 1.33  3+ 1.82  4+ 2.75  5+ 4.51  6+ 7.93
-Davion Mitchell          modelo  2.1 | 1+ 1.22  2+ 1.77  3+ 2.93  4+ 5.38  5+ 10.62
-Klay Thompson            modelo  1.8 | 1+ 1.30  2+ 2.06  3+ 3.73  4+ 7.41  5+ 15.77
-Malik Monk               modelo  1.7 | 1+ 1.33  2+ 2.16  3+ 4.00  4+ 8.12  5+ 17.64
+Davion Mitchell          modelo  2.1 | 1+ 1.22  2+ 1.77  3+ 2.93  4+ 5.37  5+ 10.61
+Malik Monk               modelo  1.8 | 1+ 1.30  2+ 2.05  3+ 3.71  4+ 7.36  5+ 15.63
+Klay Thompson            modelo  1.8 | 1+ 1.30  2+ 2.06  3+ 3.73  4+ 7.41  5+ 15.76
 ```
 
 Assistencias (so modelo, sem Pinnacle):
 ```
-Davion Mitchell          modelo  7.0 | 5+ 1.23  6+ 1.45  7+ 1.82  8+ 2.41  9+ 3.41
+Davion Mitchell          modelo  7.0 | 5+ 1.23  6+ 1.45  7+ 1.82  8+ 2.42  9+ 3.41
 Giannis Antetokounmpo    modelo  5.8 | 4+ 1.23  5+ 1.49  6+ 1.93  7+ 2.68  8+ 4.01
-Domantas Sabonis         modelo  5.2 | 4+ 1.33  5+ 1.69  6+ 2.31  7+ 3.42  8+ 5.45
-Malik Monk               modelo  4.2 | 3+ 1.30  4+ 1.68  5+ 2.40  6+ 3.76  7+ 6.43
-Pelle Larsson            modelo  3.4 | 2+ 1.19  3+ 1.52  4+ 2.19  5+ 3.53  6+ 6.26
+Malik Monk               modelo  4.3 | 3+ 1.26  4+ 1.61  5+ 2.24  6+ 3.43  7+ 5.72
+Pelle Larsson            modelo  3.4 | 2+ 1.19  3+ 1.52  4+ 2.19  5+ 3.53  6+ 6.27
 Bam Adebayo              modelo  3.2 | 2+ 1.23  3+ 1.62  4+ 2.41  5+ 4.04  6+ 7.46
-Zach LaVine              modelo  2.7 | 1+ 1.09  2+ 1.36  3+ 1.98  4+ 3.30  5+ 6.19
+Zach LaVine              modelo  2.8 | 1+ 1.08  2+ 1.33  3+ 1.89  4+ 3.07  5+ 5.61
 Klay Thompson            modelo  1.9 | 1+ 1.21  2+ 1.82  3+ 3.29  4+ 6.95  5+ 16.51
 Andrew Wiggins           modelo  1.8 | 1+ 1.23  2+ 1.89  3+ 3.50  4+ 7.58  5+ 18.46
 Bobby Portis             modelo  1.7 | 1+ 1.26  2+ 2.03  3+ 3.97  4+ 9.02  5+ 23.03
-De'Andre Hunter          modelo  1.6 | 1+ 1.30  2+ 2.18  3+ 4.46  4+ 10.60  5+ 28.27
-Precious Achiuwa         modelo  1.3 | 1+ 1.40  2+ 2.58  3+ 5.83  4+ 15.27  5+ 44.60
-Keegan Murray            modelo  1.1 | 1+ 1.57  2+ 3.36  3+ 8.77  4+ 26.28  5+ 86.91
+De'Andre Hunter          modelo  1.6 | 1+ 1.27  2+ 2.06  3+ 4.06  4+ 9.32  5+ 24.02
+Precious Achiuwa         modelo  1.4 | 1+ 1.36  2+ 2.42  3+ 5.26  4+ 13.30  5+ 37.55
+Keegan Murray            modelo  1.1 | 1+ 1.52  2+ 3.12  3+ 7.84  4+ 22.69  5+ 72.62
 ```
 
 ## New Orleans Pelicans @ Los Angeles Clippers (09/11 02:10 UTC)
@@ -343,8 +345,8 @@ Kris Dunn                modelo  4.4 | 3+ 1.26  4+ 1.59  5+ 2.22  6+ 3.37  7+ 5.
 Trey Murphy III          modelo  3.5 | 2+ 1.19  3+ 1.52  4+ 2.17  5+ 3.48  6+ 6.17
 Zion Williamson          modelo  2.8 | 1+ 1.08  2+ 1.33  3+ 1.88  4+ 3.05  5+ 5.57
 Saddiq Bey               modelo  2.3 | 1+ 1.13  2+ 1.53  3+ 2.44  4+ 4.51  5+ 9.42
-Rui Hachimura            modelo  1.9 | 1+ 1.21  2+ 1.82  3+ 3.30  4+ 6.97  5+ 16.57
+Rui Hachimura            modelo  1.9 | 1+ 1.21  2+ 1.82  3+ 3.30  4+ 6.96  5+ 16.56
 Derrick Jones Jr.        modelo  1.6 | 1+ 1.29  2+ 2.15  3+ 4.37  4+ 10.30  5+ 27.24
-Brook Lopez              modelo  1.4 | 1+ 1.36  2+ 2.41  3+ 5.22  4+ 13.15  5+ 37.01
-Karlo Matkovic           modelo  1.1 | 1+ 1.59  2+ 3.41  3+ 8.99  4+ 27.18  5+ 90.54
+Brook Lopez              modelo  1.4 | 1+ 1.36  2+ 2.41  3+ 5.22  4+ 13.14  5+ 37.01
+Karlo Matkovic           modelo  1.1 | 1+ 1.59  2+ 3.41  3+ 9.00  4+ 27.18  5+ 90.55
 ```

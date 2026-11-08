@@ -1,5 +1,20 @@
 # Alertas de ultima hora
 
+## 08/11 23:47 UTC: Utah Jazz @ Minnesota Timberwolves
+
+- **Lauri Markkanen** (UTAH, 30.9 min de media): Out (antes: 0% de faltar, agora 100%)
+
+Colegas (pontos previstos antes -> agora | linha Pinnacle agora | veredito):
+```
+Hayden Gray                6.9 ->   8.0 (+1.1) |                    | 
+Darryn Peterson           13.2 ->  14.2 (+1.0) | 15.5 (1.69/2.09)   | passar
+Ace Bailey                12.9 ->  13.9 (+1.0) | 15.5 (1.82/1.93)   | APOSTA Under @ 1.93 (EV +8.3%)
+Jaxson Hayes               7.1 ->   8.0 (+0.9) | 8.5 (1.79/1.95)    | APOSTA Under @ 1.95 (EV +4.1%)
+Keyonte George            20.5 ->  21.1 (+0.6) | 22.5 (1.77/1.98)   | APOSTA Under @ 1.98 (EV +5.8%)
+```
+
+Na Betano/Betclic: confirma se a linha desses jogadores ainda nao subiu.
+
 ## 08/11 19:02 UTC: Philadelphia 76ers @ Chicago Bulls
 
 - **Norman Powell** (CHI, 28.9 min de media): Out (antes: 30% de faltar, agora 100%)
