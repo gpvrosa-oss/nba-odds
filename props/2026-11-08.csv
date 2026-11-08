@@ -317,3 +317,55 @@ recolhido_em,momento,jogo_id,inicio_jogo,casa,fora,casa_apostas,atualizado_em,me
 2026-11-08T22:30:42Z,fecho,182e2b5349fa0ff4ad3c0e8359c1a9a0,2026-11-08T23:10:00Z,Detroit Pistons,Los Angeles Lakers,pinnacle,2026-11-08T22:30:39Z,player_points,Walker Kessler,Under,13.5,1.85
 2026-11-08T22:30:42Z,fecho,182e2b5349fa0ff4ad3c0e8359c1a9a0,2026-11-08T23:10:00Z,Detroit Pistons,Los Angeles Lakers,pinnacle,2026-11-08T22:30:39Z,player_points,Kevin Huerter,Over,7.5,1.88
 2026-11-08T22:30:42Z,fecho,182e2b5349fa0ff4ad3c0e8359c1a9a0,2026-11-08T23:10:00Z,Detroit Pistons,Los Angeles Lakers,pinnacle,2026-11-08T22:30:39Z,player_points,Kevin Huerter,Under,7.5,1.88
+2026-11-08T22:40:49Z,cedo,c205d8d8102fbb0e72929fff3c1fd089,2026-11-09T02:10:00Z,Los Angeles Clippers,New Orleans Pelicans,pinnacle,2026-11-08T22:39:54Z,player_points,Brook Lopez,Over,11.5,1.77
+2026-11-08T22:40:49Z,cedo,c205d8d8102fbb0e72929fff3c1fd089,2026-11-09T02:10:00Z,Los Angeles Clippers,New Orleans Pelicans,pinnacle,2026-11-08T22:39:54Z,player_points,Brook Lopez,Under,11.5,1.99
+2026-11-08T22:40:49Z,cedo,c205d8d8102fbb0e72929fff3c1fd089,2026-11-09T02:10:00Z,Los Angeles Clippers,New Orleans Pelicans,pinnacle,2026-11-08T22:39:54Z,player_points,Darius Garland,Over,21.5,1.8
+2026-11-08T22:40:49Z,cedo,c205d8d8102fbb0e72929fff3c1fd089,2026-11-09T02:10:00Z,Los Angeles Clippers,New Orleans Pelicans,pinnacle,2026-11-08T22:39:54Z,player_points,Darius Garland,Under,21.5,1.94
+2026-11-08T22:40:49Z,cedo,c205d8d8102fbb0e72929fff3c1fd089,2026-11-09T02:10:00Z,Los Angeles Clippers,New Orleans Pelicans,pinnacle,2026-11-08T22:39:54Z,player_points,Dejounte Murray,Over,16.5,1.83
+2026-11-08T22:40:49Z,cedo,c205d8d8102fbb0e72929fff3c1fd089,2026-11-09T02:10:00Z,Los Angeles Clippers,New Orleans Pelicans,pinnacle,2026-11-08T22:39:54Z,player_points,Dejounte Murray,Under,16.5,1.91
+2026-11-08T22:40:49Z,cedo,c205d8d8102fbb0e72929fff3c1fd089,2026-11-09T02:10:00Z,Los Angeles Clippers,New Orleans Pelicans,pinnacle,2026-11-08T22:39:54Z,player_points,Derrick Jones,Over,11.5,2.11
+2026-11-08T22:40:49Z,cedo,c205d8d8102fbb0e72929fff3c1fd089,2026-11-09T02:10:00Z,Los Angeles Clippers,New Orleans Pelicans,pinnacle,2026-11-08T22:39:54Z,player_points,Derrick Jones,Under,11.5,1.68
+2026-11-08T22:40:49Z,cedo,c205d8d8102fbb0e72929fff3c1fd089,2026-11-09T02:10:00Z,Los Angeles Clippers,New Orleans Pelicans,pinnacle,2026-11-08T22:39:54Z,player_points,Jeremiah Fears,Over,14.5,1.84
+2026-11-08T22:40:49Z,cedo,c205d8d8102fbb0e72929fff3c1fd089,2026-11-09T02:10:00Z,Los Angeles Clippers,New Orleans Pelicans,pinnacle,2026-11-08T22:39:54Z,player_points,Jeremiah Fears,Under,14.5,1.9
+2026-11-08T22:40:49Z,cedo,c205d8d8102fbb0e72929fff3c1fd089,2026-11-09T02:10:00Z,Los Angeles Clippers,New Orleans Pelicans,pinnacle,2026-11-08T22:39:54Z,player_points,Keaton Wagler,Over,12.5,2.26
+2026-11-08T22:40:49Z,cedo,c205d8d8102fbb0e72929fff3c1fd089,2026-11-09T02:10:00Z,Los Angeles Clippers,New Orleans Pelicans,pinnacle,2026-11-08T22:39:54Z,player_points,Keaton Wagler,Under,12.5,1.59
+2026-11-08T22:40:49Z,cedo,c205d8d8102fbb0e72929fff3c1fd089,2026-11-09T02:10:00Z,Los Angeles Clippers,New Orleans Pelicans,pinnacle,2026-11-08T22:39:54Z,player_points,Kris Dunn,Over,8.5,2.09
+2026-11-08T22:40:49Z,cedo,c205d8d8102fbb0e72929fff3c1fd089,2026-11-09T02:10:00Z,Los Angeles Clippers,New Orleans Pelicans,pinnacle,2026-11-08T22:39:54Z,player_points,Kris Dunn,Under,8.5,1.69
+2026-11-08T22:40:49Z,cedo,c205d8d8102fbb0e72929fff3c1fd089,2026-11-09T02:10:00Z,Los Angeles Clippers,New Orleans Pelicans,pinnacle,2026-11-08T22:39:54Z,player_points,Rui Hachimura,Over,17.5,2.13
+2026-11-08T22:40:49Z,cedo,c205d8d8102fbb0e72929fff3c1fd089,2026-11-09T02:10:00Z,Los Angeles Clippers,New Orleans Pelicans,pinnacle,2026-11-08T22:39:54Z,player_points,Rui Hachimura,Under,17.5,1.66
+2026-11-08T22:40:49Z,cedo,c205d8d8102fbb0e72929fff3c1fd089,2026-11-09T02:10:00Z,Los Angeles Clippers,New Orleans Pelicans,pinnacle,2026-11-08T22:39:54Z,player_points,Saddiq Bey,Over,12.5,1.7
+2026-11-08T22:40:49Z,cedo,c205d8d8102fbb0e72929fff3c1fd089,2026-11-09T02:10:00Z,Los Angeles Clippers,New Orleans Pelicans,pinnacle,2026-11-08T22:39:54Z,player_points,Saddiq Bey,Under,12.5,2.08
+2026-11-08T22:40:49Z,cedo,c205d8d8102fbb0e72929fff3c1fd089,2026-11-09T02:10:00Z,Los Angeles Clippers,New Orleans Pelicans,pinnacle,2026-11-08T22:39:54Z,player_points,Trey Murphy III,Over,15.5,1.83
+2026-11-08T22:40:49Z,cedo,c205d8d8102fbb0e72929fff3c1fd089,2026-11-09T02:10:00Z,Los Angeles Clippers,New Orleans Pelicans,pinnacle,2026-11-08T22:39:54Z,player_points,Trey Murphy III,Under,15.5,1.91
+2026-11-08T22:40:49Z,cedo,c205d8d8102fbb0e72929fff3c1fd089,2026-11-09T02:10:00Z,Los Angeles Clippers,New Orleans Pelicans,pinnacle,2026-11-08T22:39:54Z,player_points,Zion Williamson,Over,19.5,1.75
+2026-11-08T22:40:49Z,cedo,c205d8d8102fbb0e72929fff3c1fd089,2026-11-09T02:10:00Z,Los Angeles Clippers,New Orleans Pelicans,pinnacle,2026-11-08T22:39:54Z,player_points,Zion Williamson,Under,19.5,2.0
+2026-11-08T22:40:49Z,cedo,c205d8d8102fbb0e72929fff3c1fd089,2026-11-09T02:10:00Z,Los Angeles Clippers,New Orleans Pelicans,pinnacle,2026-11-08T22:39:54Z,player_points,Karlo Matkovic,Over,7.5,1.9
+2026-11-08T22:40:49Z,cedo,c205d8d8102fbb0e72929fff3c1fd089,2026-11-09T02:10:00Z,Los Angeles Clippers,New Orleans Pelicans,pinnacle,2026-11-08T22:39:54Z,player_points,Karlo Matkovic,Under,7.5,1.84
+2026-11-08T22:40:49Z,cedo,7ea5547b35ef782963e4f384d3414dfa,2026-11-09T02:10:00Z,Sacramento Kings,Miami Heat,pinnacle,2026-11-08T22:40:47Z,player_points,Andrew Wiggins,Over,10.5,1.9
+2026-11-08T22:40:49Z,cedo,7ea5547b35ef782963e4f384d3414dfa,2026-11-09T02:10:00Z,Sacramento Kings,Miami Heat,pinnacle,2026-11-08T22:40:47Z,player_points,Andrew Wiggins,Under,10.5,1.84
+2026-11-08T22:40:49Z,cedo,7ea5547b35ef782963e4f384d3414dfa,2026-11-09T02:10:00Z,Sacramento Kings,Miami Heat,pinnacle,2026-11-08T22:40:47Z,player_points,Bam Adebayo,Over,19.5,1.88
+2026-11-08T22:40:49Z,cedo,7ea5547b35ef782963e4f384d3414dfa,2026-11-09T02:10:00Z,Sacramento Kings,Miami Heat,pinnacle,2026-11-08T22:40:47Z,player_points,Bam Adebayo,Under,19.5,1.86
+2026-11-08T22:40:49Z,cedo,7ea5547b35ef782963e4f384d3414dfa,2026-11-09T02:10:00Z,Sacramento Kings,Miami Heat,pinnacle,2026-11-08T22:40:47Z,player_points,Bobby Portis,Over,8.5,2.16
+2026-11-08T22:40:49Z,cedo,7ea5547b35ef782963e4f384d3414dfa,2026-11-09T02:10:00Z,Sacramento Kings,Miami Heat,pinnacle,2026-11-08T22:40:47Z,player_points,Bobby Portis,Under,8.5,1.65
+2026-11-08T22:40:49Z,cedo,7ea5547b35ef782963e4f384d3414dfa,2026-11-09T02:10:00Z,Sacramento Kings,Miami Heat,pinnacle,2026-11-08T22:40:47Z,player_points,Darius Acuff Jr.,Over,24.5,2.17
+2026-11-08T22:40:49Z,cedo,7ea5547b35ef782963e4f384d3414dfa,2026-11-09T02:10:00Z,Sacramento Kings,Miami Heat,pinnacle,2026-11-08T22:40:47Z,player_points,Darius Acuff Jr.,Under,24.5,1.64
+2026-11-08T22:40:49Z,cedo,7ea5547b35ef782963e4f384d3414dfa,2026-11-09T02:10:00Z,Sacramento Kings,Miami Heat,pinnacle,2026-11-08T22:40:47Z,player_points,Davion Mitchell,Over,12.5,1.69
+2026-11-08T22:40:49Z,cedo,7ea5547b35ef782963e4f384d3414dfa,2026-11-09T02:10:00Z,Sacramento Kings,Miami Heat,pinnacle,2026-11-08T22:40:47Z,player_points,Davion Mitchell,Under,12.5,2.09
+2026-11-08T22:40:49Z,cedo,7ea5547b35ef782963e4f384d3414dfa,2026-11-09T02:10:00Z,Sacramento Kings,Miami Heat,pinnacle,2026-11-08T22:40:47Z,player_points,Domantas Sabonis,Over,14.5,2.18
+2026-11-08T22:40:49Z,cedo,7ea5547b35ef782963e4f384d3414dfa,2026-11-09T02:10:00Z,Sacramento Kings,Miami Heat,pinnacle,2026-11-08T22:40:47Z,player_points,Domantas Sabonis,Under,14.5,1.63
+2026-11-08T22:40:49Z,cedo,7ea5547b35ef782963e4f384d3414dfa,2026-11-09T02:10:00Z,Sacramento Kings,Miami Heat,pinnacle,2026-11-08T22:40:47Z,player_points,Giannis Antetokounmpo,Over,29.5,1.81
+2026-11-08T22:40:49Z,cedo,7ea5547b35ef782963e4f384d3414dfa,2026-11-09T02:10:00Z,Sacramento Kings,Miami Heat,pinnacle,2026-11-08T22:40:47Z,player_points,Giannis Antetokounmpo,Under,29.5,1.93
+2026-11-08T22:40:49Z,cedo,7ea5547b35ef782963e4f384d3414dfa,2026-11-09T02:10:00Z,Sacramento Kings,Miami Heat,pinnacle,2026-11-08T22:40:47Z,player_points,Klay Thompson,Over,12.5,1.94
+2026-11-08T22:40:49Z,cedo,7ea5547b35ef782963e4f384d3414dfa,2026-11-09T02:10:00Z,Sacramento Kings,Miami Heat,pinnacle,2026-11-08T22:40:47Z,player_points,Klay Thompson,Under,12.5,1.8
+2026-11-08T22:40:49Z,cedo,7ea5547b35ef782963e4f384d3414dfa,2026-11-09T02:10:00Z,Sacramento Kings,Miami Heat,pinnacle,2026-11-08T22:40:47Z,player_points,Malik Monk,Over,9.5,1.93
+2026-11-08T22:40:49Z,cedo,7ea5547b35ef782963e4f384d3414dfa,2026-11-09T02:10:00Z,Sacramento Kings,Miami Heat,pinnacle,2026-11-08T22:40:47Z,player_points,Malik Monk,Under,9.5,1.81
+2026-11-08T22:40:49Z,cedo,7ea5547b35ef782963e4f384d3414dfa,2026-11-09T02:10:00Z,Sacramento Kings,Miami Heat,pinnacle,2026-11-08T22:40:47Z,player_points,Pelle Larsson,Over,11.5,1.88
+2026-11-08T22:40:49Z,cedo,7ea5547b35ef782963e4f384d3414dfa,2026-11-09T02:10:00Z,Sacramento Kings,Miami Heat,pinnacle,2026-11-08T22:40:47Z,player_points,Pelle Larsson,Under,11.5,1.86
+2026-11-08T22:40:49Z,cedo,7ea5547b35ef782963e4f384d3414dfa,2026-11-09T02:10:00Z,Sacramento Kings,Miami Heat,pinnacle,2026-11-08T22:40:47Z,player_points,Zach LaVine,Over,20.5,1.81
+2026-11-08T22:40:49Z,cedo,7ea5547b35ef782963e4f384d3414dfa,2026-11-09T02:10:00Z,Sacramento Kings,Miami Heat,pinnacle,2026-11-08T22:40:47Z,player_points,Zach LaVine,Under,20.5,1.93
+2026-11-08T22:40:49Z,cedo,7ea5547b35ef782963e4f384d3414dfa,2026-11-09T02:10:00Z,Sacramento Kings,Miami Heat,pinnacle,2026-11-08T22:40:47Z,player_points,De'Andre Hunter,Over,13.5,1.98
+2026-11-08T22:40:49Z,cedo,7ea5547b35ef782963e4f384d3414dfa,2026-11-09T02:10:00Z,Sacramento Kings,Miami Heat,pinnacle,2026-11-08T22:40:47Z,player_points,De'Andre Hunter,Under,13.5,1.77
+2026-11-08T22:40:49Z,cedo,7ea5547b35ef782963e4f384d3414dfa,2026-11-09T02:10:00Z,Sacramento Kings,Miami Heat,pinnacle,2026-11-08T22:40:47Z,player_points,Keegan Murray,Over,9.5,1.89
+2026-11-08T22:40:49Z,cedo,7ea5547b35ef782963e4f384d3414dfa,2026-11-09T02:10:00Z,Sacramento Kings,Miami Heat,pinnacle,2026-11-08T22:40:47Z,player_points,Keegan Murray,Under,9.5,1.85
+2026-11-08T22:40:49Z,cedo,7ea5547b35ef782963e4f384d3414dfa,2026-11-09T02:10:00Z,Sacramento Kings,Miami Heat,pinnacle,2026-11-08T22:40:47Z,player_points,Precious Achiuwa,Over,8.5,2.16
+2026-11-08T22:40:49Z,cedo,7ea5547b35ef782963e4f384d3414dfa,2026-11-09T02:10:00Z,Sacramento Kings,Miami Heat,pinnacle,2026-11-08T22:40:47Z,player_points,Precious Achiuwa,Under,8.5,1.65
