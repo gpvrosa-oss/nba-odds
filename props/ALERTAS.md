@@ -1,5 +1,21 @@
 # Alertas de ultima hora
 
+## 09/11 01:13 UTC: Miami Heat @ Sacramento Kings
+
+- **Domantas Sabonis** (SAC, 35.6 min de media): Out (antes: 30% de faltar, agora 100%)
+
+Colegas (pontos previstos antes -> agora | linha Pinnacle agora | veredito):
+```
+Zach LaVine               20.7 ->  21.8 (+1.2) | 21.5 (1.78/1.96)   | sem valor (a Pinnacle ja ajustou?)
+De'Andre Hunter           13.8 ->  14.9 (+1.1) | 13.5 (1.91/1.83)   | sem valor (a Pinnacle ja ajustou?)
+Precious Achiuwa          10.8 ->  11.7 (+0.9) | 9.5 (1.9/1.84)     | APOSTA Over @ 1.9 (EV +7.6%)
+Darius Acuff Jr.          25.3 ->  26.1 (+0.8) | 24.5 (1.78/1.97)   | sem valor (a Pinnacle ja ajustou?)
+Keegan Murray              8.6 ->   9.3 (+0.7) | 9.5 (1.87/1.87)    | sem valor (a Pinnacle ja ajustou?)
+Malik Monk                11.2 ->  11.9 (+0.6) | 9.5 (1.91/1.83)    | APOSTA Over @ 1.91 (EV +9.2%)
+```
+
+Na Betano/Betclic: confirma se a linha desses jogadores ainda nao subiu.
+
 ## 08/11 23:47 UTC: Utah Jazz @ Minnesota Timberwolves
 
 - **Lauri Markkanen** (UTAH, 30.9 min de media): Out (antes: 0% de faltar, agora 100%)

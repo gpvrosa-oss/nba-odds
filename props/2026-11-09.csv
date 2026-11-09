@@ -21,3 +21,31 @@ recolhido_em,momento,jogo_id,inicio_jogo,casa,fora,casa_apostas,atualizado_em,me
 2026-11-09T00:31:06Z,fecho,98eae523edadc7d4d42ab37222eb2c88,2026-11-09T01:10:00Z,Milwaukee Bucks,Boston Celtics,pinnacle,2026-11-09T00:30:43Z,player_points,Jaime Jaquez Jr,Under,14.5,1.7
 2026-11-09T00:31:06Z,fecho,98eae523edadc7d4d42ab37222eb2c88,2026-11-09T01:10:00Z,Milwaukee Bucks,Boston Celtics,pinnacle,2026-11-09T00:30:43Z,player_points,Ryan Rollins,Over,9.5,1.95
 2026-11-09T00:31:06Z,fecho,98eae523edadc7d4d42ab37222eb2c88,2026-11-09T01:10:00Z,Milwaukee Bucks,Boston Celtics,pinnacle,2026-11-09T00:30:43Z,player_points,Ryan Rollins,Under,9.5,1.79
+2026-11-09T01:13:50Z,alerta,7ea5547b35ef782963e4f384d3414dfa,2026-11-09T02:10:00Z,Sacramento Kings,Miami Heat,pinnacle,2026-11-09T01:02:44Z,player_points,Andrew Wiggins,Over,10.5,1.9
+2026-11-09T01:13:50Z,alerta,7ea5547b35ef782963e4f384d3414dfa,2026-11-09T02:10:00Z,Sacramento Kings,Miami Heat,pinnacle,2026-11-09T01:02:44Z,player_points,Andrew Wiggins,Under,10.5,1.84
+2026-11-09T01:13:50Z,alerta,7ea5547b35ef782963e4f384d3414dfa,2026-11-09T02:10:00Z,Sacramento Kings,Miami Heat,pinnacle,2026-11-09T01:02:44Z,player_points,Bam Adebayo,Over,19.5,1.87
+2026-11-09T01:13:50Z,alerta,7ea5547b35ef782963e4f384d3414dfa,2026-11-09T02:10:00Z,Sacramento Kings,Miami Heat,pinnacle,2026-11-09T01:02:44Z,player_points,Bam Adebayo,Under,19.5,1.87
+2026-11-09T01:13:50Z,alerta,7ea5547b35ef782963e4f384d3414dfa,2026-11-09T02:10:00Z,Sacramento Kings,Miami Heat,pinnacle,2026-11-09T01:02:44Z,player_points,Bobby Portis,Over,8.5,2.14
+2026-11-09T01:13:50Z,alerta,7ea5547b35ef782963e4f384d3414dfa,2026-11-09T02:10:00Z,Sacramento Kings,Miami Heat,pinnacle,2026-11-09T01:02:44Z,player_points,Bobby Portis,Under,8.5,1.66
+2026-11-09T01:13:50Z,alerta,7ea5547b35ef782963e4f384d3414dfa,2026-11-09T02:10:00Z,Sacramento Kings,Miami Heat,pinnacle,2026-11-09T01:02:44Z,player_points,Darius Acuff Jr.,Over,24.5,1.78
+2026-11-09T01:13:50Z,alerta,7ea5547b35ef782963e4f384d3414dfa,2026-11-09T02:10:00Z,Sacramento Kings,Miami Heat,pinnacle,2026-11-09T01:02:44Z,player_points,Darius Acuff Jr.,Under,24.5,1.97
+2026-11-09T01:13:50Z,alerta,7ea5547b35ef782963e4f384d3414dfa,2026-11-09T02:10:00Z,Sacramento Kings,Miami Heat,pinnacle,2026-11-09T01:02:44Z,player_points,Davion Mitchell,Over,12.5,1.69
+2026-11-09T01:13:50Z,alerta,7ea5547b35ef782963e4f384d3414dfa,2026-11-09T02:10:00Z,Sacramento Kings,Miami Heat,pinnacle,2026-11-09T01:02:44Z,player_points,Davion Mitchell,Under,12.5,2.09
+2026-11-09T01:13:50Z,alerta,7ea5547b35ef782963e4f384d3414dfa,2026-11-09T02:10:00Z,Sacramento Kings,Miami Heat,pinnacle,2026-11-09T01:02:44Z,player_points,Domantas Sabonis,Over,14.5,2.11
+2026-11-09T01:13:50Z,alerta,7ea5547b35ef782963e4f384d3414dfa,2026-11-09T02:10:00Z,Sacramento Kings,Miami Heat,pinnacle,2026-11-09T01:02:44Z,player_points,Domantas Sabonis,Under,14.5,1.68
+2026-11-09T01:13:50Z,alerta,7ea5547b35ef782963e4f384d3414dfa,2026-11-09T02:10:00Z,Sacramento Kings,Miami Heat,pinnacle,2026-11-09T01:02:44Z,player_points,Giannis Antetokounmpo,Over,29.5,1.81
+2026-11-09T01:13:50Z,alerta,7ea5547b35ef782963e4f384d3414dfa,2026-11-09T02:10:00Z,Sacramento Kings,Miami Heat,pinnacle,2026-11-09T01:02:44Z,player_points,Giannis Antetokounmpo,Under,29.5,1.93
+2026-11-09T01:13:50Z,alerta,7ea5547b35ef782963e4f384d3414dfa,2026-11-09T02:10:00Z,Sacramento Kings,Miami Heat,pinnacle,2026-11-09T01:02:44Z,player_points,Klay Thompson,Over,12.5,1.93
+2026-11-09T01:13:50Z,alerta,7ea5547b35ef782963e4f384d3414dfa,2026-11-09T02:10:00Z,Sacramento Kings,Miami Heat,pinnacle,2026-11-09T01:02:44Z,player_points,Klay Thompson,Under,12.5,1.82
+2026-11-09T01:13:50Z,alerta,7ea5547b35ef782963e4f384d3414dfa,2026-11-09T02:10:00Z,Sacramento Kings,Miami Heat,pinnacle,2026-11-09T01:02:44Z,player_points,Malik Monk,Over,9.5,1.91
+2026-11-09T01:13:50Z,alerta,7ea5547b35ef782963e4f384d3414dfa,2026-11-09T02:10:00Z,Sacramento Kings,Miami Heat,pinnacle,2026-11-09T01:02:44Z,player_points,Malik Monk,Under,9.5,1.83
+2026-11-09T01:13:50Z,alerta,7ea5547b35ef782963e4f384d3414dfa,2026-11-09T02:10:00Z,Sacramento Kings,Miami Heat,pinnacle,2026-11-09T01:02:44Z,player_points,Pelle Larsson,Over,11.5,1.81
+2026-11-09T01:13:50Z,alerta,7ea5547b35ef782963e4f384d3414dfa,2026-11-09T02:10:00Z,Sacramento Kings,Miami Heat,pinnacle,2026-11-09T01:02:44Z,player_points,Pelle Larsson,Under,11.5,1.94
+2026-11-09T01:13:50Z,alerta,7ea5547b35ef782963e4f384d3414dfa,2026-11-09T02:10:00Z,Sacramento Kings,Miami Heat,pinnacle,2026-11-09T01:02:44Z,player_points,Zach LaVine,Over,21.5,1.78
+2026-11-09T01:13:50Z,alerta,7ea5547b35ef782963e4f384d3414dfa,2026-11-09T02:10:00Z,Sacramento Kings,Miami Heat,pinnacle,2026-11-09T01:02:44Z,player_points,Zach LaVine,Under,21.5,1.96
+2026-11-09T01:13:50Z,alerta,7ea5547b35ef782963e4f384d3414dfa,2026-11-09T02:10:00Z,Sacramento Kings,Miami Heat,pinnacle,2026-11-09T01:02:44Z,player_points,De'Andre Hunter,Over,13.5,1.91
+2026-11-09T01:13:50Z,alerta,7ea5547b35ef782963e4f384d3414dfa,2026-11-09T02:10:00Z,Sacramento Kings,Miami Heat,pinnacle,2026-11-09T01:02:44Z,player_points,De'Andre Hunter,Under,13.5,1.83
+2026-11-09T01:13:50Z,alerta,7ea5547b35ef782963e4f384d3414dfa,2026-11-09T02:10:00Z,Sacramento Kings,Miami Heat,pinnacle,2026-11-09T01:02:44Z,player_points,Keegan Murray,Over,9.5,1.87
+2026-11-09T01:13:50Z,alerta,7ea5547b35ef782963e4f384d3414dfa,2026-11-09T02:10:00Z,Sacramento Kings,Miami Heat,pinnacle,2026-11-09T01:02:44Z,player_points,Keegan Murray,Under,9.5,1.87
+2026-11-09T01:13:50Z,alerta,7ea5547b35ef782963e4f384d3414dfa,2026-11-09T02:10:00Z,Sacramento Kings,Miami Heat,pinnacle,2026-11-09T01:02:44Z,player_points,Precious Achiuwa,Over,9.5,1.9
+2026-11-09T01:13:50Z,alerta,7ea5547b35ef782963e4f384d3414dfa,2026-11-09T02:10:00Z,Sacramento Kings,Miami Heat,pinnacle,2026-11-09T01:02:44Z,player_points,Precious Achiuwa,Under,9.5,1.84
