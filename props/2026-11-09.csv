@@ -83,3 +83,73 @@ recolhido_em,momento,jogo_id,inicio_jogo,casa,fora,casa_apostas,atualizado_em,me
 2026-11-09T01:35:06Z,fecho,7ea5547b35ef782963e4f384d3414dfa,2026-11-09T02:10:00Z,Sacramento Kings,Miami Heat,pinnacle,2026-11-09T01:34:04Z,player_points,Keegan Murray,Under,9.5,1.87
 2026-11-09T01:35:06Z,fecho,7ea5547b35ef782963e4f384d3414dfa,2026-11-09T02:10:00Z,Sacramento Kings,Miami Heat,pinnacle,2026-11-09T01:34:04Z,player_points,Precious Achiuwa,Over,10.5,1.86
 2026-11-09T01:35:06Z,fecho,7ea5547b35ef782963e4f384d3414dfa,2026-11-09T02:10:00Z,Sacramento Kings,Miami Heat,pinnacle,2026-11-09T01:34:04Z,player_points,Precious Achiuwa,Under,10.5,1.88
+2026-11-09T20:40:21Z,cedo,07361a8381206817e27bd2697fad7479,2026-11-10T00:10:00Z,Atlanta Hawks,Los Angeles Lakers,pinnacle,2026-11-09T20:39:47Z,player_points,Aaron Wiggins,Over,13.5,2.01
+2026-11-09T20:40:21Z,cedo,07361a8381206817e27bd2697fad7479,2026-11-10T00:10:00Z,Atlanta Hawks,Los Angeles Lakers,pinnacle,2026-11-09T20:39:47Z,player_points,Aaron Wiggins,Under,13.5,1.75
+2026-11-09T20:40:21Z,cedo,07361a8381206817e27bd2697fad7479,2026-11-10T00:10:00Z,Atlanta Hawks,Los Angeles Lakers,pinnacle,2026-11-09T20:39:47Z,player_points,Austin Reaves,Over,21.5,1.96
+2026-11-09T20:40:21Z,cedo,07361a8381206817e27bd2697fad7479,2026-11-10T00:10:00Z,Atlanta Hawks,Los Angeles Lakers,pinnacle,2026-11-09T20:39:47Z,player_points,Austin Reaves,Under,21.5,1.79
+2026-11-09T20:40:21Z,cedo,07361a8381206817e27bd2697fad7479,2026-11-10T00:10:00Z,Atlanta Hawks,Los Angeles Lakers,pinnacle,2026-11-09T20:39:47Z,player_points,C.J. McCollum,Over,12.5,1.78
+2026-11-09T20:40:21Z,cedo,07361a8381206817e27bd2697fad7479,2026-11-10T00:10:00Z,Atlanta Hawks,Los Angeles Lakers,pinnacle,2026-11-09T20:39:47Z,player_points,C.J. McCollum,Under,12.5,1.96
+2026-11-09T20:40:21Z,cedo,07361a8381206817e27bd2697fad7479,2026-11-10T00:10:00Z,Atlanta Hawks,Los Angeles Lakers,pinnacle,2026-11-09T20:39:47Z,player_points,Dyson Daniels,Over,10.5,1.81
+2026-11-09T20:40:21Z,cedo,07361a8381206817e27bd2697fad7479,2026-11-10T00:10:00Z,Atlanta Hawks,Los Angeles Lakers,pinnacle,2026-11-09T20:39:47Z,player_points,Dyson Daniels,Under,10.5,1.93
+2026-11-09T20:40:21Z,cedo,07361a8381206817e27bd2697fad7479,2026-11-10T00:10:00Z,Atlanta Hawks,Los Angeles Lakers,pinnacle,2026-11-09T20:39:47Z,player_points,Jalen Johnson,Over,20.5,1.93
+2026-11-09T20:40:21Z,cedo,07361a8381206817e27bd2697fad7479,2026-11-10T00:10:00Z,Atlanta Hawks,Los Angeles Lakers,pinnacle,2026-11-09T20:39:47Z,player_points,Jalen Johnson,Under,20.5,1.81
+2026-11-09T20:40:21Z,cedo,07361a8381206817e27bd2697fad7479,2026-11-10T00:10:00Z,Atlanta Hawks,Los Angeles Lakers,pinnacle,2026-11-09T20:39:47Z,player_points,Kingston Flemings,Over,8.5,1.83
+2026-11-09T20:40:21Z,cedo,07361a8381206817e27bd2697fad7479,2026-11-10T00:10:00Z,Atlanta Hawks,Los Angeles Lakers,pinnacle,2026-11-09T20:39:47Z,player_points,Kingston Flemings,Under,8.5,1.92
+2026-11-09T20:40:21Z,cedo,07361a8381206817e27bd2697fad7479,2026-11-10T00:10:00Z,Atlanta Hawks,Los Angeles Lakers,pinnacle,2026-11-09T20:39:47Z,player_points,Luguentz Dort,Over,7.5,1.76
+2026-11-09T20:40:21Z,cedo,07361a8381206817e27bd2697fad7479,2026-11-10T00:10:00Z,Atlanta Hawks,Los Angeles Lakers,pinnacle,2026-11-09T20:39:47Z,player_points,Luguentz Dort,Under,7.5,2.0
+2026-11-09T20:40:21Z,cedo,07361a8381206817e27bd2697fad7479,2026-11-10T00:10:00Z,Atlanta Hawks,Los Angeles Lakers,pinnacle,2026-11-09T20:39:47Z,player_points,Luka Doncic,Over,35.5,1.81
+2026-11-09T20:40:21Z,cedo,07361a8381206817e27bd2697fad7479,2026-11-10T00:10:00Z,Atlanta Hawks,Los Angeles Lakers,pinnacle,2026-11-09T20:39:47Z,player_points,Luka Doncic,Under,35.5,1.93
+2026-11-09T20:40:21Z,cedo,07361a8381206817e27bd2697fad7479,2026-11-10T00:10:00Z,Atlanta Hawks,Los Angeles Lakers,pinnacle,2026-11-09T20:39:47Z,player_points,Nickeil Alexander-Walker,Over,19.5,1.86
+2026-11-09T20:40:21Z,cedo,07361a8381206817e27bd2697fad7479,2026-11-10T00:10:00Z,Atlanta Hawks,Los Angeles Lakers,pinnacle,2026-11-09T20:39:47Z,player_points,Nickeil Alexander-Walker,Under,19.5,1.88
+2026-11-09T20:40:21Z,cedo,07361a8381206817e27bd2697fad7479,2026-11-10T00:10:00Z,Atlanta Hawks,Los Angeles Lakers,pinnacle,2026-11-09T20:39:47Z,player_points,Onyeka Okongwu,Over,13.5,1.88
+2026-11-09T20:40:21Z,cedo,07361a8381206817e27bd2697fad7479,2026-11-10T00:10:00Z,Atlanta Hawks,Los Angeles Lakers,pinnacle,2026-11-09T20:39:47Z,player_points,Onyeka Okongwu,Under,13.5,1.88
+2026-11-09T20:40:21Z,cedo,07361a8381206817e27bd2697fad7479,2026-11-10T00:10:00Z,Atlanta Hawks,Los Angeles Lakers,pinnacle,2026-11-09T20:39:47Z,player_points,Sandro Mamukelashvili,Over,8.5,1.87
+2026-11-09T20:40:21Z,cedo,07361a8381206817e27bd2697fad7479,2026-11-10T00:10:00Z,Atlanta Hawks,Los Angeles Lakers,pinnacle,2026-11-09T20:39:47Z,player_points,Sandro Mamukelashvili,Under,8.5,1.87
+2026-11-09T20:40:21Z,cedo,07361a8381206817e27bd2697fad7479,2026-11-10T00:10:00Z,Atlanta Hawks,Los Angeles Lakers,pinnacle,2026-11-09T20:39:47Z,player_points,Walker Kessler,Over,13.5,1.65
+2026-11-09T20:40:21Z,cedo,07361a8381206817e27bd2697fad7479,2026-11-10T00:10:00Z,Atlanta Hawks,Los Angeles Lakers,pinnacle,2026-11-09T20:39:47Z,player_points,Walker Kessler,Under,13.5,2.15
+2026-11-09T20:40:21Z,cedo,07361a8381206817e27bd2697fad7479,2026-11-10T00:10:00Z,Atlanta Hawks,Los Angeles Lakers,pinnacle,2026-11-09T20:39:47Z,player_points,Ziaire Williams,Over,8.5,1.82
+2026-11-09T20:40:21Z,cedo,07361a8381206817e27bd2697fad7479,2026-11-10T00:10:00Z,Atlanta Hawks,Los Angeles Lakers,pinnacle,2026-11-09T20:39:47Z,player_points,Ziaire Williams,Under,8.5,1.93
+2026-11-09T20:40:21Z,cedo,1df5ff8fe9c6d2dbff1d0ae176063b37,2026-11-10T00:10:00Z,Charlotte Hornets,Cleveland Cavaliers,pinnacle,2026-11-09T20:39:50Z,player_points,Coby White,Over,14.5,1.87
+2026-11-09T20:40:21Z,cedo,1df5ff8fe9c6d2dbff1d0ae176063b37,2026-11-10T00:10:00Z,Charlotte Hornets,Cleveland Cavaliers,pinnacle,2026-11-09T20:39:50Z,player_points,Coby White,Under,14.5,1.87
+2026-11-09T20:40:21Z,cedo,1df5ff8fe9c6d2dbff1d0ae176063b37,2026-11-10T00:10:00Z,Charlotte Hornets,Cleveland Cavaliers,pinnacle,2026-11-09T20:39:50Z,player_points,Donovan Mitchell,Over,23.5,1.94
+2026-11-09T20:40:21Z,cedo,1df5ff8fe9c6d2dbff1d0ae176063b37,2026-11-10T00:10:00Z,Charlotte Hornets,Cleveland Cavaliers,pinnacle,2026-11-09T20:39:50Z,player_points,Donovan Mitchell,Under,23.5,1.8
+2026-11-09T20:40:21Z,cedo,1df5ff8fe9c6d2dbff1d0ae176063b37,2026-11-10T00:10:00Z,Charlotte Hornets,Cleveland Cavaliers,pinnacle,2026-11-09T20:39:50Z,player_points,Evan Mobley,Over,17.5,2.0
+2026-11-09T20:40:21Z,cedo,1df5ff8fe9c6d2dbff1d0ae176063b37,2026-11-10T00:10:00Z,Charlotte Hornets,Cleveland Cavaliers,pinnacle,2026-11-09T20:39:50Z,player_points,Evan Mobley,Under,17.5,1.76
+2026-11-09T20:40:21Z,cedo,1df5ff8fe9c6d2dbff1d0ae176063b37,2026-11-10T00:10:00Z,Charlotte Hornets,Cleveland Cavaliers,pinnacle,2026-11-09T20:39:50Z,player_points,Grayson Allen,Over,16.5,1.89
+2026-11-09T20:40:21Z,cedo,1df5ff8fe9c6d2dbff1d0ae176063b37,2026-11-10T00:10:00Z,Charlotte Hornets,Cleveland Cavaliers,pinnacle,2026-11-09T20:39:50Z,player_points,Grayson Allen,Under,16.5,1.85
+2026-11-09T20:40:21Z,cedo,1df5ff8fe9c6d2dbff1d0ae176063b37,2026-11-10T00:10:00Z,Charlotte Hornets,Cleveland Cavaliers,pinnacle,2026-11-09T20:39:50Z,player_points,James Harden,Over,16.5,1.91
+2026-11-09T20:40:21Z,cedo,1df5ff8fe9c6d2dbff1d0ae176063b37,2026-11-10T00:10:00Z,Charlotte Hornets,Cleveland Cavaliers,pinnacle,2026-11-09T20:39:50Z,player_points,James Harden,Under,16.5,1.83
+2026-11-09T20:40:21Z,cedo,1df5ff8fe9c6d2dbff1d0ae176063b37,2026-11-10T00:10:00Z,Charlotte Hornets,Cleveland Cavaliers,pinnacle,2026-11-09T20:39:50Z,player_points,Jarrett Allen,Over,12.5,2.0
+2026-11-09T20:40:21Z,cedo,1df5ff8fe9c6d2dbff1d0ae176063b37,2026-11-10T00:10:00Z,Charlotte Hornets,Cleveland Cavaliers,pinnacle,2026-11-09T20:39:50Z,player_points,Jarrett Allen,Under,12.5,1.76
+2026-11-09T20:40:21Z,cedo,1df5ff8fe9c6d2dbff1d0ae176063b37,2026-11-10T00:10:00Z,Charlotte Hornets,Cleveland Cavaliers,pinnacle,2026-11-09T20:39:50Z,player_points,Naz Reid,Over,19.5,1.85
+2026-11-09T20:40:21Z,cedo,1df5ff8fe9c6d2dbff1d0ae176063b37,2026-11-10T00:10:00Z,Charlotte Hornets,Cleveland Cavaliers,pinnacle,2026-11-09T20:39:50Z,player_points,Naz Reid,Under,19.5,1.88
+2026-11-09T20:40:21Z,cedo,1df5ff8fe9c6d2dbff1d0ae176063b37,2026-11-10T00:10:00Z,Charlotte Hornets,Cleveland Cavaliers,pinnacle,2026-11-09T20:39:50Z,player_points,Peyton Watson,Over,12.5,1.89
+2026-11-09T20:40:21Z,cedo,1df5ff8fe9c6d2dbff1d0ae176063b37,2026-11-10T00:10:00Z,Charlotte Hornets,Cleveland Cavaliers,pinnacle,2026-11-09T20:39:50Z,player_points,Peyton Watson,Under,12.5,1.85
+2026-11-09T20:40:21Z,cedo,1df5ff8fe9c6d2dbff1d0ae176063b37,2026-11-10T00:10:00Z,Charlotte Hornets,Cleveland Cavaliers,pinnacle,2026-11-09T20:39:50Z,player_points,Royce O'Neale,Over,8.5,1.91
+2026-11-09T20:40:21Z,cedo,1df5ff8fe9c6d2dbff1d0ae176063b37,2026-11-10T00:10:00Z,Charlotte Hornets,Cleveland Cavaliers,pinnacle,2026-11-09T20:39:50Z,player_points,Royce O'Neale,Under,8.5,1.83
+2026-11-09T20:40:21Z,cedo,1df5ff8fe9c6d2dbff1d0ae176063b37,2026-11-10T00:10:00Z,Charlotte Hornets,Cleveland Cavaliers,pinnacle,2026-11-09T20:39:50Z,player_points,Sion James,Over,7.5,1.95
+2026-11-09T20:40:21Z,cedo,1df5ff8fe9c6d2dbff1d0ae176063b37,2026-11-10T00:10:00Z,Charlotte Hornets,Cleveland Cavaliers,pinnacle,2026-11-09T20:39:50Z,player_points,Sion James,Under,7.5,1.79
+2026-11-09T20:40:21Z,cedo,929b863acedecaf614c6312e28a44837,2026-11-10T00:10:00Z,Detroit Pistons,Washington Wizards,pinnacle,2026-11-09T20:39:26Z,player_points,AJ Dybantsa,Over,17.5,2.03
+2026-11-09T20:40:21Z,cedo,929b863acedecaf614c6312e28a44837,2026-11-10T00:10:00Z,Detroit Pistons,Washington Wizards,pinnacle,2026-11-09T20:39:26Z,player_points,AJ Dybantsa,Under,17.5,1.73
+2026-11-09T20:40:21Z,cedo,929b863acedecaf614c6312e28a44837,2026-11-10T00:10:00Z,Detroit Pistons,Washington Wizards,pinnacle,2026-11-09T20:39:26Z,player_points,Alex Sarr,Over,11.5,1.94
+2026-11-09T20:40:21Z,cedo,929b863acedecaf614c6312e28a44837,2026-11-10T00:10:00Z,Detroit Pistons,Washington Wizards,pinnacle,2026-11-09T20:39:26Z,player_points,Alex Sarr,Under,11.5,1.8
+2026-11-09T20:40:21Z,cedo,929b863acedecaf614c6312e28a44837,2026-11-10T00:10:00Z,Detroit Pistons,Washington Wizards,pinnacle,2026-11-09T20:39:26Z,player_points,Anthony Davis,Over,20.5,1.96
+2026-11-09T20:40:21Z,cedo,929b863acedecaf614c6312e28a44837,2026-11-10T00:10:00Z,Detroit Pistons,Washington Wizards,pinnacle,2026-11-09T20:39:26Z,player_points,Anthony Davis,Under,20.5,1.78
+2026-11-09T20:40:21Z,cedo,929b863acedecaf614c6312e28a44837,2026-11-10T00:10:00Z,Detroit Pistons,Washington Wizards,pinnacle,2026-11-09T20:39:26Z,player_points,Ausar Thompson,Over,10.5,1.89
+2026-11-09T20:40:21Z,cedo,929b863acedecaf614c6312e28a44837,2026-11-10T00:10:00Z,Detroit Pistons,Washington Wizards,pinnacle,2026-11-09T20:39:26Z,player_points,Ausar Thompson,Under,10.5,1.85
+2026-11-09T20:40:21Z,cedo,929b863acedecaf614c6312e28a44837,2026-11-10T00:10:00Z,Detroit Pistons,Washington Wizards,pinnacle,2026-11-09T20:39:26Z,player_points,Cade Cunningham,Over,26.5,2.03
+2026-11-09T20:40:21Z,cedo,929b863acedecaf614c6312e28a44837,2026-11-10T00:10:00Z,Detroit Pistons,Washington Wizards,pinnacle,2026-11-09T20:39:26Z,player_points,Cade Cunningham,Under,26.5,1.74
+2026-11-09T20:40:21Z,cedo,929b863acedecaf614c6312e28a44837,2026-11-10T00:10:00Z,Detroit Pistons,Washington Wizards,pinnacle,2026-11-09T20:39:26Z,player_points,Daniss Jenkins,Over,10.5,1.97
+2026-11-09T20:40:21Z,cedo,929b863acedecaf614c6312e28a44837,2026-11-10T00:10:00Z,Detroit Pistons,Washington Wizards,pinnacle,2026-11-09T20:39:26Z,player_points,Daniss Jenkins,Under,10.5,1.78
+2026-11-09T20:40:21Z,cedo,929b863acedecaf614c6312e28a44837,2026-11-10T00:10:00Z,Detroit Pistons,Washington Wizards,pinnacle,2026-11-09T20:39:26Z,player_points,Duncan Robinson,Over,15.5,2.01
+2026-11-09T20:40:21Z,cedo,929b863acedecaf614c6312e28a44837,2026-11-10T00:10:00Z,Detroit Pistons,Washington Wizards,pinnacle,2026-11-09T20:39:26Z,player_points,Duncan Robinson,Under,15.5,1.75
+2026-11-09T20:40:21Z,cedo,929b863acedecaf614c6312e28a44837,2026-11-10T00:10:00Z,Detroit Pistons,Washington Wizards,pinnacle,2026-11-09T20:39:26Z,player_points,John Collins,Over,11.5,1.95
+2026-11-09T20:40:21Z,cedo,929b863acedecaf614c6312e28a44837,2026-11-10T00:10:00Z,Detroit Pistons,Washington Wizards,pinnacle,2026-11-09T20:39:26Z,player_points,John Collins,Under,11.5,1.79
+2026-11-09T20:40:21Z,cedo,929b863acedecaf614c6312e28a44837,2026-11-10T00:10:00Z,Detroit Pistons,Washington Wizards,pinnacle,2026-11-09T20:39:26Z,player_points,Kevin Huerter,Over,7.5,1.75
+2026-11-09T20:40:21Z,cedo,929b863acedecaf614c6312e28a44837,2026-11-10T00:10:00Z,Detroit Pistons,Washington Wizards,pinnacle,2026-11-09T20:39:26Z,player_points,Kevin Huerter,Under,7.5,2.0
+2026-11-09T20:40:21Z,cedo,929b863acedecaf614c6312e28a44837,2026-11-10T00:10:00Z,Detroit Pistons,Washington Wizards,pinnacle,2026-11-09T20:39:26Z,player_points,Kyshawn George,Over,15.5,1.91
+2026-11-09T20:40:21Z,cedo,929b863acedecaf614c6312e28a44837,2026-11-10T00:10:00Z,Detroit Pistons,Washington Wizards,pinnacle,2026-11-09T20:39:26Z,player_points,Kyshawn George,Under,15.5,1.83
+2026-11-09T20:40:21Z,cedo,929b863acedecaf614c6312e28a44837,2026-11-10T00:10:00Z,Detroit Pistons,Washington Wizards,pinnacle,2026-11-09T20:39:26Z,player_points,Paul Reed Jr,Over,11.5,1.82
+2026-11-09T20:40:21Z,cedo,929b863acedecaf614c6312e28a44837,2026-11-10T00:10:00Z,Detroit Pistons,Washington Wizards,pinnacle,2026-11-09T20:39:26Z,player_points,Paul Reed Jr,Under,11.5,1.93
+2026-11-09T20:40:21Z,cedo,929b863acedecaf614c6312e28a44837,2026-11-10T00:10:00Z,Detroit Pistons,Washington Wizards,pinnacle,2026-11-09T20:39:26Z,player_points,Trae Young,Over,18.5,1.89
+2026-11-09T20:40:21Z,cedo,929b863acedecaf614c6312e28a44837,2026-11-10T00:10:00Z,Detroit Pistons,Washington Wizards,pinnacle,2026-11-09T20:39:26Z,player_points,Trae Young,Under,18.5,1.85
