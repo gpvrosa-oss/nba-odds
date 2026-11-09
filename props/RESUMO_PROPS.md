@@ -1,10 +1,10 @@
 # Apostas virtuais em props (sem dinheiro real)
 
-Atualizado: 2026-11-09 03:10 UTC. Casa de referencia: Pinnacle (linha ~3h antes do jogo).
+Atualizado: 2026-11-09 03:20 UTC. Casa de referencia: Pinnacle (linha ~3h antes do jogo).
 
-- Apostas decididas: **78** (ganhas 42%), anuladas: 1, por decidir: 10
-- Apostado: 77.2 unidades. Lucro: **-16.0 unidades** (ROI -20.7%)
-- CLV medio (bater a linha de fecho; o melhor sinal de qualidade): **+0.3%** em 76 apostas
+- Apostas decididas: **80** (ganhas 42%), anuladas: 1, por decidir: 8
+- Apostado: 79.2 unidades. Lucro: **-16.1 unidades** (ROI -20.4%)
+- CLV medio (bater a linha de fecho; o melhor sinal de qualidade): **+0.4%** em 78 apostas
 
 Regra de bolso: so pensar em dinheiro real com 200+ apostas e CLV medio acima de +2%.
 
@@ -14,8 +14,8 @@ Regra de bolso: so pensar em dinheiro real com 200+ apostas e CLV medio acima de
          inicio_jogo               jogador  lado  linha  odd  previsto  stake resultado  real  lucro     clv
 2026-11-09T00:10:00Z          Jaxson Hayes Under    8.5 1.92      7.77   1.00    perdeu  18.0  -1.00 -0.0192
 2026-11-09T00:10:00Z  Terrence Shannon Jr. Under   12.5 1.74      9.83   1.00    ganhou   5.0   0.74  0.0831
-2026-11-09T01:10:00Z          Myles Turner Under    9.5 1.88      7.72   1.00       NaN   NaN    NaN     NaN
-2026-11-09T01:10:00Z         Neemias Queta Under    9.5 1.99      8.98   1.00       NaN   NaN    NaN     NaN
+2026-11-09T01:10:00Z          Myles Turner Under    9.5 1.88      7.72   1.00    ganhou   3.0   0.88  0.0928
+2026-11-09T01:10:00Z         Neemias Queta Under    9.5 1.99      8.98   1.00    perdeu  13.0  -1.00  0.0342
 2026-11-09T02:10:00Z        Andrew Wiggins Under   10.5 1.84      9.26   1.00       NaN   NaN    NaN     NaN
 2026-11-09T02:10:00Z Giannis Antetokounmpo Under   29.5 1.93     26.99   1.00       NaN   NaN    NaN     NaN
 2026-11-09T02:10:00Z         Keegan Murray Under    9.5 1.85      8.27   1.00       NaN   NaN    NaN     NaN
