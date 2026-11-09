@@ -1,5 +1,20 @@
 # Alertas de ultima hora
 
+## 09/11 22:33 UTC: Cleveland Cavaliers @ Charlotte Hornets
+
+- **Moussa Diabate** (CHA, 28.8 min de media): Out (antes: 30% de faltar, agora 100%)
+
+Colegas (pontos previstos antes -> agora | linha Pinnacle agora | veredito):
+```
+Sion James                 7.4 ->   7.6 (+0.2) | 7.5 (1.95/1.79)    | sem valor (a Pinnacle ja ajustou?)
+Royce O'Neale              6.5 ->   6.8 (+0.2) | 8.5 (1.91/1.83)    | APOSTA Under @ 1.83 (EV +11.0%)
+Grayson Allen             14.0 ->  14.2 (+0.2) | 16.5 (1.89/1.85)   | APOSTA Under @ 1.85 (EV +9.1%)
+Naz Reid                  16.3 ->  16.3 (+0.0) | 19.5 (1.87/1.87)   | passar
+Coby White                10.7 ->  10.6 (-0.1) | 14.5 (1.87/1.87)   | passar
+```
+
+Na Betano/Betclic: confirma se a linha desses jogadores ainda nao subiu.
+
 ## 09/11 01:13 UTC: Miami Heat @ Sacramento Kings
 
 - **Domantas Sabonis** (SAC, 35.6 min de media): Out (antes: 30% de faltar, agora 100%)
