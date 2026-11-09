@@ -1,5 +1,17 @@
 # Alertas de ultima hora
 
+## 09/11 22:58 UTC: Memphis Grizzlies @ Toronto Raptors
+
+- **Scottie Barnes** (TOR, 33.4 min de media): Out (antes: 30% de faltar, agora 100%)
+
+Colegas (pontos previstos antes -> agora | linha Pinnacle agora | veredito):
+```
+Ja'Kobe Walter            12.1 ->  12.8 (+0.7) | 12.5 (2.05/1.72)   | sem valor (a Pinnacle ja ajustou?)
+Jakob Poeltl               9.9 ->  10.5 (+0.6) | 10.5 (2.01/1.75)   | sem valor (a Pinnacle ja ajustou?)
+```
+
+Na Betano/Betclic: confirma se a linha desses jogadores ainda nao subiu.
+
 ## 09/11 22:33 UTC: Cleveland Cavaliers @ Charlotte Hornets
 
 - **Moussa Diabate** (CHA, 28.8 min de media): Out (antes: 30% de faltar, agora 100%)
