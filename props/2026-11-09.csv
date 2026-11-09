@@ -179,3 +179,23 @@ recolhido_em,momento,jogo_id,inicio_jogo,casa,fora,casa_apostas,atualizado_em,me
 2026-11-09T21:13:20Z,cedo,56efae2815b3a18850f07a3781d652a2,2026-11-10T00:40:00Z,Toronto Raptors,Memphis Grizzlies,pinnacle,2026-11-09T21:12:17Z,player_points,Jerami Grant,Under,10.5,1.85
 2026-11-09T21:13:20Z,cedo,56efae2815b3a18850f07a3781d652a2,2026-11-10T00:40:00Z,Toronto Raptors,Memphis Grizzlies,pinnacle,2026-11-09T21:12:17Z,player_points,Jakob Poeltl,Over,10.5,2.01
 2026-11-09T21:13:20Z,cedo,56efae2815b3a18850f07a3781d652a2,2026-11-10T00:40:00Z,Toronto Raptors,Memphis Grizzlies,pinnacle,2026-11-09T21:12:17Z,player_points,Jakob Poeltl,Under,10.5,1.75
+2026-11-09T21:46:14Z,cedo,9866fa22adc8509d487522ef4cf0fc24,2026-11-10T01:10:00Z,Dallas Mavericks,Indiana Pacers,pinnacle,2026-11-09T21:46:06Z,player_points,Aaron Nesmith,Over,11.5,1.8
+2026-11-09T21:46:14Z,cedo,9866fa22adc8509d487522ef4cf0fc24,2026-11-10T01:10:00Z,Dallas Mavericks,Indiana Pacers,pinnacle,2026-11-09T21:46:06Z,player_points,Aaron Nesmith,Under,11.5,1.94
+2026-11-09T21:46:14Z,cedo,9866fa22adc8509d487522ef4cf0fc24,2026-11-10T01:10:00Z,Dallas Mavericks,Indiana Pacers,pinnacle,2026-11-09T21:46:06Z,player_points,Andrew Nembhard,Over,15.5,1.83
+2026-11-09T21:46:14Z,cedo,9866fa22adc8509d487522ef4cf0fc24,2026-11-10T01:10:00Z,Dallas Mavericks,Indiana Pacers,pinnacle,2026-11-09T21:46:06Z,player_points,Andrew Nembhard,Under,15.5,1.91
+2026-11-09T21:46:14Z,cedo,9866fa22adc8509d487522ef4cf0fc24,2026-11-10T01:10:00Z,Dallas Mavericks,Indiana Pacers,pinnacle,2026-11-09T21:46:06Z,player_points,Cooper Flagg,Over,25.5,2.04
+2026-11-09T21:46:14Z,cedo,9866fa22adc8509d487522ef4cf0fc24,2026-11-10T01:10:00Z,Dallas Mavericks,Indiana Pacers,pinnacle,2026-11-09T21:46:06Z,player_points,Cooper Flagg,Under,25.5,1.73
+2026-11-09T21:46:14Z,cedo,9866fa22adc8509d487522ef4cf0fc24,2026-11-10T01:10:00Z,Dallas Mavericks,Indiana Pacers,pinnacle,2026-11-09T21:46:06Z,player_points,Daniel Gafford,Over,9.5,1.91
+2026-11-09T21:46:14Z,cedo,9866fa22adc8509d487522ef4cf0fc24,2026-11-10T01:10:00Z,Dallas Mavericks,Indiana Pacers,pinnacle,2026-11-09T21:46:06Z,player_points,Daniel Gafford,Under,9.5,1.83
+2026-11-09T21:46:14Z,cedo,9866fa22adc8509d487522ef4cf0fc24,2026-11-10T01:10:00Z,Dallas Mavericks,Indiana Pacers,pinnacle,2026-11-09T21:46:06Z,player_points,Ivica Zubac,Over,9.5,1.49
+2026-11-09T21:46:14Z,cedo,9866fa22adc8509d487522ef4cf0fc24,2026-11-10T01:10:00Z,Dallas Mavericks,Indiana Pacers,pinnacle,2026-11-09T21:46:06Z,player_points,Ivica Zubac,Under,9.5,2.5
+2026-11-09T21:46:14Z,cedo,9866fa22adc8509d487522ef4cf0fc24,2026-11-10T01:10:00Z,Dallas Mavericks,Indiana Pacers,pinnacle,2026-11-09T21:46:06Z,player_points,Kelly Oubre Jr.,Over,7.5,1.88
+2026-11-09T21:46:14Z,cedo,9866fa22adc8509d487522ef4cf0fc24,2026-11-10T01:10:00Z,Dallas Mavericks,Indiana Pacers,pinnacle,2026-11-09T21:46:06Z,player_points,Kelly Oubre Jr.,Under,7.5,1.86
+2026-11-09T21:46:14Z,cedo,9866fa22adc8509d487522ef4cf0fc24,2026-11-10T01:10:00Z,Dallas Mavericks,Indiana Pacers,pinnacle,2026-11-09T21:46:06Z,player_points,Kyrie Irving,Over,21.5,1.9
+2026-11-09T21:46:14Z,cedo,9866fa22adc8509d487522ef4cf0fc24,2026-11-10T01:10:00Z,Dallas Mavericks,Indiana Pacers,pinnacle,2026-11-09T21:46:06Z,player_points,Kyrie Irving,Under,21.5,1.84
+2026-11-09T21:46:14Z,cedo,9866fa22adc8509d487522ef4cf0fc24,2026-11-10T01:10:00Z,Dallas Mavericks,Indiana Pacers,pinnacle,2026-11-09T21:46:06Z,player_points,Obi Toppin,Over,11.5,1.98
+2026-11-09T21:46:14Z,cedo,9866fa22adc8509d487522ef4cf0fc24,2026-11-10T01:10:00Z,Dallas Mavericks,Indiana Pacers,pinnacle,2026-11-09T21:46:06Z,player_points,Obi Toppin,Under,11.5,1.77
+2026-11-09T21:46:14Z,cedo,9866fa22adc8509d487522ef4cf0fc24,2026-11-10T01:10:00Z,Dallas Mavericks,Indiana Pacers,pinnacle,2026-11-09T21:46:06Z,player_points,P.J. Washington,Over,14.5,2.01
+2026-11-09T21:46:14Z,cedo,9866fa22adc8509d487522ef4cf0fc24,2026-11-10T01:10:00Z,Dallas Mavericks,Indiana Pacers,pinnacle,2026-11-09T21:46:06Z,player_points,P.J. Washington,Under,14.5,1.75
+2026-11-09T21:46:14Z,cedo,9866fa22adc8509d487522ef4cf0fc24,2026-11-10T01:10:00Z,Dallas Mavericks,Indiana Pacers,pinnacle,2026-11-09T21:46:06Z,player_points,Pascal Siakam,Over,19.5,1.56
+2026-11-09T21:46:14Z,cedo,9866fa22adc8509d487522ef4cf0fc24,2026-11-10T01:10:00Z,Dallas Mavericks,Indiana Pacers,pinnacle,2026-11-09T21:46:06Z,player_points,Pascal Siakam,Under,19.5,2.34

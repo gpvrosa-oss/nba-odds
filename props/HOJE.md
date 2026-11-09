@@ -1,6 +1,6 @@
 # Odds justas de hoje (pontos dos jogadores)
 
-Atualizado: 2026-11-09 21:36 UTC. Odd justa = Pinnacle sem margem. Modelo = a nossa previsao.
+Atualizado: 2026-11-09 21:47 UTC. Odd justa = Pinnacle sem margem. Modelo = a nossa previsao.
 Como usar: na Betano/Betclic, se a odd de "X+ pontos" for MAIOR do que a odd justa, essa aposta tem valor.
 
 ## Los Angeles Lakers @ Atlanta Hawks (10/11 00:10 UTC)
@@ -10,26 +10,26 @@ Aaron Wiggins            linha  13.5 | modelo  13.5 | sem valor
     justa: 11+ 1.51  12+ 1.68  13+ 1.89  14+ 2.15  15+ 2.48  16+ 2.88  17+ 3.39
 Austin Reaves            linha  21.5 | modelo  24.7 | duvida se joga
     justa: 19+ 1.58  20+ 1.72  21+ 1.89  22+ 2.10  23+ 2.34  24+ 2.63  25+ 2.97
+Dyson Daniels            linha  10.5 | modelo   9.9 | APOSTA
+    justa: 8+ 1.36  9+ 1.51  10+ 1.70  11+ 1.94  12+ 2.24  13+ 2.63  14+ 3.12
 Jalen Johnson            linha  20.5 | modelo  18.9 | sem valor
     justa: 18+ 1.56  19+ 1.70  20+ 1.86  21+ 2.07  22+ 2.31  23+ 2.60  24+ 2.95
 Kingston Flemings        linha   8.5 | modelo   9.1 | sem valor
     justa: 6+ 1.32  7+ 1.48  8+ 1.68  9+ 1.95  10+ 2.30  11+ 2.75  12+ 3.33
-Luguentz Dort            linha   7.5 | modelo   9.5 | sem valor
-    justa: 5+ 1.26  6+ 1.41  7+ 1.62  8+ 1.88  9+ 2.22  10+ 2.67  11+ 3.26
 Luka Doncic              linha  35.5 | modelo  38.1 | sem valor
     justa: 33+ 1.58  34+ 1.68  35+ 1.80  36+ 1.94  37+ 2.10  38+ 2.28  39+ 2.49
-Nickeil Alexander-Walker linha  19.5 | modelo  20.6 | sem valor
-    justa: 17+ 1.51  18+ 1.64  19+ 1.80  20+ 1.99  21+ 2.22  22+ 2.50  23+ 2.83
-Dyson Daniels            linha  10.5 | modelo   9.9 | APOSTA
-    justa: 8+ 1.36  9+ 1.51  10+ 1.70  11+ 1.94  12+ 2.24  13+ 2.63  14+ 3.12
+Luguentz Dort            linha   7.5 | modelo   9.5 | sem valor
+    justa: 5+ 1.26  6+ 1.41  7+ 1.62  8+ 1.88  9+ 2.22  10+ 2.67  11+ 3.26
+Onyeka Okongwu           linha  13.5 | modelo  13.1 | sem valor
+    justa: 11+ 1.44  12+ 1.59  13+ 1.77  14+ 2.00  15+ 2.28  16+ 2.64  17+ 3.07
 Sandro Mamukelashvili    linha   8.5 | modelo   8.6 | sem valor
     justa: 6+ 1.33  7+ 1.50  8+ 1.72  9+ 2.00  10+ 2.37  11+ 2.84  12+ 3.45
 Walker Kessler           linha  13.5 | modelo  14.3 | sem valor
     justa: 11+ 1.33  12+ 1.45  13+ 1.59  14+ 1.77  15+ 1.99  16+ 2.26  17+ 2.59
 Ziaire Williams          linha   8.5 | modelo  11.1 | APOSTA
     justa: 6+ 1.31  7+ 1.47  8+ 1.68  9+ 1.94  10+ 2.29  11+ 2.73  12+ 3.30
-Onyeka Okongwu           linha  13.5 | modelo  13.1 | sem valor
-    justa: 11+ 1.44  12+ 1.59  13+ 1.77  14+ 2.00  15+ 2.28  16+ 2.64  17+ 3.07
+Nickeil Alexander-Walker linha  19.5 | modelo  20.6 | sem valor
+    justa: 17+ 1.51  18+ 1.64  19+ 1.80  20+ 1.99  21+ 2.22  22+ 2.50  23+ 2.83
 ```
 
 Ressaltos (so modelo, sem Pinnacle):
@@ -116,14 +116,14 @@ Royce O'Neale            modelo  1.3 | 1+ 1.40  2+ 2.59  3+ 5.85  4+ 15.35  5+ 4
 ## Washington Wizards @ Detroit Pistons (10/11 00:10 UTC)
 
 ```
+AJ Dybantsa              linha  17.5 | modelo  14.7 | poucos jogos
+    justa: 15+ 1.58  16+ 1.74  17+ 1.94  18+ 2.17  19+ 2.46  20+ 2.82  21+ 3.25
 Alex Sarr                linha  11.5 | modelo  11.3 | sem valor
     justa: 9+ 1.44  10+ 1.60  11+ 1.81  12+ 2.08  13+ 2.41  14+ 2.83  15+ 3.36
 Anthony Davis            linha  20.5 | modelo  21.0 | duvida se joga
     justa: 18+ 1.58  19+ 1.72  20+ 1.89  21+ 2.10  22+ 2.35  23+ 2.65  24+ 3.01
 Ausar Thompson           linha  10.5 | modelo   9.8 | sem valor
     justa: 8+ 1.39  9+ 1.55  10+ 1.76  11+ 2.02  12+ 2.35  13+ 2.78  14+ 3.31
-Cade Cunningham          linha  26.5 | modelo  23.9 | APOSTA
-    justa: 24+ 1.66  25+ 1.80  26+ 1.97  27+ 2.17  28+ 2.40  29+ 2.67  30+ 2.99
 Duncan Robinson          linha  15.5 | modelo  17.1 | APOSTA
     justa: 13+ 1.54  14+ 1.70  15+ 1.90  16+ 2.15  17+ 2.45  18+ 2.82  19+ 3.28
 John Collins             linha  11.5 | modelo  10.1 | APOSTA
@@ -136,10 +136,10 @@ Paul Reed Jr             linha  11.5 | modelo  11.9 | sem valor
     justa: 9+ 1.38  10+ 1.53  11+ 1.71  12+ 1.94  13+ 2.24  14+ 2.60  15+ 3.06
 Trae Young               linha  18.5 | modelo  16.6 | APOSTA
     justa: 16+ 1.51  17+ 1.65  18+ 1.82  19+ 2.02  20+ 2.27  21+ 2.56  22+ 2.92
+Cade Cunningham          linha  26.5 | modelo  23.9 | APOSTA
+    justa: 24+ 1.66  25+ 1.80  26+ 1.97  27+ 2.17  28+ 2.40  29+ 2.67  30+ 2.99
 Daniss Jenkins           linha  10.5 | modelo  11.9 | APOSTA
     justa: 8+ 1.43  9+ 1.60  10+ 1.82  11+ 2.11  12+ 2.47  13+ 2.92  14+ 3.51
-AJ Dybantsa              linha  17.5 | modelo  14.7 | poucos jogos
-    justa: 15+ 1.58  16+ 1.74  17+ 1.94  18+ 2.17  19+ 2.46  20+ 2.82  21+ 3.25
 ```
 
 Ressaltos (so modelo, sem Pinnacle):
@@ -173,16 +173,20 @@ John Collins             modelo  0.8 | 1+ 1.81  2+ 4.52  3+ 13.65  4+ 46.66  5+ 
 ## Memphis Grizzlies @ Toronto Raptors (10/11 00:40 UTC)
 
 ```
-Scottie Barnes           linha  23.5 | modelo  23.4 | duvida se joga
-    justa: 21+ 1.60  22+ 1.73  23+ 1.90  24+ 2.09  25+ 2.32  26+ 2.59  27+ 2.92
+Zach Edey                linha   8.5 | modelo   9.2 | sem valor
+    justa: 6+ 1.27  7+ 1.41  8+ 1.59  9+ 1.82  10+ 2.12  11+ 2.51  12+ 3.00
 Jerami Grant             linha  10.5 | modelo  10.3 | sem valor
     justa: 8+ 1.39  9+ 1.55  10+ 1.76  11+ 2.02  12+ 2.35  13+ 2.77  14+ 3.30
+Ty Jerome                linha  21.5 | modelo  22.8 | sem valor
+    justa: 19+ 1.57  20+ 1.70  21+ 1.87  22+ 2.07  23+ 2.30  24+ 2.58  25+ 2.92
+Scottie Barnes           linha  23.5 | modelo  23.4 | duvida se joga
+    justa: 21+ 1.60  22+ 1.73  23+ 1.90  24+ 2.09  25+ 2.32  26+ 2.59  27+ 2.92
 Jaylen Wells             linha  10.5 | modelo  10.8 | sem valor
     justa: 8+ 1.45  9+ 1.63  10+ 1.87  11+ 2.17  12+ 2.55  13+ 3.03  14+ 3.65
-Jakob Poeltl             linha  10.5 | modelo   9.9 | sem valor
-    justa: 8+ 1.44  9+ 1.62  10+ 1.85  11+ 2.15  12+ 2.52  13+ 3.00  14+ 3.61
 Cedric Coward            linha  13.5 | modelo  13.7 | sem valor
     justa: 11+ 1.50  12+ 1.66  13+ 1.87  14+ 2.13  15+ 2.45  16+ 2.85  17+ 3.35
+Ja'Kobe Walter           linha  12.5 | modelo  12.1 | sem valor
+    justa: 10+ 1.49  11+ 1.67  12+ 1.89  13+ 2.16  14+ 2.50  15+ 2.94  16+ 3.48
 Immanuel Quickley        linha  18.5 | modelo  18.2 | duvida se joga
     justa: 16+ 1.57  17+ 1.73  18+ 1.91  19+ 2.14  20+ 2.41  21+ 2.74  22+ 3.14
 Collin Murray-Boyles     linha  12.5 | modelo  12.9 | duvida se joga
@@ -191,12 +195,8 @@ Cameron Boozer           linha  17.5 | modelo  15.3 | poucos jogos
     justa: 15+ 1.58  16+ 1.74  17+ 1.94  18+ 2.17  19+ 2.46  20+ 2.82  21+ 3.25
 Cam Spencer              linha   8.5 | modelo   9.0 | sem valor
     justa: 6+ 1.38  7+ 1.57  8+ 1.82  9+ 2.14  10+ 2.55  11+ 3.09  12+ 3.79
-Ty Jerome                linha  21.5 | modelo  22.8 | sem valor
-    justa: 19+ 1.57  20+ 1.70  21+ 1.87  22+ 2.07  23+ 2.30  24+ 2.58  25+ 2.92
-Ja'Kobe Walter           linha  12.5 | modelo  12.1 | sem valor
-    justa: 10+ 1.49  11+ 1.67  12+ 1.89  13+ 2.16  14+ 2.50  15+ 2.94  16+ 3.48
-Zach Edey                linha   8.5 | modelo   9.2 | sem valor
-    justa: 6+ 1.27  7+ 1.41  8+ 1.59  9+ 1.82  10+ 2.12  11+ 2.51  12+ 3.00
+Jakob Poeltl             linha  10.5 | modelo   9.9 | sem valor
+    justa: 8+ 1.44  9+ 1.62  10+ 1.85  11+ 2.15  12+ 2.52  13+ 3.00  14+ 3.61
 ```
 
 Ressaltos (so modelo, sem Pinnacle):
@@ -221,4 +221,57 @@ Jerami Grant             modelo  1.8 | 1+ 1.22  2+ 1.88  3+ 3.48  4+ 7.52  5+ 18
 Jakob Poeltl             modelo  1.6 | 1+ 1.28  2+ 2.08  3+ 4.13  4+ 9.53  5+ 24.69
 Jaylen Wells             modelo  1.3 | 1+ 1.39  2+ 2.55  3+ 5.71  4+ 14.85  5+ 43.09
 Zach Edey                modelo  1.1 | 1+ 1.57  2+ 3.34  3+ 8.70  4+ 26.04  5+ 85.92
+```
+
+## Indiana Pacers @ Dallas Mavericks (10/11 01:10 UTC)
+
+```
+P.J. Washington          linha  14.5 | modelo  14.1 | sem valor
+    justa: 12+ 1.52  13+ 1.69  14+ 1.89  15+ 2.15  16+ 2.46  17+ 2.85  18+ 3.33
+Aaron Nesmith            linha  11.5 | modelo  13.0 | sem valor
+    justa: 9+ 1.37  10+ 1.52  11+ 1.70  12+ 1.93  13+ 2.22  14+ 2.58  15+ 3.03
+Andrew Nembhard          linha  15.5 | modelo  17.2 | sem valor
+    justa: 13+ 1.45  14+ 1.58  15+ 1.75  16+ 1.96  17+ 2.21  18+ 2.52  19+ 2.90
+Cooper Flagg             linha  25.5 | modelo  23.2 | sem valor
+    justa: 23+ 1.66  24+ 1.81  25+ 1.98  26+ 2.18  27+ 2.42  28+ 2.70  29+ 3.03
+Daniel Gafford           linha   9.5 | modelo   9.5 | sem valor
+    justa: 7+ 1.38  8+ 1.55  9+ 1.76  10+ 2.04  11+ 2.40  12+ 2.86  13+ 3.45
+Ivica Zubac              linha   9.5 | modelo   8.0 | discorda demais do mercado
+    justa: 7+ 1.20  8+ 1.30  9+ 1.43  10+ 1.60  11+ 1.80  12+ 2.07  13+ 2.40
+Kelly Oubre Jr.          linha   7.5 | modelo   8.7 | sem valor
+    justa: 5+ 1.31  6+ 1.48  7+ 1.71  8+ 2.01  9+ 2.41  10+ 2.92  11+ 3.60
+Kyrie Irving             linha  21.5 | modelo  21.9 | sem valor
+    justa: 19+ 1.55  20+ 1.68  21+ 1.84  22+ 2.03  23+ 2.26  24+ 2.53  25+ 2.86
+Obi Toppin               linha  11.5 | modelo  12.6 | sem valor
+    justa: 9+ 1.45  10+ 1.63  11+ 1.84  12+ 2.12  13+ 2.47  14+ 2.90  15+ 3.45
+Pascal Siakam            linha  19.5 | modelo  21.7 | sem valor
+    justa: 17+ 1.33  18+ 1.43  19+ 1.54  20+ 1.67  21+ 1.82  22+ 2.01  23+ 2.23
+```
+
+Ressaltos (so modelo, sem Pinnacle):
+```
+P.J. Washington          modelo  7.2 | 6+ 1.48  7+ 1.82  8+ 2.36  9+ 3.19  10+ 4.50
+Ivica Zubac              modelo  7.1 | 6+ 1.50  7+ 1.86  8+ 2.41  9+ 3.28  10+ 4.65
+Cooper Flagg             modelo  7.0 | 5+ 1.29  6+ 1.53  7+ 1.91  8+ 2.50  9+ 3.42
+Pascal Siakam            modelo  6.3 | 5+ 1.41  6+ 1.74  7+ 2.27  8+ 3.11  9+ 4.46
+Daniel Gafford           modelo  5.6 | 4+ 1.32  5+ 1.62  6+ 2.11  7+ 2.91  8+ 4.24
+Obi Toppin               modelo  4.9 | 3+ 1.22  4+ 1.47  5+ 1.91  6+ 2.64  7+ 3.87
+Kyrie Irving             modelo  4.3 | 3+ 1.33  4+ 1.70  5+ 2.36  6+ 3.49  7+ 5.48
+Aaron Nesmith            modelo  3.2 | 2+ 1.30  3+ 1.74  4+ 2.58  5+ 4.14  6+ 7.13
+Kelly Oubre Jr.          modelo  2.8 | 1+ 1.11  2+ 1.41  3+ 2.03  4+ 3.22  5+ 5.55
+Andrew Nembhard          modelo  2.6 | 1+ 1.13  2+ 1.49  3+ 2.21  4+ 3.63  5+ 6.47
+```
+
+Assistencias (so modelo, sem Pinnacle):
+```
+Andrew Nembhard          modelo  7.8 | 6+ 1.29  7+ 1.52  8+ 1.90  9+ 2.51  10+ 3.50
+Cooper Flagg             modelo  6.4 | 5+ 1.34  6+ 1.64  7+ 2.16  8+ 3.04  9+ 4.55
+Kyrie Irving             modelo  4.3 | 3+ 1.28  4+ 1.64  5+ 2.32  6+ 3.60  7+ 6.07
+Pascal Siakam            modelo  4.0 | 3+ 1.33  4+ 1.75  5+ 2.55  6+ 4.08  7+ 7.13
+Ivica Zubac              modelo  2.0 | 1+ 1.18  2+ 1.70  3+ 2.94  4+ 5.90  5+ 13.37
+Aaron Nesmith            modelo  2.0 | 1+ 1.18  2+ 1.70  3+ 2.95  4+ 5.93  5+ 13.46
+Obi Toppin               modelo  1.8 | 1+ 1.23  2+ 1.90  3+ 3.55  4+ 7.72  5+ 18.91
+Daniel Gafford           modelo  1.5 | 1+ 1.31  2+ 2.21  3+ 4.55  4+ 10.90  5+ 29.27
+Kelly Oubre Jr.          modelo  1.4 | 1+ 1.38  2+ 2.49  3+ 5.50  4+ 14.11  5+ 40.42
+P.J. Washington          modelo  1.4 | 1+ 1.38  2+ 2.49  3+ 5.52  4+ 14.20  5+ 40.74
 ```
