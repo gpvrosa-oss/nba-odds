@@ -199,3 +199,27 @@ recolhido_em,momento,jogo_id,inicio_jogo,casa,fora,casa_apostas,atualizado_em,me
 2026-11-09T21:46:14Z,cedo,9866fa22adc8509d487522ef4cf0fc24,2026-11-10T01:10:00Z,Dallas Mavericks,Indiana Pacers,pinnacle,2026-11-09T21:46:06Z,player_points,P.J. Washington,Under,14.5,1.75
 2026-11-09T21:46:14Z,cedo,9866fa22adc8509d487522ef4cf0fc24,2026-11-10T01:10:00Z,Dallas Mavericks,Indiana Pacers,pinnacle,2026-11-09T21:46:06Z,player_points,Pascal Siakam,Over,19.5,1.56
 2026-11-09T21:46:14Z,cedo,9866fa22adc8509d487522ef4cf0fc24,2026-11-10T01:10:00Z,Dallas Mavericks,Indiana Pacers,pinnacle,2026-11-09T21:46:06Z,player_points,Pascal Siakam,Under,19.5,2.34
+2026-11-09T22:19:35Z,cedo,dc61de43b5db9de357f48f44c8022494,2026-11-10T01:40:00Z,Houston Rockets,Denver Nuggets,pinnacle,2026-11-09T22:18:49Z,player_points,Alperen Sengun,Over,20.5,1.94
+2026-11-09T22:19:35Z,cedo,dc61de43b5db9de357f48f44c8022494,2026-11-10T01:40:00Z,Houston Rockets,Denver Nuggets,pinnacle,2026-11-09T22:18:49Z,player_points,Alperen Sengun,Under,20.5,1.8
+2026-11-09T22:19:35Z,cedo,dc61de43b5db9de357f48f44c8022494,2026-11-10T01:40:00Z,Houston Rockets,Denver Nuggets,pinnacle,2026-11-09T22:18:49Z,player_points,Amen Thompson,Over,16.5,2.12
+2026-11-09T22:19:35Z,cedo,dc61de43b5db9de357f48f44c8022494,2026-11-10T01:40:00Z,Houston Rockets,Denver Nuggets,pinnacle,2026-11-09T22:18:49Z,player_points,Amen Thompson,Under,16.5,1.68
+2026-11-09T22:19:35Z,cedo,dc61de43b5db9de357f48f44c8022494,2026-11-10T01:40:00Z,Houston Rockets,Denver Nuggets,pinnacle,2026-11-09T22:18:49Z,player_points,Fred VanVleet,Over,11.5,1.81
+2026-11-09T22:19:35Z,cedo,dc61de43b5db9de357f48f44c8022494,2026-11-10T01:40:00Z,Houston Rockets,Denver Nuggets,pinnacle,2026-11-09T22:18:49Z,player_points,Fred VanVleet,Under,11.5,1.94
+2026-11-09T22:19:35Z,cedo,dc61de43b5db9de357f48f44c8022494,2026-11-10T01:40:00Z,Houston Rockets,Denver Nuggets,pinnacle,2026-11-09T22:18:49Z,player_points,Jabari Smith Jr,Over,15.5,2.0
+2026-11-09T22:19:35Z,cedo,dc61de43b5db9de357f48f44c8022494,2026-11-10T01:40:00Z,Houston Rockets,Denver Nuggets,pinnacle,2026-11-09T22:18:49Z,player_points,Jabari Smith Jr,Under,15.5,1.76
+2026-11-09T22:19:35Z,cedo,dc61de43b5db9de357f48f44c8022494,2026-11-10T01:40:00Z,Houston Rockets,Denver Nuggets,pinnacle,2026-11-09T22:18:49Z,player_points,Jamal Murray,Over,21.5,1.83
+2026-11-09T22:19:35Z,cedo,dc61de43b5db9de357f48f44c8022494,2026-11-10T01:40:00Z,Houston Rockets,Denver Nuggets,pinnacle,2026-11-09T22:18:49Z,player_points,Jamal Murray,Under,21.5,1.92
+2026-11-09T22:19:35Z,cedo,dc61de43b5db9de357f48f44c8022494,2026-11-10T01:40:00Z,Houston Rockets,Denver Nuggets,pinnacle,2026-11-09T22:18:49Z,player_points,Kevin Durant,Over,20.5,1.88
+2026-11-09T22:19:35Z,cedo,dc61de43b5db9de357f48f44c8022494,2026-11-10T01:40:00Z,Houston Rockets,Denver Nuggets,pinnacle,2026-11-09T22:18:49Z,player_points,Kevin Durant,Under,20.5,1.86
+2026-11-09T22:19:35Z,cedo,dc61de43b5db9de357f48f44c8022494,2026-11-10T01:40:00Z,Houston Rockets,Denver Nuggets,pinnacle,2026-11-09T22:18:49Z,player_points,Marcus Smart,Over,6.5,1.77
+2026-11-09T22:19:35Z,cedo,dc61de43b5db9de357f48f44c8022494,2026-11-10T01:40:00Z,Houston Rockets,Denver Nuggets,pinnacle,2026-11-09T22:18:49Z,player_points,Marcus Smart,Under,6.5,1.98
+2026-11-09T22:19:35Z,cedo,dc61de43b5db9de357f48f44c8022494,2026-11-10T01:40:00Z,Houston Rockets,Denver Nuggets,pinnacle,2026-11-09T22:18:49Z,player_points,Nikola Jokic,Over,24.5,1.83
+2026-11-09T22:19:35Z,cedo,dc61de43b5db9de357f48f44c8022494,2026-11-10T01:40:00Z,Houston Rockets,Denver Nuggets,pinnacle,2026-11-09T22:18:49Z,player_points,Nikola Jokic,Under,24.5,1.92
+2026-11-09T22:19:35Z,cedo,dc61de43b5db9de357f48f44c8022494,2026-11-10T01:40:00Z,Houston Rockets,Denver Nuggets,pinnacle,2026-11-09T22:18:49Z,player_points,Tari Eason,Over,9.5,1.95
+2026-11-09T22:19:35Z,cedo,dc61de43b5db9de357f48f44c8022494,2026-11-10T01:40:00Z,Houston Rockets,Denver Nuggets,pinnacle,2026-11-09T22:18:49Z,player_points,Tari Eason,Under,9.5,1.79
+2026-11-09T22:19:35Z,cedo,dc61de43b5db9de357f48f44c8022494,2026-11-10T01:40:00Z,Houston Rockets,Denver Nuggets,pinnacle,2026-11-09T22:18:49Z,player_points,Aaron Gordon,Over,12.5,2.0
+2026-11-09T22:19:35Z,cedo,dc61de43b5db9de357f48f44c8022494,2026-11-10T01:40:00Z,Houston Rockets,Denver Nuggets,pinnacle,2026-11-09T22:18:49Z,player_points,Aaron Gordon,Under,12.5,1.76
+2026-11-09T22:19:35Z,cedo,dc61de43b5db9de357f48f44c8022494,2026-11-10T01:40:00Z,Houston Rockets,Denver Nuggets,pinnacle,2026-11-09T22:18:49Z,player_points,Cameron Johnson,Over,10.5,1.77
+2026-11-09T22:19:35Z,cedo,dc61de43b5db9de357f48f44c8022494,2026-11-10T01:40:00Z,Houston Rockets,Denver Nuggets,pinnacle,2026-11-09T22:18:49Z,player_points,Cameron Johnson,Under,10.5,1.98
+2026-11-09T22:19:35Z,cedo,dc61de43b5db9de357f48f44c8022494,2026-11-10T01:40:00Z,Houston Rockets,Denver Nuggets,pinnacle,2026-11-09T22:18:49Z,player_points,Christian Braun,Over,10.5,1.91
+2026-11-09T22:19:35Z,cedo,dc61de43b5db9de357f48f44c8022494,2026-11-10T01:40:00Z,Houston Rockets,Denver Nuggets,pinnacle,2026-11-09T22:18:49Z,player_points,Christian Braun,Under,10.5,1.83

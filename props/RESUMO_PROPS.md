@@ -1,8 +1,8 @@
 # Apostas virtuais em props (sem dinheiro real)
 
-Atualizado: 2026-11-09 22:09 UTC. Casa de referencia: Pinnacle (linha ~3h antes do jogo).
+Atualizado: 2026-11-09 22:20 UTC. Casa de referencia: Pinnacle (linha ~3h antes do jogo).
 
-- Apostas decididas: **88** (ganhas 43%), anuladas: 1, por decidir: 8
+- Apostas decididas: **88** (ganhas 43%), anuladas: 1, por decidir: 9
 - Apostado: 87.0 unidades. Lucro: **-16.8 unidades** (ROI -19.3%)
 - CLV medio (bater a linha de fecho; o melhor sinal de qualidade): **+1.2%** em 82 apostas
 
@@ -12,7 +12,6 @@ Regra de bolso: so pensar em dinheiro real com 200+ apostas e CLV medio acima de
 
 ```
          inicio_jogo          jogador  lado  linha  odd  previsto  stake resultado  real  lucro    clv
-2026-11-09T02:10:00Z Precious Achiuwa  Over    8.5 2.16     10.38   1.00    perdeu   7.0  -1.00 0.5041
 2026-11-09T02:10:00Z       Saddiq Bey  Over   12.5 1.70     16.32   1.00    ganhou  13.0   0.70 0.0117
 2026-11-09T00:10:00Z       Ace Bailey Under   15.5 1.93     13.87   1.00    ganhou   7.0   0.93 0.0001
 2026-11-09T00:10:00Z     Jaxson Hayes Under    8.5 1.95      7.97   1.00    perdeu  18.0  -1.00 0.0000
@@ -27,4 +26,5 @@ Regra de bolso: so pensar em dinheiro real com 200+ apostas e CLV medio acima de
 2026-11-10T00:10:00Z  Duncan Robinson  Over   15.5 2.01     17.13   1.00       NaN   NaN    NaN    NaN
 2026-11-10T00:10:00Z     John Collins Under   11.5 1.79     10.12   1.00       NaN   NaN    NaN    NaN
 2026-11-10T00:10:00Z       Trae Young Under   18.5 1.85     16.58   1.00       NaN   NaN    NaN    NaN
+2026-11-10T01:40:00Z     Marcus Smart  Over    6.5 1.77      8.38   1.00       NaN   NaN    NaN    NaN
 ```
