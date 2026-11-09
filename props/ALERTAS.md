@@ -1,5 +1,16 @@
 # Alertas de ultima hora
 
+## 09/11 23:09 UTC: Memphis Grizzlies @ Toronto Raptors
+
+- **Immanuel Quickley** (TOR, 31.8 min de media): Out (antes: 30% de faltar, agora 100%)
+- **Collin Murray-Boyles** (TOR, 22.2 min de media): Out (antes: 30% de faltar, agora 100%)
+
+Colegas (pontos previstos antes -> agora | linha Pinnacle agora | veredito):
+```
+```
+
+Na Betano/Betclic: confirma se a linha desses jogadores ainda nao subiu.
+
 ## 09/11 22:58 UTC: Memphis Grizzlies @ Toronto Raptors
 
 - **Scottie Barnes** (TOR, 33.4 min de media): Out (antes: 30% de faltar, agora 100%)
