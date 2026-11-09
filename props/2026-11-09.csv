@@ -393,3 +393,27 @@ recolhido_em,momento,jogo_id,inicio_jogo,casa,fora,casa_apostas,atualizado_em,me
 2026-11-09T23:42:13Z,cedo,3619e1cf4b0a325c3e0ba5b1fb7f3d91,2026-11-10T03:10:00Z,Golden State Warriors,New Orleans Pelicans,pinnacle,2026-11-09T23:40:58Z,player_points,Stephen Curry,Under,28.5,1.7
 2026-11-09T23:42:13Z,cedo,3619e1cf4b0a325c3e0ba5b1fb7f3d91,2026-11-10T03:10:00Z,Golden State Warriors,New Orleans Pelicans,pinnacle,2026-11-09T23:40:58Z,player_points,Yaxel Lendeborg,Over,20.5,2.0
 2026-11-09T23:42:13Z,cedo,3619e1cf4b0a325c3e0ba5b1fb7f3d91,2026-11-10T03:10:00Z,Golden State Warriors,New Orleans Pelicans,pinnacle,2026-11-09T23:40:58Z,player_points,Yaxel Lendeborg,Under,20.5,1.76
+2026-11-09T23:55:52Z,fecho,56efae2815b3a18850f07a3781d652a2,2026-11-10T00:40:00Z,Toronto Raptors,Memphis Grizzlies,pinnacle,2026-11-09T23:55:17Z,player_points,Cameron Boozer,Over,17.5,2.03
+2026-11-09T23:55:52Z,fecho,56efae2815b3a18850f07a3781d652a2,2026-11-10T00:40:00Z,Toronto Raptors,Memphis Grizzlies,pinnacle,2026-11-09T23:55:17Z,player_points,Cameron Boozer,Under,17.5,1.73
+2026-11-09T23:55:52Z,fecho,56efae2815b3a18850f07a3781d652a2,2026-11-10T00:40:00Z,Toronto Raptors,Memphis Grizzlies,pinnacle,2026-11-09T23:55:17Z,player_points,Cedric Coward,Over,13.5,1.99
+2026-11-09T23:55:52Z,fecho,56efae2815b3a18850f07a3781d652a2,2026-11-10T00:40:00Z,Toronto Raptors,Memphis Grizzlies,pinnacle,2026-11-09T23:55:17Z,player_points,Cedric Coward,Under,13.5,1.76
+2026-11-09T23:55:52Z,fecho,56efae2815b3a18850f07a3781d652a2,2026-11-10T00:40:00Z,Toronto Raptors,Memphis Grizzlies,pinnacle,2026-11-09T23:55:17Z,player_points,Jaylen Wells,Over,10.5,2.03
+2026-11-09T23:55:52Z,fecho,56efae2815b3a18850f07a3781d652a2,2026-11-10T00:40:00Z,Toronto Raptors,Memphis Grizzlies,pinnacle,2026-11-09T23:55:17Z,player_points,Jaylen Wells,Under,10.5,1.74
+2026-11-09T23:55:52Z,fecho,56efae2815b3a18850f07a3781d652a2,2026-11-10T00:40:00Z,Toronto Raptors,Memphis Grizzlies,pinnacle,2026-11-09T23:55:17Z,player_points,R.J. Barrett,Over,25.5,1.87
+2026-11-09T23:55:52Z,fecho,56efae2815b3a18850f07a3781d652a2,2026-11-10T00:40:00Z,Toronto Raptors,Memphis Grizzlies,pinnacle,2026-11-09T23:55:17Z,player_points,R.J. Barrett,Under,25.5,1.87
+2026-11-09T23:55:52Z,fecho,56efae2815b3a18850f07a3781d652a2,2026-11-10T00:40:00Z,Toronto Raptors,Memphis Grizzlies,pinnacle,2026-11-09T23:55:17Z,player_points,Ty Jerome,Over,21.5,1.86
+2026-11-09T23:55:52Z,fecho,56efae2815b3a18850f07a3781d652a2,2026-11-10T00:40:00Z,Toronto Raptors,Memphis Grizzlies,pinnacle,2026-11-09T23:55:17Z,player_points,Ty Jerome,Under,21.5,1.88
+2026-11-09T23:55:52Z,fecho,56efae2815b3a18850f07a3781d652a2,2026-11-10T00:40:00Z,Toronto Raptors,Memphis Grizzlies,pinnacle,2026-11-09T23:55:17Z,player_points,Zach Edey,Over,8.5,1.62
+2026-11-09T23:55:52Z,fecho,56efae2815b3a18850f07a3781d652a2,2026-11-10T00:40:00Z,Toronto Raptors,Memphis Grizzlies,pinnacle,2026-11-09T23:55:17Z,player_points,Zach Edey,Under,8.5,2.2
+2026-11-09T23:55:52Z,fecho,56efae2815b3a18850f07a3781d652a2,2026-11-10T00:40:00Z,Toronto Raptors,Memphis Grizzlies,pinnacle,2026-11-09T23:55:17Z,player_points,Cam Spencer,Over,8.5,2.0
+2026-11-09T23:55:52Z,fecho,56efae2815b3a18850f07a3781d652a2,2026-11-10T00:40:00Z,Toronto Raptors,Memphis Grizzlies,pinnacle,2026-11-09T23:55:17Z,player_points,Cam Spencer,Under,8.5,1.76
+2026-11-09T23:55:52Z,fecho,56efae2815b3a18850f07a3781d652a2,2026-11-10T00:40:00Z,Toronto Raptors,Memphis Grizzlies,pinnacle,2026-11-09T23:55:17Z,player_points,Ja'Kobe Walter,Over,15.5,2.14
+2026-11-09T23:55:52Z,fecho,56efae2815b3a18850f07a3781d652a2,2026-11-10T00:40:00Z,Toronto Raptors,Memphis Grizzlies,pinnacle,2026-11-09T23:55:17Z,player_points,Ja'Kobe Walter,Under,15.5,1.66
+2026-11-09T23:55:52Z,fecho,56efae2815b3a18850f07a3781d652a2,2026-11-10T00:40:00Z,Toronto Raptors,Memphis Grizzlies,pinnacle,2026-11-09T23:55:17Z,player_points,Jerami Grant,Over,10.5,1.88
+2026-11-09T23:55:52Z,fecho,56efae2815b3a18850f07a3781d652a2,2026-11-10T00:40:00Z,Toronto Raptors,Memphis Grizzlies,pinnacle,2026-11-09T23:55:17Z,player_points,Jerami Grant,Under,10.5,1.85
+2026-11-09T23:55:52Z,fecho,56efae2815b3a18850f07a3781d652a2,2026-11-10T00:40:00Z,Toronto Raptors,Memphis Grizzlies,pinnacle,2026-11-09T23:55:17Z,player_points,Jakob Poeltl,Over,12.5,2.02
+2026-11-09T23:55:52Z,fecho,56efae2815b3a18850f07a3781d652a2,2026-11-10T00:40:00Z,Toronto Raptors,Memphis Grizzlies,pinnacle,2026-11-09T23:55:17Z,player_points,Jakob Poeltl,Under,12.5,1.74
+2026-11-09T23:55:52Z,fecho,56efae2815b3a18850f07a3781d652a2,2026-11-10T00:40:00Z,Toronto Raptors,Memphis Grizzlies,pinnacle,2026-11-09T23:55:17Z,player_points,Jamison Battle,Over,10.5,1.95
+2026-11-09T23:55:52Z,fecho,56efae2815b3a18850f07a3781d652a2,2026-11-10T00:40:00Z,Toronto Raptors,Memphis Grizzlies,pinnacle,2026-11-09T23:55:17Z,player_points,Jamison Battle,Under,10.5,1.79
+2026-11-09T23:55:52Z,fecho,56efae2815b3a18850f07a3781d652a2,2026-11-10T00:40:00Z,Toronto Raptors,Memphis Grizzlies,pinnacle,2026-11-09T23:55:17Z,player_points,Jamal Shead,Over,11.5,1.91
+2026-11-09T23:55:52Z,fecho,56efae2815b3a18850f07a3781d652a2,2026-11-10T00:40:00Z,Toronto Raptors,Memphis Grizzlies,pinnacle,2026-11-09T23:55:17Z,player_points,Jamal Shead,Under,11.5,1.83
