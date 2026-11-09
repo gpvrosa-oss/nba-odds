@@ -369,3 +369,27 @@ recolhido_em,momento,jogo_id,inicio_jogo,casa,fora,casa_apostas,atualizado_em,me
 2026-11-09T23:32:04Z,fecho,929b863acedecaf614c6312e28a44837,2026-11-10T00:10:00Z,Detroit Pistons,Washington Wizards,pinnacle,2026-11-09T23:31:45Z,player_points,Paul Reed Jr,Under,11.5,1.97
 2026-11-09T23:32:04Z,fecho,929b863acedecaf614c6312e28a44837,2026-11-10T00:10:00Z,Detroit Pistons,Washington Wizards,pinnacle,2026-11-09T23:31:45Z,player_points,Trae Young,Over,18.5,2.18
 2026-11-09T23:32:04Z,fecho,929b863acedecaf614c6312e28a44837,2026-11-10T00:10:00Z,Detroit Pistons,Washington Wizards,pinnacle,2026-11-09T23:31:45Z,player_points,Trae Young,Under,18.5,1.63
+2026-11-09T23:42:13Z,cedo,3619e1cf4b0a325c3e0ba5b1fb7f3d91,2026-11-10T03:10:00Z,Golden State Warriors,New Orleans Pelicans,pinnacle,2026-11-09T23:40:58Z,player_points,Brandin Podziemski,Over,15.5,1.91
+2026-11-09T23:42:13Z,cedo,3619e1cf4b0a325c3e0ba5b1fb7f3d91,2026-11-10T03:10:00Z,Golden State Warriors,New Orleans Pelicans,pinnacle,2026-11-09T23:40:58Z,player_points,Brandin Podziemski,Under,15.5,1.83
+2026-11-09T23:42:13Z,cedo,3619e1cf4b0a325c3e0ba5b1fb7f3d91,2026-11-10T03:10:00Z,Golden State Warriors,New Orleans Pelicans,pinnacle,2026-11-09T23:40:58Z,player_points,De'Anthony Melton,Over,9.5,2.0
+2026-11-09T23:42:13Z,cedo,3619e1cf4b0a325c3e0ba5b1fb7f3d91,2026-11-10T03:10:00Z,Golden State Warriors,New Orleans Pelicans,pinnacle,2026-11-09T23:40:58Z,player_points,De'Anthony Melton,Under,9.5,1.75
+2026-11-09T23:42:13Z,cedo,3619e1cf4b0a325c3e0ba5b1fb7f3d91,2026-11-10T03:10:00Z,Golden State Warriors,New Orleans Pelicans,pinnacle,2026-11-09T23:40:58Z,player_points,Dejounte Murray,Over,18.5,1.86
+2026-11-09T23:42:13Z,cedo,3619e1cf4b0a325c3e0ba5b1fb7f3d91,2026-11-10T03:10:00Z,Golden State Warriors,New Orleans Pelicans,pinnacle,2026-11-09T23:40:58Z,player_points,Dejounte Murray,Under,18.5,1.88
+2026-11-09T23:42:13Z,cedo,3619e1cf4b0a325c3e0ba5b1fb7f3d91,2026-11-10T03:10:00Z,Golden State Warriors,New Orleans Pelicans,pinnacle,2026-11-09T23:40:58Z,player_points,Derik Queen,Over,12.5,1.99
+2026-11-09T23:42:13Z,cedo,3619e1cf4b0a325c3e0ba5b1fb7f3d91,2026-11-10T03:10:00Z,Golden State Warriors,New Orleans Pelicans,pinnacle,2026-11-09T23:40:58Z,player_points,Derik Queen,Under,12.5,1.76
+2026-11-09T23:42:13Z,cedo,3619e1cf4b0a325c3e0ba5b1fb7f3d91,2026-11-10T03:10:00Z,Golden State Warriors,New Orleans Pelicans,pinnacle,2026-11-09T23:40:58Z,player_points,Draymond Green,Over,5.5,1.88
+2026-11-09T23:42:13Z,cedo,3619e1cf4b0a325c3e0ba5b1fb7f3d91,2026-11-10T03:10:00Z,Golden State Warriors,New Orleans Pelicans,pinnacle,2026-11-09T23:40:58Z,player_points,Draymond Green,Under,5.5,1.85
+2026-11-09T23:42:13Z,cedo,3619e1cf4b0a325c3e0ba5b1fb7f3d91,2026-11-10T03:10:00Z,Golden State Warriors,New Orleans Pelicans,pinnacle,2026-11-09T23:40:58Z,player_points,Georges Niang,Over,8.5,2.23
+2026-11-09T23:42:13Z,cedo,3619e1cf4b0a325c3e0ba5b1fb7f3d91,2026-11-10T03:10:00Z,Golden State Warriors,New Orleans Pelicans,pinnacle,2026-11-09T23:40:58Z,player_points,Georges Niang,Under,8.5,1.61
+2026-11-09T23:42:13Z,cedo,3619e1cf4b0a325c3e0ba5b1fb7f3d91,2026-11-10T03:10:00Z,Golden State Warriors,New Orleans Pelicans,pinnacle,2026-11-09T23:40:58Z,player_points,Gui Santos,Over,8.5,2.0
+2026-11-09T23:42:13Z,cedo,3619e1cf4b0a325c3e0ba5b1fb7f3d91,2026-11-10T03:10:00Z,Golden State Warriors,New Orleans Pelicans,pinnacle,2026-11-09T23:40:58Z,player_points,Gui Santos,Under,8.5,1.76
+2026-11-09T23:42:13Z,cedo,3619e1cf4b0a325c3e0ba5b1fb7f3d91,2026-11-10T03:10:00Z,Golden State Warriors,New Orleans Pelicans,pinnacle,2026-11-09T23:40:58Z,player_points,Jeremiah Fears,Over,17.5,1.81
+2026-11-09T23:42:13Z,cedo,3619e1cf4b0a325c3e0ba5b1fb7f3d91,2026-11-10T03:10:00Z,Golden State Warriors,New Orleans Pelicans,pinnacle,2026-11-09T23:40:58Z,player_points,Jeremiah Fears,Under,17.5,1.93
+2026-11-09T23:42:13Z,cedo,3619e1cf4b0a325c3e0ba5b1fb7f3d91,2026-11-10T03:10:00Z,Golden State Warriors,New Orleans Pelicans,pinnacle,2026-11-09T23:40:58Z,player_points,Karlo Matkovic,Over,8.5,1.96
+2026-11-09T23:42:13Z,cedo,3619e1cf4b0a325c3e0ba5b1fb7f3d91,2026-11-10T03:10:00Z,Golden State Warriors,New Orleans Pelicans,pinnacle,2026-11-09T23:40:58Z,player_points,Karlo Matkovic,Under,8.5,1.78
+2026-11-09T23:42:13Z,cedo,3619e1cf4b0a325c3e0ba5b1fb7f3d91,2026-11-10T03:10:00Z,Golden State Warriors,New Orleans Pelicans,pinnacle,2026-11-09T23:40:58Z,player_points,Saddiq Bey,Over,18.5,1.86
+2026-11-09T23:42:13Z,cedo,3619e1cf4b0a325c3e0ba5b1fb7f3d91,2026-11-10T03:10:00Z,Golden State Warriors,New Orleans Pelicans,pinnacle,2026-11-09T23:40:58Z,player_points,Saddiq Bey,Under,18.5,1.88
+2026-11-09T23:42:13Z,cedo,3619e1cf4b0a325c3e0ba5b1fb7f3d91,2026-11-10T03:10:00Z,Golden State Warriors,New Orleans Pelicans,pinnacle,2026-11-09T23:40:58Z,player_points,Stephen Curry,Over,28.5,2.08
+2026-11-09T23:42:13Z,cedo,3619e1cf4b0a325c3e0ba5b1fb7f3d91,2026-11-10T03:10:00Z,Golden State Warriors,New Orleans Pelicans,pinnacle,2026-11-09T23:40:58Z,player_points,Stephen Curry,Under,28.5,1.7
+2026-11-09T23:42:13Z,cedo,3619e1cf4b0a325c3e0ba5b1fb7f3d91,2026-11-10T03:10:00Z,Golden State Warriors,New Orleans Pelicans,pinnacle,2026-11-09T23:40:58Z,player_points,Yaxel Lendeborg,Over,20.5,2.0
+2026-11-09T23:42:13Z,cedo,3619e1cf4b0a325c3e0ba5b1fb7f3d91,2026-11-10T03:10:00Z,Golden State Warriors,New Orleans Pelicans,pinnacle,2026-11-09T23:40:58Z,player_points,Yaxel Lendeborg,Under,20.5,1.76
