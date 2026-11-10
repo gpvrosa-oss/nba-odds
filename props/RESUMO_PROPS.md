@@ -1,10 +1,10 @@
 # Apostas virtuais em props (sem dinheiro real)
 
-Atualizado: 2026-11-10 05:13 UTC. Casa de referencia: Pinnacle (linha ~3h antes do jogo).
+Atualizado: 2026-11-10 05:23 UTC. Casa de referencia: Pinnacle (linha ~3h antes do jogo).
 
-- Apostas decididas: **103** (ganhas 45%), anuladas: 1, por decidir: 3
-- Apostado: 101.7 unidades. Lucro: **-17.2 unidades** (ROI -16.9%)
-- CLV medio (bater a linha de fecho; o melhor sinal de qualidade): **+1.4%** em 97 apostas
+- Apostas decididas: **106** (ganhas 45%), anuladas: 1, por decidir: 0
+- Apostado: 104.7 unidades. Lucro: **-16.1 unidades** (ROI -15.4%)
+- CLV medio (bater a linha de fecho; o melhor sinal de qualidade): **+1.5%** em 100 apostas
 
 Regra de bolso: so pensar em dinheiro real com 200+ apostas e CLV medio acima de +2%.
 
@@ -24,7 +24,7 @@ Regra de bolso: so pensar em dinheiro real com 200+ apostas e CLV medio acima de
 2026-11-10T02:10:00Z      De'Aaron Fox Under   14.5 1.86     13.26   1.00    perdeu  15.0  -1.00 -0.0001
 2026-11-10T02:10:00Z       Jalen Green Under   14.5 1.94     13.68   0.90    ganhou   6.0   0.85 -0.0000
 2026-11-10T02:10:00Z Julian Champagnie Under   11.5 1.82      9.60   1.00    ganhou  11.0   0.82 -0.0001
-2026-11-10T03:10:00Z   Dejounte Murray Under   18.5 1.88     16.70   1.00       NaN   NaN    NaN     NaN
-2026-11-10T03:10:00Z     Georges Niang  Over    8.5 2.23      9.52   1.00       NaN   NaN    NaN     NaN
-2026-11-10T03:10:00Z    Karlo Matkovic  Over    8.5 1.96      9.89   1.00       NaN   NaN    NaN     NaN
+2026-11-10T03:10:00Z   Dejounte Murray Under   18.5 1.88     16.70   1.00    ganhou  12.0   0.88  0.1678
+2026-11-10T03:10:00Z     Georges Niang  Over    8.5 2.23      9.52   1.00    ganhou   9.0   1.23  0.0088
+2026-11-10T03:10:00Z    Karlo Matkovic  Over    8.5 1.96      9.89   1.00    perdeu   4.0  -1.00  0.0001
 ```
