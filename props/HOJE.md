@@ -1,6 +1,6 @@
 # Odds justas de hoje (pontos dos jogadores)
 
-Atualizado: 2026-11-10 22:37 UTC. Odd justa = Pinnacle sem margem. Modelo = a nossa previsao.
+Atualizado: 2026-11-10 22:48 UTC. Odd justa = Pinnacle sem margem. Modelo = a nossa previsao.
 Como usar: na Betano/Betclic, se a odd de "X+ pontos" for MAIOR do que a odd justa, essa aposta tem valor.
 
 ## Milwaukee Bucks @ New York Knicks (11/11 00:40 UTC)
@@ -57,6 +57,8 @@ Andre Drummond           modelo  1.0 | 1+ 1.63  2+ 3.62  3+ 9.81  4+ 30.47  5+ 1
 ## Boston Celtics @ Philadelphia 76ers (11/11 01:10 UTC)
 
 ```
+Tyrese Maxey             linha  23.5 | modelo  22.1 | sem valor
+    justa: 21+ 1.62  22+ 1.76  23+ 1.93  24+ 2.13  25+ 2.37  26+ 2.65  27+ 2.99
 Sam Hauser               linha   6.5 | modelo   7.2 | APOSTA
     justa: 4+ 1.42  5+ 1.68  6+ 2.04  7+ 2.52  8+ 3.17  9+ 4.05  10+ 5.23
 Payton Pritchard         linha  12.5 | modelo  11.3 | APOSTA
@@ -67,22 +69,20 @@ Neemias Queta            linha   9.5 | modelo   8.5 | sem valor
     justa: 7+ 1.41  8+ 1.59  9+ 1.82  10+ 2.12  11+ 2.50  12+ 3.00  13+ 3.63
 Mitchell Robinson        linha   5.5 | modelo   5.7 | sem valor
     justa: 3+ 1.27  4+ 1.48  5+ 1.77  6+ 2.17  7+ 2.71  8+ 3.44  9+ 4.43
-Derrick White            linha  12.5 | modelo  11.4 | APOSTA
-    justa: 10+ 1.36  11+ 1.49  12+ 1.65  13+ 1.85  14+ 2.10  15+ 2.42  16+ 2.81
+VJ Edgecombe             linha  12.5 | modelo  12.1 | sem valor
+    justa: 10+ 1.53  11+ 1.72  12+ 1.96  13+ 2.26  14+ 2.63  15+ 3.10  16+ 3.69
 Joel Embiid              linha  19.5 | modelo  17.3 | APOSTA
     justa: 17+ 1.57  18+ 1.72  19+ 1.89  20+ 2.11  21+ 2.36  22+ 2.67  23+ 3.05
 Jayson Tatum             linha  26.5 | modelo  22.7 | APOSTA
     justa: 24+ 1.72  25+ 1.87  26+ 2.05  27+ 2.26  28+ 2.50  29+ 2.80  30+ 3.15
 Jaylen Brown             linha  22.5 | modelo  20.2 | sem valor
     justa: 20+ 1.70  21+ 1.87  22+ 2.07  23+ 2.30  24+ 2.58  25+ 2.92  26+ 3.33
-Tyrese Maxey             linha  23.5 | modelo  22.1 | sem valor
-    justa: 21+ 1.62  22+ 1.76  23+ 1.93  24+ 2.13  25+ 2.37  26+ 2.65  27+ 2.99
+Derrick White            linha  12.5 | modelo  11.4 | APOSTA
+    justa: 10+ 1.36  11+ 1.49  12+ 1.65  13+ 1.85  14+ 2.10  15+ 2.42  16+ 2.81
 Anfernee Simons          linha   6.5 | modelo   7.2 | sem valor
     justa: 4+ 1.32  5+ 1.52  6+ 1.79  7+ 2.16  8+ 2.65  9+ 3.31  10+ 4.18
 LeBron James             linha  15.5 | modelo  14.3 | sem valor
     justa: 13+ 1.51  14+ 1.66  15+ 1.86  16+ 2.09  17+ 2.38  18+ 2.73  19+ 3.16
-VJ Edgecombe             linha  12.5 | modelo  12.1 | sem valor
-    justa: 10+ 1.53  11+ 1.72  12+ 1.96  13+ 2.26  14+ 2.63  15+ 3.10  16+ 3.69
 ```
 
 Ressaltos (so modelo, sem Pinnacle):
@@ -117,4 +117,114 @@ Neemias Queta            modelo  1.5 | 1+ 1.33  2+ 2.29  3+ 4.84  4+ 11.84  5+ 3
 Anfernee Simons          modelo  1.2 | 1+ 1.49  2+ 2.99  3+ 7.35  4+ 20.83  5+ 65.40
 Sam Hauser               modelo  1.1 | 1+ 1.53  2+ 3.16  3+ 7.99  4+ 23.27  5+ 74.91
 Mitchell Robinson        modelo  0.7 | 1+ 2.08  2+ 5.98  3+ 20.50  4+ 78.22  5+ 320.84
+```
+
+## Miami Heat @ Utah Jazz (11/11 02:10 UTC)
+
+```
+Jaxson Hayes             linha  10.5 | modelo  11.0 | sem valor
+    justa: 8+ 1.51  9+ 1.72  10+ 1.98  11+ 2.32  12+ 2.74  13+ 3.29  14+ 4.00
+Isaiah Collier           linha  10.5 | modelo   7.8 | discorda demais do mercado
+    justa: 8+ 1.31  9+ 1.44  10+ 1.61  11+ 1.82  12+ 2.09  13+ 2.43  14+ 2.85
+Giannis Antetokounmpo    linha  30.5 | modelo  28.4 | duvida se joga
+    justa: 28+ 1.80  29+ 1.95  30+ 2.13  31+ 2.34  32+ 2.59  33+ 2.88  34+ 3.22
+Davion Mitchell          linha  13.5 | modelo  16.0 | APOSTA
+    justa: 11+ 1.56  12+ 1.74  13+ 1.97  14+ 2.26  15+ 2.62  16+ 3.07  17+ 3.63
+Darryn Peterson          linha  19.5 | modelo  17.2 | APOSTA
+    justa: 17+ 1.46  18+ 1.58  19+ 1.73  20+ 1.90  21+ 2.11  22+ 2.37  23+ 2.67
+Bobby Portis             linha   7.5 | modelo   7.5 | sem valor
+    justa: 5+ 1.31  6+ 1.48  7+ 1.72  8+ 2.02  9+ 2.42  10+ 2.94  11+ 3.63
+Bam Adebayo              linha  18.5 | modelo  20.4 | APOSTA
+    justa: 16+ 1.66  17+ 1.84  18+ 2.05  19+ 2.31  20+ 2.62  21+ 3.01  22+ 3.47
+Andrew Wiggins           linha   9.5 | modelo  10.0 | sem valor
+    justa: 7+ 1.38  8+ 1.55  9+ 1.77  10+ 2.06  11+ 2.42  12+ 2.88  13+ 3.48
+Ace Bailey               linha  16.5 | modelo  15.4 | APOSTA
+    justa: 14+ 1.40  15+ 1.52  16+ 1.66  17+ 1.84  18+ 2.05  19+ 2.31  20+ 2.63
+Klay Thompson            linha  13.5 | modelo  16.1 | APOSTA
+    justa: 11+ 1.39  12+ 1.52  13+ 1.69  14+ 1.89  15+ 2.15  16+ 2.46  17+ 2.85
+Pelle Larsson            linha  11.5 | modelo  11.9 | sem valor
+    justa: 9+ 1.35  10+ 1.48  11+ 1.66  12+ 1.87  13+ 2.14  14+ 2.48  15+ 2.90
+```
+
+Ressaltos (so modelo, sem Pinnacle):
+```
+Bam Adebayo              modelo  9.4 | 8+ 1.48  9+ 1.77  10+ 2.19  11+ 2.82  12+ 3.76
+Jaxson Hayes             modelo  6.6 | 5+ 1.35  6+ 1.63  7+ 2.08  8+ 2.78  9+ 3.90
+Ace Bailey               modelo  6.4 | 5+ 1.40  6+ 1.73  7+ 2.24  8+ 3.07  9+ 4.40
+Bobby Portis             modelo  5.7 | 4+ 1.30  5+ 1.59  6+ 2.05  7+ 2.82  8+ 4.07
+Darryn Peterson          modelo  4.5 | 3+ 1.29  4+ 1.62  5+ 2.20  6+ 3.18  7+ 4.89
+Andrew Wiggins           modelo  3.6 | 2+ 1.21  3+ 1.52  4+ 2.11  5+ 3.17  6+ 5.10
+Pelle Larsson            modelo  3.5 | 2+ 1.23  3+ 1.59  4+ 2.26  5+ 3.47  6+ 5.72
+Isaiah Collier           modelo  2.8 | 1+ 1.11  2+ 1.41  3+ 2.02  4+ 3.20  5+ 5.49
+Davion Mitchell          modelo  2.6 | 1+ 1.13  2+ 1.49  3+ 2.21  4+ 3.64  5+ 6.49
+Klay Thompson            modelo  2.1 | 1+ 1.22  2+ 1.77  3+ 2.93  4+ 5.37  5+ 10.60
+```
+
+Assistencias (so modelo, sem Pinnacle):
+```
+Davion Mitchell          modelo  7.9 | 6+ 1.28  7+ 1.50  8+ 1.87  9+ 2.45  10+ 3.40
+Darryn Peterson          modelo  4.6 | 3+ 1.22  4+ 1.52  5+ 2.06  6+ 3.05  7+ 4.91
+Isaiah Collier           modelo  4.1 | 3+ 1.31  4+ 1.71  5+ 2.46  6+ 3.88  7+ 6.69
+Pelle Larsson            modelo  3.5 | 2+ 1.18  3+ 1.50  4+ 2.14  5+ 3.42  6+ 6.01
+Bam Adebayo              modelo  3.5 | 2+ 1.19  3+ 1.52  4+ 2.17  5+ 3.48  6+ 6.17
+Ace Bailey               modelo  2.3 | 1+ 1.13  2+ 1.51  3+ 2.38  4+ 4.33  5+ 8.93
+Jaxson Hayes             modelo  2.2 | 1+ 1.14  2+ 1.56  3+ 2.52  4+ 4.73  5+ 10.01
+Klay Thompson            modelo  2.2 | 1+ 1.14  2+ 1.57  3+ 2.57  4+ 4.86  5+ 10.39
+Andrew Wiggins           modelo  1.9 | 1+ 1.21  2+ 1.80  3+ 3.26  4+ 6.84  5+ 16.17
+Bobby Portis             modelo  1.7 | 1+ 1.25  2+ 2.00  3+ 3.85  4+ 8.65  5+ 21.86
+```
+
+## Los Angeles Clippers @ Phoenix Suns (11/11 02:10 UTC)
+
+```
+Rui Hachimura            linha  15.5 | modelo  13.5 | discorda demais do mercado
+    justa: 13+ 1.38  14+ 1.50  15+ 1.65  16+ 1.83  17+ 2.05  18+ 2.32  19+ 2.64
+Keaton Wagler            linha   9.5 | modelo  10.3 | poucos jogos
+    justa: 7+ 1.38  8+ 1.55  9+ 1.77  10+ 2.06  11+ 2.42  12+ 2.88  13+ 3.48
+Kris Dunn                linha   7.5 | modelo   7.7 | sem valor
+    justa: 5+ 1.36  6+ 1.55  7+ 1.82  8+ 2.16  9+ 2.62  10+ 3.21  11+ 4.00
+Jalen Green              linha  15.5 | modelo  12.9 | APOSTA
+    justa: 13+ 1.56  14+ 1.73  15+ 1.94  16+ 2.19  17+ 2.51  18+ 2.89  19+ 3.37
+Dillon Brooks            linha  15.5 | modelo  15.4 | sem valor
+    justa: 13+ 1.42  14+ 1.56  15+ 1.72  16+ 1.91  17+ 2.15  18+ 2.45  19+ 2.81
+Devin Booker             linha  26.5 | modelo  24.9 | sem valor
+    justa: 24+ 1.59  25+ 1.72  26+ 1.87  27+ 2.04  28+ 2.25  29+ 2.49  30+ 2.78
+Derrick Jones            linha  11.5 | modelo   9.7 | APOSTA
+    justa: 9+ 1.48  10+ 1.67  11+ 1.90  12+ 2.19  13+ 2.56  14+ 3.03  15+ 3.62
+Darius Garland           linha  21.5 | modelo  19.5 | APOSTA
+    justa: 19+ 1.49  20+ 1.60  21+ 1.75  22+ 1.92  23+ 2.12  24+ 2.36  25+ 2.65
+Collin Gillespie         linha   9.5 | modelo   6.8 | APOSTA
+    justa: 7+ 1.59  8+ 1.84  9+ 2.17  10+ 2.59  11+ 3.15  12+ 3.86  13+ 4.80
+Brook Lopez              linha  12.5 | modelo  12.3 | sem valor
+    justa: 10+ 1.55  11+ 1.74  12+ 1.98  13+ 2.28  14+ 2.66  15+ 3.14  16+ 3.75
+Miles Bridges            linha  16.5 | modelo  13.9 | APOSTA
+    justa: 14+ 1.51  15+ 1.66  16+ 1.84  17+ 2.07  18+ 2.34  19+ 2.67  20+ 3.07
+```
+
+Ressaltos (so modelo, sem Pinnacle):
+```
+Miles Bridges            modelo  6.5 | 5+ 1.37  6+ 1.67  7+ 2.15  8+ 2.91  9+ 4.12
+Rui Hachimura            modelo  5.2 | 4+ 1.40  5+ 1.76  6+ 2.37  7+ 3.39  8+ 5.10
+Brook Lopez              modelo  5.1 | 4+ 1.44  5+ 1.85  6+ 2.54  7+ 3.68  8+ 5.65
+Derrick Jones Jr.        modelo  4.4 | 3+ 1.30  4+ 1.65  5+ 2.25  6+ 3.28  7+ 5.08
+Dillon Brooks            modelo  3.8 | 2+ 1.18  3+ 1.47  4+ 2.01  5+ 2.96  6+ 4.67
+Kris Dunn                modelo  3.7 | 2+ 1.19  3+ 1.49  4+ 2.05  5+ 3.04  6+ 4.84
+Jalen Green              modelo  3.3 | 2+ 1.28  3+ 1.70  4+ 2.48  5+ 3.93  6+ 6.68
+Devin Booker             modelo  3.0 | 2+ 1.34  3+ 1.84  4+ 2.81  5+ 4.63  6+ 8.18
+Collin Gillespie         modelo  2.6 | 1+ 1.14  2+ 1.49  3+ 2.23  4+ 3.68  5+ 6.59
+Darius Garland           modelo  2.0 | 1+ 1.23  2+ 1.80  3+ 3.03  4+ 5.62  5+ 11.21
+```
+
+Assistencias (so modelo, sem Pinnacle):
+```
+Darius Garland           modelo  6.4 | 5+ 1.32  6+ 1.62  7+ 2.11  8+ 2.95  9+ 4.38
+Devin Booker             modelo  4.8 | 3+ 1.19  4+ 1.45  5+ 1.92  6+ 2.77  7+ 4.33
+Kris Dunn                modelo  3.6 | 2+ 1.17  3+ 1.47  4+ 2.07  5+ 3.24  6+ 5.61
+Collin Gillespie         modelo  3.3 | 2+ 1.22  3+ 1.59  4+ 2.36  5+ 3.91  6+ 7.15
+Jalen Green              modelo  3.3 | 2+ 1.22  3+ 1.60  4+ 2.37  5+ 3.94  6+ 7.24
+Miles Bridges            modelo  2.9 | 1+ 1.07  2+ 1.30  3+ 1.82  4+ 2.90  5+ 5.20
+Dillon Brooks            modelo  2.0 | 1+ 1.19  2+ 1.73  3+ 3.04  4+ 6.20  5+ 14.24
+Rui Hachimura            modelo  1.7 | 1+ 1.27  2+ 2.05  3+ 4.04  4+ 9.23  5+ 23.73
+Derrick Jones Jr.        modelo  1.5 | 1+ 1.34  2+ 2.32  3+ 4.94  4+ 12.19  5+ 33.69
+Brook Lopez              modelo  1.2 | 1+ 1.46  2+ 2.84  3+ 6.77  4+ 18.66  5+ 57.16
 ```
