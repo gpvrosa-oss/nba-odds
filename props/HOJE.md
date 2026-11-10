@@ -1,6 +1,6 @@
 # Odds justas de hoje (pontos dos jogadores)
 
-Atualizado: 2026-11-10 02:14 UTC. Odd justa = Pinnacle sem margem. Modelo = a nossa previsao.
+Atualizado: 2026-11-10 02:27 UTC. Odd justa = Pinnacle sem margem. Modelo = a nossa previsao.
 Como usar: na Betano/Betclic, se a odd de "X+ pontos" for MAIOR do que a odd justa, essa aposta tem valor.
 
 ## Denver Nuggets @ Houston Rockets (10/11 01:40 UTC)
