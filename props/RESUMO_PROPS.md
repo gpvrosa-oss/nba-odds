@@ -1,10 +1,10 @@
 # Apostas virtuais em props (sem dinheiro real)
 
-Atualizado: 2026-11-10 04:13 UTC. Casa de referencia: Pinnacle (linha ~3h antes do jogo).
+Atualizado: 2026-11-10 04:23 UTC. Casa de referencia: Pinnacle (linha ~3h antes do jogo).
 
-- Apostas decididas: **99** (ganhas 43%), anuladas: 1, por decidir: 7
-- Apostado: 97.8 unidades. Lucro: **-18.5 unidades** (ROI -19.0%)
-- CLV medio (bater a linha de fecho; o melhor sinal de qualidade): **+1.5%** em 93 apostas
+- Apostas decididas: **103** (ganhas 45%), anuladas: 1, por decidir: 3
+- Apostado: 101.7 unidades. Lucro: **-17.2 unidades** (ROI -16.9%)
+- CLV medio (bater a linha de fecho; o melhor sinal de qualidade): **+1.4%** em 97 apostas
 
 Regra de bolso: so pensar em dinheiro real com 200+ apostas e CLV medio acima de +2%.
 
@@ -20,10 +20,10 @@ Regra de bolso: so pensar em dinheiro real com 200+ apostas e CLV medio acima de
 2026-11-10T01:40:00Z      Marcus Smart  Over    6.5 1.77      8.38   1.00    perdeu   5.0  -1.00  0.0000
 2026-11-10T00:10:00Z     Royce O'Neale Under    8.5 1.83      6.75   1.00    perdeu  10.0  -1.00 -0.0000
 2026-11-10T00:10:00Z     Grayson Allen Under   16.5 1.85     14.22   1.00    perdeu  27.0  -1.00 -0.0211
-2026-11-10T02:10:00Z  Collin Gillespie Under    8.5 1.67      6.84   1.00       NaN   NaN    NaN     NaN
-2026-11-10T02:10:00Z      De'Aaron Fox Under   14.5 1.86     13.26   1.00       NaN   NaN    NaN     NaN
-2026-11-10T02:10:00Z       Jalen Green Under   14.5 1.94     13.68   0.90       NaN   NaN    NaN     NaN
-2026-11-10T02:10:00Z Julian Champagnie Under   11.5 1.82      9.60   1.00       NaN   NaN    NaN     NaN
+2026-11-10T02:10:00Z  Collin Gillespie Under    8.5 1.67      6.84   1.00    ganhou   6.0   0.67  0.0000
+2026-11-10T02:10:00Z      De'Aaron Fox Under   14.5 1.86     13.26   1.00    perdeu  15.0  -1.00 -0.0001
+2026-11-10T02:10:00Z       Jalen Green Under   14.5 1.94     13.68   0.90    ganhou   6.0   0.85 -0.0000
+2026-11-10T02:10:00Z Julian Champagnie Under   11.5 1.82      9.60   1.00    ganhou  11.0   0.82 -0.0001
 2026-11-10T03:10:00Z   Dejounte Murray Under   18.5 1.88     16.70   1.00       NaN   NaN    NaN     NaN
 2026-11-10T03:10:00Z     Georges Niang  Over    8.5 2.23      9.52   1.00       NaN   NaN    NaN     NaN
 2026-11-10T03:10:00Z    Karlo Matkovic  Over    8.5 1.96      9.89   1.00       NaN   NaN    NaN     NaN
