@@ -181,3 +181,23 @@ recolhido_em,momento,jogo_id,inicio_jogo,casa,fora,casa_apostas,atualizado_em,me
 2026-11-10T22:47:40Z,cedo,9ac02cb22adf276b325b1e9c9c6c588e,2026-11-11T02:10:00Z,Utah Jazz,Miami Heat,pinnacle,2026-11-10T22:47:08Z,player_points,Klay Thompson,Under,13.5,1.98
 2026-11-10T22:47:40Z,cedo,9ac02cb22adf276b325b1e9c9c6c588e,2026-11-11T02:10:00Z,Utah Jazz,Miami Heat,pinnacle,2026-11-10T22:47:08Z,player_points,Pelle Larsson,Over,11.5,1.75
 2026-11-10T22:47:40Z,cedo,9ac02cb22adf276b325b1e9c9c6c588e,2026-11-11T02:10:00Z,Utah Jazz,Miami Heat,pinnacle,2026-11-10T22:47:08Z,player_points,Pelle Larsson,Under,11.5,2.01
+2026-11-10T23:10:23Z,alerta,3689d555c9a1c81e3d300375b4c80530,2026-11-11T00:40:00Z,New York Knicks,Milwaukee Bucks,pinnacle,2026-11-10T23:11:11Z,player_points,Andre Drummond,Over,4.5,1.83
+2026-11-10T23:10:23Z,alerta,3689d555c9a1c81e3d300375b4c80530,2026-11-11T00:40:00Z,New York Knicks,Milwaukee Bucks,pinnacle,2026-11-10T23:11:11Z,player_points,Andre Drummond,Under,4.5,1.92
+2026-11-10T23:10:23Z,alerta,3689d555c9a1c81e3d300375b4c80530,2026-11-11T00:40:00Z,New York Knicks,Milwaukee Bucks,pinnacle,2026-11-10T23:11:11Z,player_points,Jalen Brunson,Over,26.5,2.16
+2026-11-10T23:10:23Z,alerta,3689d555c9a1c81e3d300375b4c80530,2026-11-11T00:40:00Z,New York Knicks,Milwaukee Bucks,pinnacle,2026-11-10T23:11:11Z,player_points,Jalen Brunson,Under,26.5,1.65
+2026-11-10T23:10:23Z,alerta,3689d555c9a1c81e3d300375b4c80530,2026-11-11T00:40:00Z,New York Knicks,Milwaukee Bucks,pinnacle,2026-11-10T23:11:11Z,player_points,Karl-Anthony Towns,Over,20.5,2.07
+2026-11-10T23:10:23Z,alerta,3689d555c9a1c81e3d300375b4c80530,2026-11-11T00:40:00Z,New York Knicks,Milwaukee Bucks,pinnacle,2026-11-10T23:11:11Z,player_points,Karl-Anthony Towns,Under,20.5,1.7
+2026-11-10T23:10:23Z,alerta,3689d555c9a1c81e3d300375b4c80530,2026-11-11T00:40:00Z,New York Knicks,Milwaukee Bucks,pinnacle,2026-11-10T23:11:11Z,player_points,Mikal Bridges,Over,10.5,1.81
+2026-11-10T23:10:23Z,alerta,3689d555c9a1c81e3d300375b4c80530,2026-11-11T00:40:00Z,New York Knicks,Milwaukee Bucks,pinnacle,2026-11-10T23:11:11Z,player_points,Mikal Bridges,Under,10.5,1.94
+2026-11-10T23:10:23Z,alerta,3689d555c9a1c81e3d300375b4c80530,2026-11-11T00:40:00Z,New York Knicks,Milwaukee Bucks,pinnacle,2026-11-10T23:11:11Z,player_points,OG Anunoby,Over,17.5,1.94
+2026-11-10T23:10:23Z,alerta,3689d555c9a1c81e3d300375b4c80530,2026-11-11T00:40:00Z,New York Knicks,Milwaukee Bucks,pinnacle,2026-11-10T23:11:11Z,player_points,OG Anunoby,Under,17.5,1.8
+2026-11-10T23:10:23Z,alerta,3689d555c9a1c81e3d300375b4c80530,2026-11-11T00:40:00Z,New York Knicks,Milwaukee Bucks,pinnacle,2026-11-10T23:11:11Z,player_points,Brayden Burries,Over,12.5,1.9
+2026-11-10T23:10:23Z,alerta,3689d555c9a1c81e3d300375b4c80530,2026-11-11T00:40:00Z,New York Knicks,Milwaukee Bucks,pinnacle,2026-11-10T23:11:11Z,player_points,Brayden Burries,Under,12.5,1.84
+2026-11-10T23:10:23Z,alerta,3689d555c9a1c81e3d300375b4c80530,2026-11-11T00:40:00Z,New York Knicks,Milwaukee Bucks,pinnacle,2026-11-10T23:11:11Z,player_points,Jaime Jaquez Jr,Over,13.5,1.76
+2026-11-10T23:10:23Z,alerta,3689d555c9a1c81e3d300375b4c80530,2026-11-11T00:40:00Z,New York Knicks,Milwaukee Bucks,pinnacle,2026-11-10T23:11:11Z,player_points,Jaime Jaquez Jr,Under,13.5,2.0
+2026-11-10T23:10:23Z,alerta,3689d555c9a1c81e3d300375b4c80530,2026-11-11T00:40:00Z,New York Knicks,Milwaukee Bucks,pinnacle,2026-11-10T23:11:11Z,player_points,Kyle Kuzma,Over,10.5,1.79
+2026-11-10T23:10:23Z,alerta,3689d555c9a1c81e3d300375b4c80530,2026-11-11T00:40:00Z,New York Knicks,Milwaukee Bucks,pinnacle,2026-11-10T23:11:11Z,player_points,Kyle Kuzma,Under,10.5,1.95
+2026-11-10T23:10:23Z,alerta,3689d555c9a1c81e3d300375b4c80530,2026-11-11T00:40:00Z,New York Knicks,Milwaukee Bucks,pinnacle,2026-11-10T23:11:11Z,player_points,Myles Turner,Over,9.5,1.88
+2026-11-10T23:10:23Z,alerta,3689d555c9a1c81e3d300375b4c80530,2026-11-11T00:40:00Z,New York Knicks,Milwaukee Bucks,pinnacle,2026-11-10T23:11:11Z,player_points,Myles Turner,Under,9.5,1.86
+2026-11-10T23:10:23Z,alerta,3689d555c9a1c81e3d300375b4c80530,2026-11-11T00:40:00Z,New York Knicks,Milwaukee Bucks,pinnacle,2026-11-10T23:11:11Z,player_points,Tyler Herro,Over,19.5,1.88
+2026-11-10T23:10:23Z,alerta,3689d555c9a1c81e3d300375b4c80530,2026-11-11T00:40:00Z,New York Knicks,Milwaukee Bucks,pinnacle,2026-11-10T23:11:11Z,player_points,Tyler Herro,Under,19.5,1.86

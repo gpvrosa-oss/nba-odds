@@ -1,5 +1,20 @@
 # Alertas de ultima hora
 
+## 10/11 23:10 UTC: Milwaukee Bucks @ New York Knicks
+
+- **Josh Hart** (NY, 31.7 min de media): Out (antes: 30% de faltar, agora 100%)
+
+Colegas (pontos previstos antes -> agora | linha Pinnacle agora | veredito):
+```
+OG Anunoby                16.2 ->  17.0 (+0.8) | 17.5 (1.94/1.8)    | sem valor (a Pinnacle ja ajustou?)
+Karl-Anthony Towns        18.9 ->  19.6 (+0.7) | 20.5 (2.07/1.7)    | sem valor (a Pinnacle ja ajustou?)
+Jalen Brunson             26.1 ->  26.7 (+0.6) | 26.5 (2.16/1.65)   | sem valor (a Pinnacle ja ajustou?)
+Mikal Bridges              8.1 ->   8.5 (+0.5) | 10.5 (1.81/1.94)   | passar
+Andre Drummond             4.8 ->   5.0 (+0.2) | 4.5 (1.83/1.92)    | sem valor (a Pinnacle ja ajustou?)
+```
+
+Na Betano/Betclic: confirma se a linha desses jogadores ainda nao subiu.
+
 ## 09/11 23:20 UTC: Washington Wizards @ Detroit Pistons
 
 - **Bilal Coulibaly** (WSH, 25.8 min de media): Out (antes: 30% de faltar, agora 100%)
