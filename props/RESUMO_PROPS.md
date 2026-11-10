@@ -1,8 +1,8 @@
 # Apostas virtuais em props (sem dinheiro real)
 
-Atualizado: 2026-11-10 21:01 UTC. Casa de referencia: Pinnacle (linha ~3h antes do jogo).
+Atualizado: 2026-11-10 21:12 UTC. Casa de referencia: Pinnacle (linha ~3h antes do jogo).
 
-- Apostas decididas: **106** (ganhas 45%), anuladas: 1, por decidir: 0
+- Apostas decididas: **106** (ganhas 45%), anuladas: 1, por decidir: 1
 - Apostado: 104.7 unidades. Lucro: **-16.1 unidades** (ROI -15.4%)
 - CLV medio (bater a linha de fecho; o melhor sinal de qualidade): **+1.5%** em 100 apostas
 
@@ -12,7 +12,6 @@ Regra de bolso: so pensar em dinheiro real com 200+ apostas e CLV medio acima de
 
 ```
          inicio_jogo           jogador  lado  linha  odd  previsto  stake resultado  real  lucro     clv
-2026-11-10T00:10:00Z   Cade Cunningham Under   26.5 1.74     23.92   1.00    ganhou  17.0   0.74 -0.0001
 2026-11-10T00:10:00Z    Daniss Jenkins  Over   10.5 1.97     11.89   0.94    ganhou  22.0   0.91 -0.0001
 2026-11-10T00:10:00Z   Duncan Robinson  Over   15.5 2.01     17.13   1.00    ganhou  22.0   1.01  0.0001
 2026-11-10T00:10:00Z      John Collins Under   11.5 1.79     10.12   1.00    perdeu  24.0  -1.00  0.0075
@@ -27,4 +26,5 @@ Regra de bolso: so pensar em dinheiro real com 200+ apostas e CLV medio acima de
 2026-11-10T03:10:00Z   Dejounte Murray Under   18.5 1.88     16.70   1.00    ganhou  12.0   0.88  0.1678
 2026-11-10T03:10:00Z     Georges Niang  Over    8.5 2.23      9.52   1.00    ganhou   9.0   1.23  0.0088
 2026-11-10T03:10:00Z    Karlo Matkovic  Over    8.5 1.96      9.89   1.00    perdeu   4.0  -1.00  0.0001
+2026-11-11T00:40:00Z   Brayden Burries Under   12.5 1.84     10.58   1.00       NaN   NaN    NaN     NaN
 ```
