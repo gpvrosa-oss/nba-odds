@@ -43,3 +43,27 @@ recolhido_em,momento,jogo_id,inicio_jogo,casa,fora,casa_apostas,atualizado_em,me
 2026-11-10T00:59:06Z,fecho,dc61de43b5db9de357f48f44c8022494,2026-11-10T01:40:00Z,Houston Rockets,Denver Nuggets,pinnacle,2026-11-10T00:58:33Z,player_points,Cameron Johnson,Under,10.5,1.98
 2026-11-10T00:59:06Z,fecho,dc61de43b5db9de357f48f44c8022494,2026-11-10T01:40:00Z,Houston Rockets,Denver Nuggets,pinnacle,2026-11-10T00:58:33Z,player_points,Christian Braun,Over,10.5,1.91
 2026-11-10T00:59:06Z,fecho,dc61de43b5db9de357f48f44c8022494,2026-11-10T01:40:00Z,Houston Rockets,Denver Nuggets,pinnacle,2026-11-10T00:58:33Z,player_points,Christian Braun,Under,10.5,1.83
+2026-11-10T01:31:54Z,fecho,dc4eb6ae9979b3d3418c35b4210f0c72,2026-11-10T02:10:00Z,Phoenix Suns,San Antonio Spurs,pinnacle,2026-11-10T01:30:57Z,player_points,Collin Gillespie,Over,8.5,2.13
+2026-11-10T01:31:54Z,fecho,dc4eb6ae9979b3d3418c35b4210f0c72,2026-11-10T02:10:00Z,Phoenix Suns,San Antonio Spurs,pinnacle,2026-11-10T01:30:57Z,player_points,Collin Gillespie,Under,8.5,1.67
+2026-11-10T01:31:54Z,fecho,dc4eb6ae9979b3d3418c35b4210f0c72,2026-11-10T02:10:00Z,Phoenix Suns,San Antonio Spurs,pinnacle,2026-11-10T01:30:57Z,player_points,De'Aaron Fox,Over,14.5,1.88
+2026-11-10T01:31:54Z,fecho,dc4eb6ae9979b3d3418c35b4210f0c72,2026-11-10T02:10:00Z,Phoenix Suns,San Antonio Spurs,pinnacle,2026-11-10T01:30:57Z,player_points,De'Aaron Fox,Under,14.5,1.86
+2026-11-10T01:31:54Z,fecho,dc4eb6ae9979b3d3418c35b4210f0c72,2026-11-10T02:10:00Z,Phoenix Suns,San Antonio Spurs,pinnacle,2026-11-10T01:30:57Z,player_points,Devin Booker,Over,24.5,1.94
+2026-11-10T01:31:54Z,fecho,dc4eb6ae9979b3d3418c35b4210f0c72,2026-11-10T02:10:00Z,Phoenix Suns,San Antonio Spurs,pinnacle,2026-11-10T01:30:57Z,player_points,Devin Booker,Under,24.5,1.8
+2026-11-10T01:31:54Z,fecho,dc4eb6ae9979b3d3418c35b4210f0c72,2026-11-10T02:10:00Z,Phoenix Suns,San Antonio Spurs,pinnacle,2026-11-10T01:30:57Z,player_points,Dillon Brooks,Over,14.5,1.78
+2026-11-10T01:31:54Z,fecho,dc4eb6ae9979b3d3418c35b4210f0c72,2026-11-10T02:10:00Z,Phoenix Suns,San Antonio Spurs,pinnacle,2026-11-10T01:30:57Z,player_points,Dillon Brooks,Under,14.5,1.98
+2026-11-10T01:31:54Z,fecho,dc4eb6ae9979b3d3418c35b4210f0c72,2026-11-10T02:10:00Z,Phoenix Suns,San Antonio Spurs,pinnacle,2026-11-10T01:30:57Z,player_points,Dylan Harper,Over,17.5,1.99
+2026-11-10T01:31:54Z,fecho,dc4eb6ae9979b3d3418c35b4210f0c72,2026-11-10T02:10:00Z,Phoenix Suns,San Antonio Spurs,pinnacle,2026-11-10T01:30:57Z,player_points,Dylan Harper,Under,17.5,1.76
+2026-11-10T01:31:54Z,fecho,dc4eb6ae9979b3d3418c35b4210f0c72,2026-11-10T02:10:00Z,Phoenix Suns,San Antonio Spurs,pinnacle,2026-11-10T01:30:57Z,player_points,Jalen Green,Over,14.5,1.8
+2026-11-10T01:31:54Z,fecho,dc4eb6ae9979b3d3418c35b4210f0c72,2026-11-10T02:10:00Z,Phoenix Suns,San Antonio Spurs,pinnacle,2026-11-10T01:30:57Z,player_points,Jalen Green,Under,14.5,1.94
+2026-11-10T01:31:54Z,fecho,dc4eb6ae9979b3d3418c35b4210f0c72,2026-11-10T02:10:00Z,Phoenix Suns,San Antonio Spurs,pinnacle,2026-11-10T01:30:57Z,player_points,Victor Wembanyama,Over,27.5,2.1
+2026-11-10T01:31:54Z,fecho,dc4eb6ae9979b3d3418c35b4210f0c72,2026-11-10T02:10:00Z,Phoenix Suns,San Antonio Spurs,pinnacle,2026-11-10T01:30:57Z,player_points,Victor Wembanyama,Under,27.5,1.68
+2026-11-10T01:31:54Z,fecho,dc4eb6ae9979b3d3418c35b4210f0c72,2026-11-10T02:10:00Z,Phoenix Suns,San Antonio Spurs,pinnacle,2026-11-10T01:30:57Z,player_points,Stephon Castle,Over,16.5,2.03
+2026-11-10T01:31:54Z,fecho,dc4eb6ae9979b3d3418c35b4210f0c72,2026-11-10T02:10:00Z,Phoenix Suns,San Antonio Spurs,pinnacle,2026-11-10T01:30:57Z,player_points,Stephon Castle,Under,16.5,1.74
+2026-11-10T01:31:54Z,fecho,dc4eb6ae9979b3d3418c35b4210f0c72,2026-11-10T02:10:00Z,Phoenix Suns,San Antonio Spurs,pinnacle,2026-11-10T01:30:57Z,player_points,Julian Champagnie,Over,11.5,1.93
+2026-11-10T01:31:54Z,fecho,dc4eb6ae9979b3d3418c35b4210f0c72,2026-11-10T02:10:00Z,Phoenix Suns,San Antonio Spurs,pinnacle,2026-11-10T01:30:57Z,player_points,Julian Champagnie,Under,11.5,1.82
+2026-11-10T01:31:54Z,fecho,dc4eb6ae9979b3d3418c35b4210f0c72,2026-11-10T02:10:00Z,Phoenix Suns,San Antonio Spurs,pinnacle,2026-11-10T01:30:57Z,player_points,Khaman Maluach,Over,5.5,1.75
+2026-11-10T01:31:54Z,fecho,dc4eb6ae9979b3d3418c35b4210f0c72,2026-11-10T02:10:00Z,Phoenix Suns,San Antonio Spurs,pinnacle,2026-11-10T01:30:57Z,player_points,Khaman Maluach,Under,5.5,2.0
+2026-11-10T01:31:54Z,fecho,dc4eb6ae9979b3d3418c35b4210f0c72,2026-11-10T02:10:00Z,Phoenix Suns,San Antonio Spurs,pinnacle,2026-11-10T01:30:57Z,player_points,Miles Bridges,Over,14.5,1.78
+2026-11-10T01:31:54Z,fecho,dc4eb6ae9979b3d3418c35b4210f0c72,2026-11-10T02:10:00Z,Phoenix Suns,San Antonio Spurs,pinnacle,2026-11-10T01:30:57Z,player_points,Miles Bridges,Under,14.5,1.97
+2026-11-10T01:31:54Z,fecho,dc4eb6ae9979b3d3418c35b4210f0c72,2026-11-10T02:10:00Z,Phoenix Suns,San Antonio Spurs,pinnacle,2026-11-10T01:30:57Z,player_points,Oso Ighodaro,Over,5.5,1.83
+2026-11-10T01:31:54Z,fecho,dc4eb6ae9979b3d3418c35b4210f0c72,2026-11-10T02:10:00Z,Phoenix Suns,San Antonio Spurs,pinnacle,2026-11-10T01:30:57Z,player_points,Oso Ighodaro,Under,5.5,1.91
