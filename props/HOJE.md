@@ -1,86 +1,25 @@
 # Odds justas de hoje (pontos dos jogadores)
 
-Atualizado: 2026-11-10 02:37 UTC. Odd justa = Pinnacle sem margem. Modelo = a nossa previsao.
+Atualizado: 2026-11-10 02:47 UTC. Odd justa = Pinnacle sem margem. Modelo = a nossa previsao.
 Como usar: na Betano/Betclic, se a odd de "X+ pontos" for MAIOR do que a odd justa, essa aposta tem valor.
-
-## Denver Nuggets @ Houston Rockets (10/11 01:40 UTC)
-
-```
-Aaron Gordon             linha  12.5 | modelo  12.7 | duvida se joga
-    justa: 10+ 1.48  11+ 1.65  12+ 1.87  13+ 2.14  14+ 2.47  15+ 2.89  16+ 3.42
-Tari Eason               linha   9.5 | modelo   9.4 | sem valor
-    justa: 7+ 1.39  8+ 1.57  9+ 1.80  10+ 2.09  11+ 2.46  12+ 2.94  13+ 3.56
-Nikola Jokic             linha  24.5 | modelo  22.0 | duvida se joga
-    justa: 22+ 1.53  23+ 1.65  24+ 1.79  25+ 1.95  26+ 2.15  27+ 2.38  28+ 2.66
-Marcus Smart             linha   6.5 | modelo   8.4 | APOSTA
-    justa: 4+ 1.24  5+ 1.39  6+ 1.61  7+ 1.89  8+ 2.27  9+ 2.77  10+ 3.43
-Jamal Murray             linha  21.5 | modelo  22.6 | duvida se joga
-    justa: 19+ 1.50  20+ 1.63  21+ 1.78  22+ 1.95  23+ 2.16  24+ 2.41  25+ 2.71
-Jabari Smith Jr          linha  15.5 | modelo  16.3 | sem valor
-    justa: 13+ 1.53  14+ 1.69  15+ 1.89  16+ 2.14  17+ 2.44  18+ 2.80  19+ 3.26
-Kevin Durant             linha  20.5 | modelo  21.1 | sem valor
-    justa: 18+ 1.53  19+ 1.66  20+ 1.82  21+ 2.01  22+ 2.24  23+ 2.51  24+ 2.84
-Christian Braun          linha  10.5 | modelo  13.1 | duvida se joga
-    justa: 8+ 1.40  9+ 1.57  10+ 1.78  11+ 2.04  12+ 2.38  13+ 2.81  14+ 3.36
-Cameron Johnson          linha  10.5 | modelo  12.4 | duvida se joga
-    justa: 8+ 1.34  9+ 1.48  10+ 1.66  11+ 1.89  12+ 2.19  13+ 2.55  14+ 3.02
-Amen Thompson            linha  16.5 | modelo  15.3 | sem valor
-    justa: 14+ 1.61  15+ 1.78  16+ 2.00  17+ 2.26  18+ 2.58  19+ 2.98  20+ 3.46
-Alperen Sengun           linha  20.5 | modelo  20.2 | sem valor
-    justa: 18+ 1.56  19+ 1.70  20+ 1.87  21+ 2.08  22+ 2.32  23+ 2.61  24+ 2.97
-Fred VanVleet            linha  11.5 | modelo  13.2 | sem valor
-    justa: 9+ 1.37  10+ 1.52  11+ 1.70  12+ 1.93  13+ 2.22  14+ 2.58  15+ 3.04
-```
-
-Ressaltos (so modelo, sem Pinnacle):
-```
-Nikola Jokic             modelo  9.7 | 8+ 1.41  9+ 1.66  10+ 2.03  11+ 2.57  12+ 3.36
-Alperen Sengun           modelo  8.9 | 7+ 1.37  8+ 1.61  9+ 1.97  10+ 2.50  11+ 3.31
-Jabari Smith Jr.         modelo  6.8 | 5+ 1.32  6+ 1.58  7+ 1.98  8+ 2.63  9+ 3.64
-Amen Thompson            modelo  6.4 | 5+ 1.40  6+ 1.71  7+ 2.22  8+ 3.03  9+ 4.33
-Tari Eason               modelo  6.0 | 4+ 1.25  5+ 1.50  6+ 1.89  7+ 2.53  8+ 3.57
-Kevin Durant             modelo  5.8 | 4+ 1.28  5+ 1.55  6+ 1.99  7+ 2.71  8+ 3.88
-Jamal Murray             modelo  4.5 | 3+ 1.29  4+ 1.62  5+ 2.19  6+ 3.17  7+ 4.88
-Aaron Gordon             modelo  4.4 | 3+ 1.31  4+ 1.65  5+ 2.26  6+ 3.30  7+ 5.12
-Fred VanVleet            modelo  3.5 | 2+ 1.22  3+ 1.56  4+ 2.19  5+ 3.34  6+ 5.45
-Cameron Johnson          modelo  3.4 | 2+ 1.24  3+ 1.61  4+ 2.29  5+ 3.53  6+ 5.85
-Christian Braun          modelo  3.4 | 2+ 1.24  3+ 1.62  4+ 2.31  5+ 3.58  6+ 5.95
-Marcus Smart             modelo  2.7 | 1+ 1.12  2+ 1.43  3+ 2.08  4+ 3.33  5+ 5.79
-```
-
-Assistencias (so modelo, sem Pinnacle):
-```
-Nikola Jokic             modelo  7.9 | 6+ 1.27  7+ 1.49  8+ 1.84  9+ 2.41  10+ 3.33
-Alperen Sengun           modelo  7.2 | 6+ 1.40  7+ 1.73  8+ 2.26  9+ 3.14  10+ 4.62
-Fred VanVleet            modelo  5.2 | 4+ 1.33  5+ 1.68  6+ 2.30  7+ 3.39  8+ 5.40
-Jamal Murray             modelo  5.2 | 4+ 1.33  5+ 1.68  6+ 2.30  7+ 3.40  8+ 5.41
-Kevin Durant             modelo  3.8 | 2+ 1.15  3+ 1.41  4+ 1.93  5+ 2.93  6+ 4.92
-Amen Thompson            modelo  3.5 | 2+ 1.19  3+ 1.51  4+ 2.16  5+ 3.45  6+ 6.09
-Jabari Smith Jr.         modelo  2.3 | 1+ 1.13  2+ 1.52  3+ 2.41  4+ 4.42  5+ 9.17
-Marcus Smart             modelo  2.3 | 1+ 1.13  2+ 1.53  3+ 2.44  4+ 4.50  5+ 9.39
-Aaron Gordon             modelo  2.0 | 1+ 1.19  2+ 1.75  3+ 3.08  4+ 6.31  5+ 14.59
-Cameron Johnson          modelo  1.9 | 1+ 1.21  2+ 1.81  3+ 3.26  4+ 6.85  5+ 16.21
-Christian Braun          modelo  1.9 | 1+ 1.21  2+ 1.84  3+ 3.35  4+ 7.12  5+ 17.05
-Tari Eason               modelo  1.5 | 1+ 1.31  2+ 2.20  3+ 4.53  4+ 10.83  5+ 29.03
-```
 
 ## San Antonio Spurs @ Phoenix Suns (10/11 02:10 UTC)
 
 ```
-Khaman Maluach           linha   5.5 | modelo   5.8 | sem valor
-    justa: 3+ 1.19  4+ 1.35  5+ 1.57  6+ 1.88  7+ 2.28  8+ 2.82  9+ 3.55
-Victor Wembanyama        linha  27.5 | modelo  26.4 | sem valor
-    justa: 25+ 1.72  26+ 1.87  27+ 2.04  28+ 2.25  29+ 2.49  30+ 2.78  31+ 3.12
+Collin Gillespie         linha   8.5 | modelo   6.8 | APOSTA
+    justa: 6+ 1.43  7+ 1.64  8+ 1.92  9+ 2.28  10+ 2.74  11+ 3.35  12+ 4.14
 Stephon Castle           linha  16.5 | modelo  15.3 | sem valor
     justa: 14+ 1.56  15+ 1.72  16+ 1.92  17+ 2.17  18+ 2.46  19+ 2.83  20+ 3.27
 Oso Ighodaro             linha   5.5 | modelo   6.3 | sem valor
     justa: 3+ 1.21  4+ 1.39  5+ 1.63  6+ 1.96  7+ 2.40  8+ 3.00  9+ 3.80
 Miles Bridges            linha  14.5 | modelo  14.8 | sem valor
     justa: 12+ 1.41  13+ 1.54  14+ 1.70  15+ 1.90  16+ 2.15  17+ 2.45  18+ 2.83
+Khaman Maluach           linha   5.5 | modelo   5.8 | sem valor
+    justa: 3+ 1.19  4+ 1.35  5+ 1.57  6+ 1.88  7+ 2.28  8+ 2.82  9+ 3.55
 Julian Champagnie        linha  11.5 | modelo   9.6 | APOSTA
     justa: 9+ 1.43  10+ 1.59  11+ 1.80  12+ 2.06  13+ 2.39  14+ 2.80  15+ 3.32
-Jalen Green              linha  14.5 | modelo  13.7 | APOSTA
-    justa: 12+ 1.42  13+ 1.55  14+ 1.72  15+ 1.93  16+ 2.18  17+ 2.49  18+ 2.88
+Victor Wembanyama        linha  27.5 | modelo  26.4 | sem valor
+    justa: 25+ 1.72  26+ 1.87  27+ 2.04  28+ 2.25  29+ 2.49  30+ 2.78  31+ 3.12
 Dylan Harper             linha  17.5 | modelo  16.6 | sem valor
     justa: 15+ 1.58  16+ 1.74  17+ 1.93  18+ 2.17  19+ 2.46  20+ 2.81  21+ 3.23
 Dillon Brooks            linha  14.5 | modelo  16.3 | sem valor
@@ -89,16 +28,16 @@ Devin Booker             linha  24.5 | modelo  23.1 | sem valor
     justa: 22+ 1.56  23+ 1.69  24+ 1.83  25+ 2.01  26+ 2.22  27+ 2.47  28+ 2.76
 De'Aaron Fox             linha  14.5 | modelo  13.3 | APOSTA
     justa: 12+ 1.46  13+ 1.60  14+ 1.79  15+ 2.01  16+ 2.29  17+ 2.63  18+ 3.05
-Collin Gillespie         linha   8.5 | modelo   6.8 | APOSTA
-    justa: 6+ 1.43  7+ 1.64  8+ 1.92  9+ 2.28  10+ 2.74  11+ 3.35  12+ 4.14
+Jalen Green              linha  14.5 | modelo  13.7 | APOSTA
+    justa: 12+ 1.42  13+ 1.55  14+ 1.72  15+ 1.93  16+ 2.18  17+ 2.49  18+ 2.88
 ```
 
 Ressaltos (so modelo, sem Pinnacle):
 ```
-Victor Wembanyama        modelo 11.2 | 10+ 1.56  11+ 1.85  12+ 2.26  13+ 2.85  14+ 3.72
+Victor Wembanyama        modelo 11.2 | 10+ 1.56  11+ 1.85  12+ 2.26  13+ 2.86  14+ 3.72
 Miles Bridges            modelo  7.2 | 6+ 1.46  7+ 1.79  8+ 2.31  9+ 3.10  10+ 4.36
 Stephon Castle           modelo  5.7 | 4+ 1.30  5+ 1.58  6+ 2.04  7+ 2.80  8+ 4.04
-Dylan Harper             modelo  5.4 | 4+ 1.37  5+ 1.71  6+ 2.28  7+ 3.21  8+ 4.79
+Dylan Harper             modelo  5.4 | 4+ 1.37  5+ 1.71  6+ 2.28  7+ 3.22  8+ 4.79
 Khaman Maluach           modelo  5.1 | 4+ 1.43  5+ 1.82  6+ 2.48  7+ 3.58  8+ 5.46
 Oso Ighodaro             modelo  5.0 | 4+ 1.45  5+ 1.87  6+ 2.57  7+ 3.74  8+ 5.75
 Julian Champagnie        modelo  4.2 | 3+ 1.34  4+ 1.74  5+ 2.42  6+ 3.60  7+ 5.71
@@ -113,16 +52,16 @@ Assistencias (so modelo, sem Pinnacle):
 ```
 De'Aaron Fox             modelo  5.2 | 4+ 1.34  5+ 1.69  6+ 2.31  7+ 3.43  8+ 5.47
 Stephon Castle           modelo  5.1 | 4+ 1.37  5+ 1.76  6+ 2.45  7+ 3.70  8+ 6.01
-Devin Booker             modelo  4.7 | 3+ 1.21  4+ 1.48  5+ 1.98  6+ 2.89  7+ 4.59
+Devin Booker             modelo  4.7 | 3+ 1.21  4+ 1.48  5+ 1.98  6+ 2.90  7+ 4.60
 Dylan Harper             modelo  3.8 | 2+ 1.14  3+ 1.39  4+ 1.90  5+ 2.86  6+ 4.76
 Collin Gillespie         modelo  3.2 | 2+ 1.22  3+ 1.61  4+ 2.40  5+ 4.01  6+ 7.39
 Miles Bridges            modelo  3.2 | 2+ 1.23  3+ 1.64  4+ 2.46  5+ 4.15  6+ 7.75
-Jalen Green              modelo  3.2 | 2+ 1.24  3+ 1.64  4+ 2.48  5+ 4.18  6+ 7.82
+Jalen Green              modelo  3.2 | 2+ 1.24  3+ 1.64  4+ 2.48  5+ 4.19  6+ 7.82
 Victor Wembanyama        modelo  2.9 | 1+ 1.08  2+ 1.32  3+ 1.85  4+ 2.98  5+ 5.41
-Oso Ighodaro             modelo  2.8 | 1+ 1.08  2+ 1.34  3+ 1.91  4+ 3.12  5+ 5.76
-Dillon Brooks            modelo  2.1 | 1+ 1.16  2+ 1.62  3+ 2.71  4+ 5.25  5+ 11.50
-Julian Champagnie        modelo  1.3 | 1+ 1.39  2+ 2.54  3+ 5.70  4+ 14.83  5+ 42.99
-Khaman Maluach           modelo  0.8 | 1+ 1.85  2+ 4.71  3+ 14.53  4+ 50.59  5+ 191.34
+Oso Ighodaro             modelo  2.8 | 1+ 1.08  2+ 1.34  3+ 1.91  4+ 3.12  5+ 5.75
+Dillon Brooks            modelo  2.1 | 1+ 1.16  2+ 1.62  3+ 2.71  4+ 5.26  5+ 11.50
+Julian Champagnie        modelo  1.3 | 1+ 1.39  2+ 2.54  3+ 5.70  4+ 14.82  5+ 42.98
+Khaman Maluach           modelo  0.8 | 1+ 1.85  2+ 4.71  3+ 14.53  4+ 50.58  5+ 191.31
 ```
 
 ## New Orleans Pelicans @ Golden State Warriors (10/11 03:10 UTC)
@@ -140,14 +79,14 @@ Georges Niang            linha   8.5 | modelo   9.5 | APOSTA
     justa: 6+ 1.47  7+ 1.70  8+ 2.00  9+ 2.38  10+ 2.89  11+ 3.56  12+ 4.43
 Derik Queen              linha  12.5 | modelo  11.6 | sem valor
     justa: 10+ 1.48  11+ 1.65  12+ 1.86  13+ 2.13  14+ 2.47  15+ 2.88  16+ 3.41
-Stephen Curry            linha  28.5 | modelo  29.4 | sem valor
-    justa: 26+ 1.71  27+ 1.86  28+ 2.03  29+ 2.22  30+ 2.46  31+ 2.73  32+ 3.05
 Dejounte Murray          linha  18.5 | modelo  16.7 | APOSTA
     justa: 16+ 1.50  17+ 1.63  18+ 1.79  19+ 1.99  20+ 2.23  21+ 2.51  22+ 2.86
 De'Anthony Melton        linha   9.5 | modelo  10.0 | sem valor
     justa: 7+ 1.41  8+ 1.60  9+ 1.84  10+ 2.14  11+ 2.54  12+ 3.04  13+ 3.69
 Brandin Podziemski       linha  15.5 | modelo  16.6 | sem valor
     justa: 13+ 1.49  14+ 1.64  15+ 1.82  16+ 2.04  17+ 2.32  18+ 2.66  19+ 3.07
+Stephen Curry            linha  28.5 | modelo  29.4 | sem valor
+    justa: 26+ 1.71  27+ 1.86  28+ 2.03  29+ 2.22  30+ 2.46  31+ 2.73  32+ 3.05
 Draymond Green           linha   5.5 | modelo   5.1 | sem valor
     justa: 3+ 1.23  4+ 1.41  5+ 1.67  6+ 2.02  7+ 2.49  8+ 3.12  9+ 3.97
 Yaxel Lendeborg          linha  20.5 | modelo  21.0 | sem valor
@@ -160,7 +99,7 @@ Yaxel Lendeborg          modelo  7.1 | 6+ 1.50  7+ 1.86  8+ 2.41  9+ 3.28  10+ 4
 Derik Queen              modelo  6.4 | 5+ 1.41  6+ 1.73  7+ 2.25  8+ 3.08  9+ 4.42
 Brandin Podziemski       modelo  5.7 | 4+ 1.30  5+ 1.58  6+ 2.04  7+ 2.78  8+ 4.01
 Dejounte Murray          modelo  5.6 | 4+ 1.32  5+ 1.62  6+ 2.11  7+ 2.91  8+ 4.24
-Draymond Green           modelo  5.1 | 4+ 1.43  5+ 1.83  6+ 2.50  7+ 3.63  8+ 5.54
+Draymond Green           modelo  5.1 | 4+ 1.43  5+ 1.83  6+ 2.50  7+ 3.62  8+ 5.54
 Jeremiah Fears           modelo  4.7 | 3+ 1.26  4+ 1.55  5+ 2.06  6+ 2.93  7+ 4.42
 Saddiq Bey               modelo  4.4 | 3+ 1.31  4+ 1.66  5+ 2.27  6+ 3.33  7+ 5.18
 Karlo Matkovic           modelo  4.4 | 3+ 1.31  4+ 1.67  5+ 2.30  6+ 3.37  7+ 5.26
@@ -173,15 +112,15 @@ Georges Niang            modelo  3.2 | 2+ 1.29  3+ 1.72  4+ 2.53  5+ 4.03  6+ 6.
 Assistencias (so modelo, sem Pinnacle):
 ```
 Draymond Green           modelo  6.9 | 5+ 1.24  6+ 1.47  7+ 1.85  8+ 2.47  9+ 3.51
-Dejounte Murray          modelo  5.9 | 4+ 1.21  5+ 1.44  6+ 1.84  7+ 2.51  8+ 3.69
+Dejounte Murray          modelo  5.9 | 4+ 1.21  5+ 1.44  6+ 1.83  7+ 2.51  8+ 3.69
 Stephen Curry            modelo  5.1 | 4+ 1.37  5+ 1.75  6+ 2.43  7+ 3.66  8+ 5.94
-Jeremiah Fears           modelo  4.8 | 3+ 1.18  4+ 1.43  5+ 1.88  6+ 2.69  7+ 4.18
-Yaxel Lendeborg          modelo  4.1 | 3+ 1.30  4+ 1.69  5+ 2.43  6+ 3.83  7+ 6.56
-Brandin Podziemski       modelo  4.1 | 3+ 1.33  4+ 1.74  5+ 2.53  6+ 4.04  7+ 7.04
-Derik Queen              modelo  2.9 | 1+ 1.07  2+ 1.31  3+ 1.84  4+ 2.94  5+ 5.31
-Saddiq Bey               modelo  2.6 | 1+ 1.10  2+ 1.40  3+ 2.09  4+ 3.58  5+ 6.92
-De'Anthony Melton        modelo  2.3 | 1+ 1.13  2+ 1.51  3+ 2.40  4+ 4.40  5+ 9.12
-Georges Niang            modelo  1.8 | 1+ 1.22  2+ 1.87  3+ 3.46  4+ 7.44  5+ 18.02
-Gui Santos               modelo  1.7 | 1+ 1.25  2+ 1.98  3+ 3.82  4+ 8.55  5+ 21.53
-Karlo Matkovic           modelo  1.3 | 1+ 1.41  2+ 2.61  3+ 5.95  4+ 15.71  5+ 46.19
+Jeremiah Fears           modelo  4.8 | 3+ 1.18  4+ 1.43  5+ 1.88  6+ 2.69  7+ 4.17
+Yaxel Lendeborg          modelo  4.1 | 3+ 1.30  4+ 1.69  5+ 2.43  6+ 3.82  7+ 6.56
+Brandin Podziemski       modelo  4.1 | 3+ 1.33  4+ 1.74  5+ 2.53  6+ 4.04  7+ 7.03
+Derik Queen              modelo  2.9 | 1+ 1.07  2+ 1.31  3+ 1.84  4+ 2.94  5+ 5.30
+Saddiq Bey               modelo  2.6 | 1+ 1.10  2+ 1.40  3+ 2.09  4+ 3.58  5+ 6.91
+De'Anthony Melton        modelo  2.3 | 1+ 1.13  2+ 1.51  3+ 2.40  4+ 4.40  5+ 9.11
+Georges Niang            modelo  1.8 | 1+ 1.22  2+ 1.87  3+ 3.46  4+ 7.43  5+ 18.01
+Gui Santos               modelo  1.7 | 1+ 1.25  2+ 1.98  3+ 3.82  4+ 8.54  5+ 21.51
+Karlo Matkovic           modelo  1.3 | 1+ 1.41  2+ 2.61  3+ 5.95  4+ 15.70  5+ 46.18
 ```
