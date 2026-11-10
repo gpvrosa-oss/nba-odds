@@ -1,6 +1,6 @@
 # Odds justas de hoje (pontos dos jogadores)
 
-Atualizado: 2026-11-10 00:36 UTC. Odd justa = Pinnacle sem margem. Modelo = a nossa previsao.
+Atualizado: 2026-11-10 00:46 UTC. Odd justa = Pinnacle sem margem. Modelo = a nossa previsao.
 Como usar: na Betano/Betclic, se a odd de "X+ pontos" for MAIOR do que a odd justa, essa aposta tem valor.
 
 ## Los Angeles Lakers @ Atlanta Hawks (10/11 00:10 UTC)
@@ -256,28 +256,28 @@ Ressaltos (so modelo, sem Pinnacle):
 ```
 P.J. Washington          modelo  7.7 | 6+ 1.37  7+ 1.64  8+ 2.06  9+ 2.69  10+ 3.67
 Cooper Flagg             modelo  7.2 | 6+ 1.48  7+ 1.82  8+ 2.35  9+ 3.17  10+ 4.48
-Ivica Zubac              modelo  7.1 | 6+ 1.50  7+ 1.86  8+ 2.41  9+ 3.28  10+ 4.65
-Pascal Siakam            modelo  6.3 | 5+ 1.41  6+ 1.74  7+ 2.27  8+ 3.11  9+ 4.46
+Ivica Zubac              modelo  7.1 | 6+ 1.50  7+ 1.86  8+ 2.42  9+ 3.29  10+ 4.68
+Pascal Siakam            modelo  6.3 | 5+ 1.41  6+ 1.74  7+ 2.27  8+ 3.11  9+ 4.47
 Daniel Gafford           modelo  6.0 | 5+ 1.48  6+ 1.87  7+ 2.49  8+ 3.49  9+ 5.14
-Obi Toppin               modelo  4.9 | 3+ 1.22  4+ 1.47  5+ 1.91  6+ 2.64  7+ 3.87
+Obi Toppin               modelo  4.9 | 3+ 1.22  4+ 1.47  5+ 1.91  6+ 2.64  7+ 3.88
 Kyrie Irving             modelo  4.5 | 3+ 1.30  4+ 1.64  5+ 2.23  6+ 3.25  7+ 5.03
-Aaron Nesmith            modelo  3.2 | 2+ 1.30  3+ 1.74  4+ 2.58  5+ 4.14  6+ 7.13
-Kelly Oubre Jr.          modelo  2.8 | 1+ 1.11  2+ 1.41  3+ 2.03  4+ 3.22  5+ 5.55
-Andrew Nembhard          modelo  2.6 | 1+ 1.13  2+ 1.49  3+ 2.21  4+ 3.63  5+ 6.47
+Aaron Nesmith            modelo  3.2 | 2+ 1.30  3+ 1.74  4+ 2.58  5+ 4.15  6+ 7.15
+Kelly Oubre Jr.          modelo  2.8 | 1+ 1.11  2+ 1.41  3+ 2.03  4+ 3.23  5+ 5.56
+Andrew Nembhard          modelo  2.6 | 1+ 1.13  2+ 1.49  3+ 2.21  4+ 3.64  5+ 6.49
 ```
 
 Assistencias (so modelo, sem Pinnacle):
 ```
-Andrew Nembhard          modelo  7.8 | 6+ 1.29  7+ 1.52  8+ 1.90  9+ 2.51  10+ 3.50
+Andrew Nembhard          modelo  7.8 | 6+ 1.29  7+ 1.52  8+ 1.90  9+ 2.51  10+ 3.51
 Cooper Flagg             modelo  6.5 | 5+ 1.31  6+ 1.60  7+ 2.08  8+ 2.89  9+ 4.28
 Kyrie Irving             modelo  4.3 | 3+ 1.26  4+ 1.60  5+ 2.24  6+ 3.42  7+ 5.70
-Pascal Siakam            modelo  4.0 | 3+ 1.33  4+ 1.75  5+ 2.55  6+ 4.08  7+ 7.13
-Ivica Zubac              modelo  2.0 | 1+ 1.18  2+ 1.70  3+ 2.94  4+ 5.90  5+ 13.37
-Aaron Nesmith            modelo  2.0 | 1+ 1.18  2+ 1.70  3+ 2.95  4+ 5.93  5+ 13.46
-Obi Toppin               modelo  1.8 | 1+ 1.23  2+ 1.90  3+ 3.55  4+ 7.72  5+ 18.91
+Pascal Siakam            modelo  4.0 | 3+ 1.33  4+ 1.75  5+ 2.55  6+ 4.08  7+ 7.11
+Ivica Zubac              modelo  2.0 | 1+ 1.18  2+ 1.70  3+ 2.94  4+ 5.92  5+ 13.42
+Aaron Nesmith            modelo  2.0 | 1+ 1.18  2+ 1.70  3+ 2.95  4+ 5.94  5+ 13.48
+Obi Toppin               modelo  1.8 | 1+ 1.23  2+ 1.90  3+ 3.55  4+ 7.73  5+ 18.93
 Daniel Gafford           modelo  1.6 | 1+ 1.28  2+ 2.11  3+ 4.23  4+ 9.86  5+ 25.81
 P.J. Washington          modelo  1.4 | 1+ 1.35  2+ 2.39  3+ 5.16  4+ 12.93  5+ 36.25
-Kelly Oubre Jr.          modelo  1.4 | 1+ 1.38  2+ 2.49  3+ 5.50  4+ 14.11  5+ 40.42
+Kelly Oubre Jr.          modelo  1.4 | 1+ 1.38  2+ 2.49  3+ 5.51  4+ 14.16  5+ 40.62
 ```
 
 ## Denver Nuggets @ Houston Rockets (10/11 01:40 UTC)
