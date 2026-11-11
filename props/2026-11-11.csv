@@ -137,3 +137,27 @@ recolhido_em,momento,jogo_id,inicio_jogo,casa,fora,casa_apostas,atualizado_em,me
 2026-11-11T01:49:23Z,alerta,78ab42ddb22b68903fd53a384d0fc616,2026-11-11T03:10:00Z,Sacramento Kings,Orlando Magic,pinnacle,2026-11-11T01:49:41Z,player_points,Keegan Murray,Under,9.5,1.88
 2026-11-11T01:49:23Z,alerta,78ab42ddb22b68903fd53a384d0fc616,2026-11-11T03:10:00Z,Sacramento Kings,Orlando Magic,pinnacle,2026-11-11T01:49:41Z,player_points,Malik Monk,Over,9.5,1.94
 2026-11-11T01:49:23Z,alerta,78ab42ddb22b68903fd53a384d0fc616,2026-11-11T03:10:00Z,Sacramento Kings,Orlando Magic,pinnacle,2026-11-11T01:49:41Z,player_points,Malik Monk,Under,9.5,1.8
+2026-11-11T02:32:30Z,fecho,78ab42ddb22b68903fd53a384d0fc616,2026-11-11T03:10:00Z,Sacramento Kings,Orlando Magic,pinnacle,2026-11-11T02:31:12Z,player_points,Anthony Black,Over,16.5,1.88
+2026-11-11T02:32:30Z,fecho,78ab42ddb22b68903fd53a384d0fc616,2026-11-11T03:10:00Z,Sacramento Kings,Orlando Magic,pinnacle,2026-11-11T02:31:12Z,player_points,Anthony Black,Under,16.5,1.85
+2026-11-11T02:32:30Z,fecho,78ab42ddb22b68903fd53a384d0fc616,2026-11-11T03:10:00Z,Sacramento Kings,Orlando Magic,pinnacle,2026-11-11T02:31:12Z,player_points,Darius Acuff Jr.,Over,24.5,1.77
+2026-11-11T02:32:30Z,fecho,78ab42ddb22b68903fd53a384d0fc616,2026-11-11T03:10:00Z,Sacramento Kings,Orlando Magic,pinnacle,2026-11-11T02:31:12Z,player_points,Darius Acuff Jr.,Under,24.5,1.98
+2026-11-11T02:32:30Z,fecho,78ab42ddb22b68903fd53a384d0fc616,2026-11-11T03:10:00Z,Sacramento Kings,Orlando Magic,pinnacle,2026-11-11T02:31:12Z,player_points,De'Andre Hunter,Over,13.5,2.04
+2026-11-11T02:32:30Z,fecho,78ab42ddb22b68903fd53a384d0fc616,2026-11-11T03:10:00Z,Sacramento Kings,Orlando Magic,pinnacle,2026-11-11T02:31:12Z,player_points,De'Andre Hunter,Under,13.5,1.73
+2026-11-11T02:32:30Z,fecho,78ab42ddb22b68903fd53a384d0fc616,2026-11-11T03:10:00Z,Sacramento Kings,Orlando Magic,pinnacle,2026-11-11T02:31:12Z,player_points,Desmond Bane,Over,19.5,1.75
+2026-11-11T02:32:30Z,fecho,78ab42ddb22b68903fd53a384d0fc616,2026-11-11T03:10:00Z,Sacramento Kings,Orlando Magic,pinnacle,2026-11-11T02:31:12Z,player_points,Desmond Bane,Under,19.5,2.01
+2026-11-11T02:32:30Z,fecho,78ab42ddb22b68903fd53a384d0fc616,2026-11-11T03:10:00Z,Sacramento Kings,Orlando Magic,pinnacle,2026-11-11T02:31:12Z,player_points,Domantas Sabonis,Over,13.5,1.76
+2026-11-11T02:32:30Z,fecho,78ab42ddb22b68903fd53a384d0fc616,2026-11-11T03:10:00Z,Sacramento Kings,Orlando Magic,pinnacle,2026-11-11T02:31:12Z,player_points,Domantas Sabonis,Under,13.5,2.0
+2026-11-11T02:32:30Z,fecho,78ab42ddb22b68903fd53a384d0fc616,2026-11-11T03:10:00Z,Sacramento Kings,Orlando Magic,pinnacle,2026-11-11T02:31:12Z,player_points,Franz Wagner,Over,23.5,1.8
+2026-11-11T02:32:30Z,fecho,78ab42ddb22b68903fd53a384d0fc616,2026-11-11T03:10:00Z,Sacramento Kings,Orlando Magic,pinnacle,2026-11-11T02:31:12Z,player_points,Franz Wagner,Under,23.5,1.94
+2026-11-11T02:32:30Z,fecho,78ab42ddb22b68903fd53a384d0fc616,2026-11-11T03:10:00Z,Sacramento Kings,Orlando Magic,pinnacle,2026-11-11T02:31:12Z,player_points,Jamal Cain,Over,9.5,1.83
+2026-11-11T02:32:30Z,fecho,78ab42ddb22b68903fd53a384d0fc616,2026-11-11T03:10:00Z,Sacramento Kings,Orlando Magic,pinnacle,2026-11-11T02:31:12Z,player_points,Jamal Cain,Under,9.5,1.91
+2026-11-11T02:32:30Z,fecho,78ab42ddb22b68903fd53a384d0fc616,2026-11-11T03:10:00Z,Sacramento Kings,Orlando Magic,pinnacle,2026-11-11T02:31:12Z,player_points,Precious Achiuwa,Over,8.5,2.4
+2026-11-11T02:32:30Z,fecho,78ab42ddb22b68903fd53a384d0fc616,2026-11-11T03:10:00Z,Sacramento Kings,Orlando Magic,pinnacle,2026-11-11T02:31:12Z,player_points,Precious Achiuwa,Under,8.5,1.53
+2026-11-11T02:32:30Z,fecho,78ab42ddb22b68903fd53a384d0fc616,2026-11-11T03:10:00Z,Sacramento Kings,Orlando Magic,pinnacle,2026-11-11T02:31:12Z,player_points,Wendell Carter Jr,Over,13.5,1.91
+2026-11-11T02:32:30Z,fecho,78ab42ddb22b68903fd53a384d0fc616,2026-11-11T03:10:00Z,Sacramento Kings,Orlando Magic,pinnacle,2026-11-11T02:31:12Z,player_points,Wendell Carter Jr,Under,13.5,1.83
+2026-11-11T02:32:30Z,fecho,78ab42ddb22b68903fd53a384d0fc616,2026-11-11T03:10:00Z,Sacramento Kings,Orlando Magic,pinnacle,2026-11-11T02:31:12Z,player_points,Zach LaVine,Over,18.5,1.87
+2026-11-11T02:32:30Z,fecho,78ab42ddb22b68903fd53a384d0fc616,2026-11-11T03:10:00Z,Sacramento Kings,Orlando Magic,pinnacle,2026-11-11T02:31:12Z,player_points,Zach LaVine,Under,18.5,1.87
+2026-11-11T02:32:30Z,fecho,78ab42ddb22b68903fd53a384d0fc616,2026-11-11T03:10:00Z,Sacramento Kings,Orlando Magic,pinnacle,2026-11-11T02:31:12Z,player_points,Keegan Murray,Over,9.5,1.9
+2026-11-11T02:32:30Z,fecho,78ab42ddb22b68903fd53a384d0fc616,2026-11-11T03:10:00Z,Sacramento Kings,Orlando Magic,pinnacle,2026-11-11T02:31:12Z,player_points,Keegan Murray,Under,9.5,1.84
+2026-11-11T02:32:30Z,fecho,78ab42ddb22b68903fd53a384d0fc616,2026-11-11T03:10:00Z,Sacramento Kings,Orlando Magic,pinnacle,2026-11-11T02:31:12Z,player_points,Malik Monk,Over,9.5,1.94
+2026-11-11T02:32:30Z,fecho,78ab42ddb22b68903fd53a384d0fc616,2026-11-11T03:10:00Z,Sacramento Kings,Orlando Magic,pinnacle,2026-11-11T02:31:12Z,player_points,Malik Monk,Under,9.5,1.8
