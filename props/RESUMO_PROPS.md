@@ -1,8 +1,8 @@
 # Apostas virtuais em props (sem dinheiro real)
 
-Atualizado: 2026-11-11 01:47 UTC. Casa de referencia: Pinnacle (linha ~3h antes do jogo).
+Atualizado: 2026-11-11 02:00 UTC. Casa de referencia: Pinnacle (linha ~3h antes do jogo).
 
-- Apostas decididas: **106** (ganhas 45%), anuladas: 1, por decidir: 24
+- Apostas decididas: **106** (ganhas 45%), anuladas: 1, por decidir: 26
 - Apostado: 104.7 unidades. Lucro: **-16.1 unidades** (ROI -15.4%)
 - CLV medio (bater a linha de fecho; o melhor sinal de qualidade): **+1.5%** em 100 apostas
 
@@ -12,8 +12,6 @@ Regra de bolso: so pensar em dinheiro real com 200+ apostas e CLV medio acima de
 
 ```
          inicio_jogo            jogador  lado  linha  odd  previsto  stake resultado  real  lucro  clv
-2026-11-11T02:10:00Z      Derrick Jones Under   11.5 1.72      9.65    1.0       NaN   NaN    NaN  NaN
-2026-11-11T02:10:00Z        Jalen Green Under   15.5 1.72     12.90    1.0       NaN   NaN    NaN  NaN
 2026-11-11T02:10:00Z      Miles Bridges Under   16.5 1.81     13.88    1.0       NaN   NaN    NaN  NaN
 2026-11-11T02:10:00Z         Ace Bailey Under   16.5 2.05     15.39    1.0       NaN   NaN    NaN  NaN
 2026-11-11T02:10:00Z        Bam Adebayo  Over   18.5 2.16     20.39    1.0       NaN   NaN    NaN  NaN
@@ -27,4 +25,6 @@ Regra de bolso: so pensar em dinheiro real com 200+ apostas e CLV medio acima de
 2026-11-11T04:10:00Z     Bennett Stirtz  Over    7.5 2.18      9.24    1.0       NaN   NaN    NaN  NaN
 2026-11-11T04:10:00Z Isaiah Hartenstein Under    9.5 1.74      7.31    1.0       NaN   NaN    NaN  NaN
 2026-11-11T04:10:00Z    Scoot Henderson Under   10.5 1.89      9.59    1.0       NaN   NaN    NaN  NaN
+2026-11-11T03:10:00Z Wendell Carter Jr.  Over   13.5 1.91     16.00    1.0       NaN   NaN    NaN  NaN
+2026-11-11T03:10:00Z       Franz Wagner Under   23.5 1.90     21.94    1.0       NaN   NaN    NaN  NaN
 ```
