@@ -395,3 +395,73 @@ recolhido_em,momento,jogo_id,inicio_jogo,casa,fora,casa_apostas,atualizado_em,me
 2026-11-11T23:17:50Z,cedo,f41d186dc7a7dcf01adab32579a82ca3,2026-11-12T02:40:00Z,Houston Rockets,Golden State Warriors,pinnacle,2026-11-11T23:17:13Z,player_points,Tari Eason,Under,8.5,1.76
 2026-11-11T23:17:50Z,cedo,f41d186dc7a7dcf01adab32579a82ca3,2026-11-12T02:40:00Z,Houston Rockets,Golden State Warriors,pinnacle,2026-11-11T23:17:13Z,player_points,Yaxel Lendeborg,Over,18.5,2.03
 2026-11-11T23:17:50Z,cedo,f41d186dc7a7dcf01adab32579a82ca3,2026-11-12T02:40:00Z,Houston Rockets,Golden State Warriors,pinnacle,2026-11-11T23:17:13Z,player_points,Yaxel Lendeborg,Under,18.5,1.73
+2026-11-11T23:30:51Z,fecho,37f4c00ff7ec01d5aa7c33dd1ac84bbc,2026-11-12T00:10:00Z,Toronto Raptors,Boston Celtics,pinnacle,2026-11-11T23:30:43Z,player_points,Collin Murray-Boyles,Over,11.5,1.83
+2026-11-11T23:30:51Z,fecho,37f4c00ff7ec01d5aa7c33dd1ac84bbc,2026-11-12T00:10:00Z,Toronto Raptors,Boston Celtics,pinnacle,2026-11-11T23:30:43Z,player_points,Collin Murray-Boyles,Under,11.5,1.91
+2026-11-11T23:30:51Z,fecho,37f4c00ff7ec01d5aa7c33dd1ac84bbc,2026-11-12T00:10:00Z,Toronto Raptors,Boston Celtics,pinnacle,2026-11-11T23:30:43Z,player_points,Derrick White,Over,14.5,1.89
+2026-11-11T23:30:51Z,fecho,37f4c00ff7ec01d5aa7c33dd1ac84bbc,2026-11-12T00:10:00Z,Toronto Raptors,Boston Celtics,pinnacle,2026-11-11T23:30:43Z,player_points,Derrick White,Under,14.5,1.84
+2026-11-11T23:30:51Z,fecho,37f4c00ff7ec01d5aa7c33dd1ac84bbc,2026-11-12T00:10:00Z,Toronto Raptors,Boston Celtics,pinnacle,2026-11-11T23:30:43Z,player_points,Immanuel Quickley,Over,17.5,1.94
+2026-11-11T23:30:51Z,fecho,37f4c00ff7ec01d5aa7c33dd1ac84bbc,2026-11-12T00:10:00Z,Toronto Raptors,Boston Celtics,pinnacle,2026-11-11T23:30:43Z,player_points,Immanuel Quickley,Under,17.5,1.8
+2026-11-11T23:30:51Z,fecho,37f4c00ff7ec01d5aa7c33dd1ac84bbc,2026-11-12T00:10:00Z,Toronto Raptors,Boston Celtics,pinnacle,2026-11-11T23:30:43Z,player_points,Ja'Kobe Walter,Over,12.5,1.93
+2026-11-11T23:30:51Z,fecho,37f4c00ff7ec01d5aa7c33dd1ac84bbc,2026-11-12T00:10:00Z,Toronto Raptors,Boston Celtics,pinnacle,2026-11-11T23:30:43Z,player_points,Ja'Kobe Walter,Under,12.5,1.82
+2026-11-11T23:30:51Z,fecho,37f4c00ff7ec01d5aa7c33dd1ac84bbc,2026-11-12T00:10:00Z,Toronto Raptors,Boston Celtics,pinnacle,2026-11-11T23:30:43Z,player_points,Jakob Poeltl,Over,9.5,1.82
+2026-11-11T23:30:51Z,fecho,37f4c00ff7ec01d5aa7c33dd1ac84bbc,2026-11-12T00:10:00Z,Toronto Raptors,Boston Celtics,pinnacle,2026-11-11T23:30:43Z,player_points,Jakob Poeltl,Under,9.5,1.93
+2026-11-11T23:30:51Z,fecho,37f4c00ff7ec01d5aa7c33dd1ac84bbc,2026-11-12T00:10:00Z,Toronto Raptors,Boston Celtics,pinnacle,2026-11-11T23:30:43Z,player_points,Jayson Tatum,Over,26.5,1.78
+2026-11-11T23:30:51Z,fecho,37f4c00ff7ec01d5aa7c33dd1ac84bbc,2026-11-12T00:10:00Z,Toronto Raptors,Boston Celtics,pinnacle,2026-11-11T23:30:43Z,player_points,Jayson Tatum,Under,26.5,1.96
+2026-11-11T23:30:51Z,fecho,37f4c00ff7ec01d5aa7c33dd1ac84bbc,2026-11-12T00:10:00Z,Toronto Raptors,Boston Celtics,pinnacle,2026-11-11T23:30:43Z,player_points,Neemias Queta,Over,9.5,1.88
+2026-11-11T23:30:51Z,fecho,37f4c00ff7ec01d5aa7c33dd1ac84bbc,2026-11-12T00:10:00Z,Toronto Raptors,Boston Celtics,pinnacle,2026-11-11T23:30:43Z,player_points,Neemias Queta,Under,9.5,1.86
+2026-11-11T23:30:51Z,fecho,37f4c00ff7ec01d5aa7c33dd1ac84bbc,2026-11-12T00:10:00Z,Toronto Raptors,Boston Celtics,pinnacle,2026-11-11T23:30:43Z,player_points,Payton Pritchard,Over,14.5,1.65
+2026-11-11T23:30:51Z,fecho,37f4c00ff7ec01d5aa7c33dd1ac84bbc,2026-11-12T00:10:00Z,Toronto Raptors,Boston Celtics,pinnacle,2026-11-11T23:30:43Z,player_points,Payton Pritchard,Under,14.5,2.16
+2026-11-11T23:30:51Z,fecho,095441822e3b9b1b84bff9e482b9057a,2026-11-12T00:10:00Z,New York Knicks,Cleveland Cavaliers,pinnacle,2026-11-11T23:30:36Z,player_points,Donovan Mitchell,Over,24.5,2.16
+2026-11-11T23:30:51Z,fecho,095441822e3b9b1b84bff9e482b9057a,2026-11-12T00:10:00Z,New York Knicks,Cleveland Cavaliers,pinnacle,2026-11-11T23:30:36Z,player_points,Donovan Mitchell,Under,24.5,1.65
+2026-11-11T23:30:51Z,fecho,095441822e3b9b1b84bff9e482b9057a,2026-11-12T00:10:00Z,New York Knicks,Cleveland Cavaliers,pinnacle,2026-11-11T23:30:36Z,player_points,Evan Mobley,Over,16.5,2.16
+2026-11-11T23:30:51Z,fecho,095441822e3b9b1b84bff9e482b9057a,2026-11-12T00:10:00Z,New York Knicks,Cleveland Cavaliers,pinnacle,2026-11-11T23:30:36Z,player_points,Evan Mobley,Under,16.5,1.65
+2026-11-11T23:30:51Z,fecho,095441822e3b9b1b84bff9e482b9057a,2026-11-12T00:10:00Z,New York Knicks,Cleveland Cavaliers,pinnacle,2026-11-11T23:30:36Z,player_points,Jalen Brunson,Over,25.5,1.98
+2026-11-11T23:30:51Z,fecho,095441822e3b9b1b84bff9e482b9057a,2026-11-12T00:10:00Z,New York Knicks,Cleveland Cavaliers,pinnacle,2026-11-11T23:30:36Z,player_points,Jalen Brunson,Under,25.5,1.77
+2026-11-11T23:30:51Z,fecho,095441822e3b9b1b84bff9e482b9057a,2026-11-12T00:10:00Z,New York Knicks,Cleveland Cavaliers,pinnacle,2026-11-11T23:30:36Z,player_points,James Harden,Over,16.5,2.01
+2026-11-11T23:30:51Z,fecho,095441822e3b9b1b84bff9e482b9057a,2026-11-12T00:10:00Z,New York Knicks,Cleveland Cavaliers,pinnacle,2026-11-11T23:30:36Z,player_points,James Harden,Under,16.5,1.75
+2026-11-11T23:30:51Z,fecho,095441822e3b9b1b84bff9e482b9057a,2026-11-12T00:10:00Z,New York Knicks,Cleveland Cavaliers,pinnacle,2026-11-11T23:30:36Z,player_points,Jarrett Allen,Over,11.5,2.09
+2026-11-11T23:30:51Z,fecho,095441822e3b9b1b84bff9e482b9057a,2026-11-12T00:10:00Z,New York Knicks,Cleveland Cavaliers,pinnacle,2026-11-11T23:30:36Z,player_points,Jarrett Allen,Under,11.5,1.69
+2026-11-11T23:30:51Z,fecho,095441822e3b9b1b84bff9e482b9057a,2026-11-12T00:10:00Z,New York Knicks,Cleveland Cavaliers,pinnacle,2026-11-11T23:30:36Z,player_points,Jaylon Tyson,Over,8.5,2.04
+2026-11-11T23:30:51Z,fecho,095441822e3b9b1b84bff9e482b9057a,2026-11-12T00:10:00Z,New York Knicks,Cleveland Cavaliers,pinnacle,2026-11-11T23:30:36Z,player_points,Jaylon Tyson,Under,8.5,1.72
+2026-11-11T23:30:51Z,fecho,095441822e3b9b1b84bff9e482b9057a,2026-11-12T00:10:00Z,New York Knicks,Cleveland Cavaliers,pinnacle,2026-11-11T23:30:36Z,player_points,Josh Hart,Over,9.5,2.0
+2026-11-11T23:30:51Z,fecho,095441822e3b9b1b84bff9e482b9057a,2026-11-12T00:10:00Z,New York Knicks,Cleveland Cavaliers,pinnacle,2026-11-11T23:30:36Z,player_points,Josh Hart,Under,9.5,1.76
+2026-11-11T23:30:51Z,fecho,095441822e3b9b1b84bff9e482b9057a,2026-11-12T00:10:00Z,New York Knicks,Cleveland Cavaliers,pinnacle,2026-11-11T23:30:36Z,player_points,Karl-Anthony Towns,Over,20.5,1.96
+2026-11-11T23:30:51Z,fecho,095441822e3b9b1b84bff9e482b9057a,2026-11-12T00:10:00Z,New York Knicks,Cleveland Cavaliers,pinnacle,2026-11-11T23:30:36Z,player_points,Karl-Anthony Towns,Under,20.5,1.79
+2026-11-11T23:30:51Z,fecho,095441822e3b9b1b84bff9e482b9057a,2026-11-12T00:10:00Z,New York Knicks,Cleveland Cavaliers,pinnacle,2026-11-11T23:30:36Z,player_points,Meleek Thomas,Over,9.5,2.04
+2026-11-11T23:30:51Z,fecho,095441822e3b9b1b84bff9e482b9057a,2026-11-12T00:10:00Z,New York Knicks,Cleveland Cavaliers,pinnacle,2026-11-11T23:30:36Z,player_points,Meleek Thomas,Under,9.5,1.72
+2026-11-11T23:30:51Z,fecho,095441822e3b9b1b84bff9e482b9057a,2026-11-12T00:10:00Z,New York Knicks,Cleveland Cavaliers,pinnacle,2026-11-11T23:30:36Z,player_points,Mikal Bridges,Over,9.5,2.0
+2026-11-11T23:30:51Z,fecho,095441822e3b9b1b84bff9e482b9057a,2026-11-12T00:10:00Z,New York Knicks,Cleveland Cavaliers,pinnacle,2026-11-11T23:30:36Z,player_points,Mikal Bridges,Under,9.5,1.76
+2026-11-11T23:30:51Z,fecho,095441822e3b9b1b84bff9e482b9057a,2026-11-12T00:10:00Z,New York Knicks,Cleveland Cavaliers,pinnacle,2026-11-11T23:30:36Z,player_points,OG Anunoby,Over,17.5,2.09
+2026-11-11T23:30:51Z,fecho,095441822e3b9b1b84bff9e482b9057a,2026-11-12T00:10:00Z,New York Knicks,Cleveland Cavaliers,pinnacle,2026-11-11T23:30:36Z,player_points,OG Anunoby,Under,17.5,1.69
+2026-11-11T23:30:51Z,fecho,095441822e3b9b1b84bff9e482b9057a,2026-11-12T00:10:00Z,New York Knicks,Cleveland Cavaliers,pinnacle,2026-11-11T23:30:36Z,player_points,Peyton Watson,Over,12.5,2.16
+2026-11-11T23:30:51Z,fecho,095441822e3b9b1b84bff9e482b9057a,2026-11-12T00:10:00Z,New York Knicks,Cleveland Cavaliers,pinnacle,2026-11-11T23:30:36Z,player_points,Peyton Watson,Under,12.5,1.65
+2026-11-11T23:30:51Z,fecho,095441822e3b9b1b84bff9e482b9057a,2026-11-12T00:10:00Z,New York Knicks,Cleveland Cavaliers,pinnacle,2026-11-11T23:30:36Z,player_points,Landry Shamet,Over,8.5,1.88
+2026-11-11T23:30:51Z,fecho,095441822e3b9b1b84bff9e482b9057a,2026-11-12T00:10:00Z,New York Knicks,Cleveland Cavaliers,pinnacle,2026-11-11T23:30:36Z,player_points,Landry Shamet,Under,8.5,1.86
+2026-11-11T23:30:51Z,fecho,e9545a3084389f5f3429e19fea891124,2026-11-12T00:10:00Z,Indiana Pacers,Washington Wizards,pinnacle,2026-11-11T23:30:01Z,player_points,AJ Dybantsa,Over,17.5,1.86
+2026-11-11T23:30:51Z,fecho,e9545a3084389f5f3429e19fea891124,2026-11-12T00:10:00Z,Indiana Pacers,Washington Wizards,pinnacle,2026-11-11T23:30:01Z,player_points,AJ Dybantsa,Under,17.5,1.88
+2026-11-11T23:30:51Z,fecho,e9545a3084389f5f3429e19fea891124,2026-11-12T00:10:00Z,Indiana Pacers,Washington Wizards,pinnacle,2026-11-11T23:30:01Z,player_points,Aaron Nesmith,Over,13.5,1.88
+2026-11-11T23:30:51Z,fecho,e9545a3084389f5f3429e19fea891124,2026-11-12T00:10:00Z,Indiana Pacers,Washington Wizards,pinnacle,2026-11-11T23:30:01Z,player_points,Aaron Nesmith,Under,13.5,1.85
+2026-11-11T23:30:51Z,fecho,e9545a3084389f5f3429e19fea891124,2026-11-12T00:10:00Z,Indiana Pacers,Washington Wizards,pinnacle,2026-11-11T23:30:01Z,player_points,Alex Sarr,Over,10.5,2.18
+2026-11-11T23:30:51Z,fecho,e9545a3084389f5f3429e19fea891124,2026-11-12T00:10:00Z,Indiana Pacers,Washington Wizards,pinnacle,2026-11-11T23:30:01Z,player_points,Alex Sarr,Under,10.5,1.63
+2026-11-11T23:30:51Z,fecho,e9545a3084389f5f3429e19fea891124,2026-11-12T00:10:00Z,Indiana Pacers,Washington Wizards,pinnacle,2026-11-11T23:30:01Z,player_points,Andrew Nembhard,Over,15.5,1.74
+2026-11-11T23:30:51Z,fecho,e9545a3084389f5f3429e19fea891124,2026-11-12T00:10:00Z,Indiana Pacers,Washington Wizards,pinnacle,2026-11-11T23:30:01Z,player_points,Andrew Nembhard,Under,15.5,2.02
+2026-11-11T23:30:51Z,fecho,e9545a3084389f5f3429e19fea891124,2026-11-12T00:10:00Z,Indiana Pacers,Washington Wizards,pinnacle,2026-11-11T23:30:01Z,player_points,Anthony Davis,Over,22.5,1.75
+2026-11-11T23:30:51Z,fecho,e9545a3084389f5f3429e19fea891124,2026-11-12T00:10:00Z,Indiana Pacers,Washington Wizards,pinnacle,2026-11-11T23:30:01Z,player_points,Anthony Davis,Under,22.5,2.01
+2026-11-11T23:30:51Z,fecho,e9545a3084389f5f3429e19fea891124,2026-11-12T00:10:00Z,Indiana Pacers,Washington Wizards,pinnacle,2026-11-11T23:30:01Z,player_points,Bilal Coulibaly,Over,8.5,2.64
+2026-11-11T23:30:51Z,fecho,e9545a3084389f5f3429e19fea891124,2026-11-12T00:10:00Z,Indiana Pacers,Washington Wizards,pinnacle,2026-11-11T23:30:01Z,player_points,Bilal Coulibaly,Under,8.5,1.45
+2026-11-11T23:30:51Z,fecho,e9545a3084389f5f3429e19fea891124,2026-11-12T00:10:00Z,Indiana Pacers,Washington Wizards,pinnacle,2026-11-11T23:30:01Z,player_points,Ivica Zubac,Over,13.5,2.34
+2026-11-11T23:30:51Z,fecho,e9545a3084389f5f3429e19fea891124,2026-11-12T00:10:00Z,Indiana Pacers,Washington Wizards,pinnacle,2026-11-11T23:30:01Z,player_points,Ivica Zubac,Under,13.5,1.56
+2026-11-11T23:30:51Z,fecho,e9545a3084389f5f3429e19fea891124,2026-11-12T00:10:00Z,Indiana Pacers,Washington Wizards,pinnacle,2026-11-11T23:30:01Z,player_points,Kelly Oubre Jr.,Over,9.5,1.94
+2026-11-11T23:30:51Z,fecho,e9545a3084389f5f3429e19fea891124,2026-11-12T00:10:00Z,Indiana Pacers,Washington Wizards,pinnacle,2026-11-11T23:30:01Z,player_points,Kelly Oubre Jr.,Under,9.5,1.8
+2026-11-11T23:30:51Z,fecho,e9545a3084389f5f3429e19fea891124,2026-11-12T00:10:00Z,Indiana Pacers,Washington Wizards,pinnacle,2026-11-11T23:30:01Z,player_points,Kyshawn George,Over,14.5,1.83
+2026-11-11T23:30:51Z,fecho,e9545a3084389f5f3429e19fea891124,2026-11-12T00:10:00Z,Indiana Pacers,Washington Wizards,pinnacle,2026-11-11T23:30:01Z,player_points,Kyshawn George,Under,14.5,1.91
+2026-11-11T23:30:51Z,fecho,e9545a3084389f5f3429e19fea891124,2026-11-12T00:10:00Z,Indiana Pacers,Washington Wizards,pinnacle,2026-11-11T23:30:01Z,player_points,Obi Toppin,Over,11.5,1.92
+2026-11-11T23:30:51Z,fecho,e9545a3084389f5f3429e19fea891124,2026-11-12T00:10:00Z,Indiana Pacers,Washington Wizards,pinnacle,2026-11-11T23:30:01Z,player_points,Obi Toppin,Under,11.5,1.83
+2026-11-11T23:30:51Z,fecho,e9545a3084389f5f3429e19fea891124,2026-11-12T00:10:00Z,Indiana Pacers,Washington Wizards,pinnacle,2026-11-11T23:30:01Z,player_points,Pascal Siakam,Over,21.5,1.75
+2026-11-11T23:30:51Z,fecho,e9545a3084389f5f3429e19fea891124,2026-11-12T00:10:00Z,Indiana Pacers,Washington Wizards,pinnacle,2026-11-11T23:30:01Z,player_points,Pascal Siakam,Under,21.5,2.01
+2026-11-11T23:30:51Z,fecho,e9545a3084389f5f3429e19fea891124,2026-11-12T00:10:00Z,Indiana Pacers,Washington Wizards,pinnacle,2026-11-11T23:30:01Z,player_points,T.J. McConnell,Over,7.5,2.41
+2026-11-11T23:30:51Z,fecho,e9545a3084389f5f3429e19fea891124,2026-11-12T00:10:00Z,Indiana Pacers,Washington Wizards,pinnacle,2026-11-11T23:30:01Z,player_points,T.J. McConnell,Under,7.5,1.53
+2026-11-11T23:30:51Z,fecho,e9545a3084389f5f3429e19fea891124,2026-11-12T00:10:00Z,Indiana Pacers,Washington Wizards,pinnacle,2026-11-11T23:30:01Z,player_points,Trae Young,Over,18.5,1.99
+2026-11-11T23:30:51Z,fecho,e9545a3084389f5f3429e19fea891124,2026-11-12T00:10:00Z,Indiana Pacers,Washington Wizards,pinnacle,2026-11-11T23:30:01Z,player_points,Trae Young,Under,18.5,1.76
+2026-11-11T23:30:51Z,fecho,e9545a3084389f5f3429e19fea891124,2026-11-12T00:10:00Z,Indiana Pacers,Washington Wizards,pinnacle,2026-11-11T23:30:01Z,player_points,Tre Johnson,Over,7.5,1.97
+2026-11-11T23:30:51Z,fecho,e9545a3084389f5f3429e19fea891124,2026-11-12T00:10:00Z,Indiana Pacers,Washington Wizards,pinnacle,2026-11-11T23:30:01Z,player_points,Tre Johnson,Under,7.5,1.78
