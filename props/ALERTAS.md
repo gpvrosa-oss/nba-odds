@@ -1,5 +1,21 @@
 # Alertas de ultima hora
 
+## 11/11 23:54 UTC: Brooklyn Nets @ New Orleans Pelicans
+
+- **Trey Murphy III** (NO, 32.8 min de media): Out (antes: 30% de faltar, agora 100%)
+
+Colegas (pontos previstos antes -> agora | linha Pinnacle agora | veredito):
+```
+Zion Williamson           21.7 ->  22.0 (+0.3) | 21.5 (1.83/1.91)   | sem valor (a Pinnacle ja ajustou?)
+Karlo Matkovic             8.7 ->   9.0 (+0.3) | 7.5 (1.97/1.78)    | APOSTA Over @ 1.97 (EV +5.8%)
+Saddiq Bey                16.6 ->  16.8 (+0.2) | 14.5 (1.75/2.01)   | sem valor (a Pinnacle ja ajustou?)
+Dejounte Murray           14.9 ->  15.1 (+0.2) | 15.5 (1.84/1.9)    | sem valor (a Pinnacle ja ajustou?)
+Derik Queen               11.6 ->  11.7 (+0.1) | 9.5 (1.78/1.97)    | APOSTA Over @ 1.78 (EV +3.9%)
+Jeremiah Fears            17.3 ->  17.3 (+0.0) | 16.5 (1.82/1.92)   | sem valor (a Pinnacle ja ajustou?)
+```
+
+Na Betano/Betclic: confirma se a linha desses jogadores ainda nao subiu.
+
 ## 11/11 01:49 UTC: Orlando Magic @ Sacramento Kings
 
 - **Tristan da Silva** (ORL, 30.4 min de media): Out (antes: 30% de faltar, agora 100%)

@@ -481,3 +481,27 @@ recolhido_em,momento,jogo_id,inicio_jogo,casa,fora,casa_apostas,atualizado_em,me
 2026-11-11T23:40:59Z,cedo,d4f288eeb0132970825be17748f2b4f0,2026-11-12T03:10:00Z,Portland Trail Blazers,Oklahoma City Thunder,pinnacle,2026-11-11T23:40:04Z,player_points,Shai Gilgeous-Alexander,Under,33.5,2.05
 2026-11-11T23:40:59Z,cedo,d4f288eeb0132970825be17748f2b4f0,2026-11-12T03:10:00Z,Portland Trail Blazers,Oklahoma City Thunder,pinnacle,2026-11-11T23:40:04Z,player_points,Toumani Camara,Over,12.5,1.93
 2026-11-11T23:40:59Z,cedo,d4f288eeb0132970825be17748f2b4f0,2026-11-12T03:10:00Z,Portland Trail Blazers,Oklahoma City Thunder,pinnacle,2026-11-11T23:40:04Z,player_points,Toumani Camara,Under,12.5,1.82
+2026-11-11T23:54:04Z,alerta,e6a37eea1dddcbd0384c81237e81f47f,2026-11-12T01:10:00Z,New Orleans Pelicans,Brooklyn Nets,pinnacle,2026-11-11T23:54:02Z,player_points,Day'Ron Sharpe,Over,10.5,1.88
+2026-11-11T23:54:04Z,alerta,e6a37eea1dddcbd0384c81237e81f47f,2026-11-12T01:10:00Z,New Orleans Pelicans,Brooklyn Nets,pinnacle,2026-11-11T23:54:02Z,player_points,Day'Ron Sharpe,Under,10.5,1.85
+2026-11-11T23:54:04Z,alerta,e6a37eea1dddcbd0384c81237e81f47f,2026-11-12T01:10:00Z,New Orleans Pelicans,Brooklyn Nets,pinnacle,2026-11-11T23:54:02Z,player_points,Dejounte Murray,Over,15.5,1.84
+2026-11-11T23:54:04Z,alerta,e6a37eea1dddcbd0384c81237e81f47f,2026-11-12T01:10:00Z,New Orleans Pelicans,Brooklyn Nets,pinnacle,2026-11-11T23:54:02Z,player_points,Dejounte Murray,Under,15.5,1.9
+2026-11-11T23:54:04Z,alerta,e6a37eea1dddcbd0384c81237e81f47f,2026-11-12T01:10:00Z,New Orleans Pelicans,Brooklyn Nets,pinnacle,2026-11-11T23:54:02Z,player_points,Derik Queen,Over,9.5,1.78
+2026-11-11T23:54:04Z,alerta,e6a37eea1dddcbd0384c81237e81f47f,2026-11-12T01:10:00Z,New Orleans Pelicans,Brooklyn Nets,pinnacle,2026-11-11T23:54:02Z,player_points,Derik Queen,Under,9.5,1.97
+2026-11-11T23:54:04Z,alerta,e6a37eea1dddcbd0384c81237e81f47f,2026-11-12T01:10:00Z,New Orleans Pelicans,Brooklyn Nets,pinnacle,2026-11-11T23:54:02Z,player_points,Herb Jones,Over,8.5,1.98
+2026-11-11T23:54:04Z,alerta,e6a37eea1dddcbd0384c81237e81f47f,2026-11-12T01:10:00Z,New Orleans Pelicans,Brooklyn Nets,pinnacle,2026-11-11T23:54:02Z,player_points,Herb Jones,Under,8.5,1.78
+2026-11-11T23:54:04Z,alerta,e6a37eea1dddcbd0384c81237e81f47f,2026-11-12T01:10:00Z,New Orleans Pelicans,Brooklyn Nets,pinnacle,2026-11-11T23:54:02Z,player_points,Jeremiah Fears,Over,16.5,1.82
+2026-11-11T23:54:04Z,alerta,e6a37eea1dddcbd0384c81237e81f47f,2026-11-12T01:10:00Z,New Orleans Pelicans,Brooklyn Nets,pinnacle,2026-11-11T23:54:02Z,player_points,Jeremiah Fears,Under,16.5,1.92
+2026-11-11T23:54:04Z,alerta,e6a37eea1dddcbd0384c81237e81f47f,2026-11-12T01:10:00Z,New Orleans Pelicans,Brooklyn Nets,pinnacle,2026-11-11T23:54:02Z,player_points,Julius Randle,Over,20.5,1.65
+2026-11-11T23:54:04Z,alerta,e6a37eea1dddcbd0384c81237e81f47f,2026-11-12T01:10:00Z,New Orleans Pelicans,Brooklyn Nets,pinnacle,2026-11-11T23:54:02Z,player_points,Julius Randle,Under,20.5,2.16
+2026-11-11T23:54:04Z,alerta,e6a37eea1dddcbd0384c81237e81f47f,2026-11-12T01:10:00Z,New Orleans Pelicans,Brooklyn Nets,pinnacle,2026-11-11T23:54:02Z,player_points,Karlo Matkovic,Over,7.5,1.97
+2026-11-11T23:54:04Z,alerta,e6a37eea1dddcbd0384c81237e81f47f,2026-11-12T01:10:00Z,New Orleans Pelicans,Brooklyn Nets,pinnacle,2026-11-11T23:54:02Z,player_points,Karlo Matkovic,Under,7.5,1.78
+2026-11-11T23:54:04Z,alerta,e6a37eea1dddcbd0384c81237e81f47f,2026-11-12T01:10:00Z,New Orleans Pelicans,Brooklyn Nets,pinnacle,2026-11-11T23:54:02Z,player_points,Michael Porter Jr,Over,24.5,1.91
+2026-11-11T23:54:04Z,alerta,e6a37eea1dddcbd0384c81237e81f47f,2026-11-12T01:10:00Z,New Orleans Pelicans,Brooklyn Nets,pinnacle,2026-11-11T23:54:02Z,player_points,Michael Porter Jr,Under,24.5,1.83
+2026-11-11T23:54:04Z,alerta,e6a37eea1dddcbd0384c81237e81f47f,2026-11-12T01:10:00Z,New Orleans Pelicans,Brooklyn Nets,pinnacle,2026-11-11T23:54:02Z,player_points,Moritz Wagner,Over,9.5,1.92
+2026-11-11T23:54:04Z,alerta,e6a37eea1dddcbd0384c81237e81f47f,2026-11-12T01:10:00Z,New Orleans Pelicans,Brooklyn Nets,pinnacle,2026-11-11T23:54:02Z,player_points,Moritz Wagner,Under,9.5,1.83
+2026-11-11T23:54:04Z,alerta,e6a37eea1dddcbd0384c81237e81f47f,2026-11-12T01:10:00Z,New Orleans Pelicans,Brooklyn Nets,pinnacle,2026-11-11T23:54:02Z,player_points,Saddiq Bey,Over,14.5,1.75
+2026-11-11T23:54:04Z,alerta,e6a37eea1dddcbd0384c81237e81f47f,2026-11-12T01:10:00Z,New Orleans Pelicans,Brooklyn Nets,pinnacle,2026-11-11T23:54:02Z,player_points,Saddiq Bey,Under,14.5,2.01
+2026-11-11T23:54:04Z,alerta,e6a37eea1dddcbd0384c81237e81f47f,2026-11-12T01:10:00Z,New Orleans Pelicans,Brooklyn Nets,pinnacle,2026-11-11T23:54:02Z,player_points,Zion Williamson,Over,21.5,1.83
+2026-11-11T23:54:04Z,alerta,e6a37eea1dddcbd0384c81237e81f47f,2026-11-12T01:10:00Z,New Orleans Pelicans,Brooklyn Nets,pinnacle,2026-11-11T23:54:02Z,player_points,Zion Williamson,Under,21.5,1.91
+2026-11-11T23:54:04Z,alerta,e6a37eea1dddcbd0384c81237e81f47f,2026-11-12T01:10:00Z,New Orleans Pelicans,Brooklyn Nets,pinnacle,2026-11-11T23:54:02Z,player_points,Egor Demin,Over,10.5,2.04
+2026-11-11T23:54:04Z,alerta,e6a37eea1dddcbd0384c81237e81f47f,2026-11-12T01:10:00Z,New Orleans Pelicans,Brooklyn Nets,pinnacle,2026-11-11T23:54:02Z,player_points,Egor Demin,Under,10.5,1.72
