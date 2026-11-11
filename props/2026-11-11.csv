@@ -17,3 +17,29 @@ recolhido_em,momento,jogo_id,inicio_jogo,casa,fora,casa_apostas,atualizado_em,me
 2026-11-11T00:04:07Z,fecho,3689d555c9a1c81e3d300375b4c80530,2026-11-11T00:40:00Z,New York Knicks,Milwaukee Bucks,pinnacle,2026-11-11T00:02:57Z,player_points,Kyle Kuzma,Under,11.5,1.85
 2026-11-11T00:04:07Z,fecho,3689d555c9a1c81e3d300375b4c80530,2026-11-11T00:40:00Z,New York Knicks,Milwaukee Bucks,pinnacle,2026-11-11T00:02:57Z,player_points,Myles Turner,Over,10.5,2.14
 2026-11-11T00:04:07Z,fecho,3689d555c9a1c81e3d300375b4c80530,2026-11-11T00:40:00Z,New York Knicks,Milwaukee Bucks,pinnacle,2026-11-11T00:02:57Z,player_points,Myles Turner,Under,10.5,1.66
+2026-11-11T00:34:25Z,fecho,cfa503c66cd505776a910921875ef7dd,2026-11-11T01:10:00Z,Philadelphia 76ers,Boston Celtics,pinnacle,2026-11-11T00:33:25Z,player_points,Anfernee Simons,Over,6.5,2.03
+2026-11-11T00:34:25Z,fecho,cfa503c66cd505776a910921875ef7dd,2026-11-11T01:10:00Z,Philadelphia 76ers,Boston Celtics,pinnacle,2026-11-11T00:33:25Z,player_points,Anfernee Simons,Under,6.5,1.74
+2026-11-11T00:34:25Z,fecho,cfa503c66cd505776a910921875ef7dd,2026-11-11T01:10:00Z,Philadelphia 76ers,Boston Celtics,pinnacle,2026-11-11T00:33:25Z,player_points,Derrick White,Over,12.5,1.72
+2026-11-11T00:34:25Z,fecho,cfa503c66cd505776a910921875ef7dd,2026-11-11T01:10:00Z,Philadelphia 76ers,Boston Celtics,pinnacle,2026-11-11T00:33:25Z,player_points,Derrick White,Under,12.5,2.04
+2026-11-11T00:34:25Z,fecho,cfa503c66cd505776a910921875ef7dd,2026-11-11T01:10:00Z,Philadelphia 76ers,Boston Celtics,pinnacle,2026-11-11T00:33:25Z,player_points,Jaylen Brown,Over,22.5,1.9
+2026-11-11T00:34:25Z,fecho,cfa503c66cd505776a910921875ef7dd,2026-11-11T01:10:00Z,Philadelphia 76ers,Boston Celtics,pinnacle,2026-11-11T00:33:25Z,player_points,Jaylen Brown,Under,22.5,1.83
+2026-11-11T00:34:25Z,fecho,cfa503c66cd505776a910921875ef7dd,2026-11-11T01:10:00Z,Philadelphia 76ers,Boston Celtics,pinnacle,2026-11-11T00:33:25Z,player_points,Jayson Tatum,Over,26.5,1.85
+2026-11-11T00:34:25Z,fecho,cfa503c66cd505776a910921875ef7dd,2026-11-11T01:10:00Z,Philadelphia 76ers,Boston Celtics,pinnacle,2026-11-11T00:33:25Z,player_points,Jayson Tatum,Under,26.5,1.89
+2026-11-11T00:34:25Z,fecho,cfa503c66cd505776a910921875ef7dd,2026-11-11T01:10:00Z,Philadelphia 76ers,Boston Celtics,pinnacle,2026-11-11T00:33:25Z,player_points,Joel Embiid,Over,19.5,1.97
+2026-11-11T00:34:25Z,fecho,cfa503c66cd505776a910921875ef7dd,2026-11-11T01:10:00Z,Philadelphia 76ers,Boston Celtics,pinnacle,2026-11-11T00:33:25Z,player_points,Joel Embiid,Under,19.5,1.78
+2026-11-11T00:34:25Z,fecho,cfa503c66cd505776a910921875ef7dd,2026-11-11T01:10:00Z,Philadelphia 76ers,Boston Celtics,pinnacle,2026-11-11T00:33:25Z,player_points,LeBron James,Over,15.5,2.05
+2026-11-11T00:34:25Z,fecho,cfa503c66cd505776a910921875ef7dd,2026-11-11T01:10:00Z,Philadelphia 76ers,Boston Celtics,pinnacle,2026-11-11T00:33:25Z,player_points,LeBron James,Under,15.5,1.72
+2026-11-11T00:34:25Z,fecho,cfa503c66cd505776a910921875ef7dd,2026-11-11T01:10:00Z,Philadelphia 76ers,Boston Celtics,pinnacle,2026-11-11T00:33:25Z,player_points,Mitchell Robinson,Over,5.5,2.03
+2026-11-11T00:34:25Z,fecho,cfa503c66cd505776a910921875ef7dd,2026-11-11T01:10:00Z,Philadelphia 76ers,Boston Celtics,pinnacle,2026-11-11T00:33:25Z,player_points,Mitchell Robinson,Under,5.5,1.74
+2026-11-11T00:34:25Z,fecho,cfa503c66cd505776a910921875ef7dd,2026-11-11T01:10:00Z,Philadelphia 76ers,Boston Celtics,pinnacle,2026-11-11T00:33:25Z,player_points,Neemias Queta,Over,9.5,1.98
+2026-11-11T00:34:25Z,fecho,cfa503c66cd505776a910921875ef7dd,2026-11-11T01:10:00Z,Philadelphia 76ers,Boston Celtics,pinnacle,2026-11-11T00:33:25Z,player_points,Neemias Queta,Under,9.5,1.77
+2026-11-11T00:34:25Z,fecho,cfa503c66cd505776a910921875ef7dd,2026-11-11T01:10:00Z,Philadelphia 76ers,Boston Celtics,pinnacle,2026-11-11T00:33:25Z,player_points,Paul George,Over,17.5,1.8
+2026-11-11T00:34:25Z,fecho,cfa503c66cd505776a910921875ef7dd,2026-11-11T01:10:00Z,Philadelphia 76ers,Boston Celtics,pinnacle,2026-11-11T00:33:25Z,player_points,Paul George,Under,17.5,1.94
+2026-11-11T00:34:25Z,fecho,cfa503c66cd505776a910921875ef7dd,2026-11-11T01:10:00Z,Philadelphia 76ers,Boston Celtics,pinnacle,2026-11-11T00:33:25Z,player_points,Payton Pritchard,Over,12.5,1.79
+2026-11-11T00:34:25Z,fecho,cfa503c66cd505776a910921875ef7dd,2026-11-11T01:10:00Z,Philadelphia 76ers,Boston Celtics,pinnacle,2026-11-11T00:33:25Z,player_points,Payton Pritchard,Under,12.5,1.95
+2026-11-11T00:34:25Z,fecho,cfa503c66cd505776a910921875ef7dd,2026-11-11T01:10:00Z,Philadelphia 76ers,Boston Celtics,pinnacle,2026-11-11T00:33:25Z,player_points,Sam Hauser,Over,6.5,2.26
+2026-11-11T00:34:25Z,fecho,cfa503c66cd505776a910921875ef7dd,2026-11-11T01:10:00Z,Philadelphia 76ers,Boston Celtics,pinnacle,2026-11-11T00:33:25Z,player_points,Sam Hauser,Under,6.5,1.59
+2026-11-11T00:34:25Z,fecho,cfa503c66cd505776a910921875ef7dd,2026-11-11T01:10:00Z,Philadelphia 76ers,Boston Celtics,pinnacle,2026-11-11T00:33:25Z,player_points,Tyrese Maxey,Over,23.5,1.92
+2026-11-11T00:34:25Z,fecho,cfa503c66cd505776a910921875ef7dd,2026-11-11T01:10:00Z,Philadelphia 76ers,Boston Celtics,pinnacle,2026-11-11T00:33:25Z,player_points,Tyrese Maxey,Under,23.5,1.82
+2026-11-11T00:34:25Z,fecho,cfa503c66cd505776a910921875ef7dd,2026-11-11T01:10:00Z,Philadelphia 76ers,Boston Celtics,pinnacle,2026-11-11T00:33:25Z,player_points,VJ Edgecombe,Over,12.5,2.11
+2026-11-11T00:34:25Z,fecho,cfa503c66cd505776a910921875ef7dd,2026-11-11T01:10:00Z,Philadelphia 76ers,Boston Celtics,pinnacle,2026-11-11T00:33:25Z,player_points,VJ Edgecombe,Under,12.5,1.68
