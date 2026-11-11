@@ -465,3 +465,19 @@ recolhido_em,momento,jogo_id,inicio_jogo,casa,fora,casa_apostas,atualizado_em,me
 2026-11-11T23:30:51Z,fecho,e9545a3084389f5f3429e19fea891124,2026-11-12T00:10:00Z,Indiana Pacers,Washington Wizards,pinnacle,2026-11-11T23:30:01Z,player_points,Trae Young,Under,18.5,1.76
 2026-11-11T23:30:51Z,fecho,e9545a3084389f5f3429e19fea891124,2026-11-12T00:10:00Z,Indiana Pacers,Washington Wizards,pinnacle,2026-11-11T23:30:01Z,player_points,Tre Johnson,Over,7.5,1.97
 2026-11-11T23:30:51Z,fecho,e9545a3084389f5f3429e19fea891124,2026-11-12T00:10:00Z,Indiana Pacers,Washington Wizards,pinnacle,2026-11-11T23:30:01Z,player_points,Tre Johnson,Under,7.5,1.78
+2026-11-11T23:40:59Z,cedo,d4f288eeb0132970825be17748f2b4f0,2026-11-12T03:10:00Z,Portland Trail Blazers,Oklahoma City Thunder,pinnacle,2026-11-11T23:40:04Z,player_points,Damian Lillard,Over,19.5,1.83
+2026-11-11T23:40:59Z,cedo,d4f288eeb0132970825be17748f2b4f0,2026-11-12T03:10:00Z,Portland Trail Blazers,Oklahoma City Thunder,pinnacle,2026-11-11T23:40:04Z,player_points,Damian Lillard,Under,19.5,1.91
+2026-11-11T23:40:59Z,cedo,d4f288eeb0132970825be17748f2b4f0,2026-11-12T03:10:00Z,Portland Trail Blazers,Oklahoma City Thunder,pinnacle,2026-11-11T23:40:04Z,player_points,Deni Avdija,Over,22.5,1.8
+2026-11-11T23:40:59Z,cedo,d4f288eeb0132970825be17748f2b4f0,2026-11-12T03:10:00Z,Portland Trail Blazers,Oklahoma City Thunder,pinnacle,2026-11-11T23:40:04Z,player_points,Deni Avdija,Under,22.5,1.94
+2026-11-11T23:40:59Z,cedo,d4f288eeb0132970825be17748f2b4f0,2026-11-12T03:10:00Z,Portland Trail Blazers,Oklahoma City Thunder,pinnacle,2026-11-11T23:40:04Z,player_points,Donovan Clingan,Over,11.5,2.21
+2026-11-11T23:40:59Z,cedo,d4f288eeb0132970825be17748f2b4f0,2026-11-12T03:10:00Z,Portland Trail Blazers,Oklahoma City Thunder,pinnacle,2026-11-11T23:40:04Z,player_points,Donovan Clingan,Under,11.5,1.62
+2026-11-11T23:40:59Z,cedo,d4f288eeb0132970825be17748f2b4f0,2026-11-12T03:10:00Z,Portland Trail Blazers,Oklahoma City Thunder,pinnacle,2026-11-11T23:40:04Z,player_points,Isaiah Hartenstein,Over,9.5,2.04
+2026-11-11T23:40:59Z,cedo,d4f288eeb0132970825be17748f2b4f0,2026-11-12T03:10:00Z,Portland Trail Blazers,Oklahoma City Thunder,pinnacle,2026-11-11T23:40:04Z,player_points,Isaiah Hartenstein,Under,9.5,1.72
+2026-11-11T23:40:59Z,cedo,d4f288eeb0132970825be17748f2b4f0,2026-11-12T03:10:00Z,Portland Trail Blazers,Oklahoma City Thunder,pinnacle,2026-11-11T23:40:04Z,player_points,Jared McCain,Over,15.5,1.82
+2026-11-11T23:40:59Z,cedo,d4f288eeb0132970825be17748f2b4f0,2026-11-12T03:10:00Z,Portland Trail Blazers,Oklahoma City Thunder,pinnacle,2026-11-11T23:40:04Z,player_points,Jared McCain,Under,15.5,1.92
+2026-11-11T23:40:59Z,cedo,d4f288eeb0132970825be17748f2b4f0,2026-11-12T03:10:00Z,Portland Trail Blazers,Oklahoma City Thunder,pinnacle,2026-11-11T23:40:04Z,player_points,Kenrich Williams,Over,8.5,1.79
+2026-11-11T23:40:59Z,cedo,d4f288eeb0132970825be17748f2b4f0,2026-11-12T03:10:00Z,Portland Trail Blazers,Oklahoma City Thunder,pinnacle,2026-11-11T23:40:04Z,player_points,Kenrich Williams,Under,8.5,1.96
+2026-11-11T23:40:59Z,cedo,d4f288eeb0132970825be17748f2b4f0,2026-11-12T03:10:00Z,Portland Trail Blazers,Oklahoma City Thunder,pinnacle,2026-11-11T23:40:04Z,player_points,Shai Gilgeous-Alexander,Over,33.5,1.72
+2026-11-11T23:40:59Z,cedo,d4f288eeb0132970825be17748f2b4f0,2026-11-12T03:10:00Z,Portland Trail Blazers,Oklahoma City Thunder,pinnacle,2026-11-11T23:40:04Z,player_points,Shai Gilgeous-Alexander,Under,33.5,2.05
+2026-11-11T23:40:59Z,cedo,d4f288eeb0132970825be17748f2b4f0,2026-11-12T03:10:00Z,Portland Trail Blazers,Oklahoma City Thunder,pinnacle,2026-11-11T23:40:04Z,player_points,Toumani Camara,Over,12.5,1.93
+2026-11-11T23:40:59Z,cedo,d4f288eeb0132970825be17748f2b4f0,2026-11-12T03:10:00Z,Portland Trail Blazers,Oklahoma City Thunder,pinnacle,2026-11-11T23:40:04Z,player_points,Toumani Camara,Under,12.5,1.82
