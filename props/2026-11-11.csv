@@ -73,3 +73,45 @@ recolhido_em,momento,jogo_id,inicio_jogo,casa,fora,casa_apostas,atualizado_em,me
 2026-11-11T00:44:31Z,cedo,f5477c781c94e09e85374bbf9149c0f1,2026-11-11T04:10:00Z,Portland Trail Blazers,Oklahoma City Thunder,pinnacle,2026-11-11T00:39:49Z,player_points,Shai Gilgeous-Alexander,Under,32.5,1.97
 2026-11-11T00:44:31Z,cedo,f5477c781c94e09e85374bbf9149c0f1,2026-11-11T04:10:00Z,Portland Trail Blazers,Oklahoma City Thunder,pinnacle,2026-11-11T00:39:49Z,player_points,Toumani Camara,Over,12.5,1.87
 2026-11-11T00:44:31Z,cedo,f5477c781c94e09e85374bbf9149c0f1,2026-11-11T04:10:00Z,Portland Trail Blazers,Oklahoma City Thunder,pinnacle,2026-11-11T00:39:49Z,player_points,Toumani Camara,Under,12.5,1.87
+2026-11-11T01:27:25Z,fecho,8178ff2ec61f604b61dfe6d7b8d71103,2026-11-11T02:10:00Z,Phoenix Suns,Los Angeles Clippers,pinnacle,2026-11-11T01:27:06Z,player_points,Brook Lopez,Over,12.5,2.13
+2026-11-11T01:27:25Z,fecho,8178ff2ec61f604b61dfe6d7b8d71103,2026-11-11T02:10:00Z,Phoenix Suns,Los Angeles Clippers,pinnacle,2026-11-11T01:27:06Z,player_points,Brook Lopez,Under,12.5,1.66
+2026-11-11T01:27:25Z,fecho,8178ff2ec61f604b61dfe6d7b8d71103,2026-11-11T02:10:00Z,Phoenix Suns,Los Angeles Clippers,pinnacle,2026-11-11T01:27:06Z,player_points,Collin Gillespie,Over,9.5,2.42
+2026-11-11T01:27:25Z,fecho,8178ff2ec61f604b61dfe6d7b8d71103,2026-11-11T02:10:00Z,Phoenix Suns,Los Angeles Clippers,pinnacle,2026-11-11T01:27:06Z,player_points,Collin Gillespie,Under,9.5,1.52
+2026-11-11T01:27:25Z,fecho,8178ff2ec61f604b61dfe6d7b8d71103,2026-11-11T02:10:00Z,Phoenix Suns,Los Angeles Clippers,pinnacle,2026-11-11T01:27:06Z,player_points,Darius Garland,Over,21.5,1.79
+2026-11-11T01:27:25Z,fecho,8178ff2ec61f604b61dfe6d7b8d71103,2026-11-11T02:10:00Z,Phoenix Suns,Los Angeles Clippers,pinnacle,2026-11-11T01:27:06Z,player_points,Darius Garland,Under,21.5,1.95
+2026-11-11T01:27:25Z,fecho,8178ff2ec61f604b61dfe6d7b8d71103,2026-11-11T02:10:00Z,Phoenix Suns,Los Angeles Clippers,pinnacle,2026-11-11T01:27:06Z,player_points,Derrick Jones,Over,11.5,2.37
+2026-11-11T01:27:25Z,fecho,8178ff2ec61f604b61dfe6d7b8d71103,2026-11-11T02:10:00Z,Phoenix Suns,Los Angeles Clippers,pinnacle,2026-11-11T01:27:06Z,player_points,Derrick Jones,Under,11.5,1.54
+2026-11-11T01:27:25Z,fecho,8178ff2ec61f604b61dfe6d7b8d71103,2026-11-11T02:10:00Z,Phoenix Suns,Los Angeles Clippers,pinnacle,2026-11-11T01:27:06Z,player_points,Devin Booker,Over,26.5,1.93
+2026-11-11T01:27:25Z,fecho,8178ff2ec61f604b61dfe6d7b8d71103,2026-11-11T02:10:00Z,Phoenix Suns,Los Angeles Clippers,pinnacle,2026-11-11T01:27:06Z,player_points,Devin Booker,Under,26.5,1.82
+2026-11-11T01:27:25Z,fecho,8178ff2ec61f604b61dfe6d7b8d71103,2026-11-11T02:10:00Z,Phoenix Suns,Los Angeles Clippers,pinnacle,2026-11-11T01:27:06Z,player_points,Dillon Brooks,Over,15.5,1.79
+2026-11-11T01:27:25Z,fecho,8178ff2ec61f604b61dfe6d7b8d71103,2026-11-11T02:10:00Z,Phoenix Suns,Los Angeles Clippers,pinnacle,2026-11-11T01:27:06Z,player_points,Dillon Brooks,Under,15.5,1.95
+2026-11-11T01:27:25Z,fecho,8178ff2ec61f604b61dfe6d7b8d71103,2026-11-11T02:10:00Z,Phoenix Suns,Los Angeles Clippers,pinnacle,2026-11-11T01:27:06Z,player_points,Jalen Green,Over,15.5,2.05
+2026-11-11T01:27:25Z,fecho,8178ff2ec61f604b61dfe6d7b8d71103,2026-11-11T02:10:00Z,Phoenix Suns,Los Angeles Clippers,pinnacle,2026-11-11T01:27:06Z,player_points,Jalen Green,Under,15.5,1.72
+2026-11-11T01:27:25Z,fecho,8178ff2ec61f604b61dfe6d7b8d71103,2026-11-11T02:10:00Z,Phoenix Suns,Los Angeles Clippers,pinnacle,2026-11-11T01:27:06Z,player_points,Keaton Wagler,Over,9.5,1.92
+2026-11-11T01:27:25Z,fecho,8178ff2ec61f604b61dfe6d7b8d71103,2026-11-11T02:10:00Z,Phoenix Suns,Los Angeles Clippers,pinnacle,2026-11-11T01:27:06Z,player_points,Keaton Wagler,Under,9.5,1.82
+2026-11-11T01:27:25Z,fecho,8178ff2ec61f604b61dfe6d7b8d71103,2026-11-11T02:10:00Z,Phoenix Suns,Los Angeles Clippers,pinnacle,2026-11-11T01:27:06Z,player_points,Kris Dunn,Over,7.5,2.02
+2026-11-11T01:27:25Z,fecho,8178ff2ec61f604b61dfe6d7b8d71103,2026-11-11T02:10:00Z,Phoenix Suns,Los Angeles Clippers,pinnacle,2026-11-11T01:27:06Z,player_points,Kris Dunn,Under,7.5,1.74
+2026-11-11T01:27:25Z,fecho,8178ff2ec61f604b61dfe6d7b8d71103,2026-11-11T02:10:00Z,Phoenix Suns,Los Angeles Clippers,pinnacle,2026-11-11T01:27:06Z,player_points,Miles Bridges,Over,16.5,1.93
+2026-11-11T01:27:25Z,fecho,8178ff2ec61f604b61dfe6d7b8d71103,2026-11-11T02:10:00Z,Phoenix Suns,Los Angeles Clippers,pinnacle,2026-11-11T01:27:06Z,player_points,Miles Bridges,Under,16.5,1.81
+2026-11-11T01:27:25Z,fecho,8178ff2ec61f604b61dfe6d7b8d71103,2026-11-11T02:10:00Z,Phoenix Suns,Los Angeles Clippers,pinnacle,2026-11-11T01:27:06Z,player_points,Rui Hachimura,Over,15.5,1.69
+2026-11-11T01:27:25Z,fecho,8178ff2ec61f604b61dfe6d7b8d71103,2026-11-11T02:10:00Z,Phoenix Suns,Los Angeles Clippers,pinnacle,2026-11-11T01:27:06Z,player_points,Rui Hachimura,Under,15.5,2.09
+2026-11-11T01:27:25Z,fecho,9ac02cb22adf276b325b1e9c9c6c588e,2026-11-11T02:10:00Z,Utah Jazz,Miami Heat,pinnacle,2026-11-11T01:27:06Z,player_points,Ace Bailey,Over,16.5,1.75
+2026-11-11T01:27:25Z,fecho,9ac02cb22adf276b325b1e9c9c6c588e,2026-11-11T02:10:00Z,Utah Jazz,Miami Heat,pinnacle,2026-11-11T01:27:06Z,player_points,Ace Bailey,Under,16.5,2.01
+2026-11-11T01:27:25Z,fecho,9ac02cb22adf276b325b1e9c9c6c588e,2026-11-11T02:10:00Z,Utah Jazz,Miami Heat,pinnacle,2026-11-11T01:27:06Z,player_points,Andrew Wiggins,Over,9.5,2.2
+2026-11-11T01:27:25Z,fecho,9ac02cb22adf276b325b1e9c9c6c588e,2026-11-11T02:10:00Z,Utah Jazz,Miami Heat,pinnacle,2026-11-11T01:27:06Z,player_points,Andrew Wiggins,Under,9.5,1.62
+2026-11-11T01:27:25Z,fecho,9ac02cb22adf276b325b1e9c9c6c588e,2026-11-11T02:10:00Z,Utah Jazz,Miami Heat,pinnacle,2026-11-11T01:27:06Z,player_points,Bam Adebayo,Over,18.5,1.87
+2026-11-11T01:27:25Z,fecho,9ac02cb22adf276b325b1e9c9c6c588e,2026-11-11T02:10:00Z,Utah Jazz,Miami Heat,pinnacle,2026-11-11T01:27:06Z,player_points,Bam Adebayo,Under,18.5,1.87
+2026-11-11T01:27:25Z,fecho,9ac02cb22adf276b325b1e9c9c6c588e,2026-11-11T02:10:00Z,Utah Jazz,Miami Heat,pinnacle,2026-11-11T01:27:06Z,player_points,Darryn Peterson,Over,19.5,1.73
+2026-11-11T01:27:25Z,fecho,9ac02cb22adf276b325b1e9c9c6c588e,2026-11-11T02:10:00Z,Utah Jazz,Miami Heat,pinnacle,2026-11-11T01:27:06Z,player_points,Darryn Peterson,Under,19.5,2.04
+2026-11-11T01:27:25Z,fecho,9ac02cb22adf276b325b1e9c9c6c588e,2026-11-11T02:10:00Z,Utah Jazz,Miami Heat,pinnacle,2026-11-11T01:27:06Z,player_points,Davion Mitchell,Over,13.5,1.89
+2026-11-11T01:27:25Z,fecho,9ac02cb22adf276b325b1e9c9c6c588e,2026-11-11T02:10:00Z,Utah Jazz,Miami Heat,pinnacle,2026-11-11T01:27:06Z,player_points,Davion Mitchell,Under,13.5,1.85
+2026-11-11T01:27:25Z,fecho,9ac02cb22adf276b325b1e9c9c6c588e,2026-11-11T02:10:00Z,Utah Jazz,Miami Heat,pinnacle,2026-11-11T01:27:06Z,player_points,Giannis Antetokounmpo,Over,28.5,1.84
+2026-11-11T01:27:25Z,fecho,9ac02cb22adf276b325b1e9c9c6c588e,2026-11-11T02:10:00Z,Utah Jazz,Miami Heat,pinnacle,2026-11-11T01:27:06Z,player_points,Giannis Antetokounmpo,Under,28.5,1.9
+2026-11-11T01:27:25Z,fecho,9ac02cb22adf276b325b1e9c9c6c588e,2026-11-11T02:10:00Z,Utah Jazz,Miami Heat,pinnacle,2026-11-11T01:27:06Z,player_points,Isaiah Collier,Over,10.5,1.75
+2026-11-11T01:27:25Z,fecho,9ac02cb22adf276b325b1e9c9c6c588e,2026-11-11T02:10:00Z,Utah Jazz,Miami Heat,pinnacle,2026-11-11T01:27:06Z,player_points,Isaiah Collier,Under,10.5,2.01
+2026-11-11T01:27:25Z,fecho,9ac02cb22adf276b325b1e9c9c6c588e,2026-11-11T02:10:00Z,Utah Jazz,Miami Heat,pinnacle,2026-11-11T01:27:06Z,player_points,Jaxson Hayes,Over,10.5,2.36
+2026-11-11T01:27:25Z,fecho,9ac02cb22adf276b325b1e9c9c6c588e,2026-11-11T02:10:00Z,Utah Jazz,Miami Heat,pinnacle,2026-11-11T01:27:06Z,player_points,Jaxson Hayes,Under,10.5,1.55
+2026-11-11T01:27:25Z,fecho,9ac02cb22adf276b325b1e9c9c6c588e,2026-11-11T02:10:00Z,Utah Jazz,Miami Heat,pinnacle,2026-11-11T01:27:06Z,player_points,Klay Thompson,Over,13.5,1.89
+2026-11-11T01:27:25Z,fecho,9ac02cb22adf276b325b1e9c9c6c588e,2026-11-11T02:10:00Z,Utah Jazz,Miami Heat,pinnacle,2026-11-11T01:27:06Z,player_points,Klay Thompson,Under,13.5,1.85
+2026-11-11T01:27:25Z,fecho,9ac02cb22adf276b325b1e9c9c6c588e,2026-11-11T02:10:00Z,Utah Jazz,Miami Heat,pinnacle,2026-11-11T01:27:06Z,player_points,Pelle Larsson,Over,11.5,1.81
+2026-11-11T01:27:25Z,fecho,9ac02cb22adf276b325b1e9c9c6c588e,2026-11-11T02:10:00Z,Utah Jazz,Miami Heat,pinnacle,2026-11-11T01:27:06Z,player_points,Pelle Larsson,Under,11.5,1.94
