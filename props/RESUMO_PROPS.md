@@ -1,8 +1,8 @@
 # Apostas virtuais em props (sem dinheiro real)
 
-Atualizado: 2026-11-11 21:30 UTC. Casa de referencia: Pinnacle (linha ~3h antes do jogo).
+Atualizado: 2026-11-11 21:42 UTC. Casa de referencia: Pinnacle (linha ~3h antes do jogo).
 
-- Apostas decididas: **132** (ganhas 47%), anuladas: 1, por decidir: 11
+- Apostas decididas: **132** (ganhas 47%), anuladas: 1, por decidir: 25
 - Apostado: 130.7 unidades. Lucro: **-15.0 unidades** (ROI -11.5%)
 - CLV medio (bater a linha de fecho; o melhor sinal de qualidade): **+1.4%** em 125 apostas
 
@@ -11,20 +11,20 @@ Regra de bolso: so pensar em dinheiro real com 200+ apostas e CLV medio acima de
 ## Ultimas apostas
 
 ```
-         inicio_jogo            jogador  lado  linha  odd  previsto  stake resultado  real  lucro     clv
-2026-11-11T04:10:00Z Isaiah Hartenstein Under    9.5 1.74      7.31    1.0    ganhou   7.0   0.74 -0.0001
-2026-11-11T04:10:00Z    Scoot Henderson Under   10.5 1.89      9.59    1.0    perdeu  11.0  -1.00 -0.0001
-2026-11-11T03:10:00Z Wendell Carter Jr.  Over   13.5 1.91     16.00    1.0    perdeu   8.0  -1.00     NaN
-2026-11-11T03:10:00Z       Franz Wagner Under   23.5 1.90     21.94    1.0    perdeu  33.0  -1.00 -0.0218
-2026-11-12T00:10:00Z        Evan Mobley Under   16.5 1.80     14.82    1.0       NaN   NaN    NaN     NaN
-2026-11-12T00:10:00Z       James Harden Under   16.5 1.76     13.79    1.0       NaN   NaN    NaN     NaN
-2026-11-12T00:10:00Z      Jarrett Allen Under   11.5 1.84     10.43    1.0       NaN   NaN    NaN     NaN
-2026-11-12T00:10:00Z      Mikal Bridges Under    9.5 1.93      8.37    1.0       NaN   NaN    NaN     NaN
-2026-11-12T00:10:00Z      Peyton Watson Under   12.5 1.80     10.65    1.0       NaN   NaN    NaN     NaN
-2026-11-12T00:10:00Z      Derrick White Under   14.5 1.82     11.85    1.0       NaN   NaN    NaN     NaN
-2026-11-12T00:10:00Z     Ja'Kobe Walter Under   12.5 1.93     11.23    1.0       NaN   NaN    NaN     NaN
-2026-11-12T00:10:00Z       Jayson Tatum Under   26.5 2.01     23.78    1.0       NaN   NaN    NaN     NaN
-2026-11-12T00:10:00Z   Payton Pritchard Under   14.5 2.06     13.90    1.0       NaN   NaN    NaN     NaN
-2026-11-12T00:10:00Z     Kyshawn George  Over   14.5 1.83     16.70    1.0       NaN   NaN    NaN     NaN
-2026-11-12T00:10:00Z        Tre Johnson  Over    7.5 1.97      9.62    1.0       NaN   NaN    NaN     NaN
+         inicio_jogo         jogador  lado  linha  odd  previsto  stake resultado  real  lucro  clv
+2026-11-12T00:10:00Z     Tre Johnson  Over    7.5 1.97      9.62   1.00       NaN   NaN    NaN  NaN
+2026-11-12T01:10:00Z    Aaron Gordon Under   12.5 1.81     11.13   1.00       NaN   NaN    NaN  NaN
+2026-11-12T01:10:00Z     Cam Spencer  Over    7.5 2.01      8.99   1.00       NaN   NaN    NaN  NaN
+2026-11-12T01:10:00Z Cameron Johnson Under   11.5 1.97     10.91   0.96       NaN   NaN    NaN  NaN
+2026-11-12T01:10:00Z    Nikola Jokic Under   25.5 1.87     22.89   1.00       NaN   NaN    NaN  NaN
+2026-11-12T01:10:00Z       Ty Jerome  Over   21.5 1.93     23.63   1.00       NaN   NaN    NaN  NaN
+2026-11-12T01:10:00Z    Dylan Harper Under   17.5 1.89     16.37   0.85       NaN   NaN    NaN  NaN
+2026-11-12T01:10:00Z     Jalen Smith Under   12.5 1.72     10.64   1.00       NaN   NaN    NaN  NaN
+2026-11-12T01:10:00Z     Josh Giddey Under   12.5 2.02     12.08   0.85       NaN   NaN    NaN  NaN
+2026-11-12T01:10:00Z Brayden Burries Under   13.5 1.68     11.26   1.00       NaN   NaN    NaN  NaN
+2026-11-12T01:10:00Z     Luka Doncic  Over   34.5 1.80     38.91   1.00       NaN   NaN    NaN  NaN
+2026-11-12T01:10:00Z Ziaire Williams  Over    8.5 1.85     10.89   1.00       NaN   NaN    NaN  NaN
+2026-11-12T01:10:00Z     Derik Queen  Over    9.5 1.78     11.61   1.00       NaN   NaN    NaN  NaN
+2026-11-12T01:10:00Z      Egor Demin Under    9.5 1.90      7.76   1.00       NaN   NaN    NaN  NaN
+2026-11-12T01:10:00Z  Karlo Matkovic  Over    7.5 1.97      8.71   0.80       NaN   NaN    NaN  NaN
 ```
