@@ -2,11 +2,11 @@
 
 Apostas virtuais (sem dinheiro real) dos jogos da noite de 11/11 para 12/11. Odds da Pinnacle, 1 unidade por aposta (menos quando o modelo aposta menos).
 
-**Ainda ha 26 apostas por decidir** (jogos a decorrer ou resultados por chegar).
+**Ainda ha 27 apostas por decidir** (jogos a decorrer ou resultados por chegar).
 
 ## Resumo da noite
 
-- Apostas: **26** (ganhas 0, perdidas 0)
+- Apostas: **27** (ganhas 0, perdidas 0)
 - Apostado: 0.0 unidades
 - Lucro: **+0.00 unidades**
 - CLV medio: - (se o mercado se moveu a nosso favor depois de apostarmos)
@@ -48,3 +48,4 @@ Apostas virtuais (sem dinheiro real) dos jogos da noite de 11/11 para 12/11. Odd
 | Denver Nuggets @ Memphis Grizzlies | Ty Jerome | Over 21.5 | 1.93 | 23.6 |  | por decidir |  |
 | Los Angeles Lakers @ Milwaukee Bucks | Ziaire Williams | Over 8.5 | 1.85 | 10.9 |  | por decidir |  |
 | Orlando Magic @ Utah Jazz | Wendell Carter Jr | Over 12.5 | 1.87 | 14.8 |  | por decidir |  |
+| Golden State Warriors @ Houston Rockets | Georges Niang | Over 7.5 | 1.99 | 8.8 |  | por decidir |  |

@@ -1,8 +1,8 @@
 # Apostas virtuais em props (sem dinheiro real)
 
-Atualizado: 2026-11-11 23:07 UTC. Casa de referencia: Pinnacle (linha ~3h antes do jogo).
+Atualizado: 2026-11-11 23:18 UTC. Casa de referencia: Pinnacle (linha ~3h antes do jogo).
 
-- Apostas decididas: **132** (ganhas 47%), anuladas: 1, por decidir: 26
+- Apostas decididas: **132** (ganhas 47%), anuladas: 1, por decidir: 27
 - Apostado: 130.7 unidades. Lucro: **-15.0 unidades** (ROI -11.5%)
 - CLV medio (bater a linha de fecho; o melhor sinal de qualidade): **+1.4%** em 125 apostas
 
@@ -12,7 +12,6 @@ Regra de bolso: so pensar em dinheiro real com 200+ apostas e CLV medio acima de
 
 ```
          inicio_jogo           jogador  lado  linha  odd  previsto  stake resultado  real  lucro  clv
-2026-11-12T01:10:00Z      Aaron Gordon Under   12.5 1.81     11.13   1.00       NaN   NaN    NaN  NaN
 2026-11-12T01:10:00Z       Cam Spencer  Over    7.5 2.01      8.99   1.00       NaN   NaN    NaN  NaN
 2026-11-12T01:10:00Z   Cameron Johnson Under   11.5 1.97     10.91   0.96       NaN   NaN    NaN  NaN
 2026-11-12T01:10:00Z      Nikola Jokic Under   25.5 1.87     22.89   1.00       NaN   NaN    NaN  NaN
@@ -27,4 +26,5 @@ Regra de bolso: so pensar em dinheiro real com 200+ apostas e CLV medio acima de
 2026-11-12T01:10:00Z        Egor Demin Under    9.5 1.90      7.76   1.00       NaN   NaN    NaN  NaN
 2026-11-12T01:10:00Z    Karlo Matkovic  Over    7.5 1.97      8.71   0.80       NaN   NaN    NaN  NaN
 2026-11-12T02:10:00Z Wendell Carter Jr  Over   12.5 1.87     14.85   1.00       NaN   NaN    NaN  NaN
+2026-11-12T02:40:00Z     Georges Niang  Over    7.5 1.99      8.85   1.00       NaN   NaN    NaN  NaN
 ```
