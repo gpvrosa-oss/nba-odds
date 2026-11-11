@@ -40,7 +40,7 @@ jobs:
             python historico.py || true
             python apostas_props.py || true
             python alertas.py || true
-            git add props dados 2>/dev/null || true
+            git add props dados Resultados 2>/dev/null || true
             if ! git diff --cached --quiet; then
               git commit -q -m "Props $(date -u +%Y-%m-%dT%H:%MZ)"
               for i in 1 2 3; do git pull -q --rebase && git push -q && break; sleep 5; done

@@ -261,3 +261,8 @@ if __name__ == "__main__":
     novas_apostas(L, H)
     avaliar(L, H)
     escrever_hoje()
+    try:
+        import resultados
+        resultados.escrever()
+    except Exception as e:
+        print("resultados falhou:", e)
