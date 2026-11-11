@@ -1,5 +1,19 @@
 # Alertas de ultima hora
 
+## 11/11 01:49 UTC: Orlando Magic @ Sacramento Kings
+
+- **Tristan da Silva** (ORL, 30.4 min de media): Out (antes: 30% de faltar, agora 100%)
+
+Colegas (pontos previstos antes -> agora | linha Pinnacle agora | veredito):
+```
+Wendell Carter Jr.        15.4 ->  16.0 (+0.6) | 13.5 (1.91/1.83)   | APOSTA Over @ 1.91 (EV +8.1%)
+Anthony Black             15.7 ->  16.0 (+0.3) | 16.5 (1.88/1.85)   | sem valor (a Pinnacle ja ajustou?)
+Desmond Bane              19.6 ->  19.9 (+0.3) | 19.5 (1.77/1.99)   | sem valor (a Pinnacle ja ajustou?)
+Franz Wagner              22.0 ->  21.9 (-0.1) | 23.5 (1.84/1.9)    | APOSTA Under @ 1.9 (EV +4.1%)
+```
+
+Na Betano/Betclic: confirma se a linha desses jogadores ainda nao subiu.
+
 ## 10/11 23:10 UTC: Milwaukee Bucks @ New York Knicks
 
 - **Josh Hart** (NY, 31.7 min de media): Out (antes: 30% de faltar, agora 100%)
