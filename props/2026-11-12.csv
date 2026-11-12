@@ -89,3 +89,23 @@ recolhido_em,momento,jogo_id,inicio_jogo,casa,fora,casa_apostas,atualizado_em,me
 2026-11-12T00:25:18Z,fecho,c04e54e9e028676cd8b23259bb4364ff,2026-11-12T01:10:00Z,Milwaukee Bucks,Los Angeles Lakers,pinnacle,2026-11-12T00:24:05Z,player_points,Walker Kessler,Under,13.5,1.82
 2026-11-12T00:25:18Z,fecho,c04e54e9e028676cd8b23259bb4364ff,2026-11-12T01:10:00Z,Milwaukee Bucks,Los Angeles Lakers,pinnacle,2026-11-12T00:24:05Z,player_points,Ziaire Williams,Over,8.5,1.91
 2026-11-12T00:25:18Z,fecho,c04e54e9e028676cd8b23259bb4364ff,2026-11-12T01:10:00Z,Milwaukee Bucks,Los Angeles Lakers,pinnacle,2026-11-12T00:24:05Z,player_points,Ziaire Williams,Under,8.5,1.83
+2026-11-12T01:30:16Z,fecho,423255883d0e6c5d1a94a533b90e935b,2026-11-12T02:10:00Z,Utah Jazz,Orlando Magic,pinnacle,2026-11-12T01:29:23Z,player_points,Desmond Bane,Over,19.5,1.81
+2026-11-12T01:30:16Z,fecho,423255883d0e6c5d1a94a533b90e935b,2026-11-12T02:10:00Z,Utah Jazz,Orlando Magic,pinnacle,2026-11-12T01:29:23Z,player_points,Desmond Bane,Under,19.5,1.93
+2026-11-12T01:30:16Z,fecho,423255883d0e6c5d1a94a533b90e935b,2026-11-12T02:10:00Z,Utah Jazz,Orlando Magic,pinnacle,2026-11-12T01:29:23Z,player_points,Franz Wagner,Over,24.5,1.88
+2026-11-12T01:30:16Z,fecho,423255883d0e6c5d1a94a533b90e935b,2026-11-12T02:10:00Z,Utah Jazz,Orlando Magic,pinnacle,2026-11-12T01:29:23Z,player_points,Franz Wagner,Under,24.5,1.88
+2026-11-12T01:30:16Z,fecho,423255883d0e6c5d1a94a533b90e935b,2026-11-12T02:10:00Z,Utah Jazz,Orlando Magic,pinnacle,2026-11-12T01:29:23Z,player_points,Wendell Carter Jr,Over,12.5,1.87
+2026-11-12T01:30:16Z,fecho,423255883d0e6c5d1a94a533b90e935b,2026-11-12T02:10:00Z,Utah Jazz,Orlando Magic,pinnacle,2026-11-12T01:29:23Z,player_points,Wendell Carter Jr,Under,12.5,1.87
+2026-11-12T01:30:16Z,fecho,423255883d0e6c5d1a94a533b90e935b,2026-11-12T02:10:00Z,Utah Jazz,Orlando Magic,pinnacle,2026-11-12T01:29:23Z,player_points,Ace Bailey,Over,15.5,1.96
+2026-11-12T01:30:16Z,fecho,423255883d0e6c5d1a94a533b90e935b,2026-11-12T02:10:00Z,Utah Jazz,Orlando Magic,pinnacle,2026-11-12T01:29:23Z,player_points,Ace Bailey,Under,15.5,1.82
+2026-11-12T01:30:16Z,fecho,423255883d0e6c5d1a94a533b90e935b,2026-11-12T02:10:00Z,Utah Jazz,Orlando Magic,pinnacle,2026-11-12T01:29:23Z,player_points,Anthony Black,Over,16.5,1.88
+2026-11-12T01:30:16Z,fecho,423255883d0e6c5d1a94a533b90e935b,2026-11-12T02:10:00Z,Utah Jazz,Orlando Magic,pinnacle,2026-11-12T01:29:23Z,player_points,Anthony Black,Under,16.5,1.88
+2026-11-12T01:30:16Z,fecho,423255883d0e6c5d1a94a533b90e935b,2026-11-12T02:10:00Z,Utah Jazz,Orlando Magic,pinnacle,2026-11-12T01:29:23Z,player_points,Darryn Peterson,Over,18.5,1.83
+2026-11-12T01:30:16Z,fecho,423255883d0e6c5d1a94a533b90e935b,2026-11-12T02:10:00Z,Utah Jazz,Orlando Magic,pinnacle,2026-11-12T01:29:23Z,player_points,Darryn Peterson,Under,18.5,1.94
+2026-11-12T01:30:16Z,fecho,423255883d0e6c5d1a94a533b90e935b,2026-11-12T02:10:00Z,Utah Jazz,Orlando Magic,pinnacle,2026-11-12T01:29:23Z,player_points,Jamal Cain,Over,8.5,1.88
+2026-11-12T01:30:16Z,fecho,423255883d0e6c5d1a94a533b90e935b,2026-11-12T02:10:00Z,Utah Jazz,Orlando Magic,pinnacle,2026-11-12T01:29:23Z,player_points,Jamal Cain,Under,8.5,1.88
+2026-11-12T01:30:16Z,fecho,423255883d0e6c5d1a94a533b90e935b,2026-11-12T02:10:00Z,Utah Jazz,Orlando Magic,pinnacle,2026-11-12T01:29:23Z,player_points,Jaxson Hayes,Over,8.5,1.88
+2026-11-12T01:30:16Z,fecho,423255883d0e6c5d1a94a533b90e935b,2026-11-12T02:10:00Z,Utah Jazz,Orlando Magic,pinnacle,2026-11-12T01:29:23Z,player_points,Jaxson Hayes,Under,8.5,1.88
+2026-11-12T01:30:16Z,fecho,423255883d0e6c5d1a94a533b90e935b,2026-11-12T02:10:00Z,Utah Jazz,Orlando Magic,pinnacle,2026-11-12T01:29:23Z,player_points,Keyonte George,Over,21.5,1.88
+2026-11-12T01:30:16Z,fecho,423255883d0e6c5d1a94a533b90e935b,2026-11-12T02:10:00Z,Utah Jazz,Orlando Magic,pinnacle,2026-11-12T01:29:23Z,player_points,Keyonte George,Under,21.5,1.86
+2026-11-12T01:30:16Z,fecho,423255883d0e6c5d1a94a533b90e935b,2026-11-12T02:10:00Z,Utah Jazz,Orlando Magic,pinnacle,2026-11-12T01:29:23Z,player_points,Tristan da Silva,Over,12.5,1.9
+2026-11-12T01:30:16Z,fecho,423255883d0e6c5d1a94a533b90e935b,2026-11-12T02:10:00Z,Utah Jazz,Orlando Magic,pinnacle,2026-11-12T01:29:23Z,player_points,Tristan da Silva,Under,12.5,1.87
