@@ -151,3 +151,43 @@ recolhido_em,momento,jogo_id,inicio_jogo,casa,fora,casa_apostas,atualizado_em,me
 2026-11-12T02:33:14Z,fecho,d4f288eeb0132970825be17748f2b4f0,2026-11-12T03:10:00Z,Portland Trail Blazers,Oklahoma City Thunder,pinnacle,2026-11-12T02:33:03Z,player_points,Shai Gilgeous-Alexander,Under,33.5,2.05
 2026-11-12T02:33:14Z,fecho,d4f288eeb0132970825be17748f2b4f0,2026-11-12T03:10:00Z,Portland Trail Blazers,Oklahoma City Thunder,pinnacle,2026-11-12T02:33:03Z,player_points,Toumani Camara,Over,12.5,1.93
 2026-11-12T02:33:14Z,fecho,d4f288eeb0132970825be17748f2b4f0,2026-11-12T03:10:00Z,Portland Trail Blazers,Oklahoma City Thunder,pinnacle,2026-11-12T02:33:03Z,player_points,Toumani Camara,Under,12.5,1.82
+2026-11-12T20:48:19Z,cedo,d5c5ae8d56762b45d1ec4b85337878f3,2026-11-13T00:10:00Z,Washington Wizards,Detroit Pistons,pinnacle,2026-11-12T20:48:18Z,player_points,AJ Dybantsa,Over,16.5,1.81
+2026-11-12T20:48:19Z,cedo,d5c5ae8d56762b45d1ec4b85337878f3,2026-11-13T00:10:00Z,Washington Wizards,Detroit Pistons,pinnacle,2026-11-12T20:48:18Z,player_points,AJ Dybantsa,Under,16.5,1.93
+2026-11-12T20:48:19Z,cedo,d5c5ae8d56762b45d1ec4b85337878f3,2026-11-13T00:10:00Z,Washington Wizards,Detroit Pistons,pinnacle,2026-11-12T20:48:18Z,player_points,Alex Sarr,Over,9.5,1.92
+2026-11-12T20:48:19Z,cedo,d5c5ae8d56762b45d1ec4b85337878f3,2026-11-13T00:10:00Z,Washington Wizards,Detroit Pistons,pinnacle,2026-11-12T20:48:18Z,player_points,Alex Sarr,Under,9.5,1.83
+2026-11-12T20:48:19Z,cedo,d5c5ae8d56762b45d1ec4b85337878f3,2026-11-13T00:10:00Z,Washington Wizards,Detroit Pistons,pinnacle,2026-11-12T20:48:18Z,player_points,Anthony Davis,Over,22.5,1.93
+2026-11-12T20:48:19Z,cedo,d5c5ae8d56762b45d1ec4b85337878f3,2026-11-13T00:10:00Z,Washington Wizards,Detroit Pistons,pinnacle,2026-11-12T20:48:18Z,player_points,Anthony Davis,Under,22.5,1.81
+2026-11-12T20:48:19Z,cedo,d5c5ae8d56762b45d1ec4b85337878f3,2026-11-13T00:10:00Z,Washington Wizards,Detroit Pistons,pinnacle,2026-11-12T20:48:18Z,player_points,Ausar Thompson,Over,10.5,1.85
+2026-11-12T20:48:19Z,cedo,d5c5ae8d56762b45d1ec4b85337878f3,2026-11-13T00:10:00Z,Washington Wizards,Detroit Pistons,pinnacle,2026-11-12T20:48:18Z,player_points,Ausar Thompson,Under,10.5,1.91
+2026-11-12T20:48:19Z,cedo,d5c5ae8d56762b45d1ec4b85337878f3,2026-11-13T00:10:00Z,Washington Wizards,Detroit Pistons,pinnacle,2026-11-12T20:48:18Z,player_points,Cade Cunningham,Over,24.5,1.8
+2026-11-12T20:48:19Z,cedo,d5c5ae8d56762b45d1ec4b85337878f3,2026-11-13T00:10:00Z,Washington Wizards,Detroit Pistons,pinnacle,2026-11-12T20:48:18Z,player_points,Cade Cunningham,Under,24.5,1.94
+2026-11-12T20:48:19Z,cedo,d5c5ae8d56762b45d1ec4b85337878f3,2026-11-13T00:10:00Z,Washington Wizards,Detroit Pistons,pinnacle,2026-11-12T20:48:18Z,player_points,Daniss Jenkins,Over,14.5,1.88
+2026-11-12T20:48:19Z,cedo,d5c5ae8d56762b45d1ec4b85337878f3,2026-11-13T00:10:00Z,Washington Wizards,Detroit Pistons,pinnacle,2026-11-12T20:48:18Z,player_points,Daniss Jenkins,Under,14.5,1.86
+2026-11-12T20:48:19Z,cedo,d5c5ae8d56762b45d1ec4b85337878f3,2026-11-13T00:10:00Z,Washington Wizards,Detroit Pistons,pinnacle,2026-11-12T20:48:18Z,player_points,Duncan Robinson,Over,15.5,1.85
+2026-11-12T20:48:19Z,cedo,d5c5ae8d56762b45d1ec4b85337878f3,2026-11-13T00:10:00Z,Washington Wizards,Detroit Pistons,pinnacle,2026-11-12T20:48:18Z,player_points,Duncan Robinson,Under,15.5,1.89
+2026-11-12T20:48:19Z,cedo,d5c5ae8d56762b45d1ec4b85337878f3,2026-11-13T00:10:00Z,Washington Wizards,Detroit Pistons,pinnacle,2026-11-12T20:48:18Z,player_points,John Collins,Over,12.5,1.79
+2026-11-12T20:48:19Z,cedo,d5c5ae8d56762b45d1ec4b85337878f3,2026-11-13T00:10:00Z,Washington Wizards,Detroit Pistons,pinnacle,2026-11-12T20:48:18Z,player_points,John Collins,Under,12.5,1.96
+2026-11-12T20:48:19Z,cedo,d5c5ae8d56762b45d1ec4b85337878f3,2026-11-13T00:10:00Z,Washington Wizards,Detroit Pistons,pinnacle,2026-11-12T20:48:18Z,player_points,Kyshawn George,Over,14.5,1.94
+2026-11-12T20:48:19Z,cedo,d5c5ae8d56762b45d1ec4b85337878f3,2026-11-13T00:10:00Z,Washington Wizards,Detroit Pistons,pinnacle,2026-11-12T20:48:18Z,player_points,Kyshawn George,Under,14.5,1.81
+2026-11-12T20:48:19Z,cedo,d5c5ae8d56762b45d1ec4b85337878f3,2026-11-13T00:10:00Z,Washington Wizards,Detroit Pistons,pinnacle,2026-11-12T20:48:18Z,player_points,Paul Reed Jr,Over,10.5,1.88
+2026-11-12T20:48:19Z,cedo,d5c5ae8d56762b45d1ec4b85337878f3,2026-11-13T00:10:00Z,Washington Wizards,Detroit Pistons,pinnacle,2026-11-12T20:48:18Z,player_points,Paul Reed Jr,Under,10.5,1.86
+2026-11-12T20:48:19Z,cedo,d5c5ae8d56762b45d1ec4b85337878f3,2026-11-13T00:10:00Z,Washington Wizards,Detroit Pistons,pinnacle,2026-11-12T20:48:18Z,player_points,Trae Young,Over,16.5,1.94
+2026-11-12T20:48:19Z,cedo,d5c5ae8d56762b45d1ec4b85337878f3,2026-11-13T00:10:00Z,Washington Wizards,Detroit Pistons,pinnacle,2026-11-12T20:48:18Z,player_points,Trae Young,Under,16.5,1.8
+2026-11-12T20:48:19Z,cedo,a98ff1ab79feb59277d989c656f16144,2026-11-13T00:10:00Z,Philadelphia 76ers,Toronto Raptors,pinnacle,2026-11-12T20:47:38Z,player_points,Collin Murray-Boyles,Over,11.5,1.67
+2026-11-12T20:48:19Z,cedo,a98ff1ab79feb59277d989c656f16144,2026-11-13T00:10:00Z,Philadelphia 76ers,Toronto Raptors,pinnacle,2026-11-12T20:47:38Z,player_points,Collin Murray-Boyles,Under,11.5,2.13
+2026-11-12T20:48:19Z,cedo,a98ff1ab79feb59277d989c656f16144,2026-11-13T00:10:00Z,Philadelphia 76ers,Toronto Raptors,pinnacle,2026-11-12T20:47:38Z,player_points,Immanuel Quickley,Over,15.5,1.85
+2026-11-12T20:48:19Z,cedo,a98ff1ab79feb59277d989c656f16144,2026-11-13T00:10:00Z,Philadelphia 76ers,Toronto Raptors,pinnacle,2026-11-12T20:47:38Z,player_points,Immanuel Quickley,Under,15.5,1.89
+2026-11-12T20:48:19Z,cedo,a98ff1ab79feb59277d989c656f16144,2026-11-13T00:10:00Z,Philadelphia 76ers,Toronto Raptors,pinnacle,2026-11-12T20:47:38Z,player_points,Ja'Kobe Walter,Over,10.5,1.89
+2026-11-12T20:48:19Z,cedo,a98ff1ab79feb59277d989c656f16144,2026-11-13T00:10:00Z,Philadelphia 76ers,Toronto Raptors,pinnacle,2026-11-12T20:47:38Z,player_points,Ja'Kobe Walter,Under,10.5,1.85
+2026-11-12T20:48:19Z,cedo,a98ff1ab79feb59277d989c656f16144,2026-11-13T00:10:00Z,Philadelphia 76ers,Toronto Raptors,pinnacle,2026-11-12T20:47:38Z,player_points,Jakob Poeltl,Over,10.5,1.76
+2026-11-12T20:48:19Z,cedo,a98ff1ab79feb59277d989c656f16144,2026-11-13T00:10:00Z,Philadelphia 76ers,Toronto Raptors,pinnacle,2026-11-12T20:47:38Z,player_points,Jakob Poeltl,Under,10.5,2.0
+2026-11-12T20:48:19Z,cedo,a98ff1ab79feb59277d989c656f16144,2026-11-13T00:10:00Z,Philadelphia 76ers,Toronto Raptors,pinnacle,2026-11-12T20:47:38Z,player_points,Jaylen Brown,Over,23.5,1.88
+2026-11-12T20:48:19Z,cedo,a98ff1ab79feb59277d989c656f16144,2026-11-13T00:10:00Z,Philadelphia 76ers,Toronto Raptors,pinnacle,2026-11-12T20:47:38Z,player_points,Jaylen Brown,Under,23.5,1.85
+2026-11-12T20:48:19Z,cedo,a98ff1ab79feb59277d989c656f16144,2026-11-13T00:10:00Z,Philadelphia 76ers,Toronto Raptors,pinnacle,2026-11-12T20:47:38Z,player_points,Joel Embiid,Over,20.5,1.75
+2026-11-12T20:48:19Z,cedo,a98ff1ab79feb59277d989c656f16144,2026-11-13T00:10:00Z,Philadelphia 76ers,Toronto Raptors,pinnacle,2026-11-12T20:47:38Z,player_points,Joel Embiid,Under,20.5,2.0
+2026-11-12T20:48:19Z,cedo,a98ff1ab79feb59277d989c656f16144,2026-11-13T00:10:00Z,Philadelphia 76ers,Toronto Raptors,pinnacle,2026-11-12T20:47:38Z,player_points,R.J. Barrett,Over,22.5,1.87
+2026-11-12T20:48:19Z,cedo,a98ff1ab79feb59277d989c656f16144,2026-11-13T00:10:00Z,Philadelphia 76ers,Toronto Raptors,pinnacle,2026-11-12T20:47:38Z,player_points,R.J. Barrett,Under,22.5,1.87
+2026-11-12T20:48:19Z,cedo,a98ff1ab79feb59277d989c656f16144,2026-11-13T00:10:00Z,Philadelphia 76ers,Toronto Raptors,pinnacle,2026-11-12T20:47:38Z,player_points,Tyrese Maxey,Over,26.5,2.17
+2026-11-12T20:48:19Z,cedo,a98ff1ab79feb59277d989c656f16144,2026-11-13T00:10:00Z,Philadelphia 76ers,Toronto Raptors,pinnacle,2026-11-12T20:47:38Z,player_points,Tyrese Maxey,Under,26.5,1.64
+2026-11-12T20:48:19Z,cedo,a98ff1ab79feb59277d989c656f16144,2026-11-13T00:10:00Z,Philadelphia 76ers,Toronto Raptors,pinnacle,2026-11-12T20:47:38Z,player_points,VJ Edgecombe,Over,13.5,1.76
+2026-11-12T20:48:19Z,cedo,a98ff1ab79feb59277d989c656f16144,2026-11-13T00:10:00Z,Philadelphia 76ers,Toronto Raptors,pinnacle,2026-11-12T20:47:38Z,player_points,VJ Edgecombe,Under,13.5,2.0
