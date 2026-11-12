@@ -2,27 +2,25 @@
 
 Apostas virtuais (sem dinheiro real) dos jogos da noite de 11/11 para 12/11. Odds da Pinnacle, 1 unidade por aposta (menos quando o modelo aposta menos).
 
-**Ainda ha 5 apostas por decidir** (jogos a decorrer ou resultados por chegar).
-
 ## Resumo da noite
 
-- Apostas: **34** (ganhas 14, perdidas 15)
-- Apostado: 28.5 unidades
-- Lucro: **-2.22 unidades** (ROI -7.8%)
-- CLV medio: +1.4% (se o mercado se moveu a nosso favor depois de apostarmos)
+- Apostas: **34** (ganhas 16, perdidas 18)
+- Apostado: 33.1 unidades
+- Lucro: **-3.40 unidades** (ROI -10.3%)
+- CLV medio: +1.3% (se o mercado se moveu a nosso favor depois de apostarmos)
 
 | Tipo | Apostas | Ganhas | Lucro |
 | --- | --- | --- | --- |
 | Over | 12 | 5 | -2.21 |
-| Under | 17 | 9 | -0.01 |
+| Under | 22 | 11 | -1.19 |
 | Alertas de ultima hora | 2 | 0 | -2.00 |
 
 ## Total acumulado (desde 05/11)
 
-- Apostas decididas: 161 (ganhas 76, 47%)
-- Lucro: **-17.20 unidades** em 159.2 apostadas (ROI -10.8%)
+- Apostas decididas: 166 (ganhas 78, 47%)
+- Lucro: **-18.38 unidades** em 163.9 apostadas (ROI -11.2%)
 - CLV medio: +1.1%
-- Com 4 EUR por aposta: -69 EUR (as odds da Pinnacle; na Betano seria menos)
+- Com 4 EUR por aposta: -74 EUR (as odds da Pinnacle; na Betano seria menos)
 
 ## Apostas
 
@@ -57,8 +55,8 @@ Apostas virtuais (sem dinheiro real) dos jogos da noite de 11/11 para 12/11. Odd
 | Los Angeles Lakers @ Milwaukee Bucks | Ziaire Williams | Over 8.5 | 1.85 | 10.9 | 9 | ganhou | +0.85 |
 | Orlando Magic @ Utah Jazz | Wendell Carter Jr | Over 12.5 | 1.87 | 14.8 | 9 | perdeu | -1.00 |
 | Golden State Warriors @ Houston Rockets | Georges Niang | Over 7.5 | 1.99 | 8.8 | 5 | perdeu | -1.00 |
-| Oklahoma City Thunder @ Portland Trail Blazers | Damian Lillard | Under 19.5 | 1.91 | 18.4 |  | por decidir |  |
-| Oklahoma City Thunder @ Portland Trail Blazers | Deni Avdija | Under 22.5 | 1.94 | 21.4 |  | por decidir |  |
-| Oklahoma City Thunder @ Portland Trail Blazers | Isaiah Hartenstein | Under 9.5 | 1.72 | 7.6 |  | por decidir |  |
-| Oklahoma City Thunder @ Portland Trail Blazers | Jared McCain | Under 15.5 | 1.92 | 13.4 |  | por decidir |  |
-| Oklahoma City Thunder @ Portland Trail Blazers | Kenrich Williams | Under 8.5 | 1.96 | 7.3 |  | por decidir |  |
+| Oklahoma City Thunder @ Portland Trail Blazers | Damian Lillard | Under 19.5 | 1.91 | 18.4 | 18 | ganhou | +0.76 |
+| Oklahoma City Thunder @ Portland Trail Blazers | Deni Avdija | Under 22.5 | 1.94 | 21.4 | 28 | perdeu | -0.86 |
+| Oklahoma City Thunder @ Portland Trail Blazers | Isaiah Hartenstein | Under 9.5 | 1.72 | 7.6 | 20 | perdeu | -1.00 |
+| Oklahoma City Thunder @ Portland Trail Blazers | Jared McCain | Under 15.5 | 1.92 | 13.4 | 10 | ganhou | +0.92 |
+| Oklahoma City Thunder @ Portland Trail Blazers | Kenrich Williams | Under 8.5 | 1.96 | 7.3 | 11 | perdeu | -1.00 |
