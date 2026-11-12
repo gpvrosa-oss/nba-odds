@@ -2,26 +2,26 @@
 
 Apostas virtuais (sem dinheiro real) dos jogos da noite de 11/11 para 12/11. Odds da Pinnacle, 1 unidade por aposta (menos quando o modelo aposta menos).
 
-**Ainda ha 20 apostas por decidir** (jogos a decorrer ou resultados por chegar).
+**Ainda ha 12 apostas por decidir** (jogos a decorrer ou resultados por chegar).
 
 ## Resumo da noite
 
-- Apostas: **34** (ganhas 9, perdidas 5)
-- Apostado: 13.7 unidades
-- Lucro: **+3.26 unidades** (ROI +23.8%)
-- CLV medio: +3.0% (se o mercado se moveu a nosso favor depois de apostarmos)
+- Apostas: **34** (ganhas 14, perdidas 8)
+- Apostado: 21.7 unidades
+- Lucro: **+4.58 unidades** (ROI +21.1%)
+- CLV medio: +2.0% (se o mercado se moveu a nosso favor depois de apostarmos)
 
 | Tipo | Apostas | Ganhas | Lucro |
 | --- | --- | --- | --- |
-| Over | 2 | 2 | +1.80 |
-| Under | 12 | 7 | +1.46 |
+| Over | 6 | 5 | +3.59 |
+| Under | 16 | 9 | +0.99 |
 
 ## Total acumulado (desde 05/11)
 
-- Apostas decididas: 146 (ganhas 71, 49%)
-- Lucro: **-11.72 unidades** em 144.4 apostadas (ROI -8.1%)
-- CLV medio: +1.2%
-- Com 4 EUR por aposta: -47 EUR (as odds da Pinnacle; na Betano seria menos)
+- Apostas decididas: 154 (ganhas 76, 49%)
+- Lucro: **-10.40 unidades** em 152.4 apostadas (ROI -6.8%)
+- CLV medio: +1.1%
+- Com 4 EUR por aposta: -42 EUR (as odds da Pinnacle; na Betano seria menos)
 
 ## Apostas
 
@@ -38,10 +38,10 @@ Apostas virtuais (sem dinheiro real) dos jogos da noite de 11/11 para 12/11. Odd
 | Boston Celtics @ Toronto Raptors | Payton Pritchard | Under 14.5 | 2.06 | 13.9 | 14 | ganhou | +1.06 |
 | Cleveland Cavaliers @ New York Knicks | Peyton Watson | Under 12.5 | 1.8 | 10.7 | 7 | ganhou | +0.80 |
 | Washington Wizards @ Indiana Pacers | Tre Johnson | Over 7.5 | 1.97 | 9.6 | 15 | ganhou | +0.97 |
-| Denver Nuggets @ Memphis Grizzlies | Aaron Gordon | Under 12.5 | 1.81 | 11.1 |  | por decidir |  |
-| Los Angeles Lakers @ Milwaukee Bucks | Brayden Burries | Under 13.5 | 1.68 | 11.3 |  | por decidir |  |
-| Denver Nuggets @ Memphis Grizzlies | Cam Spencer | Over 7.5 | 2.01 | 9.0 |  | por decidir |  |
-| Denver Nuggets @ Memphis Grizzlies | Cameron Johnson | Under 11.5 | 1.97 | 10.9 |  | por decidir |  |
+| Denver Nuggets @ Memphis Grizzlies | Aaron Gordon | Under 12.5 | 1.81 | 11.1 | 9 | ganhou | +0.81 |
+| Los Angeles Lakers @ Milwaukee Bucks | Brayden Burries | Under 13.5 | 1.68 | 11.3 | 8 | ganhou | +0.68 |
+| Denver Nuggets @ Memphis Grizzlies | Cam Spencer | Over 7.5 | 2.01 | 9.0 | 15 | ganhou | +1.01 |
+| Denver Nuggets @ Memphis Grizzlies | Cameron Johnson | Under 11.5 | 1.97 | 10.9 | 23 | perdeu | -0.96 |
 | Brooklyn Nets @ New Orleans Pelicans | Derik Queen | Over 9.5 | 1.78 | 11.6 |  | por decidir |  |
 | Brooklyn Nets @ New Orleans Pelicans | Derik Queen (alerta) | Over 9.5 | 1.78 | 11.7 |  | por decidir |  |
 | San Antonio Spurs @ Chicago Bulls | Dylan Harper | Under 17.5 | 1.89 | 16.4 | 18 | perdeu | -0.85 |
@@ -50,10 +50,10 @@ Apostas virtuais (sem dinheiro real) dos jogos da noite de 11/11 para 12/11. Odd
 | San Antonio Spurs @ Chicago Bulls | Josh Giddey | Under 12.5 | 2.02 | 12.1 | 9 | ganhou | +0.87 |
 | Brooklyn Nets @ New Orleans Pelicans | Karlo Matkovic | Over 7.5 | 1.97 | 8.7 |  | por decidir |  |
 | Brooklyn Nets @ New Orleans Pelicans | Karlo Matkovic (alerta) | Over 7.5 | 1.97 | 9.0 |  | por decidir |  |
-| Los Angeles Lakers @ Milwaukee Bucks | Luka Doncic | Over 34.5 | 1.8 | 38.9 |  | por decidir |  |
-| Denver Nuggets @ Memphis Grizzlies | Nikola Jokic | Under 25.5 | 1.87 | 22.9 |  | por decidir |  |
-| Denver Nuggets @ Memphis Grizzlies | Ty Jerome | Over 21.5 | 1.93 | 23.6 |  | por decidir |  |
-| Los Angeles Lakers @ Milwaukee Bucks | Ziaire Williams | Over 8.5 | 1.85 | 10.9 |  | por decidir |  |
+| Los Angeles Lakers @ Milwaukee Bucks | Luka Doncic | Over 34.5 | 1.8 | 38.9 | 32 | perdeu | -1.00 |
+| Denver Nuggets @ Memphis Grizzlies | Nikola Jokic | Under 25.5 | 1.87 | 22.9 | 27 | perdeu | -1.00 |
+| Denver Nuggets @ Memphis Grizzlies | Ty Jerome | Over 21.5 | 1.93 | 23.6 | 22 | ganhou | +0.93 |
+| Los Angeles Lakers @ Milwaukee Bucks | Ziaire Williams | Over 8.5 | 1.85 | 10.9 | 9 | ganhou | +0.85 |
 | Orlando Magic @ Utah Jazz | Wendell Carter Jr | Over 12.5 | 1.87 | 14.8 |  | por decidir |  |
 | Golden State Warriors @ Houston Rockets | Georges Niang | Over 7.5 | 1.99 | 8.8 |  | por decidir |  |
 | Oklahoma City Thunder @ Portland Trail Blazers | Damian Lillard | Under 19.5 | 1.91 | 18.4 |  | por decidir |  |
