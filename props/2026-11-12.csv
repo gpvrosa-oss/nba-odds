@@ -191,3 +191,25 @@ recolhido_em,momento,jogo_id,inicio_jogo,casa,fora,casa_apostas,atualizado_em,me
 2026-11-12T20:48:19Z,cedo,a98ff1ab79feb59277d989c656f16144,2026-11-13T00:10:00Z,Philadelphia 76ers,Toronto Raptors,pinnacle,2026-11-12T20:47:38Z,player_points,Tyrese Maxey,Under,26.5,1.64
 2026-11-12T20:48:19Z,cedo,a98ff1ab79feb59277d989c656f16144,2026-11-13T00:10:00Z,Philadelphia 76ers,Toronto Raptors,pinnacle,2026-11-12T20:47:38Z,player_points,VJ Edgecombe,Over,13.5,1.76
 2026-11-12T20:48:19Z,cedo,a98ff1ab79feb59277d989c656f16144,2026-11-13T00:10:00Z,Philadelphia 76ers,Toronto Raptors,pinnacle,2026-11-12T20:47:38Z,player_points,VJ Edgecombe,Under,13.5,2.0
+2026-11-12T21:42:56Z,cedo,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Minnesota Timberwolves,Dallas Mavericks,pinnacle,2026-11-12T21:42:27Z,player_points,Ayo Dosunmu,Over,17.5,1.72
+2026-11-12T21:42:56Z,cedo,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Minnesota Timberwolves,Dallas Mavericks,pinnacle,2026-11-12T21:42:27Z,player_points,Ayo Dosunmu,Under,17.5,2.05
+2026-11-12T21:42:56Z,cedo,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Minnesota Timberwolves,Dallas Mavericks,pinnacle,2026-11-12T21:42:27Z,player_points,Cooper Flagg,Over,24.5,1.89
+2026-11-12T21:42:56Z,cedo,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Minnesota Timberwolves,Dallas Mavericks,pinnacle,2026-11-12T21:42:27Z,player_points,Cooper Flagg,Under,24.5,1.85
+2026-11-12T21:42:56Z,cedo,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Minnesota Timberwolves,Dallas Mavericks,pinnacle,2026-11-12T21:42:27Z,player_points,Daniel Gafford,Over,7.5,1.6
+2026-11-12T21:42:56Z,cedo,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Minnesota Timberwolves,Dallas Mavericks,pinnacle,2026-11-12T21:42:27Z,player_points,Daniel Gafford,Under,7.5,2.25
+2026-11-12T21:42:56Z,cedo,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Minnesota Timberwolves,Dallas Mavericks,pinnacle,2026-11-12T21:42:27Z,player_points,Jaden McDaniels,Over,17.5,2.0
+2026-11-12T21:42:56Z,cedo,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Minnesota Timberwolves,Dallas Mavericks,pinnacle,2026-11-12T21:42:27Z,player_points,Jaden McDaniels,Under,17.5,1.76
+2026-11-12T21:42:56Z,cedo,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Minnesota Timberwolves,Dallas Mavericks,pinnacle,2026-11-12T21:42:27Z,player_points,Jonathan Kuminga,Over,13.5,1.76
+2026-11-12T21:42:56Z,cedo,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Minnesota Timberwolves,Dallas Mavericks,pinnacle,2026-11-12T21:42:27Z,player_points,Jonathan Kuminga,Under,13.5,1.99
+2026-11-12T21:42:56Z,cedo,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Minnesota Timberwolves,Dallas Mavericks,pinnacle,2026-11-12T21:42:27Z,player_points,Kyrie Irving,Over,22.5,1.93
+2026-11-12T21:42:56Z,cedo,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Minnesota Timberwolves,Dallas Mavericks,pinnacle,2026-11-12T21:42:27Z,player_points,Kyrie Irving,Under,22.5,1.81
+2026-11-12T21:42:56Z,cedo,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Minnesota Timberwolves,Dallas Mavericks,pinnacle,2026-11-12T21:42:27Z,player_points,LaMelo Ball,Over,20.5,1.89
+2026-11-12T21:42:56Z,cedo,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Minnesota Timberwolves,Dallas Mavericks,pinnacle,2026-11-12T21:42:27Z,player_points,LaMelo Ball,Under,20.5,1.85
+2026-11-12T21:42:56Z,cedo,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Minnesota Timberwolves,Dallas Mavericks,pinnacle,2026-11-12T21:42:27Z,player_points,Naji Marshall,Over,9.5,1.96
+2026-11-12T21:42:56Z,cedo,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Minnesota Timberwolves,Dallas Mavericks,pinnacle,2026-11-12T21:42:27Z,player_points,Naji Marshall,Under,9.5,1.79
+2026-11-12T21:42:56Z,cedo,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Minnesota Timberwolves,Dallas Mavericks,pinnacle,2026-11-12T21:42:27Z,player_points,P.J. Washington,Over,13.5,2.15
+2026-11-12T21:42:56Z,cedo,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Minnesota Timberwolves,Dallas Mavericks,pinnacle,2026-11-12T21:42:27Z,player_points,P.J. Washington,Under,13.5,1.65
+2026-11-12T21:42:56Z,cedo,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Minnesota Timberwolves,Dallas Mavericks,pinnacle,2026-11-12T21:42:27Z,player_points,Rudy Gobert,Over,9.5,1.85
+2026-11-12T21:42:56Z,cedo,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Minnesota Timberwolves,Dallas Mavericks,pinnacle,2026-11-12T21:42:27Z,player_points,Rudy Gobert,Under,9.5,1.89
+2026-11-12T21:42:56Z,cedo,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Minnesota Timberwolves,Dallas Mavericks,pinnacle,2026-11-12T21:42:27Z,player_points,Terrence Shannon Jr.,Over,9.5,1.83
+2026-11-12T21:42:56Z,cedo,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Minnesota Timberwolves,Dallas Mavericks,pinnacle,2026-11-12T21:42:27Z,player_points,Terrence Shannon Jr.,Under,9.5,1.91

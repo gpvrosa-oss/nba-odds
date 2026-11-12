@@ -1,6 +1,6 @@
 # Odds justas de hoje (pontos dos jogadores)
 
-Atualizado: 2026-11-12 21:32 UTC. Odd justa = Pinnacle sem margem. Modelo = a nossa previsao.
+Atualizado: 2026-11-12 21:44 UTC. Odd justa = Pinnacle sem margem. Modelo = a nossa previsao.
 Como usar: na Betano/Betclic, se a odd de "X+ pontos" for MAIOR do que a odd justa, essa aposta tem valor.
 
 ## Toronto Raptors @ Philadelphia 76ers (13/11 00:10 UTC)
@@ -49,12 +49,14 @@ Jakob Poeltl             modelo  1.7 | 1+ 1.27  2+ 2.04  3+ 3.99  4+ 9.08  5+ 23
 ## Detroit Pistons @ Washington Wizards (13/11 00:10 UTC)
 
 ```
+Trae Young               linha  16.5 | modelo  15.6 | sem valor
+    justa: 14+ 1.52  15+ 1.67  16+ 1.85  17+ 2.08  18+ 2.35  19+ 2.69  20+ 3.10
+Paul Reed Jr             linha  10.5 | modelo  10.4 | sem valor
+    justa: 8+ 1.39  9+ 1.55  10+ 1.75  11+ 2.01  12+ 2.34  13+ 2.76  14+ 3.29
 Kyshawn George           linha  14.5 | modelo  15.7 | sem valor
     justa: 12+ 1.49  13+ 1.64  14+ 1.83  15+ 2.07  16+ 2.36  17+ 2.73  18+ 3.17
 John Collins             linha  12.5 | modelo  11.4 | APOSTA
     justa: 10+ 1.38  11+ 1.52  12+ 1.70  13+ 1.91  14+ 2.18  15+ 2.52  16+ 2.94
-Duncan Robinson          linha  15.5 | modelo  16.9 | sem valor
-    justa: 13+ 1.46  14+ 1.60  15+ 1.77  16+ 1.98  17+ 2.24  18+ 2.55  19+ 2.94
 Daniss Jenkins           linha  14.5 | modelo  12.8 | APOSTA
     justa: 12+ 1.46  13+ 1.60  14+ 1.79  15+ 2.01  16+ 2.29  17+ 2.63  18+ 3.05
 Cade Cunningham          linha  24.5 | modelo  22.7 | APOSTA
@@ -65,12 +67,10 @@ Anthony Davis            linha  22.5 | modelo  21.9 | sem valor
     justa: 20+ 1.57  21+ 1.71  22+ 1.87  23+ 2.07  24+ 2.30  25+ 2.57  26+ 2.90
 Alex Sarr                linha   9.5 | modelo   9.3 | sem valor
     justa: 7+ 1.38  8+ 1.55  9+ 1.77  10+ 2.05  11+ 2.41  12+ 2.87  13+ 3.46
+Duncan Robinson          linha  15.5 | modelo  16.9 | sem valor
+    justa: 13+ 1.46  14+ 1.60  15+ 1.77  16+ 1.98  17+ 2.24  18+ 2.55  19+ 2.94
 AJ Dybantsa              linha  16.5 | modelo  14.3 | poucos jogos
     justa: 14+ 1.45  15+ 1.58  16+ 1.74  17+ 1.94  18+ 2.18  19+ 2.47  20+ 2.82
-Paul Reed Jr             linha  10.5 | modelo  10.4 | sem valor
-    justa: 8+ 1.39  9+ 1.55  10+ 1.75  11+ 2.01  12+ 2.34  13+ 2.76  14+ 3.29
-Trae Young               linha  16.5 | modelo  15.6 | sem valor
-    justa: 14+ 1.52  15+ 1.67  16+ 1.85  17+ 2.08  18+ 2.35  19+ 2.69  20+ 3.10
 ```
 
 Ressaltos (so modelo, sem Pinnacle):
@@ -99,4 +99,61 @@ Paul Reed                modelo  1.9 | 1+ 1.20  2+ 1.78  3+ 3.17  4+ 6.57  5+ 15
 Anthony Davis            modelo  1.7 | 1+ 1.26  2+ 2.03  3+ 3.97  4+ 9.03  5+ 23.08
 Alex Sarr                modelo  1.5 | 1+ 1.33  2+ 2.31  3+ 4.89  4+ 12.02  5+ 33.10
 John Collins             modelo  1.1 | 1+ 1.55  2+ 3.26  3+ 8.37  4+ 24.73  5+ 80.69
+```
+
+## Dallas Mavericks @ Minnesota Timberwolves (13/11 01:10 UTC)
+
+```
+P.J. Washington          linha  13.5 | modelo  12.9 | sem valor
+    justa: 11+ 1.58  12+ 1.77  13+ 2.01  14+ 2.30  15+ 2.67  16+ 3.14  17+ 3.72
+Naji Marshall            linha   9.5 | modelo  10.8 | sem valor
+    justa: 7+ 1.40  8+ 1.57  9+ 1.80  10+ 2.10  11+ 2.47  12+ 2.95  13+ 3.57
+LaMelo Ball              linha  20.5 | modelo  19.9 | sem valor
+    justa: 18+ 1.53  19+ 1.67  20+ 1.83  21+ 2.02  22+ 2.25  23+ 2.53  24+ 2.86
+Kyrie Irving             linha  22.5 | modelo  21.6 | sem valor
+    justa: 20+ 1.57  21+ 1.71  22+ 1.87  23+ 2.07  24+ 2.30  25+ 2.57  26+ 2.90
+Ayo Dosunmu              linha  17.5 | modelo  18.5 | sem valor
+    justa: 15+ 1.41  16+ 1.53  17+ 1.67  18+ 1.84  19+ 2.05  20+ 2.30  21+ 2.60
+Jaden McDaniels          linha  17.5 | modelo  17.0 | sem valor
+    justa: 15+ 1.56  16+ 1.72  17+ 1.91  18+ 2.14  19+ 2.42  20+ 2.76  21+ 3.17
+Daniel Gafford           linha   7.5 | modelo   8.8 | sem valor
+    justa: 5+ 1.21  6+ 1.33  7+ 1.50  8+ 1.71  9+ 1.99  10+ 2.35  11+ 2.82
+Cooper Flagg             linha  24.5 | modelo  23.2 | sem valor
+    justa: 22+ 1.57  23+ 1.69  24+ 1.84  25+ 2.02  26+ 2.23  27+ 2.48  28+ 2.77
+Rudy Gobert              linha   9.5 | modelo   8.4 | APOSTA
+    justa: 7+ 1.35  8+ 1.51  9+ 1.72  10+ 1.98  11+ 2.32  12+ 2.75  13+ 3.29
+Jonathan Kuminga         linha  13.5 | modelo  12.4 | APOSTA
+    justa: 11+ 1.38  12+ 1.52  13+ 1.68  14+ 1.88  15+ 2.14  16+ 2.45  17+ 2.83
+Terrence Shannon Jr.     linha   9.5 | modelo   9.9 | sem valor
+    justa: 7+ 1.34  8+ 1.50  9+ 1.70  10+ 1.96  11+ 2.29  12+ 2.71  13+ 3.24
+```
+
+Ressaltos (so modelo, sem Pinnacle):
+```
+Rudy Gobert              modelo 10.3 | 9+ 1.52  10+ 1.81  11+ 2.22  12+ 2.83  13+ 3.73
+Cooper Flagg             modelo  6.9 | 5+ 1.30  6+ 1.55  7+ 1.94  8+ 2.54  9+ 3.50
+P.J. Washington          modelo  6.8 | 5+ 1.31  6+ 1.56  7+ 1.96  8+ 2.59  9+ 3.58
+Jaden McDaniels          modelo  5.7 | 4+ 1.31  5+ 1.60  6+ 2.08  7+ 2.86  8+ 4.15
+Daniel Gafford           modelo  5.1 | 4+ 1.43  5+ 1.83  6+ 2.50  7+ 3.62  8+ 5.53
+Jonathan Kuminga         modelo  5.0 | 4+ 1.44  5+ 1.85  6+ 2.54  7+ 3.70  8+ 5.67
+Ayo Dosunmu              modelo  4.7 | 3+ 1.25  4+ 1.54  5+ 2.04  6+ 2.89  7+ 4.34
+Kyrie Irving             modelo  3.8 | 2+ 1.19  3+ 1.48  4+ 2.02  5+ 2.99  6+ 4.74
+LaMelo Ball              modelo  3.7 | 2+ 1.19  3+ 1.49  4+ 2.04  5+ 3.02  6+ 4.79
+Naji Marshall            modelo  3.3 | 2+ 1.28  3+ 1.70  4+ 2.48  5+ 3.93  6+ 6.68
+Terrence Shannon Jr.     modelo  2.8 | 1+ 1.11  2+ 1.41  3+ 2.02  4+ 3.20  5+ 5.51
+```
+
+Assistencias (so modelo, sem Pinnacle):
+```
+LaMelo Ball              modelo  6.4 | 5+ 1.33  6+ 1.64  7+ 2.15  8+ 3.01  9+ 4.49
+Cooper Flagg             modelo  5.7 | 4+ 1.24  5+ 1.50  6+ 1.94  7+ 2.71  8+ 4.07
+Ayo Dosunmu              modelo  4.1 | 3+ 1.31  4+ 1.70  5+ 2.45  6+ 3.87  7+ 6.66
+Kyrie Irving             modelo  3.9 | 2+ 1.14  3+ 1.38  4+ 1.86  5+ 2.79  6+ 4.61
+Jaden McDaniels          modelo  3.6 | 2+ 1.17  3+ 1.47  4+ 2.07  5+ 3.24  6+ 5.61
+Naji Marshall            modelo  3.3 | 2+ 1.21  3+ 1.57  4+ 2.29  5+ 3.75  6+ 6.80
+Jonathan Kuminga         modelo  2.7 | 1+ 1.09  2+ 1.37  3+ 2.00  4+ 3.35  5+ 6.32
+Terrence Shannon Jr.     modelo  2.2 | 1+ 1.14  2+ 1.57  3+ 2.57  4+ 4.87  5+ 10.40
+Rudy Gobert              modelo  1.6 | 1+ 1.29  2+ 2.12  3+ 4.26  4+ 9.96  5+ 26.13
+Daniel Gafford           modelo  1.5 | 1+ 1.32  2+ 2.26  3+ 4.71  4+ 11.44  5+ 31.11
+P.J. Washington          modelo  1.2 | 1+ 1.47  2+ 2.89  3+ 6.95  4+ 19.33  5+ 59.67
 ```
