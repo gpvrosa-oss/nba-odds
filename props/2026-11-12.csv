@@ -109,3 +109,29 @@ recolhido_em,momento,jogo_id,inicio_jogo,casa,fora,casa_apostas,atualizado_em,me
 2026-11-12T01:30:16Z,fecho,423255883d0e6c5d1a94a533b90e935b,2026-11-12T02:10:00Z,Utah Jazz,Orlando Magic,pinnacle,2026-11-12T01:29:23Z,player_points,Keyonte George,Under,21.5,1.86
 2026-11-12T01:30:16Z,fecho,423255883d0e6c5d1a94a533b90e935b,2026-11-12T02:10:00Z,Utah Jazz,Orlando Magic,pinnacle,2026-11-12T01:29:23Z,player_points,Tristan da Silva,Over,12.5,1.9
 2026-11-12T01:30:16Z,fecho,423255883d0e6c5d1a94a533b90e935b,2026-11-12T02:10:00Z,Utah Jazz,Orlando Magic,pinnacle,2026-11-12T01:29:23Z,player_points,Tristan da Silva,Under,12.5,1.87
+2026-11-12T02:00:39Z,fecho,f41d186dc7a7dcf01adab32579a82ca3,2026-11-12T02:40:00Z,Houston Rockets,Golden State Warriors,pinnacle,2026-11-12T01:59:46Z,player_points,Alperen Sengun,Over,19.5,2.02
+2026-11-12T02:00:39Z,fecho,f41d186dc7a7dcf01adab32579a82ca3,2026-11-12T02:40:00Z,Houston Rockets,Golden State Warriors,pinnacle,2026-11-12T01:59:46Z,player_points,Alperen Sengun,Under,19.5,1.74
+2026-11-12T02:00:39Z,fecho,f41d186dc7a7dcf01adab32579a82ca3,2026-11-12T02:40:00Z,Houston Rockets,Golden State Warriors,pinnacle,2026-11-12T01:59:46Z,player_points,Amen Thompson,Over,15.5,2.06
+2026-11-12T02:00:39Z,fecho,f41d186dc7a7dcf01adab32579a82ca3,2026-11-12T02:40:00Z,Houston Rockets,Golden State Warriors,pinnacle,2026-11-12T01:59:46Z,player_points,Amen Thompson,Under,15.5,1.71
+2026-11-12T02:00:39Z,fecho,f41d186dc7a7dcf01adab32579a82ca3,2026-11-12T02:40:00Z,Houston Rockets,Golden State Warriors,pinnacle,2026-11-12T01:59:46Z,player_points,Brandin Podziemski,Over,15.5,1.99
+2026-11-12T02:00:39Z,fecho,f41d186dc7a7dcf01adab32579a82ca3,2026-11-12T02:40:00Z,Houston Rockets,Golden State Warriors,pinnacle,2026-11-12T01:59:46Z,player_points,Brandin Podziemski,Under,15.5,1.76
+2026-11-12T02:00:39Z,fecho,f41d186dc7a7dcf01adab32579a82ca3,2026-11-12T02:40:00Z,Houston Rockets,Golden State Warriors,pinnacle,2026-11-12T01:59:46Z,player_points,De'Anthony Melton,Over,8.5,1.8
+2026-11-12T02:00:39Z,fecho,f41d186dc7a7dcf01adab32579a82ca3,2026-11-12T02:40:00Z,Houston Rockets,Golden State Warriors,pinnacle,2026-11-12T01:59:46Z,player_points,De'Anthony Melton,Under,8.5,1.94
+2026-11-12T02:00:39Z,fecho,f41d186dc7a7dcf01adab32579a82ca3,2026-11-12T02:40:00Z,Houston Rockets,Golden State Warriors,pinnacle,2026-11-12T01:59:46Z,player_points,Draymond Green,Over,4.5,1.88
+2026-11-12T02:00:39Z,fecho,f41d186dc7a7dcf01adab32579a82ca3,2026-11-12T02:40:00Z,Houston Rockets,Golden State Warriors,pinnacle,2026-11-12T01:59:46Z,player_points,Draymond Green,Under,4.5,1.85
+2026-11-12T02:00:39Z,fecho,f41d186dc7a7dcf01adab32579a82ca3,2026-11-12T02:40:00Z,Houston Rockets,Golden State Warriors,pinnacle,2026-11-12T01:59:46Z,player_points,Fred VanVleet,Over,11.5,1.8
+2026-11-12T02:00:39Z,fecho,f41d186dc7a7dcf01adab32579a82ca3,2026-11-12T02:40:00Z,Houston Rockets,Golden State Warriors,pinnacle,2026-11-12T01:59:46Z,player_points,Fred VanVleet,Under,11.5,1.94
+2026-11-12T02:00:39Z,fecho,f41d186dc7a7dcf01adab32579a82ca3,2026-11-12T02:40:00Z,Houston Rockets,Golden State Warriors,pinnacle,2026-11-12T01:59:46Z,player_points,Georges Niang,Over,7.5,2.0
+2026-11-12T02:00:39Z,fecho,f41d186dc7a7dcf01adab32579a82ca3,2026-11-12T02:40:00Z,Houston Rockets,Golden State Warriors,pinnacle,2026-11-12T01:59:46Z,player_points,Georges Niang,Under,7.5,1.75
+2026-11-12T02:00:39Z,fecho,f41d186dc7a7dcf01adab32579a82ca3,2026-11-12T02:40:00Z,Houston Rockets,Golden State Warriors,pinnacle,2026-11-12T01:59:46Z,player_points,Gui Santos,Over,7.5,2.12
+2026-11-12T02:00:39Z,fecho,f41d186dc7a7dcf01adab32579a82ca3,2026-11-12T02:40:00Z,Houston Rockets,Golden State Warriors,pinnacle,2026-11-12T01:59:46Z,player_points,Gui Santos,Under,7.5,1.68
+2026-11-12T02:00:39Z,fecho,f41d186dc7a7dcf01adab32579a82ca3,2026-11-12T02:40:00Z,Houston Rockets,Golden State Warriors,pinnacle,2026-11-12T01:59:46Z,player_points,Jabari Smith Jr,Over,14.5,1.89
+2026-11-12T02:00:39Z,fecho,f41d186dc7a7dcf01adab32579a82ca3,2026-11-12T02:40:00Z,Houston Rockets,Golden State Warriors,pinnacle,2026-11-12T01:59:46Z,player_points,Jabari Smith Jr,Under,14.5,1.85
+2026-11-12T02:00:39Z,fecho,f41d186dc7a7dcf01adab32579a82ca3,2026-11-12T02:40:00Z,Houston Rockets,Golden State Warriors,pinnacle,2026-11-12T01:59:46Z,player_points,Kevin Durant,Over,21.5,1.84
+2026-11-12T02:00:39Z,fecho,f41d186dc7a7dcf01adab32579a82ca3,2026-11-12T02:40:00Z,Houston Rockets,Golden State Warriors,pinnacle,2026-11-12T01:59:46Z,player_points,Kevin Durant,Under,21.5,1.9
+2026-11-12T02:00:39Z,fecho,f41d186dc7a7dcf01adab32579a82ca3,2026-11-12T02:40:00Z,Houston Rockets,Golden State Warriors,pinnacle,2026-11-12T01:59:46Z,player_points,Stephen Curry,Over,25.5,1.8
+2026-11-12T02:00:39Z,fecho,f41d186dc7a7dcf01adab32579a82ca3,2026-11-12T02:40:00Z,Houston Rockets,Golden State Warriors,pinnacle,2026-11-12T01:59:46Z,player_points,Stephen Curry,Under,25.5,1.94
+2026-11-12T02:00:39Z,fecho,f41d186dc7a7dcf01adab32579a82ca3,2026-11-12T02:40:00Z,Houston Rockets,Golden State Warriors,pinnacle,2026-11-12T01:59:46Z,player_points,Tari Eason,Over,8.5,2.02
+2026-11-12T02:00:39Z,fecho,f41d186dc7a7dcf01adab32579a82ca3,2026-11-12T02:40:00Z,Houston Rockets,Golden State Warriors,pinnacle,2026-11-12T01:59:46Z,player_points,Tari Eason,Under,8.5,1.74
+2026-11-12T02:00:39Z,fecho,f41d186dc7a7dcf01adab32579a82ca3,2026-11-12T02:40:00Z,Houston Rockets,Golden State Warriors,pinnacle,2026-11-12T01:59:46Z,player_points,Yaxel Lendeborg,Over,18.5,2.01
+2026-11-12T02:00:39Z,fecho,f41d186dc7a7dcf01adab32579a82ca3,2026-11-12T02:40:00Z,Houston Rockets,Golden State Warriors,pinnacle,2026-11-12T01:59:46Z,player_points,Yaxel Lendeborg,Under,18.5,1.75
