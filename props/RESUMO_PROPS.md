@@ -1,8 +1,8 @@
 # Apostas virtuais em props (sem dinheiro real)
 
-Atualizado: 2026-11-11 23:54 UTC. Casa de referencia: Pinnacle (linha ~3h antes do jogo).
+Atualizado: 2026-11-12 00:05 UTC. Casa de referencia: Pinnacle (linha ~3h antes do jogo).
 
-- Apostas decididas: **132** (ganhas 47%), anuladas: 1, por decidir: 32
+- Apostas decididas: **132** (ganhas 47%), anuladas: 1, por decidir: 34
 - Apostado: 130.7 unidades. Lucro: **-15.0 unidades** (ROI -11.5%)
 - CLV medio (bater a linha de fecho; o melhor sinal de qualidade): **+1.4%** em 125 apostas
 
@@ -12,8 +12,6 @@ Regra de bolso: so pensar em dinheiro real com 200+ apostas e CLV medio acima de
 
 ```
          inicio_jogo            jogador  lado  linha  odd  previsto  stake resultado  real  lucro  clv
-2026-11-12T01:10:00Z        Jalen Smith Under   12.5 1.72     10.64   1.00       NaN   NaN    NaN  NaN
-2026-11-12T01:10:00Z        Josh Giddey Under   12.5 2.02     12.08   0.85       NaN   NaN    NaN  NaN
 2026-11-12T01:10:00Z    Brayden Burries Under   13.5 1.68     11.26   1.00       NaN   NaN    NaN  NaN
 2026-11-12T01:10:00Z        Luka Doncic  Over   34.5 1.80     38.91   1.00       NaN   NaN    NaN  NaN
 2026-11-12T01:10:00Z    Ziaire Williams  Over    8.5 1.85     10.89   1.00       NaN   NaN    NaN  NaN
@@ -27,4 +25,6 @@ Regra de bolso: so pensar em dinheiro real com 200+ apostas e CLV medio acima de
 2026-11-12T03:10:00Z Isaiah Hartenstein Under    9.5 1.72      7.64   1.00       NaN   NaN    NaN  NaN
 2026-11-12T03:10:00Z       Jared McCain Under   15.5 1.92     13.40   1.00       NaN   NaN    NaN  NaN
 2026-11-12T03:10:00Z   Kenrich Williams Under    8.5 1.96      7.26   1.00       NaN   NaN    NaN  NaN
+2026-11-12T01:10:00Z     Karlo Matkovic  Over    7.5 1.97      9.01   1.00       NaN   NaN    NaN  NaN
+2026-11-12T01:10:00Z        Derik Queen  Over    9.5 1.78     11.69   1.00       NaN   NaN    NaN  NaN
 ```
