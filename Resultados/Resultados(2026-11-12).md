@@ -2,26 +2,27 @@
 
 Apostas virtuais (sem dinheiro real) dos jogos da noite de 11/11 para 12/11. Odds da Pinnacle, 1 unidade por aposta (menos quando o modelo aposta menos).
 
-**Ainda ha 12 apostas por decidir** (jogos a decorrer ou resultados por chegar).
+**Ainda ha 7 apostas por decidir** (jogos a decorrer ou resultados por chegar).
 
 ## Resumo da noite
 
-- Apostas: **34** (ganhas 14, perdidas 8)
-- Apostado: 21.7 unidades
-- Lucro: **+4.58 unidades** (ROI +21.1%)
-- CLV medio: +2.0% (se o mercado se moveu a nosso favor depois de apostarmos)
+- Apostas: **34** (ganhas 14, perdidas 13)
+- Apostado: 26.5 unidades
+- Lucro: **-0.22 unidades** (ROI -0.8%)
+- CLV medio: +1.6% (se o mercado se moveu a nosso favor depois de apostarmos)
 
 | Tipo | Apostas | Ganhas | Lucro |
 | --- | --- | --- | --- |
-| Over | 6 | 5 | +3.59 |
-| Under | 16 | 9 | +0.99 |
+| Over | 10 | 5 | -0.21 |
+| Under | 17 | 9 | -0.01 |
+| Alertas de ultima hora | 2 | 0 | -2.00 |
 
 ## Total acumulado (desde 05/11)
 
-- Apostas decididas: 154 (ganhas 76, 49%)
-- Lucro: **-10.40 unidades** em 152.4 apostadas (ROI -6.8%)
+- Apostas decididas: 159 (ganhas 76, 48%)
+- Lucro: **-15.20 unidades** em 157.2 apostadas (ROI -9.7%)
 - CLV medio: +1.1%
-- Com 4 EUR por aposta: -42 EUR (as odds da Pinnacle; na Betano seria menos)
+- Com 4 EUR por aposta: -61 EUR (as odds da Pinnacle; na Betano seria menos)
 
 ## Apostas
 
@@ -42,14 +43,14 @@ Apostas virtuais (sem dinheiro real) dos jogos da noite de 11/11 para 12/11. Odd
 | Los Angeles Lakers @ Milwaukee Bucks | Brayden Burries | Under 13.5 | 1.68 | 11.3 | 8 | ganhou | +0.68 |
 | Denver Nuggets @ Memphis Grizzlies | Cam Spencer | Over 7.5 | 2.01 | 9.0 | 15 | ganhou | +1.01 |
 | Denver Nuggets @ Memphis Grizzlies | Cameron Johnson | Under 11.5 | 1.97 | 10.9 | 23 | perdeu | -0.96 |
-| Brooklyn Nets @ New Orleans Pelicans | Derik Queen | Over 9.5 | 1.78 | 11.6 |  | por decidir |  |
-| Brooklyn Nets @ New Orleans Pelicans | Derik Queen (alerta) | Over 9.5 | 1.78 | 11.7 |  | por decidir |  |
+| Brooklyn Nets @ New Orleans Pelicans | Derik Queen | Over 9.5 | 1.78 | 11.6 | 9 | perdeu | -1.00 |
+| Brooklyn Nets @ New Orleans Pelicans | Derik Queen (alerta) | Over 9.5 | 1.78 | 11.7 | 9 | perdeu | -1.00 |
 | San Antonio Spurs @ Chicago Bulls | Dylan Harper | Under 17.5 | 1.89 | 16.4 | 18 | perdeu | -0.85 |
-| Brooklyn Nets @ New Orleans Pelicans | Egor Demin | Under 9.5 | 1.9 | 7.8 |  | por decidir |  |
+| Brooklyn Nets @ New Orleans Pelicans | Egor Demin | Under 9.5 | 1.9 | 7.8 | 22 | perdeu | -1.00 |
 | San Antonio Spurs @ Chicago Bulls | Jalen Smith | Under 12.5 | 1.72 | 10.6 | 23 | perdeu | -1.00 |
 | San Antonio Spurs @ Chicago Bulls | Josh Giddey | Under 12.5 | 2.02 | 12.1 | 9 | ganhou | +0.87 |
-| Brooklyn Nets @ New Orleans Pelicans | Karlo Matkovic | Over 7.5 | 1.97 | 8.7 |  | por decidir |  |
-| Brooklyn Nets @ New Orleans Pelicans | Karlo Matkovic (alerta) | Over 7.5 | 1.97 | 9.0 |  | por decidir |  |
+| Brooklyn Nets @ New Orleans Pelicans | Karlo Matkovic | Over 7.5 | 1.97 | 8.7 | 4 | perdeu | -0.80 |
+| Brooklyn Nets @ New Orleans Pelicans | Karlo Matkovic (alerta) | Over 7.5 | 1.97 | 9.0 | 4 | perdeu | -1.00 |
 | Los Angeles Lakers @ Milwaukee Bucks | Luka Doncic | Over 34.5 | 1.8 | 38.9 | 32 | perdeu | -1.00 |
 | Denver Nuggets @ Memphis Grizzlies | Nikola Jokic | Under 25.5 | 1.87 | 22.9 | 27 | perdeu | -1.00 |
 | Denver Nuggets @ Memphis Grizzlies | Ty Jerome | Over 21.5 | 1.93 | 23.6 | 22 | ganhou | +0.93 |
