@@ -1,6 +1,6 @@
 # Odds justas de hoje (pontos dos jogadores)
 
-Atualizado: 2026-11-12 00:35 UTC. Odd justa = Pinnacle sem margem. Modelo = a nossa previsao.
+Atualizado: 2026-11-12 00:45 UTC. Odd justa = Pinnacle sem margem. Modelo = a nossa previsao.
 Como usar: na Betano/Betclic, se a odd de "X+ pontos" for MAIOR do que a odd justa, essa aposta tem valor.
 
 ## Cleveland Cavaliers @ New York Knicks (12/11 00:10 UTC)
@@ -267,28 +267,28 @@ Ressaltos (so modelo, sem Pinnacle):
 Michael Porter Jr.       modelo  7.8 | 6+ 1.36  7+ 1.61  8+ 2.01  9+ 2.61  10+ 3.54
 Day'Ron Sharpe           modelo  7.2 | 6+ 1.47  7+ 1.80  8+ 2.32  9+ 3.13  10+ 4.41
 Julius Randle            modelo  6.7 | 5+ 1.33  6+ 1.60  7+ 2.02  8+ 2.68  9+ 3.74
-Derik Queen              modelo  6.1 | 5+ 1.46  6+ 1.84  7+ 2.43  8+ 3.40  9+ 4.97
-Zion Williamson          modelo  5.7 | 4+ 1.30  5+ 1.58  6+ 2.04  7+ 2.79  8+ 4.02
-Dejounte Murray          modelo  5.0 | 4+ 1.45  5+ 1.87  6+ 2.57  7+ 3.75  8+ 5.76
-Jeremiah Fears           modelo  4.7 | 3+ 1.26  4+ 1.56  5+ 2.07  6+ 2.95  7+ 4.45
-Karlo Matkovic           modelo  4.3 | 3+ 1.33  4+ 1.71  5+ 2.36  6+ 3.50  7+ 5.50
-Saddiq Bey               modelo  4.1 | 3+ 1.39  4+ 1.83  5+ 2.61  6+ 3.97  7+ 6.43
+Derik Queen              modelo  6.1 | 5+ 1.47  6+ 1.85  7+ 2.45  8+ 3.43  9+ 5.02
+Zion Williamson          modelo  5.7 | 4+ 1.29  5+ 1.57  6+ 2.02  7+ 2.76  8+ 3.97
+Dejounte Murray          modelo  5.0 | 4+ 1.45  5+ 1.86  6+ 2.55  7+ 3.71  8+ 5.70
+Jeremiah Fears           modelo  4.6 | 3+ 1.27  4+ 1.57  5+ 2.10  6+ 3.00  7+ 4.54
+Karlo Matkovic           modelo  4.4 | 3+ 1.31  4+ 1.66  5+ 2.27  6+ 3.32  7+ 5.16
+Saddiq Bey               modelo  4.1 | 3+ 1.39  4+ 1.82  5+ 2.59  6+ 3.94  7+ 6.37
 Moritz Wagner            modelo  3.2 | 2+ 1.29  3+ 1.72  4+ 2.54  5+ 4.07  6+ 6.97
 Egor Demin               modelo  2.3 | 1+ 1.17  2+ 1.60  3+ 2.50  4+ 4.31  5+ 8.06
 ```
 
 Assistencias (so modelo, sem Pinnacle):
 ```
-Jeremiah Fears           modelo  5.2 | 4+ 1.33  5+ 1.68  6+ 2.30  7+ 3.40  8+ 5.42
-Dejounte Murray          modelo  5.0 | 4+ 1.38  5+ 1.78  6+ 2.49  7+ 3.78  8+ 6.18
+Jeremiah Fears           modelo  5.2 | 4+ 1.34  5+ 1.69  6+ 2.32  7+ 3.44  8+ 5.48
+Dejounte Murray          modelo  5.1 | 4+ 1.37  5+ 1.76  6+ 2.44  7+ 3.68  8+ 5.98
 Julius Randle            modelo  4.9 | 3+ 1.18  4+ 1.41  5+ 1.84  6+ 2.61  7+ 4.01
 Day'Ron Sharpe           modelo  4.4 | 3+ 1.25  4+ 1.57  5+ 2.16  6+ 3.26  7+ 5.35
-Zion Williamson          modelo  3.1 | 2+ 1.25  3+ 1.67  4+ 2.53  5+ 4.31  6+ 8.12
-Saddiq Bey               modelo  2.7 | 1+ 1.09  2+ 1.36  3+ 1.97  4+ 3.27  5+ 6.13
+Zion Williamson          modelo  3.2 | 2+ 1.24  3+ 1.65  4+ 2.49  5+ 4.21  6+ 7.87
+Saddiq Bey               modelo  2.7 | 1+ 1.08  2+ 1.35  3+ 1.95  4+ 3.21  5+ 5.98
 Egor Demin               modelo  2.6 | 1+ 1.10  2+ 1.39  3+ 2.05  4+ 3.48  5+ 6.66
-Derik Queen              modelo  2.6 | 1+ 1.10  2+ 1.39  3+ 2.07  4+ 3.52  5+ 6.77
+Derik Queen              modelo  2.6 | 1+ 1.10  2+ 1.39  3+ 2.06  4+ 3.51  5+ 6.75
 Michael Porter Jr.       modelo  1.8 | 1+ 1.23  2+ 1.88  3+ 3.49  4+ 7.55  5+ 18.37
-Karlo Matkovic           modelo  1.3 | 1+ 1.40  2+ 2.60  3+ 5.89  4+ 15.47  5+ 45.34
+Karlo Matkovic           modelo  1.4 | 1+ 1.38  2+ 2.50  3+ 5.55  4+ 14.28  5+ 41.02
 Moritz Wagner            modelo  1.1 | 1+ 1.51  2+ 3.09  3+ 7.71  4+ 22.18  5+ 70.65
 ```
 
@@ -324,27 +324,27 @@ Norman Powell            linha  19.5 | modelo  17.7 | duvida se joga
 Ressaltos (so modelo, sem Pinnacle):
 ```
 Victor Wembanyama        modelo 11.4 | 10+ 1.51  11+ 1.77  12+ 2.15  13+ 2.69  14+ 3.47
-Jalen Smith              modelo  6.9 | 5+ 1.30  6+ 1.55  7+ 1.94  8+ 2.55  9+ 3.51
+Jalen Smith              modelo  6.9 | 5+ 1.30  6+ 1.55  7+ 1.94  8+ 2.56  9+ 3.53
 Stephon Castle           modelo  6.1 | 5+ 1.47  6+ 1.85  7+ 2.45  8+ 3.43  9+ 5.03
-Josh Giddey              modelo  5.8 | 4+ 1.28  5+ 1.54  6+ 1.97  7+ 2.67  8+ 3.80
+Josh Giddey              modelo  5.8 | 4+ 1.28  5+ 1.54  6+ 1.97  7+ 2.67  8+ 3.81
 Dylan Harper             modelo  5.4 | 4+ 1.35  5+ 1.68  6+ 2.23  7+ 3.13  8+ 4.63
-Nic Claxton              modelo  5.3 | 4+ 1.38  5+ 1.73  6+ 2.31  7+ 3.27  8+ 4.88
-Matas Buzelis            modelo  5.0 | 4+ 1.44  5+ 1.86  6+ 2.55  7+ 3.70  8+ 5.69
+Nic Claxton              modelo  5.3 | 4+ 1.38  5+ 1.73  6+ 2.32  7+ 3.29  8+ 4.93
+Matas Buzelis            modelo  5.0 | 4+ 1.45  5+ 1.86  6+ 2.55  7+ 3.71  8+ 5.69
 Julian Champagnie        modelo  4.5 | 3+ 1.30  4+ 1.64  5+ 2.23  6+ 3.25  7+ 5.02
 De'Aaron Fox             modelo  4.3 | 3+ 1.34  4+ 1.72  5+ 2.39  6+ 3.56  7+ 5.63
 ```
 
 Assistencias (so modelo, sem Pinnacle):
 ```
-Josh Giddey              modelo  8.2 | 7+ 1.43  8+ 1.74  9+ 2.24  10+ 3.04  11+ 4.35
+Josh Giddey              modelo  8.2 | 7+ 1.43  8+ 1.75  9+ 2.25  10+ 3.06  11+ 4.38
 De'Aaron Fox             modelo  5.7 | 4+ 1.24  5+ 1.49  6+ 1.94  7+ 2.71  8+ 4.06
 Stephon Castle           modelo  5.7 | 4+ 1.25  5+ 1.51  6+ 1.97  7+ 2.77  8+ 4.18
 Dylan Harper             modelo  4.1 | 3+ 1.32  4+ 1.72  5+ 2.48  6+ 3.94  7+ 6.81
 Victor Wembanyama        modelo  3.1 | 2+ 1.25  3+ 1.69  4+ 2.59  5+ 4.44  6+ 8.45
-Nic Claxton              modelo  3.0 | 2+ 1.27  3+ 1.74  4+ 2.70  5+ 4.72  6+ 9.13
-Matas Buzelis            modelo  2.0 | 1+ 1.18  2+ 1.70  3+ 2.93  4+ 5.88  5+ 13.31
+Nic Claxton              modelo  3.0 | 2+ 1.27  3+ 1.74  4+ 2.71  5+ 4.75  6+ 9.19
+Matas Buzelis            modelo  2.0 | 1+ 1.18  2+ 1.70  3+ 2.94  4+ 5.90  5+ 13.37
 Julian Champagnie        modelo  1.6 | 1+ 1.28  2+ 2.11  3+ 4.22  4+ 9.84  5+ 25.71
-Jalen Smith              modelo  1.6 | 1+ 1.29  2+ 2.15  3+ 4.35  4+ 10.26  5+ 27.11
+Jalen Smith              modelo  1.6 | 1+ 1.29  2+ 2.15  3+ 4.37  4+ 10.30  5+ 27.26
 ```
 
 ## Denver Nuggets @ Memphis Grizzlies (12/11 01:10 UTC)
@@ -383,17 +383,18 @@ Aaron Gordon             linha  12.5 | modelo  11.1 | APOSTA
 Ressaltos (so modelo, sem Pinnacle):
 ```
 Nikola Jokic             modelo 11.4 | 10+ 1.52  11+ 1.79  12+ 2.17  13+ 2.72  14+ 3.52
-Cameron Boozer           modelo  9.0 | 8+ 1.56  9+ 1.89  10+ 2.39  11+ 3.13  12+ 4.24
-Zach Edey                modelo  8.2 | 7+ 1.50  8+ 1.82  9+ 2.30  10+ 3.04  11+ 4.18
-Cedric Coward            modelo  7.1 | 6+ 1.48  7+ 1.83  8+ 2.37  9+ 3.20  10+ 4.53
+Cameron Boozer           modelo  9.0 | 7+ 1.35  8+ 1.58  9+ 1.92  10+ 2.44  11+ 3.20
+Zach Edey                modelo  8.1 | 7+ 1.53  8+ 1.87  9+ 2.38  10+ 3.17  11+ 4.38
+Cedric Coward            modelo  7.1 | 6+ 1.51  7+ 1.87  8+ 2.43  9+ 3.31  10+ 4.71
 Aaron Gordon             modelo  4.9 | 3+ 1.22  4+ 1.48  5+ 1.92  6+ 2.67  7+ 3.93
 Jamal Murray             modelo  4.8 | 3+ 1.24  4+ 1.52  5+ 2.00  6+ 2.82  7+ 4.21
 Christian Braun          modelo  3.8 | 2+ 1.18  3+ 1.46  4+ 1.97  5+ 2.88  6+ 4.52
-Ty Jerome                modelo  3.7 | 2+ 1.20  3+ 1.52  4+ 2.10  5+ 3.15  6+ 5.07
+Ty Jerome                modelo  3.6 | 2+ 1.21  3+ 1.53  4+ 2.12  5+ 3.18  6+ 5.12
 Cameron Johnson          modelo  3.6 | 2+ 1.21  3+ 1.54  4+ 2.13  5+ 3.22  6+ 5.20
-Cam Spencer              modelo  3.0 | 1+ 1.09  2+ 1.35  3+ 1.86  4+ 2.84  5+ 4.72
-Jaylen Wells             modelo  2.8 | 1+ 1.11  2+ 1.40  3+ 1.99  4+ 3.14  5+ 5.36
-Jerami Grant             modelo  2.4 | 1+ 1.16  2+ 1.58  3+ 2.45  4+ 4.19  5+ 7.77
+Isaiah Stewart           modelo  3.4 | 2+ 1.25  3+ 1.64  4+ 2.36  5+ 3.69  6+ 6.17
+Cam Spencer              modelo  2.9 | 1+ 1.09  2+ 1.36  3+ 1.89  4+ 2.91  5+ 4.87
+Jaylen Wells             modelo  2.8 | 1+ 1.11  2+ 1.41  3+ 2.03  4+ 3.22  5+ 5.54
+Jerami Grant             modelo  2.3 | 1+ 1.17  2+ 1.60  3+ 2.49  4+ 4.29  5+ 8.01
 DeMar DeRozan            modelo  2.2 | 1+ 1.20  2+ 1.70  3+ 2.77  4+ 4.97  5+ 9.63
 ```
 
@@ -401,17 +402,18 @@ Assistencias (so modelo, sem Pinnacle):
 ```
 Nikola Jokic             modelo  8.9 | 7+ 1.30  8+ 1.53  9+ 1.88  10+ 2.43  11+ 3.31
 Jamal Murray             modelo  5.5 | 4+ 1.28  5+ 1.57  6+ 2.09  7+ 2.99  8+ 4.60
-Cameron Boozer           modelo  5.5 | 4+ 1.28  5+ 1.57  6+ 2.09  7+ 3.00  8+ 4.62
-Cam Spencer              modelo  5.1 | 4+ 1.35  5+ 1.73  6+ 2.39  7+ 3.58  8+ 5.77
-Ty Jerome                modelo  5.1 | 4+ 1.37  5+ 1.75  6+ 2.44  7+ 3.68  8+ 5.98
+Cameron Boozer           modelo  5.5 | 4+ 1.28  5+ 1.58  6+ 2.11  7+ 3.02  8+ 4.67
+Cam Spencer              modelo  5.1 | 4+ 1.36  5+ 1.74  6+ 2.42  7+ 3.63  8+ 5.88
+Ty Jerome                modelo  5.1 | 4+ 1.37  5+ 1.76  6+ 2.45  7+ 3.70  8+ 6.02
 DeMar DeRozan            modelo  2.8 | 1+ 1.08  2+ 1.33  3+ 1.90  4+ 3.09  5+ 5.68
-Cedric Coward            modelo  2.7 | 1+ 1.08  2+ 1.35  3+ 1.93  4+ 3.19  5+ 5.92
+Cedric Coward            modelo  2.7 | 1+ 1.08  2+ 1.35  3+ 1.95  4+ 3.22  5+ 5.99
 Aaron Gordon             modelo  2.2 | 1+ 1.15  2+ 1.60  3+ 2.65  4+ 5.07  5+ 10.99
 Christian Braun          modelo  2.1 | 1+ 1.16  2+ 1.64  3+ 2.76  4+ 5.41  5+ 11.93
-Jerami Grant             modelo  2.1 | 1+ 1.17  2+ 1.67  3+ 2.85  4+ 5.66  5+ 12.66
+Jerami Grant             modelo  2.0 | 1+ 1.17  2+ 1.68  3+ 2.88  4+ 5.72  5+ 12.85
 Cameron Johnson          modelo  2.0 | 1+ 1.19  2+ 1.73  3+ 3.03  4+ 6.17  5+ 14.18
-Jaylen Wells             modelo  1.5 | 1+ 1.34  2+ 2.34  3+ 4.99  4+ 12.38  5+ 34.33
-Zach Edey                modelo  1.2 | 1+ 1.45  2+ 2.78  3+ 6.57  4+ 17.94  5+ 54.43
+Jaylen Wells             modelo  1.4 | 1+ 1.34  2+ 2.36  3+ 5.05  4+ 12.56  5+ 34.97
+Zach Edey                modelo  1.2 | 1+ 1.45  2+ 2.80  3+ 6.64  4+ 18.20  5+ 55.42
+Isaiah Stewart           modelo  0.8 | 1+ 1.87  2+ 4.83  3+ 15.07  4+ 52.99  5+ 202.21
 ```
 
 ## Orlando Magic @ Utah Jazz (12/11 02:10 UTC)
