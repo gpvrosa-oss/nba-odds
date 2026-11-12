@@ -10,4 +10,4 @@ Apostas virtuais (sem dinheiro real), por ordem. Clica na data para ver todas as
 | [09/11/2026](<Resultados(2026-11-09).md>) | 20 | 13 | 7 | +3.88 | -16.83 |
 | [10/11/2026](<Resultados(2026-11-10).md>) | 18 | 10 | 8 | +0.73 | -16.10 |
 | [11/11/2026](<Resultados(2026-11-11).md>) | 26 | 14 | 12 | +1.12 | -14.98 |
-| [12/11/2026](<Resultados(2026-11-12).md>) | 34 | 8 | 3 | +4.24 | -10.74 |
+| [12/11/2026](<Resultados(2026-11-12).md>) | 34 | 9 | 5 | +3.26 | -11.72 |
