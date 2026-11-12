@@ -213,3 +213,21 @@ recolhido_em,momento,jogo_id,inicio_jogo,casa,fora,casa_apostas,atualizado_em,me
 2026-11-12T21:42:56Z,cedo,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Minnesota Timberwolves,Dallas Mavericks,pinnacle,2026-11-12T21:42:27Z,player_points,Rudy Gobert,Under,9.5,1.89
 2026-11-12T21:42:56Z,cedo,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Minnesota Timberwolves,Dallas Mavericks,pinnacle,2026-11-12T21:42:27Z,player_points,Terrence Shannon Jr.,Over,9.5,1.83
 2026-11-12T21:42:56Z,cedo,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Minnesota Timberwolves,Dallas Mavericks,pinnacle,2026-11-12T21:42:27Z,player_points,Terrence Shannon Jr.,Under,9.5,1.91
+2026-11-12T22:48:02Z,cedo,f3f429e773bfb2340ba2bb90f2b9dd1e,2026-11-13T02:10:00Z,Phoenix Suns,Charlotte Hornets,pinnacle,2026-11-12T22:47:00Z,player_points,Devin Booker,Over,24.5,1.83
+2026-11-12T22:48:02Z,cedo,f3f429e773bfb2340ba2bb90f2b9dd1e,2026-11-13T02:10:00Z,Phoenix Suns,Charlotte Hornets,pinnacle,2026-11-12T22:47:00Z,player_points,Devin Booker,Under,24.5,1.91
+2026-11-12T22:48:02Z,cedo,f3f429e773bfb2340ba2bb90f2b9dd1e,2026-11-13T02:10:00Z,Phoenix Suns,Charlotte Hornets,pinnacle,2026-11-12T22:47:00Z,player_points,Dillon Brooks,Over,14.5,1.78
+2026-11-12T22:48:02Z,cedo,f3f429e773bfb2340ba2bb90f2b9dd1e,2026-11-13T02:10:00Z,Phoenix Suns,Charlotte Hornets,pinnacle,2026-11-12T22:47:00Z,player_points,Dillon Brooks,Under,14.5,1.97
+2026-11-12T22:48:02Z,cedo,f3f429e773bfb2340ba2bb90f2b9dd1e,2026-11-13T02:10:00Z,Phoenix Suns,Charlotte Hornets,pinnacle,2026-11-12T22:47:00Z,player_points,Grayson Allen,Over,17.5,1.85
+2026-11-12T22:48:02Z,cedo,f3f429e773bfb2340ba2bb90f2b9dd1e,2026-11-13T02:10:00Z,Phoenix Suns,Charlotte Hornets,pinnacle,2026-11-12T22:47:00Z,player_points,Grayson Allen,Under,17.5,1.89
+2026-11-12T22:48:02Z,cedo,f3f429e773bfb2340ba2bb90f2b9dd1e,2026-11-13T02:10:00Z,Phoenix Suns,Charlotte Hornets,pinnacle,2026-11-12T22:47:00Z,player_points,Jalen Green,Over,13.5,1.95
+2026-11-12T22:48:02Z,cedo,f3f429e773bfb2340ba2bb90f2b9dd1e,2026-11-13T02:10:00Z,Phoenix Suns,Charlotte Hornets,pinnacle,2026-11-12T22:47:00Z,player_points,Jalen Green,Under,13.5,1.79
+2026-11-12T22:48:02Z,cedo,f3f429e773bfb2340ba2bb90f2b9dd1e,2026-11-13T02:10:00Z,Phoenix Suns,Charlotte Hornets,pinnacle,2026-11-12T22:47:00Z,player_points,Jordan Goodwin,Over,7.5,2.05
+2026-11-12T22:48:02Z,cedo,f3f429e773bfb2340ba2bb90f2b9dd1e,2026-11-13T02:10:00Z,Phoenix Suns,Charlotte Hornets,pinnacle,2026-11-12T22:47:00Z,player_points,Jordan Goodwin,Under,7.5,1.71
+2026-11-12T22:48:02Z,cedo,f3f429e773bfb2340ba2bb90f2b9dd1e,2026-11-13T02:10:00Z,Phoenix Suns,Charlotte Hornets,pinnacle,2026-11-12T22:47:00Z,player_points,Khaman Maluach,Over,6.5,1.81
+2026-11-12T22:48:02Z,cedo,f3f429e773bfb2340ba2bb90f2b9dd1e,2026-11-13T02:10:00Z,Phoenix Suns,Charlotte Hornets,pinnacle,2026-11-12T22:47:00Z,player_points,Khaman Maluach,Under,6.5,1.93
+2026-11-12T22:48:02Z,cedo,f3f429e773bfb2340ba2bb90f2b9dd1e,2026-11-13T02:10:00Z,Phoenix Suns,Charlotte Hornets,pinnacle,2026-11-12T22:47:00Z,player_points,Moussa Diabate,Over,8.5,1.87
+2026-11-12T22:48:02Z,cedo,f3f429e773bfb2340ba2bb90f2b9dd1e,2026-11-13T02:10:00Z,Phoenix Suns,Charlotte Hornets,pinnacle,2026-11-12T22:47:00Z,player_points,Moussa Diabate,Under,8.5,1.87
+2026-11-12T22:48:02Z,cedo,f3f429e773bfb2340ba2bb90f2b9dd1e,2026-11-13T02:10:00Z,Phoenix Suns,Charlotte Hornets,pinnacle,2026-11-12T22:47:00Z,player_points,Naz Reid,Over,20.5,1.92
+2026-11-12T22:48:02Z,cedo,f3f429e773bfb2340ba2bb90f2b9dd1e,2026-11-13T02:10:00Z,Phoenix Suns,Charlotte Hornets,pinnacle,2026-11-12T22:47:00Z,player_points,Naz Reid,Under,20.5,1.82
+2026-11-12T22:48:02Z,cedo,f3f429e773bfb2340ba2bb90f2b9dd1e,2026-11-13T02:10:00Z,Phoenix Suns,Charlotte Hornets,pinnacle,2026-11-12T22:47:00Z,player_points,Ryan Kalkbrenner,Over,5.5,2.02
+2026-11-12T22:48:02Z,cedo,f3f429e773bfb2340ba2bb90f2b9dd1e,2026-11-13T02:10:00Z,Phoenix Suns,Charlotte Hornets,pinnacle,2026-11-12T22:47:00Z,player_points,Ryan Kalkbrenner,Under,5.5,1.74

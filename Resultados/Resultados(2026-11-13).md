@@ -2,11 +2,11 @@
 
 Apostas virtuais (sem dinheiro real) dos jogos da noite de 12/11 para 13/11. Odds da Pinnacle, 1 unidade por aposta (menos quando o modelo aposta menos).
 
-**Ainda ha 8 apostas por decidir** (jogos a decorrer ou resultados por chegar).
+**Ainda ha 13 apostas por decidir** (jogos a decorrer ou resultados por chegar).
 
 ## Resumo da noite
 
-- Apostas: **8** (ganhas 0, perdidas 0)
+- Apostas: **13** (ganhas 0, perdidas 0)
 - Apostado: 0.0 unidades
 - Lucro: **+0.00 unidades**
 - CLV medio: - (se o mercado se moveu a nosso favor depois de apostarmos)
@@ -41,3 +41,8 @@ Modelo B = as mesmas apostas, mas sem linhas ate 9.5, so com valor acima de 5% e
 | Detroit Pistons @ Washington Wizards | John Collins | Under 12.5 | 1.96 | 11.4 |  | por decidir |  | sim |
 | Dallas Mavericks @ Minnesota Timberwolves | Jonathan Kuminga | Under 13.5 | 1.99 | 12.4 |  | por decidir |  | sim |
 | Dallas Mavericks @ Minnesota Timberwolves | Rudy Gobert | Under 9.5 | 1.89 | 8.4 |  | por decidir |  |  |
+| Charlotte Hornets @ Phoenix Suns | Devin Booker | Under 24.5 | 1.91 | 21.6 |  | por decidir |  | sim |
+| Charlotte Hornets @ Phoenix Suns | Dillon Brooks | Under 14.5 | 1.97 | 13.9 |  | por decidir |  |  |
+| Charlotte Hornets @ Phoenix Suns | Grayson Allen | Under 17.5 | 1.89 | 15.7 |  | por decidir |  | sim |
+| Charlotte Hornets @ Phoenix Suns | Moussa Diabate | Under 8.5 | 1.87 | 7.8 |  | por decidir |  |  |
+| Charlotte Hornets @ Phoenix Suns | Ryan Kalkbrenner | Over 5.5 | 2.02 | 6.7 |  | por decidir |  |  |
