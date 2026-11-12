@@ -15,6 +15,15 @@ Apostas virtuais (sem dinheiro real) dos jogos da noite de 11/11 para 12/11. Odd
 | Under | 22 | 11 | -1.19 |
 | Alertas de ultima hora | 2 | 0 | -2.00 |
 
+## Modelo A (atual) vs Modelo B (com as 3 regras)
+
+Modelo B = as mesmas apostas, mas sem linhas ate 9.5, so com valor acima de 5% e sem alertas de ultima hora.
+
+| | Apostas | Ganhas | Lucro | ROI |
+| --- | --- | --- | --- | --- |
+| A esta noite | 34 | 16 | -3.40 | -10.3% |
+| B esta noite | 10 | 4 | -2.21 | -22.1% |
+
 ## Total acumulado (desde 05/11)
 
 - Apostas decididas: 166 (ganhas 78, 47%)
@@ -24,39 +33,39 @@ Apostas virtuais (sem dinheiro real) dos jogos da noite de 11/11 para 12/11. Odd
 
 ## Apostas
 
-| Jogo | Jogador | Aposta | Odd | Modelo | Pontos | Resultado | Lucro |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Boston Celtics @ Toronto Raptors | Derrick White | Under 14.5 | 1.82 | 11.8 | 19 | perdeu | -1.00 |
-| Cleveland Cavaliers @ New York Knicks | Evan Mobley | Under 16.5 | 1.8 | 14.8 | 10 | ganhou | +0.80 |
-| Boston Celtics @ Toronto Raptors | Ja'Kobe Walter | Under 12.5 | 1.93 | 11.2 | 17 | perdeu | -1.00 |
-| Cleveland Cavaliers @ New York Knicks | James Harden | Under 16.5 | 1.76 | 13.8 | 32 | perdeu | -1.00 |
-| Cleveland Cavaliers @ New York Knicks | Jarrett Allen | Under 11.5 | 1.84 | 10.4 | 11 | ganhou | +0.84 |
-| Boston Celtics @ Toronto Raptors | Jayson Tatum | Under 26.5 | 2.01 | 23.8 | 24 | ganhou | +1.01 |
-| Washington Wizards @ Indiana Pacers | Kyshawn George | Over 14.5 | 1.83 | 16.7 | 25 | ganhou | +0.83 |
-| Cleveland Cavaliers @ New York Knicks | Mikal Bridges | Under 9.5 | 1.93 | 8.4 | 2 | ganhou | +0.93 |
-| Boston Celtics @ Toronto Raptors | Payton Pritchard | Under 14.5 | 2.06 | 13.9 | 14 | ganhou | +1.06 |
-| Cleveland Cavaliers @ New York Knicks | Peyton Watson | Under 12.5 | 1.8 | 10.7 | 7 | ganhou | +0.80 |
-| Washington Wizards @ Indiana Pacers | Tre Johnson | Over 7.5 | 1.97 | 9.6 | 15 | ganhou | +0.97 |
-| Denver Nuggets @ Memphis Grizzlies | Aaron Gordon | Under 12.5 | 1.81 | 11.1 | 9 | ganhou | +0.81 |
-| Los Angeles Lakers @ Milwaukee Bucks | Brayden Burries | Under 13.5 | 1.68 | 11.3 | 8 | ganhou | +0.68 |
-| Denver Nuggets @ Memphis Grizzlies | Cam Spencer | Over 7.5 | 2.01 | 9.0 | 15 | ganhou | +1.01 |
-| Denver Nuggets @ Memphis Grizzlies | Cameron Johnson | Under 11.5 | 1.97 | 10.9 | 23 | perdeu | -0.96 |
-| Brooklyn Nets @ New Orleans Pelicans | Derik Queen | Over 9.5 | 1.78 | 11.6 | 9 | perdeu | -1.00 |
-| Brooklyn Nets @ New Orleans Pelicans | Derik Queen (alerta) | Over 9.5 | 1.78 | 11.7 | 9 | perdeu | -1.00 |
-| San Antonio Spurs @ Chicago Bulls | Dylan Harper | Under 17.5 | 1.89 | 16.4 | 18 | perdeu | -0.85 |
-| Brooklyn Nets @ New Orleans Pelicans | Egor Demin | Under 9.5 | 1.9 | 7.8 | 22 | perdeu | -1.00 |
-| San Antonio Spurs @ Chicago Bulls | Jalen Smith | Under 12.5 | 1.72 | 10.6 | 23 | perdeu | -1.00 |
-| San Antonio Spurs @ Chicago Bulls | Josh Giddey | Under 12.5 | 2.02 | 12.1 | 9 | ganhou | +0.87 |
-| Brooklyn Nets @ New Orleans Pelicans | Karlo Matkovic | Over 7.5 | 1.97 | 8.7 | 4 | perdeu | -0.80 |
-| Brooklyn Nets @ New Orleans Pelicans | Karlo Matkovic (alerta) | Over 7.5 | 1.97 | 9.0 | 4 | perdeu | -1.00 |
-| Los Angeles Lakers @ Milwaukee Bucks | Luka Doncic | Over 34.5 | 1.8 | 38.9 | 32 | perdeu | -1.00 |
-| Denver Nuggets @ Memphis Grizzlies | Nikola Jokic | Under 25.5 | 1.87 | 22.9 | 27 | perdeu | -1.00 |
-| Denver Nuggets @ Memphis Grizzlies | Ty Jerome | Over 21.5 | 1.93 | 23.6 | 22 | ganhou | +0.93 |
-| Los Angeles Lakers @ Milwaukee Bucks | Ziaire Williams | Over 8.5 | 1.85 | 10.9 | 9 | ganhou | +0.85 |
-| Orlando Magic @ Utah Jazz | Wendell Carter Jr | Over 12.5 | 1.87 | 14.8 | 9 | perdeu | -1.00 |
-| Golden State Warriors @ Houston Rockets | Georges Niang | Over 7.5 | 1.99 | 8.8 | 5 | perdeu | -1.00 |
-| Oklahoma City Thunder @ Portland Trail Blazers | Damian Lillard | Under 19.5 | 1.91 | 18.4 | 18 | ganhou | +0.76 |
-| Oklahoma City Thunder @ Portland Trail Blazers | Deni Avdija | Under 22.5 | 1.94 | 21.4 | 28 | perdeu | -0.86 |
-| Oklahoma City Thunder @ Portland Trail Blazers | Isaiah Hartenstein | Under 9.5 | 1.72 | 7.6 | 20 | perdeu | -1.00 |
-| Oklahoma City Thunder @ Portland Trail Blazers | Jared McCain | Under 15.5 | 1.92 | 13.4 | 10 | ganhou | +0.92 |
-| Oklahoma City Thunder @ Portland Trail Blazers | Kenrich Williams | Under 8.5 | 1.96 | 7.3 | 11 | perdeu | -1.00 |
+| Jogo | Jogador | Aposta | Odd | Modelo | Pontos | Resultado | Lucro | B? |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Boston Celtics @ Toronto Raptors | Derrick White | Under 14.5 | 1.82 | 11.8 | 19 | perdeu | -1.00 | sim |
+| Cleveland Cavaliers @ New York Knicks | Evan Mobley | Under 16.5 | 1.8 | 14.8 | 10 | ganhou | +0.80 |  |
+| Boston Celtics @ Toronto Raptors | Ja'Kobe Walter | Under 12.5 | 1.93 | 11.2 | 17 | perdeu | -1.00 | sim |
+| Cleveland Cavaliers @ New York Knicks | James Harden | Under 16.5 | 1.76 | 13.8 | 32 | perdeu | -1.00 | sim |
+| Cleveland Cavaliers @ New York Knicks | Jarrett Allen | Under 11.5 | 1.84 | 10.4 | 11 | ganhou | +0.84 |  |
+| Boston Celtics @ Toronto Raptors | Jayson Tatum | Under 26.5 | 2.01 | 23.8 | 24 | ganhou | +1.01 | sim |
+| Washington Wizards @ Indiana Pacers | Kyshawn George | Over 14.5 | 1.83 | 16.7 | 25 | ganhou | +0.83 |  |
+| Cleveland Cavaliers @ New York Knicks | Mikal Bridges | Under 9.5 | 1.93 | 8.4 | 2 | ganhou | +0.93 |  |
+| Boston Celtics @ Toronto Raptors | Payton Pritchard | Under 14.5 | 2.06 | 13.9 | 14 | ganhou | +1.06 | sim |
+| Cleveland Cavaliers @ New York Knicks | Peyton Watson | Under 12.5 | 1.8 | 10.7 | 7 | ganhou | +0.80 | sim |
+| Washington Wizards @ Indiana Pacers | Tre Johnson | Over 7.5 | 1.97 | 9.6 | 15 | ganhou | +0.97 |  |
+| Denver Nuggets @ Memphis Grizzlies | Aaron Gordon | Under 12.5 | 1.81 | 11.1 | 9 | ganhou | +0.81 |  |
+| Los Angeles Lakers @ Milwaukee Bucks | Brayden Burries | Under 13.5 | 1.68 | 11.3 | 8 | ganhou | +0.68 |  |
+| Denver Nuggets @ Memphis Grizzlies | Cam Spencer | Over 7.5 | 2.01 | 9.0 | 15 | ganhou | +1.01 |  |
+| Denver Nuggets @ Memphis Grizzlies | Cameron Johnson | Under 11.5 | 1.97 | 10.9 | 23 | perdeu | -0.96 |  |
+| Brooklyn Nets @ New Orleans Pelicans | Derik Queen | Over 9.5 | 1.78 | 11.6 | 9 | perdeu | -1.00 |  |
+| Brooklyn Nets @ New Orleans Pelicans | Derik Queen (alerta) | Over 9.5 | 1.78 | 11.7 | 9 | perdeu | -1.00 |  |
+| San Antonio Spurs @ Chicago Bulls | Dylan Harper | Under 17.5 | 1.89 | 16.4 | 18 | perdeu | -0.85 |  |
+| Brooklyn Nets @ New Orleans Pelicans | Egor Demin | Under 9.5 | 1.9 | 7.8 | 22 | perdeu | -1.00 |  |
+| San Antonio Spurs @ Chicago Bulls | Jalen Smith | Under 12.5 | 1.72 | 10.6 | 23 | perdeu | -1.00 |  |
+| San Antonio Spurs @ Chicago Bulls | Josh Giddey | Under 12.5 | 2.02 | 12.1 | 9 | ganhou | +0.87 |  |
+| Brooklyn Nets @ New Orleans Pelicans | Karlo Matkovic | Over 7.5 | 1.97 | 8.7 | 4 | perdeu | -0.80 |  |
+| Brooklyn Nets @ New Orleans Pelicans | Karlo Matkovic (alerta) | Over 7.5 | 1.97 | 9.0 | 4 | perdeu | -1.00 |  |
+| Los Angeles Lakers @ Milwaukee Bucks | Luka Doncic | Over 34.5 | 1.8 | 38.9 | 32 | perdeu | -1.00 | sim |
+| Denver Nuggets @ Memphis Grizzlies | Nikola Jokic | Under 25.5 | 1.87 | 22.9 | 27 | perdeu | -1.00 | sim |
+| Denver Nuggets @ Memphis Grizzlies | Ty Jerome | Over 21.5 | 1.93 | 23.6 | 22 | ganhou | +0.93 |  |
+| Los Angeles Lakers @ Milwaukee Bucks | Ziaire Williams | Over 8.5 | 1.85 | 10.9 | 9 | ganhou | +0.85 |  |
+| Orlando Magic @ Utah Jazz | Wendell Carter Jr | Over 12.5 | 1.87 | 14.8 | 9 | perdeu | -1.00 | sim |
+| Golden State Warriors @ Houston Rockets | Georges Niang | Over 7.5 | 1.99 | 8.8 | 5 | perdeu | -1.00 |  |
+| Oklahoma City Thunder @ Portland Trail Blazers | Damian Lillard | Under 19.5 | 1.91 | 18.4 | 18 | ganhou | +0.76 |  |
+| Oklahoma City Thunder @ Portland Trail Blazers | Deni Avdija | Under 22.5 | 1.94 | 21.4 | 28 | perdeu | -0.86 |  |
+| Oklahoma City Thunder @ Portland Trail Blazers | Isaiah Hartenstein | Under 9.5 | 1.72 | 7.6 | 20 | perdeu | -1.00 |  |
+| Oklahoma City Thunder @ Portland Trail Blazers | Jared McCain | Under 15.5 | 1.92 | 13.4 | 10 | ganhou | +0.92 | sim |
+| Oklahoma City Thunder @ Portland Trail Blazers | Kenrich Williams | Under 8.5 | 1.96 | 7.3 | 11 | perdeu | -1.00 |  |
