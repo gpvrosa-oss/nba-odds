@@ -1,6 +1,6 @@
 # Odds justas de hoje (pontos dos jogadores)
 
-Atualizado: 2026-11-12 23:42 UTC. Odd justa = Pinnacle sem margem. Modelo = a nossa previsao.
+Atualizado: 2026-11-12 23:52 UTC. Odd justa = Pinnacle sem margem. Modelo = a nossa previsao.
 Como usar: na Betano/Betclic, se a odd de "X+ pontos" for MAIOR do que a odd justa, essa aposta tem valor.
 
 ## Toronto Raptors @ Philadelphia 76ers (13/11 00:10 UTC)
@@ -26,21 +26,23 @@ Immanuel Quickley        linha  15.5 | modelo  16.2 | sem valor
 
 Ressaltos (so modelo, sem Pinnacle):
 ```
+Joel Embiid              modelo  8.0 | 7+ 1.55  8+ 1.90  9+ 2.43  10+ 3.25  11+ 4.52
 Jakob Poeltl             modelo  7.9 | 6+ 1.34  7+ 1.59  8+ 1.96  9+ 2.54  10+ 3.43
-VJ Edgecombe             modelo  6.1 | 5+ 1.46  6+ 1.83  7+ 2.42  8+ 3.38  9+ 4.94
-Jaylen Brown             modelo  6.1 | 5+ 1.47  6+ 1.85  7+ 2.46  8+ 3.45  9+ 5.06
+Jaylen Brown             modelo  6.1 | 5+ 1.46  6+ 1.83  7+ 2.43  8+ 3.39  9+ 4.96
+VJ Edgecombe             modelo  6.0 | 5+ 1.49  6+ 1.87  7+ 2.50  8+ 3.51  9+ 5.17
 Collin Murray-Boyles     modelo  5.5 | 4+ 1.34  5+ 1.66  6+ 2.19  7+ 3.06  8+ 4.51
 Ja'Kobe Walter           modelo  4.4 | 3+ 1.31  4+ 1.66  5+ 2.27  6+ 3.32  7+ 5.16
 Immanuel Quickley        modelo  4.0 | 3+ 1.40  4+ 1.86  5+ 2.66  6+ 4.08  7+ 6.64
-Tyrese Maxey             modelo  3.5 | 2+ 1.23  3+ 1.59  4+ 2.25  5+ 3.46  6+ 5.70
+Tyrese Maxey             modelo  3.5 | 2+ 1.23  3+ 1.58  4+ 2.23  5+ 3.42  6+ 5.61
 ```
 
 Assistencias (so modelo, sem Pinnacle):
 ```
 Immanuel Quickley        modelo  5.4 | 4+ 1.29  5+ 1.60  6+ 2.14  7+ 3.08  8+ 4.79
-Tyrese Maxey             modelo  5.1 | 4+ 1.36  5+ 1.75  6+ 2.43  7+ 3.65  8+ 5.92
-Jaylen Brown             modelo  3.5 | 2+ 1.17  3+ 1.48  4+ 2.10  5+ 3.31  6+ 5.77
-VJ Edgecombe             modelo  3.4 | 2+ 1.19  3+ 1.53  4+ 2.21  5+ 3.57  6+ 6.36
+Tyrese Maxey             modelo  5.1 | 4+ 1.36  5+ 1.74  6+ 2.42  7+ 3.63  8+ 5.87
+Jaylen Brown             modelo  3.6 | 2+ 1.17  3+ 1.48  4+ 2.09  5+ 3.30  6+ 5.73
+Joel Embiid              modelo  3.5 | 2+ 1.18  3+ 1.49  4+ 2.11  5+ 3.35  6+ 5.85
+VJ Edgecombe             modelo  3.4 | 2+ 1.20  3+ 1.55  4+ 2.26  5+ 3.67  6+ 6.59
 Ja'Kobe Walter           modelo  2.0 | 1+ 1.17  2+ 1.68  3+ 2.87  4+ 5.71  5+ 12.80
 Collin Murray-Boyles     modelo  1.8 | 1+ 1.22  2+ 1.86  3+ 3.43  4+ 7.36  5+ 17.77
 Jakob Poeltl             modelo  1.7 | 1+ 1.27  2+ 2.04  3+ 3.99  4+ 9.08  5+ 23.24
@@ -131,31 +133,31 @@ Jonathan Kuminga         linha  13.5 | modelo  12.4 | APOSTA
 Ressaltos (so modelo, sem Pinnacle):
 ```
 Rudy Gobert              modelo 10.3 | 9+ 1.52  10+ 1.81  11+ 2.22  12+ 2.83  13+ 3.73
-Cooper Flagg             modelo  6.9 | 5+ 1.30  6+ 1.55  7+ 1.94  8+ 2.54  9+ 3.50
-P.J. Washington          modelo  6.8 | 5+ 1.31  6+ 1.56  7+ 1.96  8+ 2.59  9+ 3.58
+Cooper Flagg             modelo  6.8 | 5+ 1.31  6+ 1.57  7+ 1.97  8+ 2.61  9+ 3.61
+P.J. Washington          modelo  6.7 | 5+ 1.34  6+ 1.62  7+ 2.06  8+ 2.75  9+ 3.86
 Jaden McDaniels          modelo  5.7 | 4+ 1.31  5+ 1.60  6+ 2.08  7+ 2.86  8+ 4.15
-Daniel Gafford           modelo  5.1 | 4+ 1.43  5+ 1.83  6+ 2.50  7+ 3.62  8+ 5.53
 Jonathan Kuminga         modelo  5.0 | 4+ 1.44  5+ 1.85  6+ 2.54  7+ 3.70  8+ 5.67
+Daniel Gafford           modelo  4.9 | 3+ 1.22  4+ 1.47  5+ 1.91  6+ 2.65  7+ 3.89
 Ayo Dosunmu              modelo  4.7 | 3+ 1.25  4+ 1.54  5+ 2.04  6+ 2.89  7+ 4.34
-Kyrie Irving             modelo  3.8 | 2+ 1.19  3+ 1.48  4+ 2.02  5+ 2.99  6+ 4.74
 LaMelo Ball              modelo  3.7 | 2+ 1.19  3+ 1.49  4+ 2.04  5+ 3.02  6+ 4.79
-Naji Marshall            modelo  3.3 | 2+ 1.28  3+ 1.70  4+ 2.48  5+ 3.93  6+ 6.68
+Kyrie Irving             modelo  3.7 | 2+ 1.20  3+ 1.50  4+ 2.06  5+ 3.07  6+ 4.89
+Naji Marshall            modelo  3.2 | 2+ 1.29  3+ 1.73  4+ 2.56  5+ 4.11  6+ 7.06
 Terrence Shannon Jr.     modelo  2.8 | 1+ 1.11  2+ 1.41  3+ 2.02  4+ 3.20  5+ 5.51
 ```
 
 Assistencias (so modelo, sem Pinnacle):
 ```
 LaMelo Ball              modelo  6.4 | 5+ 1.33  6+ 1.64  7+ 2.15  8+ 3.01  9+ 4.49
-Cooper Flagg             modelo  5.7 | 4+ 1.24  5+ 1.50  6+ 1.94  7+ 2.71  8+ 4.07
+Cooper Flagg             modelo  5.7 | 4+ 1.24  5+ 1.51  6+ 1.96  7+ 2.76  8+ 4.15
 Ayo Dosunmu              modelo  4.1 | 3+ 1.31  4+ 1.70  5+ 2.45  6+ 3.87  7+ 6.66
-Kyrie Irving             modelo  3.9 | 2+ 1.14  3+ 1.38  4+ 1.86  5+ 2.79  6+ 4.61
+Kyrie Irving             modelo  3.8 | 2+ 1.14  3+ 1.39  4+ 1.89  5+ 2.84  6+ 4.71
 Jaden McDaniels          modelo  3.6 | 2+ 1.17  3+ 1.47  4+ 2.07  5+ 3.24  6+ 5.61
-Naji Marshall            modelo  3.3 | 2+ 1.21  3+ 1.57  4+ 2.29  5+ 3.75  6+ 6.80
+Naji Marshall            modelo  3.3 | 2+ 1.21  3+ 1.59  4+ 2.34  5+ 3.86  6+ 7.05
 Jonathan Kuminga         modelo  2.7 | 1+ 1.09  2+ 1.37  3+ 2.00  4+ 3.35  5+ 6.32
 Terrence Shannon Jr.     modelo  2.2 | 1+ 1.14  2+ 1.57  3+ 2.57  4+ 4.87  5+ 10.40
 Rudy Gobert              modelo  1.6 | 1+ 1.29  2+ 2.12  3+ 4.26  4+ 9.96  5+ 26.13
-Daniel Gafford           modelo  1.5 | 1+ 1.32  2+ 2.26  3+ 4.71  4+ 11.44  5+ 31.11
-P.J. Washington          modelo  1.2 | 1+ 1.47  2+ 2.89  3+ 6.95  4+ 19.33  5+ 59.67
+Daniel Gafford           modelo  1.5 | 1+ 1.33  2+ 2.30  3+ 4.85  4+ 11.90  5+ 32.69
+P.J. Washington          modelo  1.2 | 1+ 1.48  2+ 2.94  3+ 7.14  4+ 20.05  5+ 62.42
 ```
 
 ## Charlotte Hornets @ Phoenix Suns (13/11 02:10 UTC)
