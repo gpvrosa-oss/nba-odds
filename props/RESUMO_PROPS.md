@@ -1,6 +1,6 @@
 # Apostas virtuais em props (sem dinheiro real)
 
-Atualizado: 2026-11-13 04:57 UTC. Casa de referencia: Pinnacle (linha ~3h antes do jogo).
+Atualizado: 2026-11-13 05:07 UTC. Casa de referencia: Pinnacle (linha ~3h antes do jogo).
 
 - Apostas decididas: **179** (ganhas 46%), anuladas: 1, por decidir: 0
 - Apostado: 176.6 unidades. Lucro: **-21.8 unidades** (ROI -12.3%)
