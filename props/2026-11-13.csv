@@ -223,3 +223,45 @@ recolhido_em,momento,jogo_id,inicio_jogo,casa,fora,casa_apostas,atualizado_em,me
 2026-11-13T23:17:59Z,cedo,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,San Antonio Spurs,Golden State Warriors,pinnacle,2026-11-13T23:17:15Z,player_points,Victor Wembanyama,Under,28.5,1.74
 2026-11-13T23:17:59Z,cedo,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,San Antonio Spurs,Golden State Warriors,pinnacle,2026-11-13T23:17:15Z,player_points,Yaxel Lendeborg,Over,21.5,1.92
 2026-11-13T23:17:59Z,cedo,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,San Antonio Spurs,Golden State Warriors,pinnacle,2026-11-13T23:17:15Z,player_points,Yaxel Lendeborg,Under,21.5,1.82
+2026-11-13T23:31:42Z,fecho,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,Indiana Pacers,New York Knicks,pinnacle,2026-11-13T23:31:00Z,player_points,Andrew Nembhard,Over,15.5,1.97
+2026-11-13T23:31:42Z,fecho,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,Indiana Pacers,New York Knicks,pinnacle,2026-11-13T23:31:00Z,player_points,Andrew Nembhard,Under,15.5,1.78
+2026-11-13T23:31:42Z,fecho,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,Indiana Pacers,New York Knicks,pinnacle,2026-11-13T23:31:00Z,player_points,Ivica Zubac,Over,12.5,1.83
+2026-11-13T23:31:42Z,fecho,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,Indiana Pacers,New York Knicks,pinnacle,2026-11-13T23:31:00Z,player_points,Ivica Zubac,Under,12.5,1.91
+2026-11-13T23:31:42Z,fecho,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,Indiana Pacers,New York Knicks,pinnacle,2026-11-13T23:31:00Z,player_points,Jalen Brunson,Over,24.5,1.68
+2026-11-13T23:31:42Z,fecho,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,Indiana Pacers,New York Knicks,pinnacle,2026-11-13T23:31:00Z,player_points,Jalen Brunson,Under,24.5,2.12
+2026-11-13T23:31:42Z,fecho,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,Indiana Pacers,New York Knicks,pinnacle,2026-11-13T23:31:00Z,player_points,Josh Hart,Over,9.5,2.05
+2026-11-13T23:31:42Z,fecho,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,Indiana Pacers,New York Knicks,pinnacle,2026-11-13T23:31:00Z,player_points,Josh Hart,Under,9.5,1.72
+2026-11-13T23:31:42Z,fecho,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,Indiana Pacers,New York Knicks,pinnacle,2026-11-13T23:31:00Z,player_points,Karl-Anthony Towns,Over,20.5,1.69
+2026-11-13T23:31:42Z,fecho,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,Indiana Pacers,New York Knicks,pinnacle,2026-11-13T23:31:00Z,player_points,Karl-Anthony Towns,Under,20.5,2.09
+2026-11-13T23:31:42Z,fecho,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,Indiana Pacers,New York Knicks,pinnacle,2026-11-13T23:31:00Z,player_points,Kelly Oubre Jr.,Over,11.5,2.06
+2026-11-13T23:31:42Z,fecho,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,Indiana Pacers,New York Knicks,pinnacle,2026-11-13T23:31:00Z,player_points,Kelly Oubre Jr.,Under,11.5,1.71
+2026-11-13T23:31:42Z,fecho,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,Indiana Pacers,New York Knicks,pinnacle,2026-11-13T23:31:00Z,player_points,Landry Shamet,Over,9.5,2.04
+2026-11-13T23:31:42Z,fecho,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,Indiana Pacers,New York Knicks,pinnacle,2026-11-13T23:31:00Z,player_points,Landry Shamet,Under,9.5,1.72
+2026-11-13T23:31:42Z,fecho,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,Indiana Pacers,New York Knicks,pinnacle,2026-11-13T23:31:00Z,player_points,Mikal Bridges,Over,8.5,2.0
+2026-11-13T23:31:42Z,fecho,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,Indiana Pacers,New York Knicks,pinnacle,2026-11-13T23:31:00Z,player_points,Mikal Bridges,Under,8.5,1.76
+2026-11-13T23:31:42Z,fecho,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,Indiana Pacers,New York Knicks,pinnacle,2026-11-13T23:31:00Z,player_points,Miles McBride,Over,7.5,1.99
+2026-11-13T23:31:42Z,fecho,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,Indiana Pacers,New York Knicks,pinnacle,2026-11-13T23:31:00Z,player_points,Miles McBride,Under,7.5,1.76
+2026-11-13T23:31:42Z,fecho,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,Indiana Pacers,New York Knicks,pinnacle,2026-11-13T23:31:00Z,player_points,OG Anunoby,Over,17.5,1.86
+2026-11-13T23:31:42Z,fecho,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,Indiana Pacers,New York Knicks,pinnacle,2026-11-13T23:31:00Z,player_points,OG Anunoby,Under,17.5,1.88
+2026-11-13T23:31:42Z,fecho,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,Indiana Pacers,New York Knicks,pinnacle,2026-11-13T23:31:00Z,player_points,Obi Toppin,Over,9.5,1.77
+2026-11-13T23:31:42Z,fecho,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,Indiana Pacers,New York Knicks,pinnacle,2026-11-13T23:31:00Z,player_points,Obi Toppin,Under,9.5,1.98
+2026-11-13T23:31:42Z,fecho,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,Indiana Pacers,New York Knicks,pinnacle,2026-11-13T23:31:00Z,player_points,Pascal Siakam,Over,21.5,2.12
+2026-11-13T23:31:42Z,fecho,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,Indiana Pacers,New York Knicks,pinnacle,2026-11-13T23:31:00Z,player_points,Pascal Siakam,Under,21.5,1.68
+2026-11-13T23:31:42Z,fecho,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Orlando Magic,Milwaukee Bucks,pinnacle,2026-11-13T23:30:59Z,player_points,Anthony Black,Over,15.5,1.83
+2026-11-13T23:31:42Z,fecho,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Orlando Magic,Milwaukee Bucks,pinnacle,2026-11-13T23:30:59Z,player_points,Anthony Black,Under,15.5,1.91
+2026-11-13T23:31:42Z,fecho,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Orlando Magic,Milwaukee Bucks,pinnacle,2026-11-13T23:30:59Z,player_points,Brayden Burries,Over,11.5,1.89
+2026-11-13T23:31:42Z,fecho,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Orlando Magic,Milwaukee Bucks,pinnacle,2026-11-13T23:30:59Z,player_points,Brayden Burries,Under,11.5,1.85
+2026-11-13T23:31:42Z,fecho,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Orlando Magic,Milwaukee Bucks,pinnacle,2026-11-13T23:30:59Z,player_points,Desmond Bane,Over,20.5,1.98
+2026-11-13T23:31:42Z,fecho,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Orlando Magic,Milwaukee Bucks,pinnacle,2026-11-13T23:30:59Z,player_points,Desmond Bane,Under,20.5,1.77
+2026-11-13T23:31:42Z,fecho,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Orlando Magic,Milwaukee Bucks,pinnacle,2026-11-13T23:30:59Z,player_points,Franz Wagner,Over,25.5,2.07
+2026-11-13T23:31:42Z,fecho,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Orlando Magic,Milwaukee Bucks,pinnacle,2026-11-13T23:30:59Z,player_points,Franz Wagner,Under,25.5,1.7
+2026-11-13T23:31:42Z,fecho,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Orlando Magic,Milwaukee Bucks,pinnacle,2026-11-13T23:30:59Z,player_points,Jalen Suggs,Over,10.5,2.26
+2026-11-13T23:31:42Z,fecho,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Orlando Magic,Milwaukee Bucks,pinnacle,2026-11-13T23:30:59Z,player_points,Jalen Suggs,Under,10.5,1.59
+2026-11-13T23:31:42Z,fecho,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Orlando Magic,Milwaukee Bucks,pinnacle,2026-11-13T23:30:59Z,player_points,Kyle Kuzma,Over,10.5,2.02
+2026-11-13T23:31:42Z,fecho,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Orlando Magic,Milwaukee Bucks,pinnacle,2026-11-13T23:30:59Z,player_points,Kyle Kuzma,Under,10.5,1.74
+2026-11-13T23:31:42Z,fecho,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Orlando Magic,Milwaukee Bucks,pinnacle,2026-11-13T23:30:59Z,player_points,Myles Turner,Over,9.5,2.06
+2026-11-13T23:31:42Z,fecho,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Orlando Magic,Milwaukee Bucks,pinnacle,2026-11-13T23:30:59Z,player_points,Myles Turner,Under,9.5,1.71
+2026-11-13T23:31:42Z,fecho,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Orlando Magic,Milwaukee Bucks,pinnacle,2026-11-13T23:30:59Z,player_points,Tyler Herro,Over,22.5,2.13
+2026-11-13T23:31:42Z,fecho,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Orlando Magic,Milwaukee Bucks,pinnacle,2026-11-13T23:30:59Z,player_points,Tyler Herro,Under,22.5,1.67
+2026-11-13T23:31:42Z,fecho,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Orlando Magic,Milwaukee Bucks,pinnacle,2026-11-13T23:30:59Z,player_points,Wendell Carter Jr,Over,12.5,1.94
+2026-11-13T23:31:42Z,fecho,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Orlando Magic,Milwaukee Bucks,pinnacle,2026-11-13T23:30:59Z,player_points,Wendell Carter Jr,Under,12.5,1.8
