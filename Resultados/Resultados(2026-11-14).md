@@ -2,11 +2,11 @@
 
 Apostas virtuais (sem dinheiro real) dos jogos da noite de 13/11 para 14/11. Odds da Pinnacle, 1 unidade por aposta (menos quando o modelo aposta menos).
 
-**Ainda ha 24 apostas por decidir** (jogos a decorrer ou resultados por chegar).
+**Ainda ha 25 apostas por decidir** (jogos a decorrer ou resultados por chegar).
 
 ## Resumo da noite
 
-- Apostas: **24** (ganhas 0, perdidas 0)
+- Apostas: **25** (ganhas 0, perdidas 0)
 - Apostado: 0.0 unidades
 - Lucro: **+0.00 unidades**
 - CLV medio: - (se o mercado se moveu a nosso favor depois de apostarmos)
@@ -57,3 +57,4 @@ Modelo B = as mesmas apostas, mas sem linhas ate 9.5, so com valor acima de 5% e
 | Golden State Warriors @ San Antonio Spurs | De'Anthony Melton | Under 12.5 | 1.86 | 10.4 |  | por decidir |  | sim |
 | Golden State Warriors @ San Antonio Spurs | Keldon Johnson | Under 10.5 | 1.7 | 8.5 |  | por decidir |  | sim |
 | Golden State Warriors @ San Antonio Spurs | Stephon Castle | Under 16.5 | 1.77 | 13.6 |  | por decidir |  | sim |
+| Portland Trail Blazers @ Sacramento Kings | Damian Lillard | Under 21.5 | 1.99 | 19.1 |  | por decidir |  | sim |
