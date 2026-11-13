@@ -1,8 +1,8 @@
 # Apostas virtuais em props (sem dinheiro real)
 
-Atualizado: 2026-11-13 22:03 UTC. Casa de referencia: Pinnacle (linha ~3h antes do jogo).
+Atualizado: 2026-11-13 22:15 UTC. Casa de referencia: Pinnacle (linha ~3h antes do jogo).
 
-- Apostas decididas: **179** (ganhas 46%), anuladas: 1, por decidir: 17
+- Apostas decididas: **179** (ganhas 46%), anuladas: 1, por decidir: 21
 - Apostado: 176.6 unidades. Lucro: **-21.8 unidades** (ROI -12.3%)
 - CLV medio (bater a linha de fecho; o melhor sinal de qualidade): **+1.3%** em 172 apostas
 
@@ -12,10 +12,6 @@ Regra de bolso: so pensar em dinheiro real com 200+ apostas e CLV medio acima de
 
 ```
          inicio_jogo               jogador  lado  linha  odd  previsto  stake resultado  real  lucro  clv
-2026-11-14T00:10:00Z       Kelly Oubre Jr. Under   11.5 1.77      9.23   1.00       NaN   NaN    NaN  NaN
-2026-11-14T00:10:00Z         Mikal Bridges Under    8.5 1.76      6.90   1.00       NaN   NaN    NaN  NaN
-2026-11-14T00:10:00Z            OG Anunoby Under   17.5 1.88     15.51   1.00       NaN   NaN    NaN  NaN
-2026-11-14T00:10:00Z         Anthony Black  Over   15.5 1.89     17.36   0.87       NaN   NaN    NaN  NaN
 2026-11-14T01:10:00Z        Andrew Wiggins Under   11.5 1.84      9.62   1.00       NaN   NaN    NaN  NaN
 2026-11-14T01:10:00Z      Donovan Mitchell Under   24.5 2.13     23.90   1.00       NaN   NaN    NaN  NaN
 2026-11-14T01:10:00Z Giannis Antetokounmpo Under   29.5 1.85     26.36   1.00       NaN   NaN    NaN  NaN
@@ -27,4 +23,8 @@ Regra de bolso: so pensar em dinheiro real com 200+ apostas e CLV medio acima de
 2026-11-14T01:10:00Z          Jaylen Wells  Over   10.5 1.75     13.14   1.00       NaN   NaN    NaN  NaN
 2026-11-14T01:10:00Z        Jeremiah Fears Under   19.5 1.84     17.18   1.00       NaN   NaN    NaN  NaN
 2026-11-14T01:10:00Z        Karlo Matkovic  Over    7.5 1.82      9.29   1.00       NaN   NaN    NaN  NaN
+2026-11-14T01:40:00Z       Darryn Peterson Under   17.5 1.93     16.13   1.00       NaN   NaN    NaN  NaN
+2026-11-14T01:40:00Z        Isaiah Collier  Over    6.5 2.05      8.34   1.00       NaN   NaN    NaN  NaN
+2026-11-14T01:40:00Z       Jabari Smith Jr  Over   14.5 1.82     16.79   1.00       NaN   NaN    NaN  NaN
+2026-11-14T01:40:00Z         Reed Sheppard Under   10.5 2.04     10.23   0.86       NaN   NaN    NaN  NaN
 ```

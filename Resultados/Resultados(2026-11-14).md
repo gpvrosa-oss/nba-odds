@@ -2,11 +2,11 @@
 
 Apostas virtuais (sem dinheiro real) dos jogos da noite de 13/11 para 14/11. Odds da Pinnacle, 1 unidade por aposta (menos quando o modelo aposta menos).
 
-**Ainda ha 17 apostas por decidir** (jogos a decorrer ou resultados por chegar).
+**Ainda ha 21 apostas por decidir** (jogos a decorrer ou resultados por chegar).
 
 ## Resumo da noite
 
-- Apostas: **17** (ganhas 0, perdidas 0)
+- Apostas: **21** (ganhas 0, perdidas 0)
 - Apostado: 0.0 unidades
 - Lucro: **+0.00 unidades**
 - CLV medio: - (se o mercado se moveu a nosso favor depois de apostarmos)
@@ -50,3 +50,7 @@ Modelo B = as mesmas apostas, mas sem linhas ate 9.5, so com valor acima de 5% e
 | Memphis Grizzlies @ New Orleans Pelicans | Jeremiah Fears | Under 19.5 | 1.84 | 17.2 |  | por decidir |  | sim |
 | Memphis Grizzlies @ New Orleans Pelicans | Karlo Matkovic | Over 7.5 | 1.82 | 9.3 |  | por decidir |  |  |
 | Atlanta Hawks @ Chicago Bulls | Matas Buzelis | Under 17.5 | 2.04 | 15.5 |  | por decidir |  | sim |
+| Utah Jazz @ Houston Rockets | Darryn Peterson | Under 17.5 | 1.93 | 16.1 |  | por decidir |  | sim |
+| Utah Jazz @ Houston Rockets | Isaiah Collier | Over 6.5 | 2.05 | 8.3 |  | por decidir |  |  |
+| Utah Jazz @ Houston Rockets | Jabari Smith Jr | Over 14.5 | 1.82 | 16.8 |  | por decidir |  |  |
+| Utah Jazz @ Houston Rockets | Reed Sheppard | Under 10.5 | 2.04 | 10.2 |  | por decidir |  |  |
