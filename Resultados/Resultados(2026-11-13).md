@@ -2,18 +2,17 @@
 
 Apostas virtuais (sem dinheiro real) dos jogos da noite de 12/11 para 13/11. Odds da Pinnacle, 1 unidade por aposta (menos quando o modelo aposta menos).
 
-**Ainda ha 5 apostas por decidir** (jogos a decorrer ou resultados por chegar).
-
 ## Resumo da noite
 
-- Apostas: **13** (ganhas 3, perdidas 5)
-- Apostado: 8.0 unidades
-- Lucro: **-2.30 unidades** (ROI -28.7%)
-- CLV medio: +0.1% (se o mercado se moveu a nosso favor depois de apostarmos)
+- Apostas: **13** (ganhas 5, perdidas 8)
+- Apostado: 12.7 unidades
+- Lucro: **-3.38 unidades** (ROI -26.6%)
+- CLV medio: +0.3% (se o mercado se moveu a nosso favor depois de apostarmos)
 
 | Tipo | Apostas | Ganhas | Lucro |
 | --- | --- | --- | --- |
-| Under | 8 | 3 | -2.30 |
+| Over | 1 | 0 | -1.00 |
+| Under | 12 | 5 | -2.38 |
 
 ## Modelo A (atual) vs Modelo B (com as 3 regras)
 
@@ -21,17 +20,17 @@ Modelo B = as mesmas apostas, mas sem linhas ate 9.5, so com valor acima de 5% e
 
 | | Apostas | Ganhas | Lucro | ROI |
 | --- | --- | --- | --- | --- |
-| A esta noite | 8 | 3 | -2.30 | -28.7% |
-| B esta noite | 7 | 2 | -3.19 | -45.6% |
-| A desde 13/11 | 8 | 3 | -2.30 | -28.7% |
-| B desde 13/11 | 7 | 2 | -3.19 | -45.6% |
+| A esta noite | 13 | 5 | -3.38 | -26.6% |
+| B esta noite | 9 | 3 | -3.30 | -36.7% |
+| A desde 13/11 | 13 | 5 | -3.38 | -26.6% |
+| B desde 13/11 | 9 | 3 | -3.30 | -36.7% |
 
 ## Total acumulado (desde 05/11)
 
-- Apostas decididas: 174 (ganhas 81, 47%)
-- Lucro: **-20.68 unidades** em 171.9 apostadas (ROI -12.0%)
+- Apostas decididas: 179 (ganhas 83, 46%)
+- Lucro: **-21.76 unidades** em 176.6 apostadas (ROI -12.3%)
 - CLV medio: +1.0%
-- Com 4 EUR por aposta: -83 EUR (as odds da Pinnacle; na Betano seria menos)
+- Com 4 EUR por aposta: -87 EUR (as odds da Pinnacle; na Betano seria menos)
 
 ## Apostas
 
@@ -45,8 +44,8 @@ Modelo B = as mesmas apostas, mas sem linhas ate 9.5, so com valor acima de 5% e
 | Detroit Pistons @ Washington Wizards | John Collins | Under 12.5 | 1.96 | 11.4 | 10 | ganhou | +0.96 | sim |
 | Dallas Mavericks @ Minnesota Timberwolves | Jonathan Kuminga | Under 13.5 | 1.99 | 12.4 | 14 | perdeu | -1.00 | sim |
 | Dallas Mavericks @ Minnesota Timberwolves | Rudy Gobert | Under 9.5 | 1.89 | 8.4 | 9 | ganhou | +0.89 |  |
-| Charlotte Hornets @ Phoenix Suns | Devin Booker | Under 24.5 | 1.91 | 21.6 |  | por decidir |  | sim |
-| Charlotte Hornets @ Phoenix Suns | Dillon Brooks | Under 14.5 | 1.97 | 13.9 |  | por decidir |  |  |
-| Charlotte Hornets @ Phoenix Suns | Grayson Allen | Under 17.5 | 1.89 | 15.7 |  | por decidir |  | sim |
-| Charlotte Hornets @ Phoenix Suns | Moussa Diabate | Under 8.5 | 1.87 | 7.8 |  | por decidir |  |  |
-| Charlotte Hornets @ Phoenix Suns | Ryan Kalkbrenner | Over 5.5 | 2.02 | 6.7 |  | por decidir |  |  |
+| Charlotte Hornets @ Phoenix Suns | Devin Booker | Under 24.5 | 1.91 | 21.6 | 30 | perdeu | -1.00 | sim |
+| Charlotte Hornets @ Phoenix Suns | Dillon Brooks | Under 14.5 | 1.97 | 13.9 | 15 | perdeu | -0.78 |  |
+| Charlotte Hornets @ Phoenix Suns | Grayson Allen | Under 17.5 | 1.89 | 15.7 | 14 | ganhou | +0.89 | sim |
+| Charlotte Hornets @ Phoenix Suns | Moussa Diabate | Under 8.5 | 1.87 | 7.8 | 7 | ganhou | +0.81 |  |
+| Charlotte Hornets @ Phoenix Suns | Ryan Kalkbrenner | Over 5.5 | 2.02 | 6.7 | 2 | perdeu | -1.00 |  |
