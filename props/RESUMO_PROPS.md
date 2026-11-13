@@ -1,10 +1,10 @@
 # Apostas virtuais em props (sem dinheiro real)
 
-Atualizado: 2026-11-13 03:16 UTC. Casa de referencia: Pinnacle (linha ~3h antes do jogo).
+Atualizado: 2026-11-13 03:26 UTC. Casa de referencia: Pinnacle (linha ~3h antes do jogo).
 
-- Apostas decididas: **172** (ganhas 47%), anuladas: 1, por decidir: 7
-- Apostado: 169.9 unidades. Lucro: **-20.6 unidades** (ROI -12.1%)
-- CLV medio (bater a linha de fecho; o melhor sinal de qualidade): **+1.3%** em 165 apostas
+- Apostas decididas: **174** (ganhas 47%), anuladas: 1, por decidir: 5
+- Apostado: 171.9 unidades. Lucro: **-20.7 unidades** (ROI -12.0%)
+- CLV medio (bater a linha de fecho; o melhor sinal de qualidade): **+1.3%** em 167 apostas
 
 Regra de bolso: so pensar em dinheiro real com 200+ apostas e CLV medio acima de +2%.
 
@@ -20,8 +20,8 @@ Regra de bolso: so pensar em dinheiro real com 200+ apostas e CLV medio acima de
 2026-11-13T00:10:00Z      Cade Cunningham Under   24.5 1.94     22.70   1.00    perdeu  52.0  -1.00 -0.0275
 2026-11-13T00:10:00Z       Daniss Jenkins Under   14.5 1.86     12.80   1.00    perdeu  21.0  -1.00 -0.0107
 2026-11-13T00:10:00Z         John Collins Under   12.5 1.96     11.45   1.00    ganhou  10.0   0.96 -0.0193
-2026-11-13T01:10:00Z     Jonathan Kuminga Under   13.5 1.99     12.41   1.00       NaN   NaN    NaN     NaN
-2026-11-13T01:10:00Z          Rudy Gobert Under    9.5 1.89      8.41   1.00       NaN   NaN    NaN     NaN
+2026-11-13T01:10:00Z     Jonathan Kuminga Under   13.5 1.99     12.41   1.00    perdeu  14.0  -1.00 -0.0253
+2026-11-13T01:10:00Z          Rudy Gobert Under    9.5 1.89      8.41   1.00    ganhou   9.0   0.89 -0.0001
 2026-11-13T02:10:00Z         Devin Booker Under   24.5 1.91     21.57   1.00       NaN   NaN    NaN     NaN
 2026-11-13T02:10:00Z        Dillon Brooks Under   14.5 1.97     13.87   0.78       NaN   NaN    NaN     NaN
 2026-11-13T02:10:00Z        Grayson Allen Under   17.5 1.89     15.69   1.00       NaN   NaN    NaN     NaN
