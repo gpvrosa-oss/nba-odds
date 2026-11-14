@@ -2,18 +2,19 @@
 
 Apostas virtuais (sem dinheiro real) dos jogos da noite de 13/11 para 14/11. Odds da Pinnacle, 1 unidade por aposta (menos quando o modelo aposta menos).
 
-**Ainda ha 31 apostas por decidir** (jogos a decorrer ou resultados por chegar).
+**Ainda ha 26 apostas por decidir** (jogos a decorrer ou resultados por chegar).
 
 ## Resumo da noite
 
-- Apostas: **32** (ganhas 0, perdidas 1)
-- Apostado: 0.9 unidades
-- Lucro: **-0.87 unidades** (ROI -100.0%)
-- CLV medio: +3.2% (se o mercado se moveu a nosso favor depois de apostarmos)
+- Apostas: **32** (ganhas 2, perdidas 4)
+- Apostado: 5.9 unidades
+- Lucro: **-2.27 unidades** (ROI -38.7%)
+- CLV medio: +0.3% (se o mercado se moveu a nosso favor depois de apostarmos)
 
 | Tipo | Apostas | Ganhas | Lucro |
 | --- | --- | --- | --- |
 | Over | 1 | 0 | -0.87 |
+| Under | 5 | 2 | -1.40 |
 
 ## Modelo A (atual) vs Modelo B (com as 3 regras)
 
@@ -21,28 +22,28 @@ Modelo B = as mesmas apostas, mas sem linhas ate 9.5, so com valor acima de 5% e
 
 | | Apostas | Ganhas | Lucro | ROI |
 | --- | --- | --- | --- | --- |
-| A esta noite | 1 | 0 | -0.87 | -100.0% |
-| B esta noite | 0 | 0 | +0.00 | - |
-| A desde 13/11 | 14 | 5 | -4.25 | -31.3% |
-| B desde 13/11 | 9 | 3 | -3.30 | -36.7% |
+| A esta noite | 6 | 2 | -2.27 | -38.7% |
+| B esta noite | 3 | 1 | -1.12 | -37.3% |
+| A desde 13/11 | 19 | 7 | -5.65 | -30.4% |
+| B desde 13/11 | 12 | 4 | -4.42 | -36.8% |
 
 ## Total acumulado (desde 05/11)
 
-- Apostas decididas: 180 (ganhas 83, 46%)
-- Lucro: **-22.63 unidades** em 177.4 apostadas (ROI -12.8%)
+- Apostas decididas: 185 (ganhas 85, 46%)
+- Lucro: **-24.03 unidades** em 182.4 apostadas (ROI -13.2%)
 - CLV medio: +1.0%
-- Com 4 EUR por aposta: -91 EUR (as odds da Pinnacle; na Betano seria menos)
+- Com 4 EUR por aposta: -96 EUR (as odds da Pinnacle; na Betano seria menos)
 
 ## Apostas
 
 | Jogo | Jogador | Aposta | Odd | Modelo | Pontos | Resultado | Lucro | B? |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Milwaukee Bucks @ Orlando Magic | Anthony Black | Over 15.5 | 1.89 | 17.4 | 5 | perdeu | -0.87 |  |
-| New York Knicks @ Indiana Pacers | Josh Hart | Under 9.5 | 1.72 | 8.1 |  | por decidir |  |  |
-| New York Knicks @ Indiana Pacers | Karl-Anthony Towns | Under 20.5 | 1.98 | 18.5 |  | por decidir |  | sim |
-| New York Knicks @ Indiana Pacers | Kelly Oubre Jr. | Under 11.5 | 1.77 | 9.2 |  | por decidir |  | sim |
-| New York Knicks @ Indiana Pacers | Mikal Bridges | Under 8.5 | 1.76 | 6.9 |  | por decidir |  |  |
-| New York Knicks @ Indiana Pacers | OG Anunoby | Under 17.5 | 1.88 | 15.5 |  | por decidir |  | sim |
+| New York Knicks @ Indiana Pacers | Josh Hart | Under 9.5 | 1.72 | 8.1 | 0 | ganhou | +0.72 |  |
+| New York Knicks @ Indiana Pacers | Karl-Anthony Towns | Under 20.5 | 1.98 | 18.5 | 23 | perdeu | -1.00 | sim |
+| New York Knicks @ Indiana Pacers | Kelly Oubre Jr. | Under 11.5 | 1.77 | 9.2 | 16 | perdeu | -1.00 | sim |
+| New York Knicks @ Indiana Pacers | Mikal Bridges | Under 8.5 | 1.76 | 6.9 | 18 | perdeu | -1.00 |  |
+| New York Knicks @ Indiana Pacers | OG Anunoby | Under 17.5 | 1.88 | 15.5 | 11 | ganhou | +0.88 | sim |
 | Cleveland Cavaliers @ Miami Heat | Andrew Wiggins | Under 11.5 | 1.84 | 9.6 |  | por decidir |  | sim |
 | Memphis Grizzlies @ New Orleans Pelicans | Derik Queen | Over 10.5 | 1.91 | 12.2 |  | por decidir |  |  |
 | Cleveland Cavaliers @ Miami Heat | Donovan Mitchell | Under 24.5 | 2.13 | 23.9 |  | por decidir |  | sim |

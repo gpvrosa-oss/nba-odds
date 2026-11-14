@@ -1,5 +1,22 @@
 # Alertas de ultima hora
 
+## 14/11 02:47 UTC: Oklahoma City Thunder @ Los Angeles Clippers
+
+- **Ajay Mitchell** (OKC, 28.2 min de media): Out (antes: 30% de faltar, agora 100%)
+
+Colegas (pontos previstos antes -> agora | linha Pinnacle agora | veredito):
+```
+Aday Mara                  9.9 ->  10.5 (+0.6) | 10.5 (1.94/1.82)   | sem valor (a Pinnacle ja ajustou?)
+Bennett Stirtz             9.2 ->   9.7 (+0.5) | 8.5 (1.9/1.84)     | sem valor (a Pinnacle ja ajustou?)
+Alex Caruso                8.0 ->   8.5 (+0.5) | 9.5 (1.87/1.87)    | APOSTA Under @ 1.87 (EV +4.9%)
+Isaiah Hartenstein         8.4 ->   8.9 (+0.5) | 9.5 (1.76/2.0)     | APOSTA Under @ 2.0 (EV +5.8%)
+Kenrich Williams           7.4 ->   7.8 (+0.5) | 7.5 (1.98/1.77)    | sem valor (a Pinnacle ja ajustou?)
+Jared McCain              12.9 ->  13.4 (+0.4) | 15.5 (1.84/1.9)    | APOSTA Under @ 1.9 (EV +10.3%)
+Shai Gilgeous-Alexander   29.1 ->  28.6 (-0.4) | 31.5 (1.88/1.85)   | APOSTA Under @ 1.85 (EV +6.6%)
+```
+
+Na Betano/Betclic: confirma se a linha desses jogadores ainda nao subiu.
+
 ## 11/11 23:54 UTC: Brooklyn Nets @ New Orleans Pelicans
 
 - **Trey Murphy III** (NO, 32.8 min de media): Out (antes: 30% de faltar, agora 100%)
