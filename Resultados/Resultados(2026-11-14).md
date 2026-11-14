@@ -2,19 +2,18 @@
 
 Apostas virtuais (sem dinheiro real) dos jogos da noite de 13/11 para 14/11. Odds da Pinnacle, 1 unidade por aposta (menos quando o modelo aposta menos).
 
-**Ainda ha 11 apostas por decidir** (jogos a decorrer ou resultados por chegar).
-
 ## Resumo da noite
 
-- Apostas: **36** (ganhas 9, perdidas 16)
-- Apostado: 24.7 unidades
-- Lucro: **-8.27 unidades** (ROI -33.4%)
-- CLV medio: +1.1% (se o mercado se moveu a nosso favor depois de apostarmos)
+- Apostas: **36** (ganhas 12, perdidas 24)
+- Apostado: 35.7 unidades
+- Lucro: **-13.89 unidades** (ROI -38.9%)
+- CLV medio: +0.0% (se o mercado se moveu a nosso favor depois de apostarmos)
 
 | Tipo | Apostas | Ganhas | Lucro |
 | --- | --- | --- | --- |
 | Over | 6 | 1 | -4.12 |
-| Under | 19 | 8 | -4.15 |
+| Under | 30 | 11 | -9.77 |
+| Alertas de ultima hora | 4 | 1 | -2.13 |
 
 ## Modelo A (atual) vs Modelo B (com as 3 regras)
 
@@ -22,17 +21,17 @@ Modelo B = as mesmas apostas, mas sem linhas ate 9.5, so com valor acima de 5% e
 
 | | Apostas | Ganhas | Lucro | ROI |
 | --- | --- | --- | --- | --- |
-| A esta noite | 25 | 9 | -8.27 | -33.4% |
-| B esta noite | 16 | 6 | -4.79 | -29.9% |
-| A desde 13/11 | 38 | 14 | -11.65 | -31.1% |
-| B desde 13/11 | 25 | 9 | -8.09 | -32.4% |
+| A esta noite | 36 | 12 | -13.89 | -38.9% |
+| B esta noite | 18 | 7 | -5.12 | -28.4% |
+| A desde 13/11 | 49 | 17 | -17.27 | -35.7% |
+| B desde 13/11 | 27 | 10 | -8.42 | -31.2% |
 
 ## Total acumulado (desde 05/11)
 
-- Apostas decididas: 204 (ganhas 92, 45%)
-- Lucro: **-30.03 unidades** em 201.3 apostadas (ROI -14.9%)
-- CLV medio: +1.0%
-- Com 4 EUR por aposta: -120 EUR (as odds da Pinnacle; na Betano seria menos)
+- Apostas decididas: 215 (ganhas 95, 44%)
+- Lucro: **-35.65 unidades** em 212.3 apostadas (ROI -16.8%)
+- CLV medio: +0.8%
+- Com 4 EUR por aposta: -143 EUR (as odds da Pinnacle; na Betano seria menos)
 
 ## Apostas
 
@@ -63,14 +62,14 @@ Modelo B = as mesmas apostas, mas sem linhas ate 9.5, so com valor acima de 5% e
 | Golden State Warriors @ San Antonio Spurs | Keldon Johnson | Under 10.5 | 1.7 | 8.5 | 18 | perdeu | -1.00 | sim |
 | Golden State Warriors @ San Antonio Spurs | Stephon Castle | Under 16.5 | 1.77 | 13.6 | 32 | perdeu | -1.00 | sim |
 | Portland Trail Blazers @ Sacramento Kings | Damian Lillard | Under 21.5 | 1.99 | 19.1 | 29 | perdeu | -1.00 | sim |
-| Oklahoma City Thunder @ Los Angeles Clippers | Alex Caruso (alerta) | Under 9.5 | 1.87 | 8.5 |  | por decidir |  |  |
-| Oklahoma City Thunder @ Los Angeles Clippers | Darius Garland | Under 18.5 | 1.98 | 17.6 |  | por decidir |  |  |
-| Oklahoma City Thunder @ Los Angeles Clippers | Derrick Jones | Under 10.5 | 1.79 | 9.2 |  | por decidir |  |  |
-| Oklahoma City Thunder @ Los Angeles Clippers | Isaiah Hartenstein | Under 9.5 | 1.84 | 8.4 |  | por decidir |  |  |
-| Oklahoma City Thunder @ Los Angeles Clippers | Isaiah Hartenstein (alerta) | Under 9.5 | 2.0 | 8.9 |  | por decidir |  |  |
-| Oklahoma City Thunder @ Los Angeles Clippers | Jared McCain | Under 14.5 | 1.86 | 12.9 |  | por decidir |  | sim |
-| Oklahoma City Thunder @ Los Angeles Clippers | Jared McCain (alerta) | Under 15.5 | 1.9 | 13.4 |  | por decidir |  |  |
-| Oklahoma City Thunder @ Los Angeles Clippers | Kris Dunn | Under 7.5 | 1.82 | 6.7 |  | por decidir |  |  |
-| Oklahoma City Thunder @ Los Angeles Clippers | Rui Hachimura | Under 15.5 | 1.67 | 12.5 |  | por decidir |  | sim |
-| Oklahoma City Thunder @ Los Angeles Clippers | Shai Gilgeous-Alexander | Under 31.5 | 1.85 | 29.1 |  | por decidir |  |  |
-| Oklahoma City Thunder @ Los Angeles Clippers | Shai Gilgeous-Alexander (alerta) | Under 31.5 | 1.85 | 28.6 |  | por decidir |  |  |
+| Oklahoma City Thunder @ Los Angeles Clippers | Alex Caruso (alerta) | Under 9.5 | 1.87 | 8.5 | 5 | ganhou | +0.87 |  |
+| Oklahoma City Thunder @ Los Angeles Clippers | Darius Garland | Under 18.5 | 1.98 | 17.6 | 24 | perdeu | -0.98 |  |
+| Oklahoma City Thunder @ Los Angeles Clippers | Derrick Jones | Under 10.5 | 1.79 | 9.2 | 14 | perdeu | -1.00 |  |
+| Oklahoma City Thunder @ Los Angeles Clippers | Isaiah Hartenstein | Under 9.5 | 1.84 | 8.4 | 21 | perdeu | -1.00 |  |
+| Oklahoma City Thunder @ Los Angeles Clippers | Isaiah Hartenstein (alerta) | Under 9.5 | 2.0 | 8.9 | 21 | perdeu | -1.00 |  |
+| Oklahoma City Thunder @ Los Angeles Clippers | Jared McCain | Under 14.5 | 1.86 | 12.9 | 23 | perdeu | -1.00 | sim |
+| Oklahoma City Thunder @ Los Angeles Clippers | Jared McCain (alerta) | Under 15.5 | 1.9 | 13.4 | 23 | perdeu | -1.00 |  |
+| Oklahoma City Thunder @ Los Angeles Clippers | Kris Dunn | Under 7.5 | 1.82 | 6.7 | 2 | ganhou | +0.82 |  |
+| Oklahoma City Thunder @ Los Angeles Clippers | Rui Hachimura | Under 15.5 | 1.67 | 12.5 | 7 | ganhou | +0.67 | sim |
+| Oklahoma City Thunder @ Los Angeles Clippers | Shai Gilgeous-Alexander | Under 31.5 | 1.85 | 29.1 | 40 | perdeu | -1.00 |  |
+| Oklahoma City Thunder @ Los Angeles Clippers | Shai Gilgeous-Alexander (alerta) | Under 31.5 | 1.85 | 28.6 | 40 | perdeu | -1.00 |  |
