@@ -27,3 +27,75 @@ recolhido_em,momento,jogo_id,inicio_jogo,casa,fora,casa_apostas,atualizado_em,me
 2026-11-14T00:15:33Z,cedo,5344669fd560d317ffaee0a1d16be7c8,2026-11-14T03:40:00Z,Los Angeles Clippers,Oklahoma City Thunder,pinnacle,2026-11-14T00:14:58Z,player_points,Rui Hachimura,Under,15.5,1.67
 2026-11-14T00:15:33Z,cedo,5344669fd560d317ffaee0a1d16be7c8,2026-11-14T03:40:00Z,Los Angeles Clippers,Oklahoma City Thunder,pinnacle,2026-11-14T00:14:58Z,player_points,Shai Gilgeous-Alexander,Over,31.5,1.89
 2026-11-14T00:15:33Z,cedo,5344669fd560d317ffaee0a1d16be7c8,2026-11-14T03:40:00Z,Los Angeles Clippers,Oklahoma City Thunder,pinnacle,2026-11-14T00:14:58Z,player_points,Shai Gilgeous-Alexander,Under,31.5,1.85
+2026-11-14T00:29:00Z,fecho,80ffc963f864f3d4fcefa82fd02b7d7b,2026-11-14T01:10:00Z,Chicago Bulls,Atlanta Hawks,pinnacle,2026-11-14T00:28:51Z,player_points,Aaron Wiggins,Over,13.5,2.31
+2026-11-14T00:29:00Z,fecho,80ffc963f864f3d4fcefa82fd02b7d7b,2026-11-14T01:10:00Z,Chicago Bulls,Atlanta Hawks,pinnacle,2026-11-14T00:28:51Z,player_points,Aaron Wiggins,Under,13.5,1.57
+2026-11-14T00:29:00Z,fecho,80ffc963f864f3d4fcefa82fd02b7d7b,2026-11-14T01:10:00Z,Chicago Bulls,Atlanta Hawks,pinnacle,2026-11-14T00:28:51Z,player_points,C.J. McCollum,Over,15.5,2.17
+2026-11-14T00:29:00Z,fecho,80ffc963f864f3d4fcefa82fd02b7d7b,2026-11-14T01:10:00Z,Chicago Bulls,Atlanta Hawks,pinnacle,2026-11-14T00:28:51Z,player_points,C.J. McCollum,Under,15.5,1.64
+2026-11-14T00:29:00Z,fecho,80ffc963f864f3d4fcefa82fd02b7d7b,2026-11-14T01:10:00Z,Chicago Bulls,Atlanta Hawks,pinnacle,2026-11-14T00:28:51Z,player_points,Dyson Daniels,Over,11.5,1.98
+2026-11-14T00:29:00Z,fecho,80ffc963f864f3d4fcefa82fd02b7d7b,2026-11-14T01:10:00Z,Chicago Bulls,Atlanta Hawks,pinnacle,2026-11-14T00:28:51Z,player_points,Dyson Daniels,Under,11.5,1.77
+2026-11-14T00:29:00Z,fecho,80ffc963f864f3d4fcefa82fd02b7d7b,2026-11-14T01:10:00Z,Chicago Bulls,Atlanta Hawks,pinnacle,2026-11-14T00:28:51Z,player_points,Isaac Okoro,Over,8.5,2.05
+2026-11-14T00:29:00Z,fecho,80ffc963f864f3d4fcefa82fd02b7d7b,2026-11-14T01:10:00Z,Chicago Bulls,Atlanta Hawks,pinnacle,2026-11-14T00:28:51Z,player_points,Isaac Okoro,Under,8.5,1.72
+2026-11-14T00:29:00Z,fecho,80ffc963f864f3d4fcefa82fd02b7d7b,2026-11-14T01:10:00Z,Chicago Bulls,Atlanta Hawks,pinnacle,2026-11-14T00:28:51Z,player_points,Jalen Johnson,Over,22.5,1.91
+2026-11-14T00:29:00Z,fecho,80ffc963f864f3d4fcefa82fd02b7d7b,2026-11-14T01:10:00Z,Chicago Bulls,Atlanta Hawks,pinnacle,2026-11-14T00:28:51Z,player_points,Jalen Johnson,Under,22.5,1.83
+2026-11-14T00:29:00Z,fecho,80ffc963f864f3d4fcefa82fd02b7d7b,2026-11-14T01:10:00Z,Chicago Bulls,Atlanta Hawks,pinnacle,2026-11-14T00:28:51Z,player_points,Josh Giddey,Over,13.5,2.07
+2026-11-14T00:29:00Z,fecho,80ffc963f864f3d4fcefa82fd02b7d7b,2026-11-14T01:10:00Z,Chicago Bulls,Atlanta Hawks,pinnacle,2026-11-14T00:28:51Z,player_points,Josh Giddey,Under,13.5,1.71
+2026-11-14T00:29:00Z,fecho,80ffc963f864f3d4fcefa82fd02b7d7b,2026-11-14T01:10:00Z,Chicago Bulls,Atlanta Hawks,pinnacle,2026-11-14T00:28:51Z,player_points,Kingston Flemings,Over,10.5,2.22
+2026-11-14T00:29:00Z,fecho,80ffc963f864f3d4fcefa82fd02b7d7b,2026-11-14T01:10:00Z,Chicago Bulls,Atlanta Hawks,pinnacle,2026-11-14T00:28:51Z,player_points,Kingston Flemings,Under,10.5,1.61
+2026-11-14T00:29:00Z,fecho,80ffc963f864f3d4fcefa82fd02b7d7b,2026-11-14T01:10:00Z,Chicago Bulls,Atlanta Hawks,pinnacle,2026-11-14T00:28:51Z,player_points,Matas Buzelis,Over,17.5,2.09
+2026-11-14T00:29:00Z,fecho,80ffc963f864f3d4fcefa82fd02b7d7b,2026-11-14T01:10:00Z,Chicago Bulls,Atlanta Hawks,pinnacle,2026-11-14T00:28:51Z,player_points,Matas Buzelis,Under,17.5,1.69
+2026-11-14T00:29:00Z,fecho,80ffc963f864f3d4fcefa82fd02b7d7b,2026-11-14T01:10:00Z,Chicago Bulls,Atlanta Hawks,pinnacle,2026-11-14T00:28:51Z,player_points,Nickeil Alexander-Walker,Over,23.5,2.1
+2026-11-14T00:29:00Z,fecho,80ffc963f864f3d4fcefa82fd02b7d7b,2026-11-14T01:10:00Z,Chicago Bulls,Atlanta Hawks,pinnacle,2026-11-14T00:28:51Z,player_points,Nickeil Alexander-Walker,Under,23.5,1.68
+2026-11-14T00:29:00Z,fecho,80ffc963f864f3d4fcefa82fd02b7d7b,2026-11-14T01:10:00Z,Chicago Bulls,Atlanta Hawks,pinnacle,2026-11-14T00:28:51Z,player_points,Norman Powell,Over,21.5,2.01
+2026-11-14T00:29:00Z,fecho,80ffc963f864f3d4fcefa82fd02b7d7b,2026-11-14T01:10:00Z,Chicago Bulls,Atlanta Hawks,pinnacle,2026-11-14T00:28:51Z,player_points,Norman Powell,Under,21.5,1.75
+2026-11-14T00:29:00Z,fecho,80ffc963f864f3d4fcefa82fd02b7d7b,2026-11-14T01:10:00Z,Chicago Bulls,Atlanta Hawks,pinnacle,2026-11-14T00:28:51Z,player_points,Onyeka Okongwu,Over,14.5,1.96
+2026-11-14T00:29:00Z,fecho,80ffc963f864f3d4fcefa82fd02b7d7b,2026-11-14T01:10:00Z,Chicago Bulls,Atlanta Hawks,pinnacle,2026-11-14T00:28:51Z,player_points,Onyeka Okongwu,Under,14.5,1.79
+2026-11-14T00:29:00Z,fecho,80ffc963f864f3d4fcefa82fd02b7d7b,2026-11-14T01:10:00Z,Chicago Bulls,Atlanta Hawks,pinnacle,2026-11-14T00:28:51Z,player_points,Jalen Smith,Over,14.5,2.05
+2026-11-14T00:29:00Z,fecho,80ffc963f864f3d4fcefa82fd02b7d7b,2026-11-14T01:10:00Z,Chicago Bulls,Atlanta Hawks,pinnacle,2026-11-14T00:28:51Z,player_points,Jalen Smith,Under,14.5,1.71
+2026-11-14T00:29:00Z,fecho,58b860d500be69ebf853926aa1ac8271,2026-11-14T01:10:00Z,Miami Heat,Cleveland Cavaliers,pinnacle,2026-11-14T00:28:52Z,player_points,Andrew Wiggins,Over,12.5,1.97
+2026-11-14T00:29:00Z,fecho,58b860d500be69ebf853926aa1ac8271,2026-11-14T01:10:00Z,Miami Heat,Cleveland Cavaliers,pinnacle,2026-11-14T00:28:52Z,player_points,Andrew Wiggins,Under,12.5,1.78
+2026-11-14T00:29:00Z,fecho,58b860d500be69ebf853926aa1ac8271,2026-11-14T01:10:00Z,Miami Heat,Cleveland Cavaliers,pinnacle,2026-11-14T00:28:52Z,player_points,Bam Adebayo,Over,18.5,1.87
+2026-11-14T00:29:00Z,fecho,58b860d500be69ebf853926aa1ac8271,2026-11-14T01:10:00Z,Miami Heat,Cleveland Cavaliers,pinnacle,2026-11-14T00:28:52Z,player_points,Bam Adebayo,Under,18.5,1.87
+2026-11-14T00:29:00Z,fecho,58b860d500be69ebf853926aa1ac8271,2026-11-14T01:10:00Z,Miami Heat,Cleveland Cavaliers,pinnacle,2026-11-14T00:28:52Z,player_points,Davion Mitchell,Over,14.5,1.84
+2026-11-14T00:29:00Z,fecho,58b860d500be69ebf853926aa1ac8271,2026-11-14T01:10:00Z,Miami Heat,Cleveland Cavaliers,pinnacle,2026-11-14T00:28:52Z,player_points,Davion Mitchell,Under,14.5,1.9
+2026-11-14T00:29:00Z,fecho,58b860d500be69ebf853926aa1ac8271,2026-11-14T01:10:00Z,Miami Heat,Cleveland Cavaliers,pinnacle,2026-11-14T00:28:52Z,player_points,Donovan Mitchell,Over,24.5,1.76
+2026-11-14T00:29:00Z,fecho,58b860d500be69ebf853926aa1ac8271,2026-11-14T01:10:00Z,Miami Heat,Cleveland Cavaliers,pinnacle,2026-11-14T00:28:52Z,player_points,Donovan Mitchell,Under,24.5,1.99
+2026-11-14T00:29:00Z,fecho,58b860d500be69ebf853926aa1ac8271,2026-11-14T01:10:00Z,Miami Heat,Cleveland Cavaliers,pinnacle,2026-11-14T00:28:52Z,player_points,Giannis Antetokounmpo,Over,29.5,1.89
+2026-11-14T00:29:00Z,fecho,58b860d500be69ebf853926aa1ac8271,2026-11-14T01:10:00Z,Miami Heat,Cleveland Cavaliers,pinnacle,2026-11-14T00:28:52Z,player_points,Giannis Antetokounmpo,Under,29.5,1.85
+2026-11-14T00:29:00Z,fecho,58b860d500be69ebf853926aa1ac8271,2026-11-14T01:10:00Z,Miami Heat,Cleveland Cavaliers,pinnacle,2026-11-14T00:28:52Z,player_points,James Harden,Over,17.5,1.92
+2026-11-14T00:29:00Z,fecho,58b860d500be69ebf853926aa1ac8271,2026-11-14T01:10:00Z,Miami Heat,Cleveland Cavaliers,pinnacle,2026-11-14T00:28:52Z,player_points,James Harden,Under,17.5,1.83
+2026-11-14T00:29:00Z,fecho,58b860d500be69ebf853926aa1ac8271,2026-11-14T01:10:00Z,Miami Heat,Cleveland Cavaliers,pinnacle,2026-11-14T00:28:52Z,player_points,Jarrett Allen,Over,14.5,2.1
+2026-11-14T00:29:00Z,fecho,58b860d500be69ebf853926aa1ac8271,2026-11-14T01:10:00Z,Miami Heat,Cleveland Cavaliers,pinnacle,2026-11-14T00:28:52Z,player_points,Jarrett Allen,Under,14.5,1.68
+2026-11-14T00:29:00Z,fecho,58b860d500be69ebf853926aa1ac8271,2026-11-14T01:10:00Z,Miami Heat,Cleveland Cavaliers,pinnacle,2026-11-14T00:28:52Z,player_points,Jaylon Tyson,Over,11.5,2.21
+2026-11-14T00:29:00Z,fecho,58b860d500be69ebf853926aa1ac8271,2026-11-14T01:10:00Z,Miami Heat,Cleveland Cavaliers,pinnacle,2026-11-14T00:28:52Z,player_points,Jaylon Tyson,Under,11.5,1.62
+2026-11-14T00:29:00Z,fecho,58b860d500be69ebf853926aa1ac8271,2026-11-14T01:10:00Z,Miami Heat,Cleveland Cavaliers,pinnacle,2026-11-14T00:28:52Z,player_points,Meleek Thomas,Over,11.5,1.76
+2026-11-14T00:29:00Z,fecho,58b860d500be69ebf853926aa1ac8271,2026-11-14T01:10:00Z,Miami Heat,Cleveland Cavaliers,pinnacle,2026-11-14T00:28:52Z,player_points,Meleek Thomas,Under,11.5,2.0
+2026-11-14T00:29:00Z,fecho,58b860d500be69ebf853926aa1ac8271,2026-11-14T01:10:00Z,Miami Heat,Cleveland Cavaliers,pinnacle,2026-11-14T00:28:52Z,player_points,Peyton Watson,Over,13.5,2.0
+2026-11-14T00:29:00Z,fecho,58b860d500be69ebf853926aa1ac8271,2026-11-14T01:10:00Z,Miami Heat,Cleveland Cavaliers,pinnacle,2026-11-14T00:28:52Z,player_points,Peyton Watson,Under,13.5,1.76
+2026-11-14T00:29:00Z,fecho,58b860d500be69ebf853926aa1ac8271,2026-11-14T01:10:00Z,Miami Heat,Cleveland Cavaliers,pinnacle,2026-11-14T00:28:52Z,player_points,Mario Hezonja,Over,7.5,1.91
+2026-11-14T00:29:00Z,fecho,58b860d500be69ebf853926aa1ac8271,2026-11-14T01:10:00Z,Miami Heat,Cleveland Cavaliers,pinnacle,2026-11-14T00:28:52Z,player_points,Mario Hezonja,Under,7.5,1.83
+2026-11-14T00:29:00Z,fecho,8a40b260e8fa0d67c1f2bc2b39a24982,2026-11-14T01:10:00Z,New Orleans Pelicans,Memphis Grizzlies,pinnacle,2026-11-14T00:28:50Z,player_points,Cam Spencer,Over,8.5,1.91
+2026-11-14T00:29:00Z,fecho,8a40b260e8fa0d67c1f2bc2b39a24982,2026-11-14T01:10:00Z,New Orleans Pelicans,Memphis Grizzlies,pinnacle,2026-11-14T00:28:50Z,player_points,Cam Spencer,Under,8.5,1.83
+2026-11-14T00:29:00Z,fecho,8a40b260e8fa0d67c1f2bc2b39a24982,2026-11-14T01:10:00Z,New Orleans Pelicans,Memphis Grizzlies,pinnacle,2026-11-14T00:28:50Z,player_points,Cameron Boozer,Over,17.5,1.81
+2026-11-14T00:29:00Z,fecho,8a40b260e8fa0d67c1f2bc2b39a24982,2026-11-14T01:10:00Z,New Orleans Pelicans,Memphis Grizzlies,pinnacle,2026-11-14T00:28:50Z,player_points,Cameron Boozer,Under,17.5,1.93
+2026-11-14T00:29:00Z,fecho,8a40b260e8fa0d67c1f2bc2b39a24982,2026-11-14T01:10:00Z,New Orleans Pelicans,Memphis Grizzlies,pinnacle,2026-11-14T00:28:50Z,player_points,Derik Queen,Over,10.5,1.91
+2026-11-14T00:29:00Z,fecho,8a40b260e8fa0d67c1f2bc2b39a24982,2026-11-14T01:10:00Z,New Orleans Pelicans,Memphis Grizzlies,pinnacle,2026-11-14T00:28:50Z,player_points,Derik Queen,Under,10.5,1.83
+2026-11-14T00:29:00Z,fecho,8a40b260e8fa0d67c1f2bc2b39a24982,2026-11-14T01:10:00Z,New Orleans Pelicans,Memphis Grizzlies,pinnacle,2026-11-14T00:28:50Z,player_points,Herb Jones,Over,8.5,1.94
+2026-11-14T00:29:00Z,fecho,8a40b260e8fa0d67c1f2bc2b39a24982,2026-11-14T01:10:00Z,New Orleans Pelicans,Memphis Grizzlies,pinnacle,2026-11-14T00:28:50Z,player_points,Herb Jones,Under,8.5,1.81
+2026-11-14T00:29:00Z,fecho,8a40b260e8fa0d67c1f2bc2b39a24982,2026-11-14T01:10:00Z,New Orleans Pelicans,Memphis Grizzlies,pinnacle,2026-11-14T00:28:50Z,player_points,Isaiah Stewart,Over,11.5,2.0
+2026-11-14T00:29:00Z,fecho,8a40b260e8fa0d67c1f2bc2b39a24982,2026-11-14T01:10:00Z,New Orleans Pelicans,Memphis Grizzlies,pinnacle,2026-11-14T00:28:50Z,player_points,Isaiah Stewart,Under,11.5,1.76
+2026-11-14T00:29:00Z,fecho,8a40b260e8fa0d67c1f2bc2b39a24982,2026-11-14T01:10:00Z,New Orleans Pelicans,Memphis Grizzlies,pinnacle,2026-11-14T00:28:50Z,player_points,Jaylen Wells,Over,10.5,1.75
+2026-11-14T00:29:00Z,fecho,8a40b260e8fa0d67c1f2bc2b39a24982,2026-11-14T01:10:00Z,New Orleans Pelicans,Memphis Grizzlies,pinnacle,2026-11-14T00:28:50Z,player_points,Jaylen Wells,Under,10.5,2.01
+2026-11-14T00:29:00Z,fecho,8a40b260e8fa0d67c1f2bc2b39a24982,2026-11-14T01:10:00Z,New Orleans Pelicans,Memphis Grizzlies,pinnacle,2026-11-14T00:28:50Z,player_points,Jeremiah Fears,Over,19.5,1.89
+2026-11-14T00:29:00Z,fecho,8a40b260e8fa0d67c1f2bc2b39a24982,2026-11-14T01:10:00Z,New Orleans Pelicans,Memphis Grizzlies,pinnacle,2026-11-14T00:28:50Z,player_points,Jeremiah Fears,Under,19.5,1.85
+2026-11-14T00:29:00Z,fecho,8a40b260e8fa0d67c1f2bc2b39a24982,2026-11-14T01:10:00Z,New Orleans Pelicans,Memphis Grizzlies,pinnacle,2026-11-14T00:28:50Z,player_points,Karlo Matkovic,Over,7.5,1.76
+2026-11-14T00:29:00Z,fecho,8a40b260e8fa0d67c1f2bc2b39a24982,2026-11-14T01:10:00Z,New Orleans Pelicans,Memphis Grizzlies,pinnacle,2026-11-14T00:28:50Z,player_points,Karlo Matkovic,Under,7.5,2.0
+2026-11-14T00:29:00Z,fecho,8a40b260e8fa0d67c1f2bc2b39a24982,2026-11-14T01:10:00Z,New Orleans Pelicans,Memphis Grizzlies,pinnacle,2026-11-14T00:28:50Z,player_points,Saddiq Bey,Over,16.5,1.63
+2026-11-14T00:29:00Z,fecho,8a40b260e8fa0d67c1f2bc2b39a24982,2026-11-14T01:10:00Z,New Orleans Pelicans,Memphis Grizzlies,pinnacle,2026-11-14T00:28:50Z,player_points,Saddiq Bey,Under,16.5,2.19
+2026-11-14T00:29:00Z,fecho,8a40b260e8fa0d67c1f2bc2b39a24982,2026-11-14T01:10:00Z,New Orleans Pelicans,Memphis Grizzlies,pinnacle,2026-11-14T00:28:50Z,player_points,Ty Jerome,Over,23.5,1.8
+2026-11-14T00:29:00Z,fecho,8a40b260e8fa0d67c1f2bc2b39a24982,2026-11-14T01:10:00Z,New Orleans Pelicans,Memphis Grizzlies,pinnacle,2026-11-14T00:28:50Z,player_points,Ty Jerome,Under,23.5,1.94
+2026-11-14T00:29:00Z,fecho,8a40b260e8fa0d67c1f2bc2b39a24982,2026-11-14T01:10:00Z,New Orleans Pelicans,Memphis Grizzlies,pinnacle,2026-11-14T00:28:50Z,player_points,Zion Williamson,Over,22.5,1.9
+2026-11-14T00:29:00Z,fecho,8a40b260e8fa0d67c1f2bc2b39a24982,2026-11-14T01:10:00Z,New Orleans Pelicans,Memphis Grizzlies,pinnacle,2026-11-14T00:28:50Z,player_points,Zion Williamson,Under,22.5,1.84
+2026-11-14T00:29:00Z,fecho,8a40b260e8fa0d67c1f2bc2b39a24982,2026-11-14T01:10:00Z,New Orleans Pelicans,Memphis Grizzlies,pinnacle,2026-11-14T00:28:50Z,player_points,Cedric Coward,Over,13.5,1.88
+2026-11-14T00:29:00Z,fecho,8a40b260e8fa0d67c1f2bc2b39a24982,2026-11-14T01:10:00Z,New Orleans Pelicans,Memphis Grizzlies,pinnacle,2026-11-14T00:28:50Z,player_points,Cedric Coward,Under,13.5,1.85
+2026-11-14T00:29:00Z,fecho,8a40b260e8fa0d67c1f2bc2b39a24982,2026-11-14T01:10:00Z,New Orleans Pelicans,Memphis Grizzlies,pinnacle,2026-11-14T00:28:50Z,player_points,Jerami Grant,Over,11.5,2.06
+2026-11-14T00:29:00Z,fecho,8a40b260e8fa0d67c1f2bc2b39a24982,2026-11-14T01:10:00Z,New Orleans Pelicans,Memphis Grizzlies,pinnacle,2026-11-14T00:28:50Z,player_points,Jerami Grant,Under,11.5,1.71
