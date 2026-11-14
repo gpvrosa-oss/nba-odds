@@ -1,102 +1,37 @@
 # Odds justas de hoje (pontos dos jogadores)
 
-Atualizado: 2026-11-14 04:01 UTC. Odd justa = Pinnacle sem margem. Modelo = a nossa previsao.
+Atualizado: 2026-11-14 04:11 UTC. Odd justa = Pinnacle sem margem. Modelo = a nossa previsao.
 Como usar: na Betano/Betclic, se a odd de "X+ pontos" for MAIOR do que a odd justa, essa aposta tem valor.
-
-## Portland Trail Blazers @ Sacramento Kings (14/11 03:10 UTC)
-
-```
-Damian Lillard           linha  21.5 | modelo  19.1 | APOSTA
-    justa: 19+ 1.47  20+ 1.58  21+ 1.72  22+ 1.88  23+ 2.08  24+ 2.31  25+ 2.59
-Zach LaVine              linha  18.5 | modelo  20.2 | sem valor
-    justa: 16+ 1.38  17+ 1.48  18+ 1.61  19+ 1.76  20+ 1.95  21+ 2.17  22+ 2.43
-Toumani Camara           linha  12.5 | modelo  13.0 | sem valor
-    justa: 10+ 1.41  11+ 1.56  12+ 1.75  13+ 1.98  14+ 2.28  15+ 2.64  16+ 3.09
-Sidy Cissoko             linha   8.5 | modelo   8.4 | sem valor
-    justa: 6+ 1.31  7+ 1.47  8+ 1.67  9+ 1.94  10+ 2.28  11+ 2.72  12+ 3.29
-Robert Williams          linha   6.5 | modelo   7.6 | sem valor
-    justa: 4+ 1.27  5+ 1.44  6+ 1.68  7+ 2.00  8+ 2.42  9+ 2.98  10+ 3.72
-Keegan Murray            linha  10.5 | modelo  10.4 | sem valor
-    justa: 8+ 1.34  9+ 1.48  10+ 1.66  11+ 1.89  12+ 2.19  13+ 2.55  14+ 3.02
-Scoot Henderson          linha  10.5 | modelo  10.0 | sem valor
-    justa: 8+ 1.38  9+ 1.54  10+ 1.74  11+ 2.00  12+ 2.33  13+ 2.74  14+ 3.26
-Donovan Clingan          linha  10.5 | modelo  11.1 | sem valor
-    justa: 8+ 1.31  9+ 1.45  10+ 1.62  11+ 1.83  12+ 2.10  13+ 2.44  14+ 2.87
-Domantas Sabonis         linha  12.5 | modelo  13.5 | sem valor
-    justa: 10+ 1.45  11+ 1.61  12+ 1.81  13+ 2.07  14+ 2.38  15+ 2.78  16+ 3.27
-Deni Avdija              linha  23.5 | modelo  23.1 | sem valor
-    justa: 21+ 1.51  22+ 1.63  23+ 1.77  24+ 1.94  25+ 2.14  26+ 2.37  27+ 2.65
-De'Andre Hunter          linha  12.5 | modelo  13.6 | sem valor
-    justa: 10+ 1.37  11+ 1.51  12+ 1.68  13+ 1.89  14+ 2.16  15+ 2.49  16+ 2.90
-Darius Acuff Jr.         linha  24.5 | modelo  25.2 | sem valor
-    justa: 22+ 1.55  23+ 1.68  24+ 1.83  25+ 2.00  26+ 2.21  27+ 2.45  28+ 2.74
-Jrue Holiday             linha  12.5 | modelo  14.1 | sem valor
-    justa: 10+ 1.36  11+ 1.49  12+ 1.65  13+ 1.86  14+ 2.11  15+ 2.43  16+ 2.82
-```
-
-Ressaltos (so modelo, sem Pinnacle):
-```
-Domantas Sabonis         modelo 11.6 | 10+ 1.47  11+ 1.71  12+ 2.06  13+ 2.55  14+ 3.26
-Donovan Clingan          modelo  9.5 | 8+ 1.46  9+ 1.74  10+ 2.14  11+ 2.74  12+ 3.64
-Robert Williams III      modelo  5.8 | 4+ 1.29  5+ 1.57  6+ 2.02  7+ 2.75  8+ 3.95
-Deni Avdija              modelo  5.7 | 4+ 1.29  5+ 1.57  6+ 2.03  7+ 2.77  8+ 3.98
-De'Andre Hunter          modelo  4.5 | 3+ 1.29  4+ 1.63  5+ 2.21  6+ 3.21  7+ 4.94
-Darius Acuff Jr.         modelo  4.1 | 3+ 1.37  4+ 1.79  5+ 2.53  6+ 3.82  7+ 6.14
-Keegan Murray            modelo  3.8 | 2+ 1.18  3+ 1.47  4+ 2.00  5+ 2.93  6+ 4.62
-Toumani Camara           modelo  3.8 | 2+ 1.19  3+ 1.48  4+ 2.01  5+ 2.96  6+ 4.68
-Jrue Holiday             modelo  3.4 | 2+ 1.26  3+ 1.65  4+ 2.37  5+ 3.70  6+ 6.20
-Zach LaVine              modelo  3.2 | 2+ 1.29  3+ 1.72  4+ 2.53  5+ 4.03  6+ 6.89
-Damian Lillard           modelo  3.1 | 2+ 1.32  3+ 1.81  4+ 2.73  5+ 4.46  6+ 7.81
-Sidy Cissoko             modelo  3.0 | 2+ 1.33  3+ 1.82  4+ 2.75  5+ 4.52  6+ 7.94
-Scoot Henderson          modelo  2.2 | 1+ 1.19  2+ 1.69  3+ 2.74  4+ 4.89  5+ 9.44
-```
-
-Assistencias (so modelo, sem Pinnacle):
-```
-Darius Acuff Jr.         modelo  6.6 | 5+ 1.29  6+ 1.56  7+ 2.01  8+ 2.77  9+ 4.05
-Deni Avdija              modelo  6.4 | 5+ 1.33  6+ 1.63  7+ 2.14  8+ 2.99  9+ 4.46
-Domantas Sabonis         modelo  4.6 | 3+ 1.22  4+ 1.51  5+ 2.05  6+ 3.04  7+ 4.90
-Damian Lillard           modelo  4.3 | 3+ 1.28  4+ 1.64  5+ 2.31  6+ 3.57  7+ 6.01
-Jrue Holiday             modelo  4.3 | 3+ 1.28  4+ 1.64  5+ 2.32  6+ 3.59  7+ 6.06
-Zach LaVine              modelo  2.3 | 1+ 1.13  2+ 1.53  3+ 2.45  4+ 4.53  5+ 9.46
-Scoot Henderson          modelo  2.0 | 1+ 1.17  2+ 1.68  3+ 2.88  4+ 5.75  5+ 12.93
-Sidy Cissoko             modelo  2.0 | 1+ 1.18  2+ 1.69  3+ 2.92  4+ 5.85  5+ 13.22
-Donovan Clingan          modelo  1.9 | 1+ 1.20  2+ 1.80  3+ 3.24  4+ 6.77  5+ 15.98
-Toumani Camara           modelo  1.8 | 1+ 1.23  2+ 1.90  3+ 3.56  4+ 7.75  5+ 19.00
-De'Andre Hunter          modelo  1.4 | 1+ 1.36  2+ 2.41  3+ 5.23  4+ 13.20  5+ 37.19
-Keegan Murray            modelo  1.3 | 1+ 1.44  2+ 2.76  3+ 6.47  4+ 17.57  5+ 53.05
-Robert Williams III      modelo  1.1 | 1+ 1.51  2+ 3.07  3+ 7.66  4+ 21.98  5+ 69.87
-```
 
 ## Oklahoma City Thunder @ Los Angeles Clippers (14/11 03:40 UTC)
 
 ```
-Jared McCain             linha  14.5 | modelo  12.9 | APOSTA
-    justa: 12+ 1.46  13+ 1.60  14+ 1.79  15+ 2.01  16+ 2.29  17+ 2.63  18+ 3.05
-Kris Dunn                linha   7.5 | modelo   6.7 | APOSTA
-    justa: 5+ 1.32  6+ 1.50  7+ 1.74  8+ 2.06  9+ 2.48  10+ 3.02  11+ 3.73
-Kobe Sanders             linha   7.5 | modelo   8.1 | sem valor
-    justa: 5+ 1.28  6+ 1.43  7+ 1.64  8+ 1.92  9+ 2.28  10+ 2.74  11+ 3.35
-Kenrich Williams         linha   7.5 | modelo   7.4 | sem valor
-    justa: 5+ 1.34  6+ 1.53  7+ 1.79  8+ 2.12  9+ 2.56  10+ 3.13  11+ 3.88
-Keaton Wagler            linha  10.5 | modelo   9.8 | sem valor
-    justa: 8+ 1.48  9+ 1.67  10+ 1.92  11+ 2.24  12+ 2.64  13+ 3.15  14+ 3.81
-Isaiah Hartenstein       linha   9.5 | modelo   8.4 | APOSTA
-    justa: 7+ 1.37  8+ 1.54  9+ 1.76  10+ 2.03  11+ 2.39  12+ 2.84  13+ 3.42
 Aday Mara                linha  10.5 | modelo   9.9 | sem valor
     justa: 8+ 1.41  9+ 1.58  10+ 1.79  11+ 2.07  12+ 2.41  13+ 2.85  14+ 3.41
-Darius Garland           linha  18.5 | modelo  17.6 | APOSTA
-    justa: 16+ 1.45  17+ 1.57  18+ 1.72  19+ 1.90  20+ 2.11  21+ 2.37  22+ 2.69
-Brook Lopez              linha  11.5 | modelo  11.3 | sem valor
-    justa: 9+ 1.44  10+ 1.60  11+ 1.81  12+ 2.08  13+ 2.41  14+ 2.83  15+ 3.36
-Bennett Stirtz           linha   8.5 | modelo   9.2 | sem valor
-    justa: 6+ 1.35  7+ 1.52  8+ 1.74  9+ 2.03  10+ 2.41  11+ 2.90  12+ 3.53
 Alex Caruso              linha   6.5 | modelo   8.0 | sem valor
     justa: 4+ 1.23  5+ 1.39  6+ 1.60  7+ 1.88  8+ 2.26  9+ 2.75  10+ 3.40
-Rui Hachimura            linha  15.5 | modelo  12.5 | APOSTA
-    justa: 13+ 1.60  14+ 1.78  15+ 2.00  16+ 2.27  17+ 2.61  18+ 3.02  19+ 3.53
+Bennett Stirtz           linha   8.5 | modelo   9.2 | sem valor
+    justa: 6+ 1.35  7+ 1.52  8+ 1.74  9+ 2.03  10+ 2.41  11+ 2.90  12+ 3.53
+Brook Lopez              linha  11.5 | modelo  11.3 | sem valor
+    justa: 9+ 1.44  10+ 1.60  11+ 1.81  12+ 2.08  13+ 2.41  14+ 2.83  15+ 3.36
+Darius Garland           linha  18.5 | modelo  17.6 | APOSTA
+    justa: 16+ 1.45  17+ 1.57  18+ 1.72  19+ 1.90  20+ 2.11  21+ 2.37  22+ 2.69
 Derrick Jones            linha  10.5 | modelo   9.2 | APOSTA
     justa: 8+ 1.42  9+ 1.59  10+ 1.81  11+ 2.09  12+ 2.44  13+ 2.89  14+ 3.47
+Isaiah Hartenstein       linha   9.5 | modelo   8.4 | APOSTA
+    justa: 7+ 1.37  8+ 1.54  9+ 1.76  10+ 2.03  11+ 2.39  12+ 2.84  13+ 3.42
+Jared McCain             linha  14.5 | modelo  12.9 | APOSTA
+    justa: 12+ 1.46  13+ 1.60  14+ 1.79  15+ 2.01  16+ 2.29  17+ 2.63  18+ 3.05
+Keaton Wagler            linha  10.5 | modelo   9.8 | sem valor
+    justa: 8+ 1.48  9+ 1.67  10+ 1.92  11+ 2.24  12+ 2.64  13+ 3.15  14+ 3.81
+Kenrich Williams         linha   7.5 | modelo   7.4 | sem valor
+    justa: 5+ 1.34  6+ 1.53  7+ 1.79  8+ 2.12  9+ 2.56  10+ 3.13  11+ 3.88
+Kobe Sanders             linha   7.5 | modelo   8.1 | sem valor
+    justa: 5+ 1.28  6+ 1.43  7+ 1.64  8+ 1.92  9+ 2.28  10+ 2.74  11+ 3.35
+Kris Dunn                linha   7.5 | modelo   6.7 | APOSTA
+    justa: 5+ 1.32  6+ 1.50  7+ 1.74  8+ 2.06  9+ 2.48  10+ 3.02  11+ 3.73
+Rui Hachimura            linha  15.5 | modelo  12.5 | APOSTA
+    justa: 13+ 1.60  14+ 1.78  15+ 2.00  16+ 2.27  17+ 2.61  18+ 3.02  19+ 3.53
 Shai Gilgeous-Alexander  linha  31.5 | modelo  29.1 | APOSTA
     justa: 29+ 1.61  30+ 1.73  31+ 1.86  32+ 2.02  33+ 2.21  34+ 2.42  35+ 2.67
 ```
