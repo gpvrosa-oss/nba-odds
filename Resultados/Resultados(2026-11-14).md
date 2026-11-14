@@ -2,11 +2,11 @@
 
 Apostas virtuais (sem dinheiro real) dos jogos da noite de 13/11 para 14/11. Odds da Pinnacle, 1 unidade por aposta (menos quando o modelo aposta menos).
 
-**Ainda ha 25 apostas por decidir** (jogos a decorrer ou resultados por chegar).
+**Ainda ha 32 apostas por decidir** (jogos a decorrer ou resultados por chegar).
 
 ## Resumo da noite
 
-- Apostas: **25** (ganhas 0, perdidas 0)
+- Apostas: **32** (ganhas 0, perdidas 0)
 - Apostado: 0.0 unidades
 - Lucro: **+0.00 unidades**
 - CLV medio: - (se o mercado se moveu a nosso favor depois de apostarmos)
@@ -58,3 +58,10 @@ Modelo B = as mesmas apostas, mas sem linhas ate 9.5, so com valor acima de 5% e
 | Golden State Warriors @ San Antonio Spurs | Keldon Johnson | Under 10.5 | 1.7 | 8.5 |  | por decidir |  | sim |
 | Golden State Warriors @ San Antonio Spurs | Stephon Castle | Under 16.5 | 1.77 | 13.6 |  | por decidir |  | sim |
 | Portland Trail Blazers @ Sacramento Kings | Damian Lillard | Under 21.5 | 1.99 | 19.1 |  | por decidir |  | sim |
+| Oklahoma City Thunder @ Los Angeles Clippers | Darius Garland | Under 18.5 | 1.98 | 17.6 |  | por decidir |  |  |
+| Oklahoma City Thunder @ Los Angeles Clippers | Derrick Jones | Under 10.5 | 1.79 | 9.2 |  | por decidir |  |  |
+| Oklahoma City Thunder @ Los Angeles Clippers | Isaiah Hartenstein | Under 9.5 | 1.84 | 8.4 |  | por decidir |  |  |
+| Oklahoma City Thunder @ Los Angeles Clippers | Jared McCain | Under 14.5 | 1.86 | 12.9 |  | por decidir |  | sim |
+| Oklahoma City Thunder @ Los Angeles Clippers | Kris Dunn | Under 7.5 | 1.82 | 6.7 |  | por decidir |  |  |
+| Oklahoma City Thunder @ Los Angeles Clippers | Rui Hachimura | Under 15.5 | 1.67 | 12.5 |  | por decidir |  | sim |
+| Oklahoma City Thunder @ Los Angeles Clippers | Shai Gilgeous-Alexander | Under 31.5 | 1.85 | 29.1 |  | por decidir |  |  |
