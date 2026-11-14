@@ -151,3 +151,29 @@ recolhido_em,momento,jogo_id,inicio_jogo,casa,fora,casa_apostas,atualizado_em,me
 2026-11-14T02:02:24Z,fecho,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,San Antonio Spurs,Golden State Warriors,pinnacle,2026-11-14T02:02:24Z,player_points,Victor Wembanyama,Under,28.5,1.75
 2026-11-14T02:02:24Z,fecho,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,San Antonio Spurs,Golden State Warriors,pinnacle,2026-11-14T02:02:24Z,player_points,Yaxel Lendeborg,Over,21.5,1.85
 2026-11-14T02:02:24Z,fecho,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,San Antonio Spurs,Golden State Warriors,pinnacle,2026-11-14T02:02:24Z,player_points,Yaxel Lendeborg,Under,21.5,1.89
+2026-11-14T02:34:58Z,fecho,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Sacramento Kings,Portland Trail Blazers,pinnacle,2026-11-14T02:33:53Z,player_points,Damian Lillard,Over,21.5,1.74
+2026-11-14T02:34:58Z,fecho,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Sacramento Kings,Portland Trail Blazers,pinnacle,2026-11-14T02:33:53Z,player_points,Damian Lillard,Under,21.5,2.03
+2026-11-14T02:34:58Z,fecho,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Sacramento Kings,Portland Trail Blazers,pinnacle,2026-11-14T02:33:53Z,player_points,Darius Acuff Jr.,Over,24.5,1.87
+2026-11-14T02:34:58Z,fecho,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Sacramento Kings,Portland Trail Blazers,pinnacle,2026-11-14T02:33:53Z,player_points,Darius Acuff Jr.,Under,24.5,1.87
+2026-11-14T02:34:58Z,fecho,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Sacramento Kings,Portland Trail Blazers,pinnacle,2026-11-14T02:33:53Z,player_points,De'Andre Hunter,Over,12.5,1.77
+2026-11-14T02:34:58Z,fecho,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Sacramento Kings,Portland Trail Blazers,pinnacle,2026-11-14T02:33:53Z,player_points,De'Andre Hunter,Under,12.5,1.98
+2026-11-14T02:34:58Z,fecho,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Sacramento Kings,Portland Trail Blazers,pinnacle,2026-11-14T02:33:53Z,player_points,Deni Avdija,Over,23.5,1.79
+2026-11-14T02:34:58Z,fecho,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Sacramento Kings,Portland Trail Blazers,pinnacle,2026-11-14T02:33:53Z,player_points,Deni Avdija,Under,23.5,1.95
+2026-11-14T02:34:58Z,fecho,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Sacramento Kings,Portland Trail Blazers,pinnacle,2026-11-14T02:33:53Z,player_points,Domantas Sabonis,Over,12.5,1.93
+2026-11-14T02:34:58Z,fecho,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Sacramento Kings,Portland Trail Blazers,pinnacle,2026-11-14T02:33:53Z,player_points,Domantas Sabonis,Under,12.5,1.81
+2026-11-14T02:34:58Z,fecho,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Sacramento Kings,Portland Trail Blazers,pinnacle,2026-11-14T02:33:53Z,player_points,Donovan Clingan,Over,10.5,1.71
+2026-11-14T02:34:58Z,fecho,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Sacramento Kings,Portland Trail Blazers,pinnacle,2026-11-14T02:33:53Z,player_points,Donovan Clingan,Under,10.5,2.06
+2026-11-14T02:34:58Z,fecho,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Sacramento Kings,Portland Trail Blazers,pinnacle,2026-11-14T02:33:53Z,player_points,Jrue Holiday,Over,12.5,1.73
+2026-11-14T02:34:58Z,fecho,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Sacramento Kings,Portland Trail Blazers,pinnacle,2026-11-14T02:33:53Z,player_points,Jrue Holiday,Under,12.5,2.03
+2026-11-14T02:34:58Z,fecho,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Sacramento Kings,Portland Trail Blazers,pinnacle,2026-11-14T02:33:53Z,player_points,Keegan Murray,Over,10.5,1.77
+2026-11-14T02:34:58Z,fecho,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Sacramento Kings,Portland Trail Blazers,pinnacle,2026-11-14T02:33:53Z,player_points,Keegan Murray,Under,10.5,1.98
+2026-11-14T02:34:58Z,fecho,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Sacramento Kings,Portland Trail Blazers,pinnacle,2026-11-14T02:33:53Z,player_points,Robert Williams,Over,6.5,1.87
+2026-11-14T02:34:58Z,fecho,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Sacramento Kings,Portland Trail Blazers,pinnacle,2026-11-14T02:33:53Z,player_points,Robert Williams,Under,6.5,1.87
+2026-11-14T02:34:58Z,fecho,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Sacramento Kings,Portland Trail Blazers,pinnacle,2026-11-14T02:33:53Z,player_points,Scoot Henderson,Over,10.5,1.86
+2026-11-14T02:34:58Z,fecho,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Sacramento Kings,Portland Trail Blazers,pinnacle,2026-11-14T02:33:53Z,player_points,Scoot Henderson,Under,10.5,1.88
+2026-11-14T02:34:58Z,fecho,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Sacramento Kings,Portland Trail Blazers,pinnacle,2026-11-14T02:33:53Z,player_points,Sidy Cissoko,Over,8.5,1.81
+2026-11-14T02:34:58Z,fecho,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Sacramento Kings,Portland Trail Blazers,pinnacle,2026-11-14T02:33:53Z,player_points,Sidy Cissoko,Under,8.5,1.93
+2026-11-14T02:34:58Z,fecho,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Sacramento Kings,Portland Trail Blazers,pinnacle,2026-11-14T02:33:53Z,player_points,Toumani Camara,Over,12.5,1.85
+2026-11-14T02:34:58Z,fecho,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Sacramento Kings,Portland Trail Blazers,pinnacle,2026-11-14T02:33:53Z,player_points,Toumani Camara,Under,12.5,1.88
+2026-11-14T02:34:58Z,fecho,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Sacramento Kings,Portland Trail Blazers,pinnacle,2026-11-14T02:33:53Z,player_points,Zach LaVine,Over,18.5,1.64
+2026-11-14T02:34:58Z,fecho,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Sacramento Kings,Portland Trail Blazers,pinnacle,2026-11-14T02:33:53Z,player_points,Zach LaVine,Under,18.5,2.17
