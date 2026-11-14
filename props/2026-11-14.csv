@@ -127,3 +127,27 @@ recolhido_em,momento,jogo_id,inicio_jogo,casa,fora,casa_apostas,atualizado_em,me
 2026-11-14T00:59:25Z,fecho,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:40:00Z,Houston Rockets,Utah Jazz,pinnacle,2026-11-14T00:58:59Z,player_points,Reed Sheppard,Under,10.5,2.08
 2026-11-14T00:59:25Z,fecho,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:40:00Z,Houston Rockets,Utah Jazz,pinnacle,2026-11-14T00:58:59Z,player_points,Tari Eason,Over,9.5,1.74
 2026-11-14T00:59:25Z,fecho,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:40:00Z,Houston Rockets,Utah Jazz,pinnacle,2026-11-14T00:58:59Z,player_points,Tari Eason,Under,9.5,2.02
+2026-11-14T02:02:24Z,fecho,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,San Antonio Spurs,Golden State Warriors,pinnacle,2026-11-14T02:02:24Z,player_points,Al Horford,Over,6.5,2.11
+2026-11-14T02:02:24Z,fecho,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,San Antonio Spurs,Golden State Warriors,pinnacle,2026-11-14T02:02:24Z,player_points,Al Horford,Under,6.5,1.68
+2026-11-14T02:02:24Z,fecho,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,San Antonio Spurs,Golden State Warriors,pinnacle,2026-11-14T02:02:24Z,player_points,Brandin Podziemski,Over,17.5,2.13
+2026-11-14T02:02:24Z,fecho,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,San Antonio Spurs,Golden State Warriors,pinnacle,2026-11-14T02:02:24Z,player_points,Brandin Podziemski,Under,17.5,1.67
+2026-11-14T02:02:24Z,fecho,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,San Antonio Spurs,Golden State Warriors,pinnacle,2026-11-14T02:02:24Z,player_points,De'Aaron Fox,Over,13.5,1.87
+2026-11-14T02:02:24Z,fecho,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,San Antonio Spurs,Golden State Warriors,pinnacle,2026-11-14T02:02:24Z,player_points,De'Aaron Fox,Under,13.5,1.87
+2026-11-14T02:02:24Z,fecho,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,San Antonio Spurs,Golden State Warriors,pinnacle,2026-11-14T02:02:24Z,player_points,De'Anthony Melton,Over,12.5,1.89
+2026-11-14T02:02:24Z,fecho,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,San Antonio Spurs,Golden State Warriors,pinnacle,2026-11-14T02:02:24Z,player_points,De'Anthony Melton,Under,12.5,1.85
+2026-11-14T02:02:24Z,fecho,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,San Antonio Spurs,Golden State Warriors,pinnacle,2026-11-14T02:02:24Z,player_points,Devin Vassell,Over,12.5,2.17
+2026-11-14T02:02:24Z,fecho,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,San Antonio Spurs,Golden State Warriors,pinnacle,2026-11-14T02:02:24Z,player_points,Devin Vassell,Under,12.5,1.64
+2026-11-14T02:02:24Z,fecho,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,San Antonio Spurs,Golden State Warriors,pinnacle,2026-11-14T02:02:24Z,player_points,Draymond Green,Over,4.5,1.55
+2026-11-14T02:02:24Z,fecho,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,San Antonio Spurs,Golden State Warriors,pinnacle,2026-11-14T02:02:24Z,player_points,Draymond Green,Under,4.5,2.36
+2026-11-14T02:02:24Z,fecho,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,San Antonio Spurs,Golden State Warriors,pinnacle,2026-11-14T02:02:24Z,player_points,Dylan Harper,Over,16.5,1.87
+2026-11-14T02:02:24Z,fecho,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,San Antonio Spurs,Golden State Warriors,pinnacle,2026-11-14T02:02:24Z,player_points,Dylan Harper,Under,16.5,1.87
+2026-11-14T02:02:24Z,fecho,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,San Antonio Spurs,Golden State Warriors,pinnacle,2026-11-14T02:02:24Z,player_points,Julian Champagnie,Over,8.5,1.91
+2026-11-14T02:02:24Z,fecho,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,San Antonio Spurs,Golden State Warriors,pinnacle,2026-11-14T02:02:24Z,player_points,Julian Champagnie,Under,8.5,1.83
+2026-11-14T02:02:24Z,fecho,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,San Antonio Spurs,Golden State Warriors,pinnacle,2026-11-14T02:02:24Z,player_points,Keldon Johnson,Over,10.5,2.45
+2026-11-14T02:02:24Z,fecho,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,San Antonio Spurs,Golden State Warriors,pinnacle,2026-11-14T02:02:24Z,player_points,Keldon Johnson,Under,10.5,1.51
+2026-11-14T02:02:24Z,fecho,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,San Antonio Spurs,Golden State Warriors,pinnacle,2026-11-14T02:02:24Z,player_points,Stephon Castle,Over,16.5,2.2
+2026-11-14T02:02:24Z,fecho,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,San Antonio Spurs,Golden State Warriors,pinnacle,2026-11-14T02:02:24Z,player_points,Stephon Castle,Under,16.5,1.62
+2026-11-14T02:02:24Z,fecho,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,San Antonio Spurs,Golden State Warriors,pinnacle,2026-11-14T02:02:24Z,player_points,Victor Wembanyama,Over,28.5,2.0
+2026-11-14T02:02:24Z,fecho,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,San Antonio Spurs,Golden State Warriors,pinnacle,2026-11-14T02:02:24Z,player_points,Victor Wembanyama,Under,28.5,1.75
+2026-11-14T02:02:24Z,fecho,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,San Antonio Spurs,Golden State Warriors,pinnacle,2026-11-14T02:02:24Z,player_points,Yaxel Lendeborg,Over,21.5,1.85
+2026-11-14T02:02:24Z,fecho,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,San Antonio Spurs,Golden State Warriors,pinnacle,2026-11-14T02:02:24Z,player_points,Yaxel Lendeborg,Under,21.5,1.89
