@@ -2,19 +2,19 @@
 
 Apostas virtuais (sem dinheiro real) dos jogos da noite de 13/11 para 14/11. Odds da Pinnacle, 1 unidade por aposta (menos quando o modelo aposta menos).
 
-**Ainda ha 15 apostas por decidir** (jogos a decorrer ou resultados por chegar).
+**Ainda ha 12 apostas por decidir** (jogos a decorrer ou resultados por chegar).
 
 ## Resumo da noite
 
-- Apostas: **36** (ganhas 8, perdidas 13)
-- Apostado: 20.7 unidades
-- Lucro: **-6.13 unidades** (ROI -29.6%)
-- CLV medio: +0.3% (se o mercado se moveu a nosso favor depois de apostarmos)
+- Apostas: **36** (ganhas 9, perdidas 15)
+- Apostado: 23.7 unidades
+- Lucro: **-7.27 unidades** (ROI -30.6%)
+- CLV medio: +1.3% (se o mercado se moveu a nosso favor depois de apostarmos)
 
 | Tipo | Apostas | Ganhas | Lucro |
 | --- | --- | --- | --- |
 | Over | 6 | 1 | -4.12 |
-| Under | 15 | 7 | -2.01 |
+| Under | 18 | 8 | -3.15 |
 
 ## Modelo A (atual) vs Modelo B (com as 3 regras)
 
@@ -22,17 +22,17 @@ Modelo B = as mesmas apostas, mas sem linhas ate 9.5, so com valor acima de 5% e
 
 | | Apostas | Ganhas | Lucro | ROI |
 | --- | --- | --- | --- | --- |
-| A esta noite | 21 | 8 | -6.13 | -29.6% |
-| B esta noite | 12 | 5 | -2.65 | -22.1% |
-| A desde 13/11 | 34 | 13 | -9.51 | -28.4% |
-| B desde 13/11 | 21 | 8 | -5.95 | -28.3% |
+| A esta noite | 24 | 9 | -7.27 | -30.6% |
+| B esta noite | 15 | 6 | -3.79 | -25.3% |
+| A desde 13/11 | 37 | 14 | -10.65 | -29.2% |
+| B desde 13/11 | 24 | 9 | -7.09 | -29.5% |
 
 ## Total acumulado (desde 05/11)
 
-- Apostas decididas: 200 (ganhas 91, 46%)
-- Lucro: **-27.89 unidades** em 197.3 apostadas (ROI -14.1%)
-- CLV medio: +0.9%
-- Com 4 EUR por aposta: -112 EUR (as odds da Pinnacle; na Betano seria menos)
+- Apostas decididas: 203 (ganhas 92, 45%)
+- Lucro: **-29.03 unidades** em 200.3 apostadas (ROI -14.5%)
+- CLV medio: +1.0%
+- Com 4 EUR por aposta: -116 EUR (as odds da Pinnacle; na Betano seria menos)
 
 ## Apostas
 
@@ -59,9 +59,9 @@ Modelo B = as mesmas apostas, mas sem linhas ate 9.5, so com valor acima de 5% e
 | Utah Jazz @ Houston Rockets | Isaiah Collier | Over 6.5 | 2.05 | 8.3 | 3 | perdeu | -1.00 |  |
 | Utah Jazz @ Houston Rockets | Jabari Smith Jr | Over 14.5 | 1.82 | 16.8 | 6 | perdeu | -1.00 |  |
 | Utah Jazz @ Houston Rockets | Reed Sheppard | Under 10.5 | 2.04 | 10.2 | 0 | ganhou | +0.89 |  |
-| Golden State Warriors @ San Antonio Spurs | De'Anthony Melton | Under 12.5 | 1.86 | 10.4 |  | por decidir |  | sim |
-| Golden State Warriors @ San Antonio Spurs | Keldon Johnson | Under 10.5 | 1.7 | 8.5 |  | por decidir |  | sim |
-| Golden State Warriors @ San Antonio Spurs | Stephon Castle | Under 16.5 | 1.77 | 13.6 |  | por decidir |  | sim |
+| Golden State Warriors @ San Antonio Spurs | De'Anthony Melton | Under 12.5 | 1.86 | 10.4 | 8 | ganhou | +0.86 | sim |
+| Golden State Warriors @ San Antonio Spurs | Keldon Johnson | Under 10.5 | 1.7 | 8.5 | 18 | perdeu | -1.00 | sim |
+| Golden State Warriors @ San Antonio Spurs | Stephon Castle | Under 16.5 | 1.77 | 13.6 | 32 | perdeu | -1.00 | sim |
 | Portland Trail Blazers @ Sacramento Kings | Damian Lillard | Under 21.5 | 1.99 | 19.1 |  | por decidir |  | sim |
 | Oklahoma City Thunder @ Los Angeles Clippers | Alex Caruso (alerta) | Under 9.5 | 1.87 | 8.5 |  | por decidir |  |  |
 | Oklahoma City Thunder @ Los Angeles Clippers | Darius Garland | Under 18.5 | 1.98 | 17.6 |  | por decidir |  |  |
